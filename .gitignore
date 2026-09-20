@@ -1,0 +1,9 @@
+.env
+.env.*
+*.key
+*.pem
+secrets/
+local/
+tmp/
+exports/
+.DS_Store
