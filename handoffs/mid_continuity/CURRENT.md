@@ -6,73 +6,107 @@
 - current_issue: #31
 
 ## LAST COMPLETED TASK
-- task: 抓人第一性原则 + Hook Stack 收敛研究 V2
-- brief: `research/briefs/2026-09-21_hook_first_principles_core_opening_brief_v2.md`
+- task: Opening Hook Architecture｜三社会入口同Hook Stack对照
+- brief: `research/briefs/2026-09-21_opening_hook_architecture_brief.md`
 - completed_at: 2026-09-21
-- final_audit: `reviews/2026-09-21_hook_first_principles_final_audit.md`
 
 ## WHAT ACTUALLY HAPPENED
-- 第一性原则研究通过总评审。
-- 总评审没有原样冻结“A核心足够强/Y2/驿货行默认”等全部结论。
-- 正式方向改为：**乙主 / 甲辅 / 丙伏**。
-- 乙：不可逆选择+当前压力+专业行动，作为主抓力。
-- 甲：“完整自己的价格”只证明世界尺度，不允许Ch1社会学化。
-- 丙：“舍后为何没结束”只做伏钩，不抢职业/现实主线。
-- 味觉保留T2，但不允许用更酷的配角完整展示抢主角。
-- 余世只采用Y1.5：读者早见舍后处理/风险，但暂不明确“去了某处”。
-- 驿货行为Default Candidate但不锁死；下一轮必须与两种替代入口同题对照。
-- A结论降级为A-PROVISIONAL：当前暂不改Bible，但必须由新开篇原型继续验证。
+- 本轮严格按已批准的 **乙主 / 甲辅 / 丙伏 + T2 + Y1.5** 执行，没有继续扩热门作品Benchmark。
+- 用同一Hook Stack公平测试了三种社会入口：
+  1. E1 驿货行 / 押货；
+  2. E2 舍务外围外勤 / 封具回收；
+  3. E3 借载设备外勤 / 运维 / 搬运。
+- 没有用城防救援替换E3。理由：城防会让“高危救人”成为职业常态，过拟合乙主，并削弱第一次主动舍味的特殊阈值。
+- E1新版第一屏不再从木夹/排班开始，而是直接在真实夜班中处理一件“赶借载时段的高价值借载组件”；陆野必须在延误与货损之间作现实判断。T2只用这一件借载货证明“有人花资源保全完整自己”。
+- E3第一屏改为移动/临时借载现场：陆野是外围转运/支撑/简单检查人员，在客户昂贵续我时段压力下决定是否叫停一个不稳支撑点。T2最自然，但技术说明与“甲辅升格成主抓力”的风险最高。
+- E2第一页的新奇度很高，但被本窗口淘汰出最终两套。关键不是Scene Hook弱，而是职业本身天天围绕舍后处理/封具/风险件，天然把“丙伏”升级成主线，且让陆野长期过于靠近余世谜团。
+- 三入口都跑通了Ch1 -> Ch2 -> Ch3 -> Ch4—5 -> Ch6—10压力链；最终只提交E1和E3。
+- E1能最自然保留现有Ch3舍味/筑基/救人因果，以及Ch4—10“客户任务 + 短驳 + 班表奖励”长篇发动机。
+- E3也能自然抵达Ch3，但如果最终被选中，第一卷职业目标、固定路线、乔九/唐禾/罗槐等人物岗位实现都需要正式Outline Change；不能直接改章卡。
+- 两套都将Y1.5第一次真正成立放在陆野Ch3舍味以后：人已经救出/筑基成功，但现场仍不能立刻结束，继续封、清、隔离；不解释余世或弃相去向。
+- 本轮没有选“驿货行一定更好”。结论只是：E1长篇综合更稳；E3第一页概念/T2更自然，足以作为真正竞争方案进入总评审。
 
 ## AUTHOR FEEDBACK
-- 最终目标不是像某一本热门书，而是陌生读者第一页、第一章、前三章持续想看。
-- 无名作者没有耐心红利。
-- 需要综合不同抓人机制，不允许沉没成本保护旧开篇。
-- Git handoff是长期记忆，任务结束必须更新。
+- 总评审已批准正式方向：
+  > **乙主 / 甲辅 / 丙伏。**
+- 乙主：不可逆选择 + 当前压力 + 专业行动。
+- 甲辅：“完整自己的价格”只用一个具体世界事实证明尺度，不做社会学说明。
+- 丙伏：“舍后为什么还没结束”只做Run Hook伏钩，不抢现实主线。
+- 第一舍味觉继续保留，按T2处理；不得用更酷配角完整展示抢陆野。
+- 余世采用Y1.5：可以早看到舍后仍需处理/仍有风险，但暂不明确“被舍掉的自己去了某处”。
+- 当前不改Bible。
+- 驿货行是Default Candidate，但不重新锁死。
+- 本轮必须自己先淘汰最差一套，只交2套；已执行。
 
 ## AUTHORITY / OUTPUTS
-- 研究：`research/reports/2026-09-21_hook_first_principles_study.md`
-- 候选：`reviews/2026-09-21_hook_stack_options_for_audit.md`
-- 总评审：`reviews/2026-09-21_hook_first_principles_final_audit.md`
-- 新任务：`research/briefs/2026-09-21_opening_hook_architecture_brief.md`
-- 决策：`meta/DECISIONS.md` D-0039
+- 正式决策：
+  - `meta/DECISIONS.md` D-0039
+- 总评审方向：
+  - `reviews/2026-09-21_hook_first_principles_final_audit.md`
+- 本轮三入口比较：
+  - `research/reports/2026-09-21_opening_entry_comparison.md`
+  - commit: `fcfab58d5c7441e2e737744208bac05bd78b7ae2`
+- 本轮最终两套：
+  - `reviews/2026-09-21_opening_hook_architecture_options.md`
+  - commit: `f261a71ca01dd7b75eb9770dd0704e4634239da7`
+- 本轮淘汰：
+  - E2 舍务外围外勤 / 封具回收（研究层淘汰，不是新Canon/Decision）。
+- 本轮保留待总评审：
+  - 方案一 E1 驿货行 / 押货；
+  - 方案二 E3 借载设备外勤 / 运维。
+- Canon、正式Outline、章卡、本轮均未修改。
 
 ## DO NOT CONTINUE
-- 不再扩热门作品Benchmark样本。
-- 不直接写第一章正文。
-- 不恢复旧V0 Scene Spine。
-- 不直接选旧Opening A/B/C。
-- 不修改Canon或正式Outline。
-- 不把Y2“被舍掉的自己去了某处”直接写进开篇。
-- 不把T2做成配角先展示一个比陆野更酷的完整舍弃故事。
+- 不恢复旧Draft V0、旧Scene Spine或旧Opening A/B/C。
+- 不继续扩热门作品Benchmark。
+- 不把E1或E3写成已批准社会入口。
+- 不把E2淘汰上升为永久禁止；它只是本轮不进入最终两套。
+- 不写正式第一章。
+- 不修改Canon。
+- 不修改正式Outline或现有章卡。
+- 不把Y1.5升级成Y2；不能提前说余世、弃相去了某处或尝余来自外界。
+- 不把T2做成配角更酷舍项展示。
+- 不做E1+E3“融合职业”第三套。
+- 如果E3被总评审选中，不得直接改Ch1章卡；必须先走第一卷职业入口/Story Engine的正式Outline Change Proposal。
 
 ## OPEN QUESTIONS
-- 同一个“乙主/甲辅/丙伏”Hook Stack放在三种职业入口里，哪个Scene Hook与Run Hook最好？
-- 驿货行能否产生足够独特的第一页，而不是普通物流？
-- Ch1如何既有世界新奇又始终以陆野为唯一问题中心？
-- Ch4—10如何在新入口下避免许可梯？
+- 总评审/作者最终更想写哪种100章生活：
+  - E1：货、人、客户、路线、偶发高概念；
+  - E3：续我设备、现场服务、客户、移动工程。
+- E1第一屏“赶借载时段的高价值借载组件”是否足够有情绪利益，还是仍像认真工作的职业宣传片？
+- E3第一页的Concept Hook优势，是否值得承担技术说明风险和第一卷发动机重构成本？
+- 甲辅在E3职业背景中是否会自然升格成主抓力，从而破坏“乙主”？
+- 最终社会入口确定后，Ch1—5怎样重做Opening Hook Spine，并同时保护Ch3不可逆结算和Ch4—10第二发动机？
 
 ## NEXT EXPECTED ACTION
-1. 完整执行 `research/briefs/2026-09-21_opening_hook_architecture_brief.md`。
-2. 做三入口同题对照，独立淘汰最差1套。
-3. 输出2套Opening Architecture后更新CURRENT + history，再交总评审。
+1. 等作者/总评审审核 `reviews/2026-09-21_opening_hook_architecture_options.md`，只在E1/E3之间选择或给定定向修订。
+2. 若选择E1：进入新的 **Ch1—5 Opening Hook Spine**，优先测试第一页“借载货物 + 陆野现实判断”是否真抓人。
+3. 若选择E3：先提交 **Volume1 Story Engine / 职业入口 Outline Change Proposal**，通过后才能重做Ch1—5。
+4. 无论选哪套，都先做架构/Scene Spine，不直接写正式正文。
 
 ## REQUIRED READS
 1. `meta/HANDOFF_PROTOCOL.md`
-2. `reviews/2026-09-21_hook_first_principles_final_audit.md`
-3. `research/briefs/2026-09-21_opening_hook_architecture_brief.md`
-4. `research/reports/2026-09-21_hook_first_principles_study.md`
-5. `reviews/2026-09-21_hook_stack_options_for_audit.md`
-6. brief列出的Canon/Story Engine。
+2. `meta/DECISIONS.md` D-0039
+3. `reviews/2026-09-21_hook_first_principles_final_audit.md`
+4. `research/reports/2026-09-21_opening_entry_comparison.md`
+5. `reviews/2026-09-21_opening_hook_architecture_options.md`
+6. `canon/00_core_premise.md`
+7. `canon/03_abandonment_system.md`
+8. `canon/04_yushi.md`
+9. `outline/volume1_story_engine.md`
 
 ## CONTEXT SNAPSHOT
-- Draft V0作者否决。
-- 旧Scene Spine历史保留但不执行。
-- 第一性原则研究通过。
-- Bible暂不改。
-- 主抓力=不可逆选择。
-- 世界尺度=甲辅助。
-- 余世=Y1.5弱后处理伏钩。
+- 正式Hook方向=乙主 / 甲辅 / 丙伏。
 - 味觉保留T2。
-- 驿货行Default但未锁。
-- 当前#31做三入口Architecture。
-- 不写正文。
+- 余世只到Y1.5。
+- Bible暂不改。
+- 三入口测试已完成。
+- E2舍务外围未进入最终两套，原因是丙伏会变主线且过早靠近谜底。
+- 最终待审只剩E1驿货行和E3借载设备外勤。
+- E1第一页用一件借载组件证明世界尺度，但主戏仍是陆野现实判断。
+- E3第一页概念更自然，但技术/社会学风险和下游重构成本更高。
+- 两套Ch3都保护“舍味不产力量，筑基才给稳定离体”。
+- 两套Y1.5都在Ch3舍后第一次真正成立。
+- 不写正文、不改Canon、不改正式Outline。
+- E3若获选，必须先走Outline Change Proposal。
+- 下一步是总评审/作者在E1/E3之间拍板或定向修订。
