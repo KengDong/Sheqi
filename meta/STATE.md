@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：**Bible V1.0 Frozen -> 前10章章卡v1.1已冻结 -> Reader-Language Ch1-3已冻结 -> 第一章 Scene Spine已冻结 -> 第一章 Draft V0  
+**阶段：**Bible V1.0 Frozen -> 前10章章卡v1.1已冻结 -> 第一章 Scene Spine已冻结 -> 第一章 Draft V0完成 -> 独立 Prose + Continuity Edit  
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷发动机批准日期：**2026-09-21  
@@ -284,17 +284,31 @@ Reader-Language与Visual都不再阻塞第一章Scene Spine。
 
 ---
 
-# 当前活动任务｜第一章 Draft V0
+# 第一章 Draft V0｜已完成
+
+正式草稿：
+> `drafts/volume1/ch001_v0.md`
+
+主作者自检：
+> `reviews/2026-09-21_ch001_draft_v0_selfcheck.md`
+
+总评审门检：
+> `reviews/2026-09-21_ch001_draft_v0_total_editor_gate.md`
+
+当前判定：
+> 无结构硬失败，可以进入独立文本编辑，但尚不能送正式文本盲读或升级manuscript。
+
+---
+
+# 当前活动任务｜第一章独立 Prose + Continuity Edit
 
 任务书：
-> `research/briefs/2026-09-21_ch001_draft_v0_brief.md`
+> `research/briefs/2026-09-21_ch001_independent_prose_continuity_edit_brief.md`
 
 执行窗口：
-> 开头GPT。
+> 中段+衔接GPT。
 
-本轮第一次写完整第一章。
-
-中段+衔接GPT继续暂停，等Draft V0形成后做独立Prose Editor / Continuity Edit。
+开头GPT暂停。
 
 Visual GPT暂停。
 
@@ -303,14 +317,13 @@ Visual GPT暂停。
 
 # 下一阶段
 
-1. 第一章 Draft V0；
-2. 中段+衔接窗口执行独立Prose Editor / 连续性审查；
-3. 总评审合稿；
-4. 新开干净文本盲读窗口，只读第一章正文；
-5. 作者亲自阅读第一章；
-6. 第一章通过后再写第2—3章；
-7. 第1—3章文本盲读 + 修订；
-8. 再回看第4—10章“偏平/许可阶梯”是否仍真实存在。
+1. 中段+衔接窗口完成第一章独立Prose / Continuity Edit；
+2. 总评审比较V0与Editor Candidate并合稿；
+3. 新开干净文本盲读窗口，只读第一章候选正文；
+4. 作者亲自阅读第一章；
+5. 第一章通过后再写第2—3章；
+6. 第1—3章文本盲读 + 修订；
+7. 再回看第4—10章“偏平/许可阶梯”是否仍真实存在。
 
 ## 故意仍不锁死
 
