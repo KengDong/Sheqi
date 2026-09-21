@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-09-21 — 正文前执行闸门冻结
+- 作者批准第3→10章红队3个最小PATCH，并写回 `outline/chapter_cards/volume1_ch004_010.md` v1.1。
+- 第4章主动复工欲望提前到章中段；第7章取消重复技术展示；第9章新意转向团队可靠性；第8章生活回声降级为经过式。
+- 正式冻结 `meta/PROSE_BIBLE.md` + `meta/PROSE_PLAYBOOK.md`。
+- 声线校准冻结为：坏货签夹A-lite、咸汤A-lite、苦药A；陆野低到中偏低嘴贫；旁白低存在；重场收声。
+- 正式建立 `visual/bible/` 模块化Skeleton，新增 source_ref + scope + version 与hard-gate QA。
+- 暂不锁正式角色脸，不生成公开正文插图。
+- 创建前10章结构盲读专用 packet 与任务书；项目进入真正的结构盲读闸门。
+
 ## 2026-09-21 — 第004—010章章卡冻结
 - 作者批准第4—10章及总编4项定向修订，正式章卡写入 `outline/chapter_cards/volume1_ch004_010.md`。
 - 生活锚点职业只锁“手艺学徒 / 小手艺接单者”，木作为当前首选实现，不升级为长期硬设定。
