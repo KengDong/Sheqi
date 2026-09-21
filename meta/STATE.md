@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：**Bible V1.0 Frozen -> Draft V0否决 -> Opening Run Benchmark完成 -> 抓人第一性原则 + 核心概念/开篇组合研究  
+**阶段：**Bible V1.0 Frozen -> Draft V0否决 -> Opening Run Benchmark完成 -> 抓人第一性原则通过 -> Opening Hook Architecture  
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷发动机批准日期：**2026-09-21  
@@ -360,47 +360,56 @@ Reader-Language与Visual都不再阻塞第一章Scene Spine。
 
 ---
 
-# 当前活动任务｜抓人第一性原则 + 核心概念/开篇组合研究
+# 抓人第一性原则研究｜已完成
 
-作者明确：
-> 《没钱修什么仙？》只是例子，不是模板。
+研究：
+> `research/reports/2026-09-21_hook_first_principles_study.md`
 
-旧“核心概念市场强度”brief已被V2取代。
+候选：
+> `reviews/2026-09-21_hook_stack_options_for_audit.md`
 
-正式任务书：
-> `research/briefs/2026-09-21_hook_first_principles_core_opening_brief_v2.md`
+总评审：
+> `reviews/2026-09-21_hook_first_principles_final_audit.md`
 
-方向修正：
-> `reviews/2026-09-21_hook_first_principles_direction.md`
+正式方向：
+> **乙主 / 甲辅 / 丙伏**
+
+同时：
+- 味觉保留T2；
+- 余世采用Y1.5试验；
+- A仅为工作假设，不改Bible；
+- 驿货行为Default Candidate但需三入口对照。
+
+---
+
+# 当前活动任务｜Opening Hook Architecture
+
+任务书：
+> `research/briefs/2026-09-21_opening_hook_architecture_brief.md`
 
 执行窗口：
-> 中段+衔接GPT切换为 Hook Systems Architect。
+> 中段+衔接GPT -> Opening Hook Architect。
 
-目标：
-> **不是先找一个更大的设定，而是覆盖主要抓人机制，找最适合《舍弃》的组合。**
+当前目标：
+> 用同一Hook Stack正面对比驿货行 / 舍务外围外勤 / 借载设备外勤（或最强替代入口），最后只保留2套Opening Architecture。
 
 当前禁止：
-- 重写第一章；
-- 选择旧A/B/C；
-- 修改Bible；
-- 修改章卡。
-
-开头GPT暂停，不自改自己的开篇。
-
-Visual GPT暂停。
-
-旧盲读窗口暂停。
+- 写正式正文；
+- 修改Canon；
+- 修改正式Outline；
+- 恢复旧V0 Scene Spine；
+- 直接选旧A/B/C。
 ---
 
 # 下一阶段
 
-1. 完成核心概念市场强度Benchmark；
-2. 判断：核心足够强 / 需扩社会层 / 需有限Bible增强 / 应大幅重构；
-3. 作者+总编拍板概念层级；
-4. 若不改Bible：回到A/B/C或其必要变体，重做Ch1—5 Opening Run；
-5. 若需World Expansion：先补第一卷可见社会层，再重做Opening Run；
-6. 若需Canon Change：走Proposal -> 独立审核 -> 作者确认；
-7. 概念冻结后再写新的Ch1 Scene Spine与Draft。
+1. 完成三入口 Opening Hook Architecture；
+2. 中段+衔接窗口独立淘汰最差1套，提交2套；
+3. 总评审 + 作者拍板入口与Hook Architecture；
+4. 必要时重做Ch1—5 Opening Run与Ch6—10接口；
+5. 架构冻结后再交开头GPT做新的Ch1 Scene Spine；
+6. 写新Draft；
+7. 独立编辑 + 新clean-room正文盲读 + 作者亲读。
 
 ## 故意仍不锁死
 
