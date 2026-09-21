@@ -1,6 +1,6 @@
 ---
 status: approved-prose-bible
-version: 1.0
+version: 1.1
 approved_at: 2026-09-21
 authority: author-approved-process
 canon_effect: none
@@ -137,6 +137,29 @@ source_calibration: reviews/2026-09-21_prose_calibration_pack_v1_final_audit.md
 - 被允许。
 
 现实后果比制度讲解更有记忆力。
+
+---
+
+# 3A. Reader-Language Gate｜正文前必经
+
+正式正文开写前，必须先读取：
+
+> `meta/READER_LANGUAGE_GATE.md`
+
+并完成当前章节 Reader-Language Sheet。
+
+核心规则：
+
+1. **章卡工程语言不是正文语言。**
+2. **普通物件先具体化，不为一次性东西强造专名。**
+3. **Canon正式术语可以保留，但第一次优先先懂功能、后落名字。**
+4. **作者工程词默认禁止进入人物口语和旁白。**
+5. **斜杠候选、名词串、功能占位词不得直接复制进正文。**
+6. **事故必须保持工程因果精确，但用视觉、身体、现场口令让读者理解。**
+7. **食物、药、工具、设备写到正文前必须从“便宜/普通/低风险/常用”变成具体可感的东西。**
+
+没有 Reader-Language Sheet：
+> 不进入正式草稿。
 
 ---
 
@@ -528,6 +551,18 @@ AI不得机械套：
 ---
 
 # 13. 正文生产 SOP
+
+## Step 0｜Reader-Language Sheet
+
+先处理：
+- 本章新增术语；
+- 工程词；
+- 普通物件占位；
+- 正式语 / 行话 / 口语；
+- 第一次读者呈现；
+- 禁止直接复制的章卡词。
+
+通过后再做场景脊柱。
 
 ## Step 1｜场景脊柱
 
