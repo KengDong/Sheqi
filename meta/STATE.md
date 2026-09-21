@@ -206,6 +206,14 @@
 
 ## 主线B｜正文执行与文风研究
 
+对应：
+- #21 正文声线 / 幽默机制研究
+- #22 插图视觉Bible与角色连续性
+
+任务书：
+- `research/briefs/2026-09-21_prose_voice_humor_execution_brief.md`
+- `research/briefs/2026-09-21_visual_bible_illustration_continuity_brief.md`
+
 在第4—10章章卡推进期间，可以并行做“正文执行机制研究”，但不写正式正文。
 
 目标：
