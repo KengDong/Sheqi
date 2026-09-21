@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：**Bible V1.0 Frozen -> 前10章章卡v1.1已冻结 -> 第一章 Scene Spine已冻结 -> 第一章 Draft V0完成 -> 独立 Prose + Continuity Edit  
+**阶段：**Bible V1.0 Frozen -> 第一章 Draft V0作者实读否决 -> 第一章市场Benchmark + Rehook重构  
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷发动机批准日期：**2026-09-21  
@@ -300,30 +300,51 @@ Reader-Language与Visual都不再阻塞第一章Scene Spine。
 
 ---
 
-# 当前活动任务｜第一章独立 Prose + Continuity Edit
+# 第一章 Draft V0｜作者实读否决
+
+作者本人明确反馈：
+- 沉闷；
+- 主角抓不住；
+- 惜物展示过重；
+- 挑货 / 排班 / 喝汤缺乏继续阅读价值；
+- 第一章像故事真正开始前的准备章。
+
+因此：
+> 停止独立Prose润色路线。
+
+历史稿保留：
+> `drafts/volume1/ch001_v0.md`
+
+总评审重评：
+> `reviews/2026-09-21_ch001_v0_market_fit_reassessment.md`
+
+---
+
+# 当前活动任务｜第一章市场Benchmark + Rehook
 
 任务书：
-> `research/briefs/2026-09-21_ch001_independent_prose_continuity_edit_brief.md`
+> `research/briefs/2026-09-21_ch001_market_opening_rehook_brief.md`
 
 执行窗口：
-> 中段+衔接GPT。
+> 中段+衔接GPT切换为Opening Market Red Team。
 
-开头GPT暂停。
+开头GPT暂停，不自改自己的开篇。
 
 Visual GPT暂停。
 
-旧盲读窗口不再承担正式文本盲读。
+旧盲读窗口暂停。
 ---
 
 # 下一阶段
 
-1. 中段+衔接窗口完成第一章独立Prose / Continuity Edit；
-2. 总评审比较V0与Editor Candidate并合稿；
-3. 新开干净文本盲读窗口，只读第一章候选正文；
-4. 作者亲自阅读第一章；
-5. 第一章通过后再写第2—3章；
-6. 第1—3章文本盲读 + 修订；
-7. 再回看第4—10章“偏平/许可阶梯”是否仍真实存在。
+1. 完成当前市场热门男频开篇Benchmark；
+2. 提出3个第一章Rehook方向；
+3. 总评审筛选/组合后交作者拍板；
+4. 重做第一章Scene Spine；
+5. 再写新的第一章Draft；
+6. 独立文本编辑；
+7. 新开干净文本盲读窗口；
+8. 作者亲读通过后再推进第2—3章。
 
 ## 故意仍不锁死
 
