@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：**Bible V1.0 Frozen -> Draft V0否决 -> 抓人第一性原则通过 -> Opening Architecture完成 -> Cold-Open Prototype Duel  
+**阶段：**Bible V1.0 Frozen -> Draft V0否决 -> 抓人第一性原则通过 -> 冷开场原型未过门槛 -> High-Voltage Opening Reframe  
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷发动机批准日期：**2026-09-21  
@@ -401,36 +401,60 @@ Reader-Language与Visual都不再阻塞第一章Scene Spine。
 
 ---
 
-# 当前活动任务｜Opening Cold-Open Prototype Duel
+# Opening Cold-Open Prototype Duel｜已完成
+
+E1：
+> `experiments/opening_prototypes/2026-09-21_E1_posthouse_cold_open.md`
+
+E3：
+> `experiments/opening_prototypes/2026-09-21_E3_borrowing_field_cold_open.md`
+
+总评审：
+> `reviews/2026-09-21_opening_cold_open_prototype_duel_final_audit.md`
+
+结论：
+- 两篇都明显优于旧V0；
+- 但共同退化成“发现小隐患 -> 坚持检查 -> 证明正确 -> 责任+1”；
+- 两篇都不批准为正式开篇；
+- 第一矛盾不再是职业入口，而是不可逆选择进入太晚。
+
+---
+
+# 当前活动任务｜High-Voltage Opening Reframe
 
 任务书：
-> `research/briefs/2026-09-21_opening_cold_open_prototype_duel_brief.md`
+> `research/briefs/2026-09-21_high_voltage_opening_reframe_brief.md`
 
 执行窗口：
-> 开头GPT -> Opening Prototype Writer。
+> 中段+衔接GPT -> Opening Run Architect。
 
-本轮只写两篇900—1300汉字左右的冷开场实验：
-- E1 驿货行；
-- E3 借载设备外勤。
+本轮设计3种真正不同的高压开篇发动机：
+- Decision-First
+- Consequence-First
+- Event-First
 
-不写完整Ch1。
-不改Canon。
-不改正式Outline。
+允许重新测试舍味时序，不再默认第三章才舍味。
 
-中段+衔接GPT暂停。
+当前禁止：
+- 写正式正文；
+- 修改Canon；
+- 继续微调E1/E3职业皮；
+- 再用“责任+1”承担第一章状态变化。
+
+开头GPT暂停。
 Visual GPT暂停。
 旧盲读窗口暂停。
 ---
 
 # 下一阶段
 
-1. 开头GPT完成E1/E3两篇冷开场原型；
-2. 总评审先做文本层门检；
-3. 作者直接亲读两篇，按“哪篇真的想继续看”判断；
-4. 若E1胜：重做Ch1—5 Opening Hook Spine；
-5. 若E3胜：先走第一卷职业入口/Story Engine Outline Change Proposal；
-6. 社会入口冻结后再做完整Ch1 Scene Spine与Draft；
-7. 独立编辑 + 新clean-room正文盲读 + 作者亲读。
+1. 完成High-Voltage Opening三种发动机与舍味时序对照；
+2. 总评审筛掉弱方案；
+3. 作者拍板Opening Run方向；
+4. 必要时正式重做Ch1—5与Ch6—10接口；
+5. 架构冻结后再交开头GPT实写新冷开场/Scene Spine；
+6. 新Draft；
+7. 独立编辑 + 新clean-room盲读 + 作者亲读。
 
 ## 故意仍不锁死
 
