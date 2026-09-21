@@ -2,48 +2,57 @@
 
 ## ROLE
 - role: opening_writer / Opening Prototype Writer
-- status: PAUSED
-- current_issue: none
+- status: ACTIVE
+- current_issue: #34 Taste Timing Prose Duel
 
 ## LAST COMPLETED TASK
-- task: Opening Cold-Open Prototype Duel｜E1 / E3双原型实写
+- task: E1/E3冷开场原型（两篇均未过最终抓力门槛）
 - completed_at: 2026-09-21
 
 ## WHAT ACTUALLY HAPPENED
-- E1/E3两篇原型都按brief完成。
-- 总评审判定两篇都比旧V0好，但都没有达到作者要求的强抓力门槛。
-- 共同问题：骨架都是“发现小隐患 -> 坚持 -> 证明正确 -> 责任+1”。
-- Writer本身执行没有问题；问题在上游故事发动机。
-- 当前项目转回中段+衔接窗口，重做High-Voltage Opening。
+- 上游High-Voltage研究已完成。
+- B Consequence-First被淘汰。
+- 当前只剩A-T1与C-T2两种舍味时序。
+- 本轮必须在同一驿货行/A'事故/W条件下，尽量只改变“舍味是否在第一章内执行”。
 
 ## AUTHOR FEEDBACK
-- 开头必须真正抓人，不接受“比V0好一点”作为成功。
-- 真正目标是陌生读者看完第一页就想继续。
+- 作者要直接用真实阅读感判断，不再做抽象Opening争论。
+- C若像“献祭属性换筑基”就失败。
+- A若明显像“故意拖到下一章才切”就失败。
 
 ## AUTHORITY / OUTPUTS
-- E1：`experiments/opening_prototypes/2026-09-21_E1_posthouse_cold_open.md`
-- E3：`experiments/opening_prototypes/2026-09-21_E3_borrowing_field_cold_open.md`
-- 总评审：`reviews/2026-09-21_opening_cold_open_prototype_duel_final_audit.md`
+- 总评审：`reviews/2026-09-21_high_voltage_opening_final_audit.md`
+- 当前brief：`research/briefs/2026-09-21_taste_timing_prose_duel_brief.md`
+- 决策：D-0042
 
 ## DO NOT CONTINUE
-- 不自行继续润色E1/E3。
-- 不写完整Ch1。
-- 不自行把舍味前移。
+- 不写完整Ch1/Ch2。
 - 不改Canon/Outline。
+- 不重新换职业。
+- 不给某一篇额外更惨事件或更强世界观信息。
+- 不让Writer宣布胜者。
 
 ## OPEN QUESTIONS
-- 等#33确定新高压开篇方向。
+- A-T1是否拖？
+- C-T2是否乱/误读？
 
 ## NEXT EXPECTED ACTION
-1. 保持暂停。
-2. 等总评审下发新实写任务。
+1. 完整执行 `research/briefs/2026-09-21_taste_timing_prose_duel_brief.md`。
+2. 写A-T1与C-T2两篇1400—1800汉字原型。
+3. 更新opening_writer CURRENT + history。
+4. 停止并交总评审。
 
 ## REQUIRED READS
-1. `meta/STATE.md`
-2. `handoffs/opening_writer/CURRENT.md`
-3. 未来新brief。
+1. `AGENTS.md`
+2. `meta/STATE.md`
+3. `meta/HANDOFF_PROTOCOL.md`
+4. `reviews/2026-09-21_high_voltage_opening_final_audit.md`
+5. `research/briefs/2026-09-21_taste_timing_prose_duel_brief.md`
+6. Prose Bible / Playbook / Reader-Language Gate
 
 ## CONTEXT SNAPSHOT
-- E1/E3都未胜出。
-- 当前上游重构故事开始时点。
-- 开头窗口暂停。
+- 当前只测试舍味时序。
+- A=Ch1决定，Ch2执行。
+- C=Ch1内执行。
+- 同一事故、同一W、同一职业。
+- 最终由总评审+作者亲读判断。
