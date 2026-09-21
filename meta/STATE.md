@@ -202,6 +202,8 @@
 
 ## 主线A｜第3→10章承诺债红队
 
+对应 Issue #23。
+
 任务书：
 
 > `research/briefs/2026-09-21_ch003_010_continuity_redteam_brief.md`
