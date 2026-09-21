@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：**Bible V1.0 Frozen -> 前10章章卡v1.1已冻结 -> Prose Bible V1已冻结 -> Visual Bible Skeleton已冻结 -> 前10章结构盲读  
+**阶段：**Bible V1.0 Frozen -> 前10章章卡v1.1已冻结 -> Prose Bible V1.1 + Reader-Language Gate -> 前3章语言自然化 -> 第一章正文准备  
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷发动机批准日期：**2026-09-21  
@@ -230,48 +230,60 @@
 
 ---
 
-# 当前活动任务｜前10章结构盲读
+# 前10章结构盲读｜已完成
 
-对应 Issue #18。
+已完成：
+- Phase A 严格盲读；
+- Phase B Benchmark结构校准；
+- 作者本人追加实读。
 
-两阶段盲读 / Benchmark任务书：
-> `research/briefs/2026-09-21_volume1_ch001_010_blind_then_benchmark_review_brief.md`
+总编合流判断：
 
-Benchmark Rubric：
-> `research/reports/2026-09-21_structure_benchmark_rubric.md`
+> `reviews/2026-09-21_blind_benchmark_editorial_synthesis.md`
 
-Phase A唯一允许读取的故事材料：
-> `reviews/2026-09-21_volume1_ch001_010_structure_blind_packet.md`
+当前不因摘要层“职业恢复偏平 / 许可阶梯 / 神秘线弱”立刻重做第4—10章。
+先解决更高置信度的：
 
-Phase B只能在Phase A报告锁定后，再读取Benchmark Rubric；不得回头修改Phase A。
+> **作者工程语言污染读者语言。**
 
-盲读者禁止读取：
-- AGENTS；
-- Canon；
-- STATE；
-- DECISIONS；
-- approved Outline；
-- 原始章卡；
-- research；
-- 其它 review。
+---
+
+# 当前活动任务｜Reader-Language Naturalization
+
+正式闸门：
+
+> `meta/READER_LANGUAGE_GATE.md`
+
+任务书：
+
+> `research/briefs/2026-09-21_reader_language_naturalization_brief.md`
 
 目标：
-> 测试真实追读预期，而不是让另一个编辑再次证明设计合理。
+- 全量扫描前10章，不只修作者已经看到的词；
+- 建立作者工程语 / 正式语 / 行话 / 人物口语 / 读者首次呈现的映射；
+- 具体化前三章普通物件、食物、药、设备；
+- 把第2—3章事故翻译成“工程版 / 读者动作版 / 现场口令版”；
+- 解决“舍味=换筑基”的体验误读；
+- 生成第1—3章 Reader-Language Sheets。
+
+本轮不写正式正文，不再改第4—10章结构。
+
 ---
 
 # 下一阶段
 
-1. 前10章结构盲读；
-2. 总编审核盲读反馈，只做必要最小PATCH；
-3. 第一章场景脊柱；
-4. 第一章正式初稿；
-5. 独立 Prose Editor；
-6. 第一章文本盲读；
-7. 作者确认第一章声线与阅读体验；
-8. 再完成第2—3章正文；
-9. 第1—3章文本盲读 + 修订；
-10. 作者确认后进入正式 manuscript；
-11. 再写第4—10章正文。
+1. 完成前10章 Reader-Language 全量扫描；
+2. 审核并冻结第1—3章 Reader-Language Sheets；
+3. 只对必要实现词做 KEEP / DOWNGRADE / PROPOSE-RENAME；
+4. 第一章场景脊柱；
+5. 第一章正式初稿；
+6. 独立 Prose Editor；
+7. 第一章文本盲读；
+8. 作者确认第一章声线、自然度与阅读体验；
+9. 再完成第2—3章正文；
+10. 第1—3章文本盲读 + 修订；
+11. 再回看第4—10章“偏平/许可阶梯”是否仍真实存在；
+12. 作者确认后进入正式 manuscript。
 
 ## 故意仍不锁死
 
