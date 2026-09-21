@@ -362,3 +362,32 @@ supersedes: research/briefs/2026-09-21_core_premise_market_amplification_brief.m
 不要改章卡。
 不要写正式正文。
 不要先选A/B/C旧Rehook。
+
+
+---
+
+# 11. 任务结束前必须 Handoff
+
+在向作者/总评审宣布“完成”之前，必须按：
+
+> `meta/HANDOFF_PROTOCOL.md`
+
+完成本窗口交接：
+
+1. 更新：
+   > `handoffs/mid_continuity/CURRENT.md`
+2. 新增：
+   > `handoffs/mid_continuity/history/2026-09-21_hook-first-principles-study.md`
+
+必须写清：
+- 本轮真实结论；
+- 哪些旧方向被否决/降级；
+- 作者最新反馈如何影响判断；
+- 输出文件；
+- 不能继续做什么；
+- 仍未解决什么；
+- 下一窗口第一步做什么；
+- 新窗口最小必读集合。
+
+未完成 handoff：
+> 本任务流程视为未完成。
