@@ -745,3 +745,27 @@ Opening V0 Reference冻结：
 
 下一任务：
 > `research/briefs/2026-09-21_high_voltage_opening_reframe_brief.md`
+
+
+## D-0042 High-Voltage收敛为A-T1 vs C-T2
+**状态：已批准，2026-09-21生效**
+
+研究：
+- `reviews/2026-09-21_high_voltage_opening_architecture_options.md`
+- `research/reports/2026-09-21_high_voltage_opening_timing_study.md`
+
+总评审：
+- `reviews/2026-09-21_high_voltage_opening_final_audit.md`
+
+正式决定：
+1. B Consequence-First退出开篇竞争，但“他人舍后现实后果”保留为后续世界生活感工具；
+2. A Decision-First + Timing 1保留：Ch1末明确、正式决定舍味，Ch2立即执行；
+3. C Event-First + Timing 2保留：Ch1内直接执行舍味并完成筑基开始兑现；
+4. 当前不靠架构继续讨论，改为两篇真实小说原型对撞；
+5. 两篇使用同一驿货行入口、同一A'事故、同一W与同一信息预算，尽量只改变舍味时序；
+6. C若不能清楚避免“舍味=换筑基”误读，则淘汰；
+7. A若读感明显像“拖到下一章才兑现”，则淘汰；
+8. 本轮后不再继续抽象Opening研究，作者亲读结果将直接决定舍味时序。
+
+当前任务：
+> `research/briefs/2026-09-21_taste_timing_prose_duel_brief.md`
