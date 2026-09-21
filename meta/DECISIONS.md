@@ -665,3 +665,33 @@ Opening V0 Reference冻结：
 
 长期原则：
 > **聊天窗口负责思考；Git负责记忆。**
+
+
+## D-0039 抓人第一性原则与 Opening Hook Architecture 方向
+**状态：已批准，2026-09-21生效**
+
+第一性原则研究：
+- `research/reports/2026-09-21_hook_first_principles_study.md`
+- `reviews/2026-09-21_hook_stack_options_for_audit.md`
+
+总评审：
+- `reviews/2026-09-21_hook_first_principles_final_audit.md`
+
+正式采用：
+1. 开篇必须分别设计 Concept Hook / Scene Hook / Run Hook；
+2. 当前工作假设为 **A-PROVISIONAL：现有Canon足够进入强开篇实验，暂不改Bible**；该判断必须由新Opening实稿继续验证，不升级永久结论；
+3. Hook Stack采用：
+   > **乙主 / 甲辅 / 丙伏**
+   - 乙：不可逆选择 + 当前压力 + 专业行动，为主抓力；
+   - 甲：“完整自己的价格”只作为世界尺度辅助；
+   - 丙：“舍后为什么还没结束”只作为弱长线伏钩；
+4. 第一舍继续保留味觉，采用T2原则：先让读者知道世界尺度大于味觉，但不得用更酷配角抢主角；
+5. 余世前期采用 **Y1.5**：允许读者看见“舍后仍有后处理/风险”，但暂不明确“被舍掉的自己去了某处”，不提前揭余世机制；
+6. 驿货行继续作为Default Candidate，但不重新锁死；下一轮必须与舍务外围外勤、借载设备外勤/运维等入口做同Hook Stack对照；
+7. 惜物永久降级为人物长期辅助特征，不再承担第一章主钩；
+8. 社会层值得扩，但不是当前开篇救命药，不要求先建立完整保险/婚姻/法律百科。
+
+下一阶段：
+> `research/briefs/2026-09-21_opening_hook_architecture_brief.md`
+
+不得在该架构通过前重写第一章正文。
