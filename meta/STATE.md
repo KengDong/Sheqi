@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：**Bible V1.0 Frozen -> 前10章章卡已冻结 -> 3→10承诺债红队 / Prose Bible V1 / Visual Bible Skeleton  
+**阶段：**Bible V1.0 Frozen -> 前10章章卡v1.1已冻结 -> Prose Bible V1已冻结 -> Visual Bible Skeleton已冻结 -> 前10章结构盲读  
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷发动机批准日期：**2026-09-21  
@@ -198,67 +198,75 @@
 
 ---
 
-# 当前并行任务
+# 正文前执行资产｜已冻结
 
-## 主线A｜第3→10章承诺债红队
+## 第1—10章章卡
+正式权威：
+- `outline/chapter_cards/volume1_ch001_003.md`
+- `outline/chapter_cards/volume1_ch004_010.md` v1.1
 
-对应 Issue #23。
+第3→10章承诺债红队已完成并经作者批准。
+3个最小PATCH已写回，不再继续开篇结构研究。
 
-任务书：
+## Prose Bible V1
+正式权威：
+- `meta/PROSE_BIBLE.md`
+- `meta/PROSE_PLAYBOOK.md`
 
-> `research/briefs/2026-09-21_ch003_010_continuity_redteam_brief.md`
+声线校准：
+- 坏货签夹 A-lite
+- 咸汤 A-lite
+- 苦药 A
+- 陆野低到中、偏低嘴贫
+- 旁白低存在
+- 重场收声
 
-只审：
-- 第3章高潮后是否泄气；
-- 三笔债是否持续；
-- 第6 / 7 / 9章筑基使用是否重复；
-- 第10章奖励是否恢复过快；
-- 前3章签下的阅读合同是否断供。
+## Visual Bible Skeleton
+正式流程目录：
+> `visual/bible/`
 
-不得设计新事故 / 新角色 / 新舍项。
+当前只冻结视觉生产制度 / QA / reference / 空间字段。
+尚未生成正式角色脸或公开插图。
 
-## 主线B｜Prose Bible V1 + 三微场景校准
+---
 
-对应 Issue #21。
+# 当前活动任务｜前10章结构盲读
 
-任务书：
+对应 Issue #18。
 
-> `research/briefs/2026-09-21_prose_bible_v1_and_calibration_brief.md`
+盲读任务书：
+> `research/briefs/2026-09-21_volume1_ch001_010_structure_blind_read_brief.md`
 
-输出：
-- Prose Bible V1 Proposal；
-- 坏货签夹 / 咸汤 / 苦药无味三微场景校准包。
+唯一允许盲读者读取的故事材料：
+> `reviews/2026-09-21_volume1_ch001_010_structure_blind_packet.md`
 
-不写正式第一章。
+盲读者禁止读取：
+- AGENTS；
+- Canon；
+- STATE；
+- DECISIONS；
+- approved Outline；
+- 原始章卡；
+- research；
+- 其它 review。
 
-## 主线C｜Visual Bible Skeleton
-
-对应 Issue #22。
-
-任务书：
-
-> `research/briefs/2026-09-21_visual_bible_skeleton_brief.md`
-
-当前只建：
-- 视觉资产层级；
-- hard-gate QA；
-- reference流程；
-- 固定中转台 / 驿货行 / 合租屋 / 风格板字段。
-
-暂不生成正式角色脸。
+目标：
+> 测试真实追读预期，而不是让另一个编辑再次证明设计合理。
 ---
 
 # 下一阶段
 
-1. 完成第3→10章承诺债红队；
-2. 前10章结构盲读；
-3. Prose Bible V1 审核并冻结；
-4. 三微场景声线校准；
-5. 第1章正式初稿；
-6. 第1—3章正文试写；
-7. 文本盲读 + 修订；
-8. 作者确认后进入正式 manuscript；
-9. 再写第4—10章正文。
+1. 前10章结构盲读；
+2. 总编审核盲读反馈，只做必要最小PATCH；
+3. 第一章场景脊柱；
+4. 第一章正式初稿；
+5. 独立 Prose Editor；
+6. 第一章文本盲读；
+7. 作者确认第一章声线与阅读体验；
+8. 再完成第2—3章正文；
+9. 第1—3章文本盲读 + 修订；
+10. 作者确认后进入正式 manuscript；
+11. 再写第4—10章正文。
 
 ## 故意仍不锁死
 
