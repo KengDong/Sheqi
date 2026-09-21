@@ -720,3 +720,28 @@ Opening V0 Reference冻结：
 
 当前任务：
 > `research/briefs/2026-09-21_opening_cold_open_prototype_duel_brief.md`
+
+
+## D-0041 冷开场原型未过抓力门槛，前移不可逆性
+**状态：已批准，2026-09-21生效**
+
+实验：
+- `experiments/opening_prototypes/2026-09-21_E1_posthouse_cold_open.md`
+- `experiments/opening_prototypes/2026-09-21_E3_borrowing_field_cold_open.md`
+
+总评审：
+- `reviews/2026-09-21_opening_cold_open_prototype_duel_final_audit.md`
+
+正式判断：
+1. E1/E3均比旧V0好，但都不批准为正式开篇；
+2. 两篇共同退化为“专业判断小胜 -> 获得更多责任”，未达到作者要求的第一眼强抓力；
+3. 当前第一矛盾从“职业入口选择”转为“不可逆性进入故事太晚”；
+4. **乙主继续有效，但必须完整实现：不可逆选择 + 当前压力 + 专业行动，不能再只剩当前压力+专业行动；**
+5. 下一轮允许重新测试舍味时序，不再默认“第三章才主动舍味”；
+6. 仍然禁止把舍弃写成力量兑换；
+7. 职业入口降级为实现层，不再围绕E1/E3继续做微调；
+8. 当前不改Canon，先做 High-Voltage Opening Reframe；
+9. Ch1主要状态变化不得再是“责任+1/许可+1/老板更认可”。
+
+下一任务：
+> `research/briefs/2026-09-21_high_voltage_opening_reframe_brief.md`
