@@ -1,13 +1,13 @@
 ---
 status: approved-process
-version: 1.0
+version: 1.1
 created_at: 2026-09-21
 authority: author-approved-process
 canon_effect: none
 outline_effect: none
 ---
 
-# MANUSCRIPT PIPELINE｜正文生产与窗口分工 V1
+# MANUSCRIPT PIPELINE｜正文生产与窗口分工 V1.1
 
 > 目标：减少“写了又改、改了又重写”的返工。
 >
@@ -33,6 +33,22 @@ outline_effect: none
 - Visual GPT 做内部空间 / 器物具体化；
 - 总编准备第一章生产闸门；
 - 其它写作 / 结构窗口暂停，避免重复劳动。
+
+---
+
+# 0A. 窗口 Handoff Gate
+
+所有长期窗口每完成一个任务，必须执行：
+
+> 任务产物 -> 更新 `handoffs/<role>/CURRENT.md` -> 新增 `handoffs/<role>/history/...` -> 再关闭Issue/切换任务。
+
+正式规则：
+> `meta/HANDOFF_PROTOCOL.md`
+
+没有 handoff：
+> **任务不视为完整交付。**
+
+总评审改变项目阶段时，必须检查其它窗口CURRENT是否已经过期。
 
 ---
 
