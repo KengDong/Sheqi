@@ -248,6 +248,25 @@
 
 ---
 
+# 持久窗口交接｜已启用
+
+正式规则：
+> `meta/HANDOFF_PROTOCOL.md`
+
+每个长期窗口当前入口：
+> `handoffs/<role>/CURRENT.md`
+
+每次任务结束必须同时更新 CURRENT + 新增 history 快照；未完成 handoff 不算任务完整交付。
+
+当前已初始化：
+- `handoffs/editor_in_chief/`
+- `handoffs/opening_writer/`
+- `handoffs/mid_continuity/`
+- `handoffs/visual/`
+- `handoffs/blind_reader/`
+
+---
+
 # 正文生产总流程
 
 正式流程：
