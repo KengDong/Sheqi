@@ -6,14 +6,25 @@
 任何 AI 在开始创作或修改前，必须依次读取：
 1. `AGENTS.md`
 2. `meta/STATE.md`
-3. `canon/_INDEX.md`
-4. 与任务相关的 `canon/` 文件
-5. 当前卷 `outline/`
-6. 当前章节卡
-7. 最近相关 `manuscript/` 正文
-8. 必要的 `research/` 资料
+3. `meta/HANDOFF_PROTOCOL.md`
+4. 当前角色的 `handoffs/<role>/CURRENT.md`
+5. `canon/_INDEX.md`
+6. 与任务相关的 `canon/` 文件
+7. 当前卷 `outline/`
+8. 当前章节卡
+9. 最近相关 `manuscript/` 正文
+10. 必要的 `research/` 资料
 
 不得仅凭聊天记忆继续写作。
+
+### 正式盲读例外
+正式 clean-room 盲读为了避免设计污染，可以按 `meta/HANDOFF_PROTOCOL.md` 的盲读规则：
+- 先读 `AGENTS.md`
+- 读 handoff protocol
+- 只读 blind_reader 的 clean-room handoff
+- 再读 blind brief 指定材料
+
+第一遍锁定前不得自行读取 State / Canon / 章卡设计理由 / 总评审结论。
 
 ## 权威层级
 从高到低：
@@ -66,3 +77,31 @@ Bible V1.0 已冻结。AI 不得静默修改 Canon。
 > 谁想要什么？谁阻止他？发生什么不可逆变化？
 
 而不是继续增加新的修炼系统、余器类别或终极奥秘。
+
+
+## 窗口交接是任务完成条件
+
+任何长期GPT窗口每完成一个任务，必须同时：
+
+1. 更新自己的：
+   `handoffs/<role>/CURRENT.md`
+2. 新增一份：
+   `handoffs/<role>/history/YYYY-MM-DD_<task-slug>.md`
+
+正式规则：
+> `meta/HANDOFF_PROTOCOL.md`
+
+没有完成 handoff：
+> **任务流程视为未完成。**
+
+交接必须记录：
+- 实际完成了什么；
+- 作者是否否决/修正；
+- 哪些旧方向不能继续；
+- 当前权威输出；
+- 未决问题；
+- 下一步；
+- 新窗口必须读取的最小文件。
+
+Git 是长期记忆。
+聊天窗口不是长期权威。
