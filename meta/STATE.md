@@ -234,11 +234,16 @@
 
 对应 Issue #18。
 
-盲读任务书：
-> `research/briefs/2026-09-21_volume1_ch001_010_structure_blind_read_brief.md`
+两阶段盲读 / Benchmark任务书：
+> `research/briefs/2026-09-21_volume1_ch001_010_blind_then_benchmark_review_brief.md`
 
-唯一允许盲读者读取的故事材料：
+Benchmark Rubric：
+> `research/reports/2026-09-21_structure_benchmark_rubric.md`
+
+Phase A唯一允许读取的故事材料：
 > `reviews/2026-09-21_volume1_ch001_010_structure_blind_packet.md`
+
+Phase B只能在Phase A报告锁定后，再读取Benchmark Rubric；不得回头修改Phase A。
 
 盲读者禁止读取：
 - AGENTS；
