@@ -3,57 +3,56 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_issue: #33 High-Voltage Opening Reframe
+- current_issue: #34 Taste Timing Prose Duel
 
 ## LAST COMPLETED TASK
-- task: E1/E3冷开场原型总评审
+- task: High-Voltage Opening Reframe总评审
 - completed_at: 2026-09-21
-- output: `reviews/2026-09-21_opening_cold_open_prototype_duel_final_audit.md`
+- output: `reviews/2026-09-21_high_voltage_opening_final_audit.md`
 
 ## WHAT ACTUALLY HAPPENED
-- E1/E3都比旧V0明显进步，但均未过作者要求的强抓力门槛。
-- 两篇实质同构：发现小隐患 -> 坚持 -> 证明正确 -> 责任+1。
-- 职业入口并不是当前第一矛盾。
-- 真正缺失的是乙主中的“不可逆选择”。
-- 决定停止E1/E3微调，转入High-Voltage Opening Reframe。
-- 允许重新测试舍味时序，不再默认Ch3才主动舍味。
+- #33研究通过。
+- B Consequence-First退出。
+- A Decision-First T1与C Event-First T2保留。
+- 不再继续抽象研究，进入真实小说时序对撞。
+- 当前唯一核心变量：第一章是否真正执行舍味。
 
 ## AUTHOR FEEDBACK
-- 开头必须“爆”，这里的爆是高价值状态变化/新奇/不可逆，不等于物理爆炸。
-- 无名作者不能要求读者等后面再好看。
-- Git handoff持续作为长期记忆。
+- 第一章必须抓人，但不能为了抓人把舍弃写成力量兑换。
+- 不接受偏弱候选里选相对不差。
+- Git长期记忆规则持续有效。
 
 ## AUTHORITY / OUTPUTS
-- 总评审：`reviews/2026-09-21_opening_cold_open_prototype_duel_final_audit.md`
-- 新brief：`research/briefs/2026-09-21_high_voltage_opening_reframe_brief.md`
-- 决策：D-0041
-- 当前状态：`meta/STATE.md`
+- 总评审：`reviews/2026-09-21_high_voltage_opening_final_audit.md`
+- 当前brief：`research/briefs/2026-09-21_taste_timing_prose_duel_brief.md`
+- 决策：D-0042
+- 状态：`meta/STATE.md`
 
 ## DO NOT CONTINUE
-- 不要求作者在E1/E3两个偏弱样本里硬选。
-- 不继续职业入口微调。
+- 不继续架构研究。
+- 不恢复B。
+- 不先决定A/C胜负。
 - 不写正式Ch1。
-- 不改Canon。
 
 ## OPEN QUESTIONS
-- 三种高压发动机哪种最能让不可逆性早出现？
-- 是否应把主动舍味推进到Ch1/Ch2？
-- 新Opening能否同时保护“舍弃不产力量”和长期发动机？
+- C是否会被读成舍味换筑基？
+- A是否会被读成拖延兑现？
+- 哪一个时序让作者更想继续？
 
 ## NEXT EXPECTED ACTION
-1. 等中段+衔接GPT完成#33并handoff。
-2. 总评审筛选3套高压Opening。
-3. 再交作者拍板，不让开头GPT提前写。
+1. 等开头GPT完成#34并handoff。
+2. 做违规/因果门检。
+3. 作者亲读两篇。
+4. 冻结舍味时序后，再正式重开Ch1—5。
 
 ## REQUIRED READS
 1. `meta/STATE.md`
 2. `meta/HANDOFF_PROTOCOL.md`
-3. `reviews/2026-09-21_opening_cold_open_prototype_duel_final_audit.md`
-4. #33产物（完成后）
+3. `reviews/2026-09-21_high_voltage_opening_final_audit.md`
+4. #34原型产物（完成后）
 
 ## CONTEXT SNAPSHOT
-- V0失败。
-- E1/E3原型也未过门槛。
-- 问题从职业入口转为不可逆性前移。
-- 当前#33由中段窗口执行。
-- 开头/视觉/盲读暂停。
+- B退出。
+- A-T1 vs C-T2。
+- 当前#34由开头窗口执行。
+- 中段/视觉/盲读暂停。
