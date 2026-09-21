@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：**Bible V1.0 Frozen -> 第一章 Draft V0作者实读否决 -> 第一章市场Benchmark + Rehook重构  
+**阶段：**Bible V1.0 Frozen -> 第一章 Draft V0作者实读否决 -> 开篇连续章(Ch1-10)市场Benchmark + Rehook重构  
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷发动机批准日期：**2026-09-21  
@@ -320,13 +320,18 @@ Reader-Language与Visual都不再阻塞第一章Scene Spine。
 
 ---
 
-# 当前活动任务｜第一章市场Benchmark + Rehook
+# 当前活动任务｜开篇连续章市场Benchmark + Rehook
 
-任务书：
-> `research/briefs/2026-09-21_ch001_market_opening_rehook_brief.md`
+原第一章单点任务已升级，不再执行旧brief。
+
+正式任务书：
+> `research/briefs/2026-09-21_opening_run_market_benchmark_rehook_brief_v2.md`
 
 执行窗口：
-> 中段+衔接GPT切换为Opening Market Red Team。
+> 中段+衔接GPT切换为 Opening Run Market Red Team。
+
+研究范围：
+> Ch1—3抓取 + Ch4—5续航 + Ch6—10发动机，不再只优化第一章。
 
 开头GPT暂停，不自改自己的开篇。
 
@@ -337,14 +342,15 @@ Visual GPT暂停。
 
 # 下一阶段
 
-1. 完成当前市场热门男频开篇Benchmark；
-2. 提出3个第一章Rehook方向；
+1. 完成12—18部男频Opening Run Benchmark（头部+次热门+相邻类型）；
+2. 提出3个覆盖Ch1—5、可接Ch6—10的Rehook方向；
 3. 总评审筛选/组合后交作者拍板；
-4. 重做第一章Scene Spine；
-5. 再写新的第一章Draft；
-6. 独立文本编辑；
-7. 新开干净文本盲读窗口；
-8. 作者亲读通过后再推进第2—3章。
+4. 重做前三章及必要的Ch4—10接口；
+5. 再做第一章Scene Spine与新Draft；
+6. 同步校验前3—5章连续追读链；
+7. 独立文本编辑；
+8. 新开干净文本盲读窗口；
+9. 作者亲读通过后，再连续推进Ch2—3，而不是每章孤立优化。
 
 ## 故意仍不锁死
 
