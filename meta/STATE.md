@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：**Bible V1.0 Frozen -> 第一章 Draft V0作者实读否决 -> 开篇连续章(Ch1-10)市场Benchmark + Rehook重构  
+**阶段：**Bible V1.0 Frozen -> Draft V0否决 -> Opening Run Benchmark完成 -> 核心概念市场强度 + 舍弃文明体系放大  
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷发动机批准日期：**2026-09-21  
@@ -320,18 +320,43 @@ Reader-Language与Visual都不再阻塞第一章Scene Spine。
 
 ---
 
-# 当前活动任务｜开篇连续章市场Benchmark + Rehook
+# Opening Run Benchmark + Rehook｜已完成
 
-原第一章单点任务已升级，不再执行旧brief。
+研究：
+> `research/reports/2026-09-21_opening_run_market_benchmark.md`
 
-正式任务书：
-> `research/briefs/2026-09-21_opening_run_market_benchmark_rehook_brief_v2.md`
+方案：
+> `reviews/2026-09-21_opening_run_rehook_options_for_audit.md`
+
+总评审：
+> `reviews/2026-09-21_opening_run_benchmark_total_editor_review.md`
+
+结论：
+- Ch1硬失败；
+- Ch2—3核心材料强；
+- Ch4必须把后果转成当场行动；
+- Ch5边界必须嵌入真实工作；
+- Ch6—10应重组为“两件真实工作小弧 + 奖励结算”；
+- A/B/C暂不选择，因为尚未解决“核心概念本身是否够大”的上游问题。
+
+---
+
+# 当前活动任务｜核心概念市场强度 + 舍弃文明体系放大
+
+任务书：
+> `research/briefs/2026-09-21_core_premise_market_amplification_brief.md`
 
 执行窗口：
-> 中段+衔接GPT切换为 Opening Run Market Red Team。
+> 中段+衔接GPT切换为 Core Premise Market Architect。
 
-研究范围：
-> Ch1—3抓取 + Ch4—5续航 + Ch6—10发动机，不再只优化第一章。
+当前禁止：
+- 重写第一章；
+- 选择A/B/C；
+- 修改Bible；
+- 修改章卡。
+
+先回答：
+> **现有Canon到底不够大，还是我们只展示了最小的一角？**
 
 开头GPT暂停，不自改自己的开篇。
 
@@ -342,15 +367,13 @@ Visual GPT暂停。
 
 # 下一阶段
 
-1. 完成12—18部男频Opening Run Benchmark（头部+次热门+相邻类型）；
-2. 提出3个覆盖Ch1—5、可接Ch6—10的Rehook方向；
-3. 总评审筛选/组合后交作者拍板；
-4. 重做前三章及必要的Ch4—10接口；
-5. 再做第一章Scene Spine与新Draft；
-6. 同步校验前3—5章连续追读链；
-7. 独立文本编辑；
-8. 新开干净文本盲读窗口；
-9. 作者亲读通过后，再连续推进Ch2—3，而不是每章孤立优化。
+1. 完成核心概念市场强度Benchmark；
+2. 判断：核心足够强 / 需扩社会层 / 需有限Bible增强 / 应大幅重构；
+3. 作者+总编拍板概念层级；
+4. 若不改Bible：回到A/B/C或其必要变体，重做Ch1—5 Opening Run；
+5. 若需World Expansion：先补第一卷可见社会层，再重做Opening Run；
+6. 若需Canon Change：走Proposal -> 独立审核 -> 作者确认；
+7. 概念冻结后再写新的Ch1 Scene Spine与Draft。
 
 ## 故意仍不锁死
 
