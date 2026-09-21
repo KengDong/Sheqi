@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：**Bible V1.0 Frozen -> Draft V0否决 -> Opening Run Benchmark完成 -> 核心概念市场强度 + 舍弃文明体系放大  
+**阶段：**Bible V1.0 Frozen -> Draft V0否决 -> Opening Run Benchmark完成 -> 抓人第一性原则 + 核心概念/开篇组合研究  
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷发动机批准日期：**2026-09-21  
@@ -341,22 +341,30 @@ Reader-Language与Visual都不再阻塞第一章Scene Spine。
 
 ---
 
-# 当前活动任务｜核心概念市场强度 + 舍弃文明体系放大
+# 当前活动任务｜抓人第一性原则 + 核心概念/开篇组合研究
 
-任务书：
-> `research/briefs/2026-09-21_core_premise_market_amplification_brief.md`
+作者明确：
+> 《没钱修什么仙？》只是例子，不是模板。
+
+旧“核心概念市场强度”brief已被V2取代。
+
+正式任务书：
+> `research/briefs/2026-09-21_hook_first_principles_core_opening_brief_v2.md`
+
+方向修正：
+> `reviews/2026-09-21_hook_first_principles_direction.md`
 
 执行窗口：
-> 中段+衔接GPT切换为 Core Premise Market Architect。
+> 中段+衔接GPT切换为 Hook Systems Architect。
+
+目标：
+> **不是先找一个更大的设定，而是覆盖主要抓人机制，找最适合《舍弃》的组合。**
 
 当前禁止：
 - 重写第一章；
-- 选择A/B/C；
+- 选择旧A/B/C；
 - 修改Bible；
 - 修改章卡。
-
-先回答：
-> **现有Canon到底不够大，还是我们只展示了最小的一角？**
 
 开头GPT暂停，不自改自己的开篇。
 
