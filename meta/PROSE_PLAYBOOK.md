@@ -1,6 +1,6 @@
 ---
 status: approved-prose-playbook
-version: 1.0
+version: 1.1
 approved_at: 2026-09-21
 authority: author-approved-process
 canon_effect: none
@@ -8,7 +8,7 @@ depends_on: meta/PROSE_BIBLE.md
 source_proposal: reviews/2026-09-21_prose_bible_v1_proposal_for_audit.md
 ---
 
-# PROSE PLAYBOOK｜正文扩展操作手册 V1
+# PROSE PLAYBOOK｜正文扩展操作手册 V1.1
 
 > 本文件不是每次写作必读。
 >
@@ -17,6 +17,52 @@ source_proposal: reviews/2026-09-21_prose_bible_v1_proposal_for_audit.md
 > - 场景规划；
 > - 文本盲读准备；
 > - 声线故障排查。
+
+---
+
+# 0. Reader-Language Sheet模板
+
+~~~text
+CHAPTER:
+
+本章读者第一次见的新词：
+-
+
+作者工程词（正文禁用）：
+-
+
+占位物件（正文前必须具体化）：
+-
+
+Canon正式词：
+- 正式语：
+- 行业口语：
+- 日常口语：
+- 第一次呈现方式：
+
+实现层术语：
+- KEEP / DOWNGRADE / PROPOSE-RENAME
+
+食物 / 药 / 工具 / 设备：
+- 章卡功能名：
+- 具体候选：
+- 最终正文称呼：
+- 人物现场简称：
+
+事故 / 专业动作：
+- 作者精确描述：
+- 读者动作版：
+- 现场口令版：
+
+本章禁止直接复制的章卡句：
+-
+
+本章最容易出现AI机械感的位置：
+-
+~~~
+
+硬要求：
+> Reader-Language Sheet 未完成，不进入正式草稿。
 
 ---
 
@@ -128,6 +174,12 @@ TIMEPOINT:
 22. 是否为了读者解释而让角色说自己本来就知道的事实？
 23. 是否在章卡没要求时新增神秘线索？
 24. 是否把局部制度写成全国规则？
+25. 是否把作者工程词直接复制进正文？
+26. 是否把“普通/便宜/低风险/常用”当成了物件本身？
+27. 是否一件一次性普通东西也被强行命名？
+28. 是否一句话同时依赖两个以上读者第一次见的新专名？
+29. 是否出现斜杠候选、三层以上名词串或公文式限定？
+30. 现场人物是否说了现实中不会在紧急时完整说出的制度句？
 
 ## E｜幽默
 25. 是否出现“作者觉得这一页应该再来个笑点”的痕迹？
