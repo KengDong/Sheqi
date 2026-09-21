@@ -174,6 +174,10 @@
 
 # 当前活动任务｜前三章详细事件卡
 
+任务书：
+
+> `research/briefs/2026-09-21_opening_three_chapter_event_cards_brief.md`
+
 对应：
 - #17 前三章详细事件卡与前10章章卡
 - #18 开篇盲读者 / 追读测试
