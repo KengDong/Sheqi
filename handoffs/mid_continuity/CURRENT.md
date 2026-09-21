@@ -1,62 +1,69 @@
 # 中段+衔接｜CURRENT HANDOFF
 
 ## ROLE
-- role: mid_continuity / Opening Hook Architect
-- status: PAUSED
-- current_issue: none
+- role: mid_continuity / Opening Run Architect
+- status: ACTIVE
+- current_issue: #33 High-Voltage Opening Reframe
 
 ## LAST COMPLETED TASK
-- task: Opening Hook Architecture｜三社会入口同Hook Stack对照
-- brief: `research/briefs/2026-09-21_opening_hook_architecture_brief.md`
+- task: Opening Hook Architecture三入口对照（上一轮）
 - completed_at: 2026-09-21
-- final_audit: `reviews/2026-09-21_opening_hook_architecture_final_audit.md`
+- current trigger: E1/E3冷开场原型总评审未过抓力门槛
 
 ## WHAT ACTUALLY HAPPENED
-- 三入口同题对照完成。
-- E2舍务外围外勤被总评审接受为本轮淘汰，不作为第一卷默认入口，但未来可作短期任务/世界窗口。
-- E1驿货行与E3借载设备外勤都进入实写测试。
-- 总评审没有靠表格直接选择E1/E3，改为冷开场原型A/B测试。
-- E1主要风险：即使换成借载货物，仍可能读成“认真员工发现隐患”。
-- E3主要风险：Concept Hook很强，但可能读成“修仙版设备运维”。
-- 下一轮由开头GPT写两篇900—1300汉字原型，作者直接亲读判断。
+- 开头GPT完成E1/E3两篇真实冷开场。
+- 两篇均比旧V0更自然，但总评审都不批准为正式开篇。
+- E1和E3表面职业不同，骨架却完全同构：发现小物理隐患 -> 顶压力叫停 -> 证明正确 -> 获得更多责任。
+- 这说明当前第一矛盾不是职业入口，而是不可逆性进入故事太晚。
+- 原先批准的乙主并未真正完整落地；两篇只有“当前压力+专业行动”，缺了“不可逆选择”。
+- 总评审决定职业入口暂时降级为实现层，停止E1/E3微调。
+- 下一轮允许重新测试主动舍味时序，不再默认必须第三章才舍味。
 
 ## AUTHOR FEEDBACK
-- 开头最终标准是陌生读者真的愿意继续看，不是方案表格看起来完整。
-- 无名作者没有耐心红利。
-- 任务完成后必须留下Git handoff，不能依赖旧聊天窗口。
+- 作者要求开头必须真正爆、真正让陌生读者想继续，不接受“设计正确但读起来一般”。
+- 无名作者不能用后续深意换前期耐心。
+- Git handoff必须持续维护。
 
 ## AUTHORITY / OUTPUTS
-- 三入口研究：`research/reports/2026-09-21_opening_entry_comparison.md`
-- 最终两套：`reviews/2026-09-21_opening_hook_architecture_options.md`
-- 总评审：`reviews/2026-09-21_opening_hook_architecture_final_audit.md`
-- 决策：`meta/DECISIONS.md` D-0040
+- E1原型：`experiments/opening_prototypes/2026-09-21_E1_posthouse_cold_open.md`
+- E3原型：`experiments/opening_prototypes/2026-09-21_E3_borrowing_field_cold_open.md`
+- 原型总评审：`reviews/2026-09-21_opening_cold_open_prototype_duel_final_audit.md`
+- 当前brief：`research/briefs/2026-09-21_high_voltage_opening_reframe_brief.md`
+- 决策：`meta/DECISIONS.md` D-0041
 
 ## DO NOT CONTINUE
-- 不继续优化E1/E3架构表格。
-- 不直接写完整Ch1。
-- 不修改Canon或正式Outline。
-- 不把E2永久禁用。
-- 不替作者决定原型哪篇更抓。
+- 不继续优化E1/E3两篇原型。
+- 不再围绕“驿货行vs借载外勤”做入口表格。
+- 不写正式正文。
+- 不修改Canon。
+- 不把第一章状态变化写成责任+1、许可+1、老板认可+1。
+- 不把舍味写成能力兑换。
 
 ## OPEN QUESTIONS
-- E1实际小说文本会不会仍然像职业宣传片？
-- E3实际小说文本会不会变成设备运维？
-- 哪一种入口作者本人读完更想继续？
+- 不可逆选择应该在Ch1多早进入？
+- 主动舍味是Ch1末决定/Ch2执行，还是Ch1内执行更抓？
+- Decision-First / Consequence-First / Event-First哪一种既炸又不俗？
+- 如何在前3章连续兑现而不章章靠事故？
 
 ## NEXT EXPECTED ACTION
-1. 保持暂停。
-2. 等开头GPT完成#32冷开场原型。
-3. 如总评审后续要求，再参与Chosen Architecture的Ch1—5红队。
+1. 完整执行 `research/briefs/2026-09-21_high_voltage_opening_reframe_brief.md`。
+2. 提交3套真正不同的Opening Run Architecture与舍味时序研究。
+3. 完成前更新CURRENT + history。
 
 ## REQUIRED READS
-1. `meta/STATE.md`
-2. `meta/HANDOFF_PROTOCOL.md`
-3. `reviews/2026-09-21_opening_hook_architecture_final_audit.md`
+1. `meta/HANDOFF_PROTOCOL.md`
+2. `reviews/2026-09-21_opening_cold_open_prototype_duel_final_audit.md`
+3. `research/briefs/2026-09-21_high_voltage_opening_reframe_brief.md`
+4. 两篇冷开场原型
+5. `reviews/2026-09-21_hook_first_principles_final_audit.md`
+6. brief列出的Canon/Story Engine。
 
 ## CONTEXT SNAPSHOT
-- 乙主/甲辅/丙伏仍有效。
-- T2味觉保留。
-- Y1.5弱后处理。
-- E2退出本轮。
-- E1/E3进入冷开场实写对撞。
-- 当前窗口暂停。
+- V0失败。
+- E1/E3原型也未过强抓力门槛。
+- 职业入口暂时不是第一矛盾。
+- 乙主仍有效，但必须真正包含不可逆选择。
+- Ch1不能再以小胜/责任+1结束。
+- 允许重测舍味时序。
+- 当前不改Canon。
+- 当前#33做High-Voltage Opening Reframe。
