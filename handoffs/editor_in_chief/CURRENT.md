@@ -3,69 +3,61 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_issue: #30 抓人第一性原则 + 核心概念/开篇组合研究
+- current_issue: #31 Opening Hook Architecture
 
 ## LAST COMPLETED TASK
-- task: 建立全项目持久窗口 Handoff 协议并初始化五个长期窗口
+- task: 审批第一性原则研究与Hook Stack候选
 - completed_at: 2026-09-21
-- outputs:
-  - `meta/HANDOFF_PROTOCOL.md`
-  - `handoffs/README.md`
-  - `handoffs/_TEMPLATE.md`
-  - 五个角色的 `CURRENT.md` 与 bootstrap history
-  - `AGENTS.md` 已加入强制handoff规则
-  - `meta/DECISIONS.md` D-0038
+- output: `reviews/2026-09-21_hook_first_principles_final_audit.md`
 
 ## WHAT ACTUALLY HAPPENED
-- 作者指出GPT窗口有上下文上限，Git才是长期记忆。
-- 现在每个长期窗口拥有独立CURRENT入口和不可覆盖history。
-- 任务产物完成但未更新handoff，流程上视为未完成。
-- 总评审额外负责在阶段变化时同步刷新其它窗口的过期CURRENT。
-- 正式盲读保留clean-room例外，避免handoff反而污染盲读。
-- 当前创作主线仍停在#30：抓人第一性原则研究；本次流程建设没有改变该任务方向。
+- 中段GPT的10类机制/24部样本/10组Stack/24场景原型研究通过。
+- 不原样接受“核心已证明足够强”，改为A-PROVISIONAL。
+- 不让甲/乙/丙三候选等权进入下一轮，确定 **乙主/甲辅/丙伏**。
+- 味觉继续保留T2。
+- 余世从研究建议Y2收回到Y1.5试验，避免过早烧谜底。
+- 驿货行保持Default Candidate，但必须与舍务外围/借载外勤同题对照。
+- 当前进入#31 Opening Hook Architecture，不写正文。
 
 ## AUTHOR FEEDBACK
-- 希望任何窗口满了之后，新开的GPT可以直接从Git接上，不依赖旧聊天。
-- 每个窗口每次任务结束都应留下对接信息。
-- Git应承担长期项目记忆，而不是聊天上下文。
+- 核心标准是“陌生读者看了还想看”，不是像某本热门。
+- 要从第一性原则综合呈现抓力。
+- 任何窗口满了，新窗口必须从Git handoff直接接上。
 
 ## AUTHORITY / OUTPUTS
-- Handoff规则：`meta/HANDOFF_PROTOCOL.md`
-- 项目宪法：`AGENTS.md`
-- Handoff目录：`handoffs/`
-- 当前项目状态：`meta/STATE.md`
-- 当前研究任务：`research/briefs/2026-09-21_hook_first_principles_core_opening_brief_v2.md`
+- 总评审：`reviews/2026-09-21_hook_first_principles_final_audit.md`
+- 新brief：`research/briefs/2026-09-21_opening_hook_architecture_brief.md`
+- 决策：`meta/DECISIONS.md` D-0039
+- 状态：`meta/STATE.md`
 
 ## DO NOT CONTINUE
-- 不要依赖聊天历史作为唯一上下文。
-- 不要让任何窗口任务结束后只说“完成了”而不写handoff。
-- 不要把handoff当成新的Canon/Outline权威。
-- 不要因为建立handoff系统而改变当前#30创作研究方向。
+- 不重写V0。
+- 不直接写新Ch1。
+- 不修改Bible。
+- 不把旧A/B/C复活为正式方案。
+- 不把甲/乙/丙全部堆进第一章。
 
 ## OPEN QUESTIONS
-- 等#30结果后，最适合《舍弃》的Hook Stack是什么？
-- 是否需要World Expansion /有限Canon Change？
+- 三职业入口哪一个真正同时赢第一页与前10章？
+- 两套最终Architecture中哪套作者亲读更有“卧槽还能这样”的感觉？
 
 ## NEXT EXPECTED ACTION
-1. 等待中段+衔接窗口完成#30。
-2. 要求该窗口在交稿前同步更新 `handoffs/mid_continuity/CURRENT.md` + history。
-3. 总评审审核研究产物并同步所有受影响窗口handoff。
+1. 等中段+衔接GPT完成#31并留下handoff。
+2. 总评审比较两套Architecture。
+3. 再交作者拍板，之后才恢复开头GPT。
 
 ## REQUIRED READS
-1. `AGENTS.md`
-2. `meta/STATE.md`
-3. `meta/HANDOFF_PROTOCOL.md`
-4. `handoffs/editor_in_chief/CURRENT.md`
-5. #30新产物（完成后）
+1. `meta/STATE.md`
+2. `meta/HANDOFF_PROTOCOL.md`
+3. `reviews/2026-09-21_hook_first_principles_final_audit.md`
+4. #31新产物（完成后）
 
 ## CONTEXT SNAPSHOT
-- Bible V1.0冻结。
-- 第一章Draft V0作者否决。
-- Opening Run Benchmark已完成。
-- 旧A/B/C未批准。
-- 当前主任务是抓人第一性原则研究。
-- 开头窗口暂停。
-- 视觉窗口暂停。
-- 旧盲读窗口已退出正式盲读资格。
-- 中段+衔接窗口执行#30。
-- 五窗口handoff系统已启用。
+- V0失败。
+- 第一性原则研究通过。
+- A只作工作假设。
+- 乙主/甲辅/丙伏。
+- T2保留味觉。
+- Y1.5弱后处理。
+- 三入口对照进行中。
+- 开头/视觉/盲读均暂停。
