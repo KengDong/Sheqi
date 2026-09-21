@@ -248,6 +248,15 @@
 
 ---
 
+# 正文生产总流程
+
+正式流程：
+> `meta/MANUSCRIPT_PIPELINE.md`
+
+当前原则：#24未冻结前，不写第一章正式正文；Visual GPT可并行做内部空间/器物V0。
+
+---
+
 # 当前活动任务｜Reader-Language Naturalization
 
 正式闸门：
@@ -267,6 +276,9 @@
 - 生成第1—3章 Reader-Language Sheets。
 
 本轮不写正式正文，不再改第4—10章结构。
+
+并行安全任务：
+- Issue #25：第一阶段内部空间 / 器物资产包 V0（Visual GPT）。
 
 ---
 
