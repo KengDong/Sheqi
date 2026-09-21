@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：**Bible V1.0 Frozen -> 前10章章卡v1.1已冻结 -> Prose Bible V1.1 + Reader-Language Gate -> 前3章语言自然化 -> 第一章正文准备  
+**阶段：**Bible V1.0 Frozen -> 前10章章卡v1.1已冻结 -> Reader-Language Ch1-3已冻结 -> Opening V0 Reference已冻结 -> 第一章 Scene Spine  
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷发动机批准日期：**2026-09-21  
@@ -257,45 +257,57 @@
 
 ---
 
-# 当前活动任务｜Reader-Language Naturalization
+# Reader-Language Naturalization｜已完成
 
-正式闸门：
+已冻结：
+- `meta/READER_LANGUAGE_MAP.md`
+- `meta/READER_LANGUAGE_CH001_003.md`
 
-> `meta/READER_LANGUAGE_GATE.md`
+总评审：
+- `reviews/2026-09-21_reader_language_naturalization_final_audit.md`
+
+Visual V0已冻结：
+- `visual/bible/OPENING_V0_REFERENCE_SPEC.md`
+- `reviews/2026-09-21_visual_internal_space_props_v0_final_audit.md`
+
+Reader-Language与Visual都不再阻塞第一章Scene Spine。
+
+---
+
+# 当前活动任务｜第一章 Scene Spine
 
 任务书：
 
-> `research/briefs/2026-09-21_reader_language_naturalization_brief.md`
+> `research/briefs/2026-09-21_ch001_scene_spine_brief.md`
 
-目标：
-- 全量扫描前10章，不只修作者已经看到的词；
-- 建立作者工程语 / 正式语 / 行话 / 人物口语 / 读者首次呈现的映射；
-- 具体化前三章普通物件、食物、药、设备；
-- 把第2—3章事故翻译成“工程版 / 读者动作版 / 现场口令版”；
-- 解决“舍味=换筑基”的体验误读；
-- 生成第1—3章 Reader-Language Sheets。
+当前只做：
+- 第一章连续时间线；
+- 2—3个连续场景单元；
+- Reader-Language落地；
+- 夜班机会 / 筑基门槛 / 舍备轻量核验自然串联；
+- 不写完整正式第一章。
 
-本轮不写正式正文，不再改第4—10章结构。
+开头GPT恢复执行。
 
-并行安全任务：
-- Issue #25：第一阶段内部空间 / 器物资产包 V0（Visual GPT）。
+中段+衔接GPT继续暂停，等第一章草稿后作为独立Prose Editor/连续性审核。
 
+Visual GPT暂停。
+
+盲读窗口退出盲读资格；等第一章正式文本形成后另开干净文本盲读窗口。
 ---
 
 # 下一阶段
 
-1. 完成前10章 Reader-Language 全量扫描；
-2. 审核并冻结第1—3章 Reader-Language Sheets；
-3. 只对必要实现词做 KEEP / DOWNGRADE / PROPOSE-RENAME；
-4. 第一章场景脊柱；
-5. 第一章正式初稿；
-6. 独立 Prose Editor；
-7. 第一章文本盲读；
-8. 作者确认第一章声线、自然度与阅读体验；
-9. 再完成第2—3章正文；
-10. 第1—3章文本盲读 + 修订；
-11. 再回看第4—10章“偏平/许可阶梯”是否仍真实存在；
-12. 作者确认后进入正式 manuscript。
+1. 第一章 Scene Spine；
+2. 总评审审核Scene Spine；
+3. 第一章正式初稿；
+4. 中段+衔接窗口执行独立Prose Editor / 连续性审查；
+5. 总评审合稿；
+6. 新开干净文本盲读窗口，只读第一章正文；
+7. 作者亲自阅读第一章；
+8. 第一章通过后再写第2—3章；
+9. 第1—3章文本盲读 + 修订；
+10. 再回看第4—10章“偏平/许可阶梯”是否仍真实存在。
 
 ## 故意仍不锁死
 
