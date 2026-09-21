@@ -1,0 +1,35 @@
+# <ROLE>｜CURRENT HANDOFF
+
+## ROLE
+- role:
+- status: ACTIVE / PAUSED / RETIRED / CLEAN-ROOM
+- current_issue:
+
+## LAST COMPLETED TASK
+- task:
+- brief:
+- completed_at:
+
+## WHAT ACTUALLY HAPPENED
+-
+
+## AUTHOR FEEDBACK
+-
+
+## AUTHORITY / OUTPUTS
+-
+
+## DO NOT CONTINUE
+-
+
+## OPEN QUESTIONS
+-
+
+## NEXT EXPECTED ACTION
+1.
+
+## REQUIRED READS
+1.
+
+## CONTEXT SNAPSHOT
+-
