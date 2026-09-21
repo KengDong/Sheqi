@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：**Bible V1.0 Frozen -> Draft V0否决 -> Opening Run Benchmark完成 -> 抓人第一性原则通过 -> Opening Hook Architecture  
+**阶段：**Bible V1.0 Frozen -> Draft V0否决 -> 抓人第一性原则通过 -> Opening Architecture完成 -> Cold-Open Prototype Duel  
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷发动机批准日期：**2026-09-21  
@@ -382,33 +382,54 @@ Reader-Language与Visual都不再阻塞第一章Scene Spine。
 
 ---
 
-# 当前活动任务｜Opening Hook Architecture
+# Opening Hook Architecture｜已完成
+
+研究：
+> `research/reports/2026-09-21_opening_entry_comparison.md`
+
+两套Architecture：
+> `reviews/2026-09-21_opening_hook_architecture_options.md`
+
+总评审：
+> `reviews/2026-09-21_opening_hook_architecture_final_audit.md`
+
+结论：
+- E2淘汰出本轮默认入口竞争；
+- E1驿货行与E3借载外勤均保留；
+- 当前不靠架构表格直接选；
+- 进入真实小说文本冷开场对撞。
+
+---
+
+# 当前活动任务｜Opening Cold-Open Prototype Duel
 
 任务书：
-> `research/briefs/2026-09-21_opening_hook_architecture_brief.md`
+> `research/briefs/2026-09-21_opening_cold_open_prototype_duel_brief.md`
 
 执行窗口：
-> 中段+衔接GPT -> Opening Hook Architect。
+> 开头GPT -> Opening Prototype Writer。
 
-当前目标：
-> 用同一Hook Stack正面对比驿货行 / 舍务外围外勤 / 借载设备外勤（或最强替代入口），最后只保留2套Opening Architecture。
+本轮只写两篇900—1300汉字左右的冷开场实验：
+- E1 驿货行；
+- E3 借载设备外勤。
 
-当前禁止：
-- 写正式正文；
-- 修改Canon；
-- 修改正式Outline；
-- 恢复旧V0 Scene Spine；
-- 直接选旧A/B/C。
+不写完整Ch1。
+不改Canon。
+不改正式Outline。
+
+中段+衔接GPT暂停。
+Visual GPT暂停。
+旧盲读窗口暂停。
 ---
 
 # 下一阶段
 
-1. 完成三入口 Opening Hook Architecture；
-2. 中段+衔接窗口独立淘汰最差1套，提交2套；
-3. 总评审 + 作者拍板入口与Hook Architecture；
-4. 必要时重做Ch1—5 Opening Run与Ch6—10接口；
-5. 架构冻结后再交开头GPT做新的Ch1 Scene Spine；
-6. 写新Draft；
+1. 开头GPT完成E1/E3两篇冷开场原型；
+2. 总评审先做文本层门检；
+3. 作者直接亲读两篇，按“哪篇真的想继续看”判断；
+4. 若E1胜：重做Ch1—5 Opening Hook Spine；
+5. 若E3胜：先走第一卷职业入口/Story Engine Outline Change Proposal；
+6. 社会入口冻结后再做完整Ch1 Scene Spine与Draft；
 7. 独立编辑 + 新clean-room正文盲读 + 作者亲读。
 
 ## 故意仍不锁死
