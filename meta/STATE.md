@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：**Bible V1.0 Frozen -> Draft V0否决 -> 抓人第一性原则通过 -> 冷开场原型未过门槛 -> High-Voltage Opening Reframe  
+**阶段：**Bible V1.0 Frozen -> Draft V0否决 -> 抓人第一性原则通过 -> High-Voltage Opening收敛 -> Taste Timing Prose Duel  
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷发动机批准日期：**2026-09-21  
@@ -420,40 +420,56 @@ E3：
 
 ---
 
-# 当前活动任务｜High-Voltage Opening Reframe
+# High-Voltage Opening Reframe｜已完成
+
+研究：
+> `reviews/2026-09-21_high_voltage_opening_architecture_options.md`
+> `research/reports/2026-09-21_high_voltage_opening_timing_study.md`
+
+总评审：
+> `reviews/2026-09-21_high_voltage_opening_final_audit.md`
+
+结论：
+- B Consequence-First退出开篇竞争；
+- A Decision-First + Timing 1保留；
+- C Event-First + Timing 2保留；
+- 不再继续抽象研究，进入真实文字时序对撞。
+
+---
+
+# 当前活动任务｜Taste Timing Prose Duel
 
 任务书：
-> `research/briefs/2026-09-21_high_voltage_opening_reframe_brief.md`
+> `research/briefs/2026-09-21_taste_timing_prose_duel_brief.md`
 
 执行窗口：
-> 中段+衔接GPT -> Opening Run Architect。
+> 开头GPT -> Opening Prototype Writer。
 
-本轮设计3种真正不同的高压开篇发动机：
-- Decision-First
-- Consequence-First
-- Event-First
+只测试：
+> **Ch1末决定舍味 vs Ch1内直接执行舍味。**
 
-允许重新测试舍味时序，不再默认第三章才舍味。
+同一职业、同一事故、同一W、同一信息预算。
 
 当前禁止：
-- 写正式正文；
 - 修改Canon；
-- 继续微调E1/E3职业皮；
-- 再用“责任+1”承担第一章状态变化。
+- 修改正式Outline；
+- 写完整Ch1/Ch2；
+- 重新开放职业入口竞争；
+- 继续扩Benchmark。
 
-开头GPT暂停。
+中段+衔接GPT暂停。
 Visual GPT暂停。
 旧盲读窗口暂停。
 ---
 
 # 下一阶段
 
-1. 完成High-Voltage Opening三种发动机与舍味时序对照；
-2. 总评审筛掉弱方案；
-3. 作者拍板Opening Run方向；
-4. 必要时正式重做Ch1—5与Ch6—10接口；
-5. 架构冻结后再交开头GPT实写新冷开场/Scene Spine；
-6. 新Draft；
+1. 开头GPT完成A-T1 / C-T2两篇舍味时序原型；
+2. 总评审只做违规/因果门检；
+3. 作者亲读，直接判断：A是否拖、C是否乱/像献祭换境；
+4. 冻结舍味时序；
+5. 正式重开Ch1—5 Opening Run与必要的Ch6—10接口；
+6. 新Scene Spine / 新Draft；
 7. 独立编辑 + 新clean-room盲读 + 作者亲读。
 
 ## 故意仍不锁死
