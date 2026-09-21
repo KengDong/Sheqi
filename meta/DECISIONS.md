@@ -695,3 +695,28 @@ Opening V0 Reference冻结：
 > `research/briefs/2026-09-21_opening_hook_architecture_brief.md`
 
 不得在该架构通过前重写第一章正文。
+
+
+## D-0040 Opening Architecture 进入冷开场原型对撞
+**状态：已批准，2026-09-21生效**
+
+三入口研究：
+- `research/reports/2026-09-21_opening_entry_comparison.md`
+- `reviews/2026-09-21_opening_hook_architecture_options.md`
+
+总评审：
+- `reviews/2026-09-21_opening_hook_architecture_final_audit.md`
+
+正式决定：
+1. E2 舍务外围外勤退出本轮第一卷默认入口竞争，但不永久禁用；
+2. E1 驿货行 / 押货 与 E3 借载设备外围外勤均保留进入实写测试；
+3. 当前不靠架构表格直接选择E1/E3；
+4. 下一步由同一Opening Writer各写一篇约900—1300汉字冷开场原型，做实际阅读体验对撞；
+5. E1原型必须把“借载货物”直接连接活人的“完整续我”现实后果，避免再次变成职业隐患宣传片；
+6. E3原型必须压低设备术语，验证Concept Hook强度是否值得承担“设备运维文”风险；
+7. 两篇原型故意不提前加入味觉舍备完整机制、余世、漏舍或事故预告，避免后续大事件替入口托底；
+8. 原型胜负只用于社会入口/第一页判断，不自动修改Canon或正式Outline；
+9. 若E3胜出，必须先走第一卷社会入口 / Story Engine Outline Change Proposal，不能直接改章卡。
+
+当前任务：
+> `research/briefs/2026-09-21_opening_cold_open_prototype_duel_brief.md`
