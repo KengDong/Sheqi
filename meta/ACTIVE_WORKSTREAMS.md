@@ -5,25 +5,22 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: Authority Rewrite Review｜AC-Hybrid权威改写验收
-- gate: Authority Consistency Gate + Novelty & Payoff Gate
+- current_task: Authority Rewrite主体已审｜等待Targeted PATCH回交
+- gate: Targeted PATCH Re-review
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
-- status: PAUSED
-- current_task: DONE｜Authority Rewrite｜AC-Hybrid第一卷权威改写
-- authorized_by: `meta/DECISIONS.md` D-0048
+- status: ACTIVE
+- current_task: Authority Rewrite Targeted PATCH
+- authorized_by: total-editor review
 - current: `handoffs/mid_continuity/CURRENT.md`
-- completed_outputs:
-  - `outline/volume1_story_engine.md`
-  - `outline/volume1_phase_outline.md`
-  - `outline/assets/volume1_first_collection.md`
-  - `outline/scene_spines/volume1_ch001.md`
-  - `outline/chapter_cards/volume1_ch001_003.md`
-  - `outline/chapter_cards/volume1_ch004_010.md`
-  - `reviews/2026-09-22_authority_rewrite_ac_hybrid_self_red_team.md`
+- brief: `research/briefs/2026-09-22_authority_rewrite_targeted_patch_brief.md`
+- patch_targets:
+  - 第一收藏Canon-fit
+  - 余扰/封存/退余
+  - Ch7/Ch9去教学关
+  - STATE权威导航清理
 - deliver_to: editor_in_chief
-- waiting_for: Authority Rewrite Review
 
 ## opening_writer
 - status: PAUSED
@@ -60,7 +57,7 @@
    - Ch4—10
    - Self Red Team
 
-3. **Authority Rewrite Review｜ACTIVE**
+3. **Authority Rewrite Review｜主体PASS / TARGETED PATCH ACTIVE**
    - Authority Consistency Gate
    - Novelty & Payoff Gate
    - 第一重点收藏Artifact/Canon-fit复核
