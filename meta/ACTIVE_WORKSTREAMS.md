@@ -34,17 +34,25 @@
 - deliver_to: world_reframe / editor_in_chief
 
 ## market_scout
-- status: DONE
-- execution_window: 新开窗口
-- current_task: 2024—2026热门网文世界底盘扫描完成
+- status: ACTIVE
+- execution_window: 复用Market Scout窗口
+- current_task: Reader Obsession Market Scan
 - current: `handoffs/market_scout/CURRENT.md`
-- report: `research/reports/2026-09-22_crossgenre_background_market_scan.md`
-- deliver_to: world_reframe / editor_in_chief
+- brief: `research/briefs/2026-09-22_reader_obsession_market_scan_brief.md`
+- deliver_to: editor_in_chief
+
+## hit_concept_scout
+- status: ACTIVE
+- execution_window: **新开独立窗口**
+- current_task: Hit Concept Foundry｜整书级概念从零重选
+- current: `handoffs/hit_concept_scout/CURRENT.md`
+- brief: `research/briefs/2026-09-22_hit_concept_foundry_brief.md`
+- deliver_to: editor_in_chief
 
 ## world_reframe
-- status: PAUSED / DONE
+- status: PAUSED / SHEQI-FAMILY HOLD
 - execution_window: 复用“中段+衔接”窗口
-- current_task: DONE｜Top-3 Sharpening PATCH
+- current_task: HOLD｜C1R / C2 / C8R仅作为Sheqi-family候选
 - current: `handoffs/world_reframe/CURRENT.md`
 - output:
   - `research/design/2026-09-22_sheqi_world_reframe_options.md` v1.1
@@ -54,7 +62,7 @@
 - waiting_for: Top-3 PATCH Re-review
 
 ## world_prototype
-- status: QUEUED
+- status: PAUSED / SUPERSEDED BY BOOK-LEVEL REFRAME
 - execution_window: 复用“开头 / 主作者”窗口
 - current_task: 世界底盘冷开场对撞
 - current: `handoffs/world_prototype/CURRENT.md`
@@ -138,3 +146,12 @@
 - Total Editor Re-review：ACTIVE
 - World Prototype：QUEUED / BLOCKED BY RE-REVIEW
 - Clean-room Blind Reader：NOT YET OPEN
+
+
+## Book-Level Hit Concept Reframe｜ACTIVE UPSTREAM
+- D-0053：Hit Fiction First
+- Reader Obsession Market Scan：ACTIVE
+- Independent Hit Concept Foundry：ACTIVE
+- Sheqi-family C1R/C2/C8R：HOLD AS CANDIDATES
+- Book-Level Synthesis：QUEUED
+- Prototype Duel：BLOCKED UNTIL NEW TOP 4
