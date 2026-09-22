@@ -42,14 +42,13 @@
 - deliver_to: world_reframe / editor_in_chief
 
 ## world_reframe
-- status: PAUSED / DONE
+- status: ACTIVE
 - execution_window: 复用“中段+衔接”窗口
-- current_task: DONE｜《舍弃》世界底盘重选
+- current_task: Top-3 Sharpening PATCH
 - current: `handoffs/world_reframe/CURRENT.md`
-- output: `research/design/2026-09-22_sheqi_world_reframe_options.md`
-- synthesis: `reviews/2026-09-22_world_background_research_consolidation.md`
+- source_review: `reviews/2026-09-22_world_reframe_top3_total_editor_review.md`
+- brief: `research/briefs/2026-09-22_world_reframe_top3_sharpening_patch_brief.md`
 - deliver_to: editor_in_chief
-- waiting_for: World Background Direction Review
 
 ## world_prototype
 - status: QUEUED
@@ -131,5 +130,5 @@
 - World Reframe：DONE
 - World Reframe output：`research/design/2026-09-22_sheqi_world_reframe_options.md`
 - Total Editor Direction Review：ACTIVE
-- World Prototype：QUEUED / BLOCKED BY REVIEW
+- World Prototype：QUEUED / BLOCKED BY TOP3 PATCH
 - Clean-room Blind Reader：NOT YET OPEN
