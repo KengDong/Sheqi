@@ -5,15 +5,16 @@
 ## 新会话启动顺序
 任何 AI 在开始创作或修改前，必须依次读取：
 1. `AGENTS.md`
-2. `meta/STATE.md`
-3. `meta/HANDOFF_PROTOCOL.md`
-4. 当前角色的 `handoffs/<role>/CURRENT.md`
-5. `canon/_INDEX.md`
-6. 与任务相关的 `canon/` 文件
-7. 当前卷 `outline/`
-8. 当前章节卡
-9. 最近相关 `manuscript/` 正文
-10. 必要的 `research/` 资料
+2. `meta/COMMERCIAL_FIRST_PRINCIPLES.md`
+3. `meta/STATE.md`
+4. `meta/HANDOFF_PROTOCOL.md`
+5. 当前角色的 `handoffs/<role>/CURRENT.md`
+6. `canon/_INDEX.md`
+7. 与任务相关的 `canon/` 文件
+8. 当前卷 `outline/`
+9. 当前章节卡
+10. 最近相关 `manuscript/` 正文
+11. 必要的 `research/` 资料
 
 不得仅凭聊天记忆继续写作。
 
@@ -25,6 +26,23 @@
 - 再读 blind brief 指定材料
 
 第一遍锁定前不得自行读取 State / Canon / 章卡设计理由 / 总评审结论。
+
+## 商业第一性原理
+
+正式总则：
+> `meta/COMMERCIAL_FIRST_PRINCIPLES.md`
+
+项目最高目标不是保护旧设计，而是：
+> **让陌生普通读者从点开开始持续觉得新鲜、好看、爽、想继续读。**
+
+因此：
+- Frozen = 不得静默覆盖，不等于永远不能挑战；
+- 旧Story Engine / Outline / 章卡 / 职业入口 / 写法若被真实Benchmark、原型、盲读或作者亲读证明伤害最高目标，必须主动提出Change Proposal；
+- AI必须主动发现爽感、可读性、AI味、场景、节奏、重复与回报问题，不得把作者当基础QA；
+- “借鉴热门小说”必须同时覆盖Concept、Architecture、Payoff、Scene/Prose、Long-Run Novelty，不得只拆Hook和结构；
+- 交作者前必须尽可能完成Benchmark Comparator、Novelty & Payoff Audit、Canon/Continuity Gate、Human Prose Gate、Independent Red Team，必要时再做Fresh Blind Read。
+
+权威层级仍然约束“怎么改”；商业第一性原理决定“该不该重新打开”。
 
 ## 权威层级
 从高到低：
