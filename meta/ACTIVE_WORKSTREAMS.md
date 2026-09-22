@@ -26,31 +26,29 @@
 - blocked_by: World Background Reframe decision
 
 ## benchmark_deepread
-- status: ACTIVE
-- current_task: 《没钱修什么仙》全文深读
+- status: DONE
+- current_task: 《没钱修什么仙》全文深读完成
 - execution_window: 复用旧“结构盲读 / Reader-Language”窗口
 - current: `handoffs/benchmark_deepread/CURRENT.md`
-- brief: `research/briefs/2026-09-22_no_money_cultivation_deepread_brief.md`
-- source: `/Sheqi/Research Sources/Benchmark Full Texts/没钱修什么仙_用户研究版.txt`
-- deliver_to: editor_in_chief
+- report: `research/reports/2026-09-22_no_money_cultivation_deepread.md`
+- deliver_to: world_reframe / editor_in_chief
 
 ## market_scout
-- status: ACTIVE
-- execution_window: **新开窗口**
-- current_task: 2024—2026热门网文世界底盘扫描
+- status: DONE
+- execution_window: 新开窗口
+- current_task: 2024—2026热门网文世界底盘扫描完成
 - current: `handoffs/market_scout/CURRENT.md`
-- brief: `research/briefs/2026-09-22_crossgenre_background_market_scan_brief.md`
-- deliver_to: editor_in_chief
+- report: `research/reports/2026-09-22_crossgenre_background_market_scan.md`
+- deliver_to: world_reframe / editor_in_chief
 
 ## world_reframe
-- status: QUEUED
+- status: ACTIVE
 - execution_window: 复用“中段+衔接”窗口
 - current_task: 《舍弃》世界底盘重选
 - current: `handoffs/world_reframe/CURRENT.md`
 - brief: `research/briefs/2026-09-22_sheqi_world_reframe_brief.md`
-- blocked_by:
-  - benchmark_deepread report
-  - market_scout report
+- synthesis: `reviews/2026-09-22_world_background_research_consolidation.md`
+- deliver_to: editor_in_chief
 
 ## world_prototype
 - status: QUEUED
@@ -121,3 +119,12 @@
 - 不在新Opening Scene Spine前写正式Ch1。
 - 不把Event-First当成已经完成新版完整执行验证。
 - 不把微场景Prose PASS等同于整章能力PASS。
+
+
+## World Background Research｜UPSTREAM DONE / REFRAME ACTIVE
+- Benchmark Deep Read：DONE
+- Market Scout：DONE
+- Total-editor consolidation：DONE
+- World Reframe：ACTIVE
+- World Prototype：QUEUED
+- Clean-room Blind Reader：NOT YET OPEN
