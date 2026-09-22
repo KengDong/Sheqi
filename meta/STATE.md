@@ -494,66 +494,25 @@ A-T1仍只是PROVISIONAL BASE；Timing 1未冻结。
 
 ---
 
-# 当前活动任务A｜#37 Commercial First-Principles Volume 1 Rebuild｜PATCH
-
-执行窗口：
-> 中段+衔接GPT -> Commercial Story Showrunner。
-
-状态：
-> **P0 / PATCH REQUIRED**
-
-任务书：
-> `research/briefs/2026-09-22_first_volume_commercial_rebuild_brief_v2.md`
-
-职责：
-> **决定“写什么”。**
-
-允许挑战：
-- 现Story Engine；
-- Phase Outline；
-- Ch1—10章卡；
-- 驿货行入口；
-- A-T1 Timing。
-
-若需改Canon：只提交Change Proposal。
-
----
-
-# 当前活动任务B｜#38 Opening Writer Commercial Prose Calibration｜PATCH
-
-执行窗口：
-> 开头GPT -> Opening Writer / Commercial Prose Calibration Writer。
-
-状态：
-> **P0 / PATCH REQUIRED，与#37并行**
-
-任务书：
-> `research/briefs/2026-09-22_opening_writer_commercial_prose_calibration_brief.md`
-
-职责：
-> **验证“怎么写”。**
-
-只写三个700—1100字功能微样本：
-- 高压场景可视化；
-- 核心机制自然入门；
-- 陆野日常/对白/生活纹理。
-
-不写完整Ch1，不决定Opening架构。
-
-只有：
-> **#37最终Opening方向通过 + #38 Writer Prose Baseline通过**
-
-才允许写完整第一章。
----
 
 # 下一阶段
 
-1. #37完成第一卷商业第一性原理重构并内部淘汰到2套总方案；
-2. #38完成Opening Writer三个功能微样本并通过Commercial Shelf Test；
-3. 总评审分别审核#37与#38；
-4. 作者只对#37最终2套方向做重大taste拍板，不承担基础QA；
-5. 冻结新的Opening / 第一卷Story Engine后，再给Opening Writer下发完整第一章；
-6. 完整Ch1先过Commercial Comparator + Human Prose Gate + Independent Red Team，再送作者。
+当前受唯一Authority Gate控制：
+> **作者是否批准按AC-Hybrid正式重开第一卷Approved Outline。**
+
+正式工作流见：
+> `meta/ACTIVE_WORKSTREAMS.md`
+
+若作者批准：
+1. mid_continuity直接执行 `research/briefs/2026-09-22_authority_rewrite_ac_hybrid_brief.md`；
+2. 重写Story Engine / Phase Outline；
+3. 设计第一重点收藏；
+4. 重做Opening Scene Spine + Ch1—10；
+5. 总评审做Authority / Novelty & Payoff Gate；
+6. Opening Writer做Event-First完整执行验证；
+7. 再进入Formal Ch1。
+
+后续跨窗口任务不再依赖作者手工复制提示；以 `meta/TASK_DISPATCH_PROTOCOL.md` + 各角色CURRENT为准。
 
 ## 故意仍不锁死
 
@@ -570,23 +529,6 @@ A-T1仍只是PROVISIONAL BASE；Timing 1未冻结。
 
 ---
 
-# #37 Commercial First-Principles Volume 1 Rebuild｜ACTIVE
-
-Issue：
-> #37
-
-正式任务书：
-> `research/briefs/2026-09-22_first_volume_commercial_rebuild_brief_v2.md`
-
-状态：
-> **P0 / ACTIVE**
-
-执行窗口：
-> 中段+衔接GPT -> Commercial Story Showrunner。
-
-当前与#38并行。
----
-
 # 商业第一性原理总则｜已启用
 
 正式文件：
@@ -597,29 +539,6 @@ Issue：
 
 “Frozen”只代表不能静默覆盖；若真实商业证据失败，可通过Proposal -> 独立审核 -> 作者批准重新打开。
 
-
----
-
-# #38 Opening Writer Commercial Prose Calibration｜ACTIVE
-
-Issue：
-> #38
-
-正式任务书：
-> `research/briefs/2026-09-22_opening_writer_commercial_prose_calibration_brief.md`
-
-状态：
-> **P0 / ACTIVE / PARALLEL WITH #37**
-
-执行窗口：
-> 开头GPT -> Opening Writer / Commercial Prose Calibration Writer。
-
-#38只校准“怎么写”；不写完整第一章、不决定Opening架构。
-
-只有：
-> **#37 Opening方向通过 + #38 Writer Prose Baseline通过**
-
-才允许完整Ch1正式Draft。
 
 ---
 
