@@ -14,3 +14,7 @@
 - 不给《舍弃》直接定世界观。
 - 不改Canon/Outline。
 - 不只看修仙。
+
+## EXECUTION WINDOW
+- must_use_new_window: YES
+- reason: 尽量避免Sheqi旧设计污染外部样本扫描。
