@@ -23,14 +23,19 @@ authorized_by: meta/DECISIONS.md D-0053
 ## 输入
 只读：
 1. `meta/COMMERCIAL_FIRST_PRINCIPLES.md`
-2. `reviews/2026-09-22_world_background_research_consolidation.md`
-3. `research/reports/2026-09-22_no_money_cultivation_deepread.md`
-4. market_scout最新Reader Obsession报告（完成后补读）
+2. `research/reports/2026-09-22_no_money_cultivation_deepread.md`
 
-第一轮构思时：
-> **禁止先读Canon / Approved Outline / 当前Ch1。**
+本窗口**不要读取**：
+- Sheqi Canon；
+- Approved Outline；
+- 当前Ch1；
+- World Reframe候选；
+- 新Reader Obsession Market Scan结果。
 
-避免沉没成本锚定。
+目的：
+> **保持概念研发独立，避免被“舍弃”或市场分析结论锚定。**
+
+Reader Obsession Market Scan将在总评审合流阶段再与本报告交叉验证。
 
 ## 候选要求
 至少提出12个真正不同的“整本小说级Concept”，其中：
