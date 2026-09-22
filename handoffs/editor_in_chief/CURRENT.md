@@ -4,69 +4,72 @@
 - role: editor_in_chief / 总评审
 - status: ACTIVE
 - current_issue: #36 Commercial Prose Calibration + A-T1 Legibility
-- queued_next: #37 First-Volume Novelty & Payoff Engine Pass
+- queued_next: #37 Commercial First-Principles Volume 1 Rebuild V2
 
 ## LAST COMPLETED TASK
-- task: 整合并冻结“第一卷高频横向新鲜感 + 纵向秘密 + 爽感回报”作者方向，安排#37
+- task: 将“让作者自己排查爽感/文笔问题”的流程彻底上收，建立商业第一性原理治理
 - completed_at: 2026-09-22
 - outputs:
-  - `reviews/2026-09-22_first_volume_novelty_payoff_direction.md`
-  - `research/briefs/2026-09-22_first_volume_novelty_payoff_engine_brief.md`
-  - `meta/DECISIONS.md` D-0045
+  - `meta/COMMERCIAL_FIRST_PRINCIPLES.md`
+  - `research/briefs/2026-09-22_first_volume_commercial_rebuild_brief_v2.md`
+  - `meta/DECISIONS.md` D-0046
+  - `AGENTS.md` 商业第一性原理条款
+  - `meta/MANUSCRIPT_PIPELINE.md` v1.2 Commercial Quality Gauntlet
 
 ## WHAT ACTUALLY HAPPENED
-- 作者明确否定“把真正好看的东西押到后期”的节奏。
-- 第一卷后续正式采用四发动机视角：正常修炼/行动、舍弃文明横向碰撞、价值回收/收集变现、中秘密到余世大秘密。
-- 惜物不再以文学呼应为主要价值，必须转成看得见的钱/物/工具/资源/市场入口等回报。
-- 尝余保持弱信号：只告诉陆野“值得查”，不能成为鉴宝答案机。
-- 余世大秘密前必须有中秘密/中大秘密，并且至少一半秘密节点产生可行动结论。
-- 现Story Engine的资格/复工/许可链需要在#37做Payoff Ledger和KEEP/COMPRESS/REPLACE/ADD审计。
-- #37已经完整建brief，但不打断#36；#36通过后立即启动#37。
+- 作者指出流程性失败：普通读者都能轻易发现爽感、场景、黑话、AI味等问题，说明AI一直把作者当成了基础QA。
+- 项目最高目标被正式写明：陌生普通读者从第一次点开开始持续觉得新鲜、好看、爽、想继续读。
+- “借鉴热门小说”不再只指Hook/结构，必须同时覆盖Concept、Architecture、Payoff、Scene/Prose、Long-Run Novelty。
+- 旧设计/Story Engine/章卡/入口/Timing不再因冻结或投入获得商业免审；Frozen只禁止静默修改。
+- 作者前置新增Commercial Quality Gauntlet：Benchmark、Novelty/Payoff、Canon/Continuity、Human Prose、Independent Red Team、必要时Fresh Blind Read。
+- #37 V1范围仍偏窄，已升级为Commercial First-Principles Volume 1 Rebuild V2。
+- #37 V2允许挑战Story Engine / Phase Outline / Ch1—10 / 驿货行 / A-T1 Timing；Canon层只提Proposal。
+- #37最终必须内部先淘汰，只交2套完整可拍板方案给作者。
 
 ## AUTHOR FEEDBACK
-- 新人作者第一卷必须从头爽起来，不能等后期才有活路。
-- 想要“高频横向新鲜感 + 纵深大秘密”结合。
-- 读者要持续出现“原来这个设定还能这么用”的感受。
-- 惜物若没有收集、养成、捡漏、意外收入等实质回报，商业爽感不足。
+- 最终第一性原理：写出来就要让普通读者觉得好看、爽、吸引、新鲜、想继续。
+- AI需要自己去借鉴、分析、整合、排查、挑拣、排列，而不是等作者逐个指出。
+- 从设定制定开始就应该布满爽点和吸引力。
+- 文笔必须进入成熟商业小说区间，不能一眼看出AI。
+- 之前定的可以推翻；迭代时以第一性原理优先。
 
 ## AUTHORITY / OUTPUTS
-- 当前活动任务：`research/briefs/2026-09-22_commercial_prose_calibration_AT1_brief_v2.md` (#36)
-- 后续正式方向：`reviews/2026-09-22_first_volume_novelty_payoff_direction.md`
-- 后续正式brief：`research/briefs/2026-09-22_first_volume_novelty_payoff_engine_brief.md` (#37)
-- 决策：D-0044 + D-0045
-- 状态：`meta/STATE.md`
+- 最高过程总则：`meta/COMMERCIAL_FIRST_PRINCIPLES.md`
+- 当前活动任务：#36 `research/briefs/2026-09-22_commercial_prose_calibration_AT1_brief_v2.md`
+- 下一P0：#37 `research/briefs/2026-09-22_first_volume_commercial_rebuild_brief_v2.md`
+- 旧#37 V1：历史保留，不再执行
+- 决策：D-0044 / D-0045 / D-0046
 
 ## DO NOT CONTINUE
-- 不要为了#37打断#36正文商业基准校准。
-- 不要立即把M0—M6写进Canon或改Mystery Ladder。
-- 不要直接修改Approved Story Engine / Ch1—10章卡。
-- 不要把尝余升级为鉴宝UI。
-- 不要把收集养成写成每件垃圾都是宝。
-- 不要让收集/余器挤掉正常修炼。
+- 不把作者当主要问题发现器。
+- 不因已冻结/已投入就保护旧方案。
+- 不让#37只做几个爽点补丁。
+- 不把商业第一性原理理解成无脑加外挂/打脸。
+- 不直接改Canon；Canon变化仍走Proposal。
+- #36未完成前不串执行#37。
 
 ## OPEN QUESTIONS
-- #36完成后，哪些Commercial Prose规则需要正式冻结？
-- #37三套发动机方案里，第一卷应偏收集/变现、偏文明横向，还是四轮均衡？
-- 当前Mystery Ladder需要多大程度前移中秘密，才既爽又不烧掉余世大谜底？
-- Story Engine哪些资格/复工流程应该压缩或替换？
+- #36能否建立足够强的成熟商业正文标尺？
+- #37从零商业体检后，旧Story Engine还有多少值得保留？
+- A-T1是否值得保留，还是会被更强第一卷总方案推翻？
+- 哪些底层Canon若不改就限制商业表现，是否值得提出P2 Change Proposal？
 
 ## NEXT EXPECTED ACTION
-1. 等中段+衔接GPT完成#36并按handoff交付。
-2. 总评审审核#36，冻结Commercial Prose资产。
-3. 立即解除#37 BLOCKED状态。
-4. 同一中段+衔接窗口切换为 Novelty & Payoff Systems Architect，执行#37正式brief。
-5. #37总评审后再决定第一卷Outline Change，不直接开写Ch2—10。
+1. 等#36完成，严格按Commercial Quality Gauntlet审核。
+2. #36通过后立即解除#37 V2 BLOCKED。
+3. 中段窗口切Commercial Story Showrunner执行#37 V2。
+4. 总评审独立红队#37，不自证。
+5. 只把最终2套完整第一卷总方案交作者拍板。
 
 ## REQUIRED READS
-1. `meta/STATE.md`
-2. `reviews/2026-09-22_popular_novel_benchmark_scope_correction.md`
+1. `meta/COMMERCIAL_FIRST_PRINCIPLES.md`
+2. `meta/STATE.md`
 3. #36产物（完成后）
-4. `reviews/2026-09-22_first_volume_novelty_payoff_direction.md`
-5. `research/briefs/2026-09-22_first_volume_novelty_payoff_engine_brief.md`
+4. `research/briefs/2026-09-22_first_volume_commercial_rebuild_brief_v2.md`
 
 ## CONTEXT SNAPSHOT
-- 当前#36仍是唯一ACTIVE执行任务。
-- #37已完整排队且为下一P0。
-- 第一卷目标正式变为：高频横向新鲜感 + 纵向秘密 + 可见回报。
-- A-T1仍只是PROVISIONAL BASE。
-- 开头/视觉/盲读暂停。
+- 当前#36仍ACTIVE。
+- #37已升级V2并排队。
+- 作者不再承担基础QA。
+- 旧冻结资产均可被商业证据挑战，但要走正式变更流程。
+- 下一轮不是局部修补，是第一卷从零商业重构。
