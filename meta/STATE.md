@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：**Bible V1.0 Frozen -> Commercial Prose Calibration通过 -> #37/#38总评审后定向PATCH  
+**阶段：**Bible V1.0 Frozen -> Commercial Prose Calibration通过 -> #37商业重构通过 -> #38 Writer Baseline通过 -> 等待作者P1 Outline Change确认
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷发动机批准日期：**2026-09-21  
@@ -651,3 +651,71 @@ PATCH：
 > research/briefs/2026-09-22_issue38_prose_patch_brief.md
 
 完整Ch1继续禁止，直到#37与#38 PATCH均通过。
+
+
+---
+
+# #37/#38 PATCH终审｜已完成
+
+## #37 Commercial First-Principles Volume 1 Rebuild
+状态：
+> **DONE / 总评审通过 / 等待作者批准P1 Approved Outline Change**
+
+终审：
+> `reviews/2026-09-22_issue37_patch_final_audit.md`
+
+总评审批准为唯一主Baseline：
+> **AC-Hybrid｜职业底盘上的资产飞轮**
+
+Opening主Baseline：
+> **Event-First / Ch1真正执行舍味**
+
+A-T1：
+> **Fallback only**
+
+批准重写依据：
+- `research/design/2026-09-22_volume1_secret_ladder_v3_patch.md`
+- `research/design/2026-09-22_low_end_residual_market_model.md`
+- `reviews/2026-09-22_volume1_story_engine_change_proposal_v3.md`
+- `reviews/2026-09-22_volume1_payoff_ledger_v3_patch.md`
+
+当前尚未修改：
+- `outline/volume1_story_engine.md`
+- `outline/volume1_phase_outline.md`
+- `outline/chapter_cards/*`
+- `outline/scene_spines/volume1_ch001.md`
+
+原因：
+> **P1权威变更仍需作者明确批准。**
+
+额外Outline Rewrite Gate：
+> 前10章必须自然出现至少一次“舍弃规则进入非捡漏领域的现实利益后果”，优先工伤/赔偿、借载成本或缺位现实定价；不得把新的第一卷再次缩成“工作 + 旧物”。
+
+## #38 Opening Writer Commercial Prose Calibration
+状态：
+> **DONE / Opening Writer Prose Baseline通过**
+
+终审：
+> `reviews/2026-09-22_issue38_patch_final_shelf_test.md`
+
+Sample A/B/C V2：
+> **全部PASS**
+
+含义：
+> Writer已经证明能够写清高压场景、自然解释标题级机制、写出陆野的活人日常。
+
+不代表：
+> 三个微样本可以直接拼成正式第一章。
+
+完整Ch1仍需等待：
+> **作者批准P1 Story Engine Change -> 正式Outline重写 -> 新Opening Scene Spine -> Writer正式Draft。**
+
+---
+
+# 当前唯一决策门｜作者P1确认
+
+总评审建议作者批准：
+
+> **按AC-Hybrid正式重开并重写第一卷Approved Outline。**
+
+若作者批准，下一阶段才可开始正式权威改写。
