@@ -37,6 +37,8 @@
 - 作者不应继续承担“指出我们优化错目标”的职责。
 
 ## AUTHORITY / OUTPUTS
+- Master workplan:
+  - `meta/HIT_FICTION_WORKPLAN.md`
 - Window reuse:
   - `meta/WINDOW_REUSE_PLAN.md`
 - Benchmark source:
