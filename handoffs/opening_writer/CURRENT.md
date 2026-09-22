@@ -2,8 +2,8 @@
 
 ## ROLE
 - role: opening_writer / Formal Chapter Writer
-- status: PAUSED / AWAITING TOTAL EDITOR REVIEW
-- current_task: Formal Ch1 Draft V1
+- status: PAUSED / HOLD
+- current_task: HOLD｜Formal Ch1 V1作为传统修仙控制样本
 - brief: `research/briefs/2026-09-22_formal_ch001_v1_draft_brief.md`
 
 ## LAST COMPLETED TASK
@@ -72,13 +72,12 @@
 5. 何时允许升级manuscript？
 
 ## NEXT EXPECTED ACTION
-1. 总评审读取：
-   - `drafts/volume1/ch001_v1.md`
-   - `reviews/2026-09-22_ch001_v1_writer_selfcheck.md`
-2. 执行Formal Ch1 Gate。
-3. PASS则按项目流程进入独立Prose / Red Team / 必要时Fresh Blind Read。
-4. PATCH / FAIL则下发明确返修brief。
-5. opening_writer当前保持PAUSED。
+- 暂不做Formal Ch1 Gate，不继续修V1。
+- 当前V1封存为“传统修仙底盘控制样本”。
+- 等世界底盘重选研究与受控Prototype Duel完成后，再由总评审决定：
+  1. 继续传统修仙版并审Ch1；
+  2. 还是提出P1/P2世界重构Proposal。
+- opening_writer保持PAUSED。
 
 ## REQUIRED READS
 1. `AGENTS.md`
@@ -99,4 +98,4 @@
 - Writer已自检但未自宣通过。
 - Ch2未写。
 - manuscript未升级。
-- 当前唯一下一步：总评审Formal Ch1 Gate。
+- 当前V1保留为Control，不继续正文生产；等待World Background Reframe研究。
