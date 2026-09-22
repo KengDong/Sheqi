@@ -1,13 +1,13 @@
 ---
 status: approved-process
-version: 1.1
+version: 1.2
 created_at: 2026-09-21
 authority: author-approved-process
 canon_effect: none
 outline_effect: none
 ---
 
-# MANUSCRIPT PIPELINE｜正文生产与窗口分工 V1.1
+# MANUSCRIPT PIPELINE｜正文生产与窗口分工 V1.2
 
 > 目标：减少“写了又改、改了又重写”的返工。
 >
@@ -18,21 +18,26 @@ outline_effect: none
 
 # 0. 当前总状态
 
-当前阻塞：
+当前活动任务：
 
-> Issue #24｜Reader-Language 自然化与AI机械感清扫
+> **#36｜Commercial Prose Calibration + A-T1 Legibility**
 
-在 #24 审核冻结以前：
+正式总则：
+> `meta/COMMERCIAL_FIRST_PRINCIPLES.md`
 
-- 不写第一章正式正文；
-- 不重做第4—10章结构；
-- 不新增异常味 / 事故 / 余器 / 舍项；
-- 不因为视觉探索反改文字。
+#36完成并经总评审后，下一P0：
 
-允许并行：
-- Visual GPT 做内部空间 / 器物具体化；
-- 总编准备第一章生产闸门；
-- 其它写作 / 结构窗口暂停，避免重复劳动。
+> **#37｜Commercial First-Principles Volume 1 Rebuild**
+
+在#37完成以前：
+- A-T1仅为PROVISIONAL BASE；
+- Timing 1不冻结；
+- 不大规模推进Ch2—10正式正文；
+- 既有Story Engine / Phase Outline / Ch1—10允许被挑战，但不得静默覆盖；
+- 任何Canon变化只走Change Proposal。
+
+当前生产优先级：
+> **先把文字校准到成熟商业小说正常分布 -> 再把第一卷从设定/爽点/秘密/资产/节奏整体重构 -> 再进入大规模正文。**
 
 ---
 
@@ -49,6 +54,41 @@ outline_effect: none
 > **任务不视为完整交付。**
 
 总评审改变项目阶段时，必须检查其它窗口CURRENT是否已经过期。
+
+---
+
+# 0B. Commercial Quality Gauntlet｜作者前置质量闸门
+
+作者不是基础QA。
+
+重大结构方案或正文交作者前，默认尽可能完成：
+
+1. **Benchmark Comparator**
+   - 与功能相近的成熟商业作品对照；
+   - 不只看结构，也看爽点、结算、场景与正文执行。
+2. **Novelty & Payoff Audit**
+   - 当前弧新在哪；
+   - 爽在哪；
+   - 结束时读者具体拿到什么；
+   - 有没有爽点真空或许可+1。
+3. **Continuity & Canon Gate**
+   - 因果、知识边界、规则、状态连续性。
+4. **Human Prose / AI-Smell Gate**
+   - 场景可视化；
+   - 术语首见；
+   - 对白自然度；
+   - 段落纹理；
+   - Shelf Test。
+5. **Independent Red Team**
+   - 设计者不得自己宣布通过；
+   - 主动找“作者作为普通读者一眼就会问的问题”。
+6. **Fresh Blind Read**
+   - 重要正文在需要时由clean-room窗口只读成品。
+
+只有通过这些前置检查，才进入作者最终taste判断。
+
+如果作者亲读后轻易发现基础问题：
+> **视为前置流程失败，必须回溯系统性根因，而不是只补作者指出的句子。**
 
 ---
 
