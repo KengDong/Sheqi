@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：** Bible V1.0 Frozen -> AC-Hybrid Authority Rewrite PASS -> Event-First PASS -> Formal Ch1 V1 ACTIVE
+**阶段：** Bible V1.0 Frozen -> AC-Hybrid Authority Rewrite PASS -> Event-First PASS -> Formal Ch1 V1 DONE/HOLD -> World Background Reframe Research ACTIVE
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷AC-Hybrid权威化日期：**2026-09-22  
@@ -110,6 +110,35 @@ Mystery导航：
 2. 总评审Formal Ch1 Gate
 3. 通过后进入独立Prose / Red Team / 必要时Fresh Blind Read
 
+
+# World Background Reframe｜ACTIVE
+
+作者于2026-09-22重新打开上游问题：
+> **传统修仙是否限制《舍弃》的信息量、新鲜感和上瘾度。**
+
+当前：
+- Formal Ch1 V1已写完，但暂不总审，封存为传统修仙Control；
+- Canon / Approved Outline不变；
+- 不写Ch2；
+- 不继续给Traditional Ch1做Prose沉没成本。
+
+研究支线：
+1. 《没钱修什么仙》全文Deep Read；
+2. 2024—2026跨题材热门世界底盘扫描；
+3. 《舍弃》世界底盘重选；
+4. Top 3 + Traditional Control冷开场对撞；
+5. clean-room blind read。
+
+外部小说全文：
+> **存Library，不进Git。**
+
+Git只存：
+> `research/sources/BENCHMARK_SOURCE_INDEX.md` + 派生报告。
+
+任何P2 Canon / 世界底盘正式变更：
+> **仍需作者明确批准。**
+
+---
 # 中段研究已完成
 
 研究文件：
