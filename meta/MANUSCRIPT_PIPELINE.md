@@ -19,7 +19,7 @@ outline_effect: none
 # 0. 当前总状态
 
 当前活动任务：
-> **Event-First Execution Validation**
+> **Formal Ch1 Draft V1**
 
 权威状态：
 - D-0048：作者批准按AC-Hybrid重开第一卷；
@@ -31,14 +31,15 @@ outline_effect: none
 > **Event-First结构层PASS，执行层正在验证。**
 
 当前生产优先级：
-> **先用一段连续真实文字验证“真切味 -> 无即时力量 -> 正常筑基 -> 稳定离体 -> 救援继续”是否自然清楚；通过后才进入Formal Ch1。**
+> **按Approved Scene Spine从头写完整Formal Ch1 V1；完成后先过总评审，再进入独立Prose / Red Team / 必要时Fresh Blind Read。**
 
 当前禁止：
 - 重开#37/#38研究；
 - 重开A/C；
 - 修改Canon；
-- 把Execution Validation样本当正式Ch1；
-- 跳过验证直接写Formal Ch1。
+- 把Execution Validation样本直接扩写成正式Ch1；
+- 写Ch2；
+- 在Formal Ch1总评审前升级manuscript。
 
 正式工作流状态：
 > `meta/ACTIVE_WORKSTREAMS.md`
@@ -134,10 +135,10 @@ outline_effect: none
 
 ## C｜开头 / Writer GPT
 当前：
-> **ACTIVE｜Event-First Execution Validation。**
+> **ACTIVE｜Formal Ch1 Draft V1。**
 
 当前brief：
-> `research/briefs/2026-09-22_event_first_execution_validation_brief.md`
+> `research/briefs/2026-09-22_formal_ch001_v1_draft_brief.md`
 
 未来职责：
 1. 第一章 Scene Spine；
