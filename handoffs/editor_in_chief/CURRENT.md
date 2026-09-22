@@ -6,40 +6,36 @@
 - current_gate: author P1 Approved Outline Change confirmation
 
 ## LAST COMPLETED TASK
-- task: #37/#38 独立复核
+- task: Git-native Handoff & Task Dispatch流程升级
 - completed_at: 2026-09-22
-- authority_effect: none
 - history:
-  - `handoffs/editor_in_chief/history/2026-09-22_issue37_issue38_independent_rereview.md`
+  - `handoffs/editor_in_chief/history/2026-09-22_git_native_dispatch_upgrade.md`
 
 ## WHAT ACTUALLY HAPPENED
-- 在不沿用旧总评审结论的前提下，重新读取#37/#38任务brief、主要产物、PATCH前后成品与相关Opening原型。
-- #37大方向继续通过：AC-Hybrid仍是最强P1第一卷候选；Canon仍无需P2变化；Secret Ladder V3、低端市场失效模型、Payoff Ledger V3继续成立。
-- 与旧终审的主要差异：
-  > Event-First应视为“preferred baseline / 待新Scene Spine与新执行样本验证”，而不是“已被#38完整执行验证”。
-- 原因：#38最终Sample B只写到“舍味”决定，没有在新Commercial Prose标准下重新走完整“真实切味 -> 无即时力量 -> 正常筑基完成”的Event-First体验链。
-- 第一件重点收藏仍未具体设计；不阻塞#37研究任务完成，但必须在Ch4—10正式冻结前完成。
-- Authority Rewrite时还要防止前10章变成“一个章节一个功能”的设计表节拍。
-- #38继续通过，但范围收窄为：
-  > 三类微场景功能写作能力PASS。
-- #38不等于完整章节Prose能力已经证明；整章能力应由新Scene Spine下的正式Ch1验证。
-- 不建议因此重开#38无限微调。
-- Approved Outline仍未修改。
-- 当前唯一权威门仍是：
-  > **作者是否批准P1 Story Engine Change｜AC-Hybrid。**
+- 原CURRENT + history持久交接机制继续保留并升级。
+- 新增 `meta/TASK_DISPATCH_PROTOCOL.md`：正式跨窗口任务必须“brief + 目标CURRENT + ACTIVE_WORKSTREAMS”三件套。
+- 新增 `meta/ACTIVE_WORKSTREAMS.md` 作为全局窗口/任务状态表。
+- `meta/HANDOFF_PROTOCOL.md` 已升级V1.1，加入任务关闭完整性检查与总评审跨窗口同步责任。
+- 已预写 `research/briefs/2026-09-22_authority_rewrite_ac_hybrid_brief.md`，但仍BLOCKED BY AUTHOR P1。
+- 已同步mid_continuity / opening_writer CURRENT，并清理STATE中的#37/#38旧ACTIVE状态。
+- 后续作者通常不再复制长任务正文，只需让目标窗口“按Git CURRENT执行”。
+- #37/#38独立复核结论继续有效：AC-Hybrid仍是最强P1候选；Event-First优先但待新版完整执行验证；#38为微场景能力PASS，整章能力待正式Ch1。
 
 ## AUTHOR FEEDBACK
-- 作者要求新总评审重新独立评估#37/#38，并明确与旧总评审分析、结论的出入。
+- 作者要求所有活跃窗口任务完成后自动留Git交接，不能再依赖手工复制。
+- 作者要求#37/#38后推进真正写作任务链，不继续空转研究。
 - 作者尚未明确批准P1 AC-Hybrid。
 
 ## AUTHORITY / OUTPUTS
-- Current author-approved Outline仍保持原权威。
-- 本次复核不修改Canon / Outline / STATE / DECISIONS。
-- 历史#37/#38终审仍保留：
-  - `reviews/2026-09-22_issue37_patch_final_audit.md`
-  - `reviews/2026-09-22_issue38_patch_final_shelf_test.md`
-- 新增复核handoff：
+- Process:
+  - `meta/HANDOFF_PROTOCOL.md` V1.1
+  - `meta/TASK_DISPATCH_PROTOCOL.md`
+  - `meta/ACTIVE_WORKSTREAMS.md`
+- Queued next brief:
+  - `research/briefs/2026-09-22_authority_rewrite_ac_hybrid_brief.md`
+- Independent rereview:
   - `handoffs/editor_in_chief/history/2026-09-22_issue37_issue38_independent_rereview.md`
+- Current author-approved Outline仍未修改。
 
 ## DO NOT CONTINUE
 - 不自动把总评审推荐当作者批准。
