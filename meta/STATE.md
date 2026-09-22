@@ -573,3 +573,33 @@ Issue：
 > **作者不是基础QA。AI必须在作者看到之前，主动排查新鲜感、爽感、结算、可读性、AI味、场景、重复、动机与沉没成本。**
 
 “Frozen”只代表不能静默覆盖；若真实商业证据失败，可通过Proposal -> 独立审核 -> 作者批准重新打开。
+
+
+---
+
+# 已排队并行任务｜Opening Writer Commercial Prose Calibration
+
+Issue：
+> #undefined
+
+正式任务书：
+> `research/briefs/2026-09-22_opening_writer_commercial_prose_calibration_brief.md`
+
+状态：
+> **P0 / QUEUED / BLOCKED BY #36**
+
+启动时机：
+> #36 Commercial Prose Calibration经总评审通过后。
+
+启动后：
+- #37由中段+衔接GPT执行第一卷商业重构；
+- #undefined由开头GPT并行执行商业正文微样本校准。
+
+职责分离：
+- #37 = 决定“写什么”；
+- #undefined = 验证Writer“怎么写”。
+
+只有：
+> **#37 Opening方向冻结 + #undefined Writer Prose Baseline通过**
+
+才允许开头GPT写完整第一章正式Draft。
