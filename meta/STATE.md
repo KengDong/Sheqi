@@ -1,3 +1,34 @@
+# Book Finalists｜C01 vs C12
+
+Fresh Blind已完成并揭盲。
+
+## FINALISTS
+- C01《明天已经卖掉》
+- C12《替有钱人渡劫》
+
+## RESERVE
+- C10《死人也要履约》
+
+## DROP FOR CURRENT FINAL
+- C08《职业遗产》
+
+## WHY
+Popular Benchmark + Fresh clean-room Blind独立收敛：
+- C01：真实“从卖方变买方”的人生上升欲成立；
+- C12：周野人物/职业生活黏性成立。
+
+当前不选赢家。
+
+ACTIVE：
+> 为C01/C12分别继续写Ch2—Ch3，验证Concept褪色后的连续阅读欲。
+
+NEXT：
+1. Returning Reader continuation test；
+2. Second fresh 3-chapter shelf test；
+3. Total Editor final direction synthesis。
+
+---
+
 # Fresh Book Prototype Blind Read｜ACTIVE
 
 当前：
@@ -85,7 +116,7 @@ NEXT：
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：** D-0055 Good Novel First -> Fresh Book Prototype Blind Read ACTIVE
+**阶段：** D-0055 Good Novel First -> C01/C12 Finalist Opening Arc Stress Test ACTIVE
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷AC-Hybrid权威化日期：**2026-09-22  
