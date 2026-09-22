@@ -1,11 +1,11 @@
 ---
-status: research-design
+status: approved-execution-support
 version: 1.1
 document_type: AT1-reader-scene-map
 project: 修仙先舍一件人间事
 created_at: 2026-09-22
 verified_at: 2026-09-22
-authority: research-only
+authority: total-editor-approved-support
 canon_effect: none
 outline_effect: none
 target: experiments/opening_prototypes/2026-09-21_AT1_decision_first_taste_timing.md
@@ -423,3 +423,18 @@ Reader Layer只需要：
 ---
 
 > 本Scene Map只用于下一版Reader-Language/Prose执行，不自动覆盖Visual Bible或正式事故设计。
+
+
+---
+
+# 11. 总评审批准边界
+
+本Scene Map已通过#36总评审，作为Reader Layer执行支持资产。
+
+它不修改：
+- A'事故物理权威；
+- Visual Bible；
+- Canon；
+- Timing 1是否最终采用。
+
+若#37更换Opening场景，本文件保留为历史/功能参考，不强制复用。
