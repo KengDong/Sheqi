@@ -4,56 +4,69 @@
 - role: editor_in_chief / 总评审
 - status: ACTIVE
 - current_issue: #36 Commercial Prose Calibration + A-T1 Legibility
+- queued_next: #37 First-Volume Novelty & Payoff Engine Pass
 
 ## LAST COMPLETED TASK
-- task: 将“热门小说借鉴”从结构Benchmark升级为完整正文执行Benchmark
+- task: 整合并冻结“第一卷高频横向新鲜感 + 纵向秘密 + 爽感回报”作者方向，安排#37
 - completed_at: 2026-09-22
 - outputs:
-  - `reviews/2026-09-22_popular_novel_benchmark_scope_correction.md`
-  - `research/briefs/2026-09-22_commercial_prose_calibration_AT1_brief_v2.md`
+  - `reviews/2026-09-22_first_volume_novelty_payoff_direction.md`
+  - `research/briefs/2026-09-22_first_volume_novelty_payoff_engine_brief.md`
+  - `meta/DECISIONS.md` D-0045
 
 ## WHAT ACTUALLY HAPPENED
-- 作者指出反复返工的根因：项目一直学热门作品的结构，却没有真正把成熟商业小说的写法作为外部基准。
-- 现有Prose Bible/Reader-Language规则虽正确，但属于项目自我推导，缺少持续外部校准。
-- 正式升级为四层Benchmark：结构、场景构建、正文执行、读者体验。
-- 当前#36升级，不再只做Scene Map。
-- 计划建立固定参考池、功能Reference Cards、Commercial Prose Comparator与Human Prose Gate。
+- 作者明确否定“把真正好看的东西押到后期”的节奏。
+- 第一卷后续正式采用四发动机视角：正常修炼/行动、舍弃文明横向碰撞、价值回收/收集变现、中秘密到余世大秘密。
+- 惜物不再以文学呼应为主要价值，必须转成看得见的钱/物/工具/资源/市场入口等回报。
+- 尝余保持弱信号：只告诉陆野“值得查”，不能成为鉴宝答案机。
+- 余世大秘密前必须有中秘密/中大秘密，并且至少一半秘密节点产生可行动结论。
+- 现Story Engine的资格/复工/许可链需要在#37做Payoff Ledger和KEEP/COMPRESS/REPLACE/ADD审计。
+- #37已经完整建brief，但不打断#36；#36通过后立即启动#37。
 
 ## AUTHOR FEEDBACK
-- 希望《舍弃》至少放到热门小说中不会一眼像AI写的。
-- 借鉴应覆盖写作方式，不只是结构思路。
-- 不希望继续一轮一轮局部补洞。
+- 新人作者第一卷必须从头爽起来，不能等后期才有活路。
+- 想要“高频横向新鲜感 + 纵深大秘密”结合。
+- 读者要持续出现“原来这个设定还能这么用”的感受。
+- 惜物若没有收集、养成、捡漏、意外收入等实质回报，商业爽感不足。
 
 ## AUTHORITY / OUTPUTS
-- 方向修正：`reviews/2026-09-22_popular_novel_benchmark_scope_correction.md`
-- V2任务书：`research/briefs/2026-09-22_commercial_prose_calibration_AT1_brief_v2.md`
-- D-0044
-- 当前Issue：#36
+- 当前活动任务：`research/briefs/2026-09-22_commercial_prose_calibration_AT1_brief_v2.md` (#36)
+- 后续正式方向：`reviews/2026-09-22_first_volume_novelty_payoff_direction.md`
+- 后续正式brief：`research/briefs/2026-09-22_first_volume_novelty_payoff_engine_brief.md` (#37)
+- 决策：D-0044 + D-0045
+- 状态：`meta/STATE.md`
 
 ## DO NOT CONTINUE
-- 不让开头GPT直接重写A-T1。
-- 不继续局部换词。
-- 不冻结Timing 1。
-- 不把“像某作者”作为目标。
+- 不要为了#37打断#36正文商业基准校准。
+- 不要立即把M0—M6写进Canon或改Mystery Ladder。
+- 不要直接修改Approved Story Engine / Ch1—10章卡。
+- 不要把尝余升级为鉴宝UI。
+- 不要把收集养成写成每件垃圾都是宝。
+- 不要让收集/余器挤掉正常修炼。
 
 ## OPEN QUESTIONS
-- 新Benchmark能否真正解释为什么当前文本一眼像设计稿扩写？
-- Human Prose Gate是否足以阻止类似问题再次进入作者亲读？
-- A-T1 V2在外部商业基准校准后是否终于进入正常小说区间？
+- #36完成后，哪些Commercial Prose规则需要正式冻结？
+- #37三套发动机方案里，第一卷应偏收集/变现、偏文明横向，还是四轮均衡？
+- 当前Mystery Ladder需要多大程度前移中秘密，才既爽又不烧掉余世大谜底？
+- Story Engine哪些资格/复工流程应该压缩或替换？
 
 ## NEXT EXPECTED ACTION
-1. 等中段窗口完成#36 V2。
-2. 总评审审核Reference Cards + Human Prose Gate。
-3. 必要时正式升级Prose Bible / Pipeline。
-4. 再交开头GPT重写A-T1 V2。
+1. 等中段+衔接GPT完成#36并按handoff交付。
+2. 总评审审核#36，冻结Commercial Prose资产。
+3. 立即解除#37 BLOCKED状态。
+4. 同一中段+衔接窗口切换为 Novelty & Payoff Systems Architect，执行#37正式brief。
+5. #37总评审后再决定第一卷Outline Change，不直接开写Ch2—10。
 
 ## REQUIRED READS
 1. `meta/STATE.md`
 2. `reviews/2026-09-22_popular_novel_benchmark_scope_correction.md`
-3. #36 V2产物（完成后）。
+3. #36产物（完成后）
+4. `reviews/2026-09-22_first_volume_novelty_payoff_direction.md`
+5. `research/briefs/2026-09-22_first_volume_novelty_payoff_engine_brief.md`
 
 ## CONTEXT SNAPSHOT
-- 当前不是正文写作阶段。
-- A-T1略优但未冻结。
-- #36已升级为商业正文校准。
+- 当前#36仍是唯一ACTIVE执行任务。
+- #37已完整排队且为下一P0。
+- 第一卷目标正式变为：高频横向新鲜感 + 纵向秘密 + 可见回报。
+- A-T1仍只是PROVISIONAL BASE。
 - 开头/视觉/盲读暂停。
