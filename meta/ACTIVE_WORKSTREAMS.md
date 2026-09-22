@@ -5,22 +5,22 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: Authority Rewrite主体已审｜等待Targeted PATCH回交
-- gate: Targeted PATCH Re-review
+- current_task: Authority Rewrite Targeted PATCH Re-review
+- gate: First Collection Canon-fit + Ch7/Ch9 + STATE Navigation
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
-- status: ACTIVE
-- current_task: Authority Rewrite Targeted PATCH
+- status: PAUSED
+- current_task: DONE｜Authority Rewrite Targeted PATCH
 - authorized_by: total-editor review
 - current: `handoffs/mid_continuity/CURRENT.md`
-- brief: `research/briefs/2026-09-22_authority_rewrite_targeted_patch_brief.md`
-- patch_targets:
-  - 第一收藏Canon-fit
-  - 余扰/封存/退余
-  - Ch7/Ch9去教学关
-  - STATE权威导航清理
+- completed_outputs:
+  - `outline/assets/volume1_first_collection.md` v1.1
+  - `outline/chapter_cards/volume1_ch004_010.md` v2.1
+  - `reviews/2026-09-22_authority_rewrite_collection_patch_selfcheck.md`
+  - `meta/STATE.md`
 - deliver_to: editor_in_chief
+- waiting_for: Targeted PATCH Re-review
 
 ## opening_writer
 - status: PAUSED
@@ -56,10 +56,11 @@
    - Ch4—10
    - Self Red Team
 
-3. **Authority Rewrite Review｜主体PASS / TARGETED PATCH ACTIVE**
-   - Authority Consistency Gate
-   - Novelty & Payoff Gate
-   - 第一重点收藏Artifact/Canon-fit复核
+3. **Authority Rewrite Review｜主体PASS / TARGETED PATCH DONE / RE-REVIEW ACTIVE**
+   - 只复核第一收藏来源与Canon语法
+   - 只复核余扰/隔离/退余闭环
+   - 只复核Ch7/Ch9去教学关
+   - 只复核STATE权威导航
    - 决定是否放行Event-First Execution Validation
 
 4. **Opening Execution Validation**
