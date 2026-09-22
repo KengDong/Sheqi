@@ -3,7 +3,7 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: World Reframe Top-3 PATCH Re-review
+- current_gate: Book-Level Hit Concept Reframe
 
 ## LAST COMPLETED TASK
 - task: Event-First Execution Validation总评审
@@ -14,42 +14,28 @@
   - `handoffs/editor_in_chief/history/2026-09-22_event_first_execution_validation_pass.md`
 
 ## WHAT ACTUALLY HAPPENED
-- World Reframe主体研究PASS。
-- 10个方向（9新 + Traditional Control）确实完成了第一性原理比较，不是题材换皮。
-- 原Top 3：
-  - C1 缺位公民社会；
-  - C2 人格工业城；
-  - C3 家庭责任共同体。
-- 总评审不原样放行Prototype Duel，原因：
-  1. C1过于像总社会框架，容易把C2/C3吞成子接口；
-  2. C2值得保留，是目前最容易同场点燃Action/Money/Asset/Secret的候选；
-  3. C3主题深，但当前First-Page Combustion不足，容易“设定聪明但第一页不爆”；
-  4. Top 3理论社会密度很高，但D-0051要求的是“热门小说同架的真实开头爆发力”。
-- 已下发一次Targeted Sharpening PATCH：
-  - C1锁定第一卷稳定进件口；
-  - C2补First-Page Combustion Card；
-  - C3与C7/C8/C9现有候选重新竞争第三席；
-  - 三席必须真正互斥；
-  - 三候选必须先过Opening Combustion Gate。
-- 不重做Benchmark、不新增大候选池、不改Canon/Outline、不写Prototype。
+- 作者进一步明确最高目标，D-0053生效：
+  > **项目目标不是把《舍弃》做好，而是做出一部能和当前头部热门小说正面对读、一样好看/上瘾/新鲜的小说。**
+- “舍弃”已降级为Incumbent Candidate，不再是神圣前提。
+- 当前C1R / C2 / C8R不再作为最终Top3自动进入Prototype；统一降级为Sheqi-family Candidates。
+- 原World Prototype Duel暂停，等待更上游Book-Level Reframe。
+- 已启动两个独立上游：
+  1. market_scout｜Reader Obsession Market Scan：研究读者天然沉迷的生活/欲望/竞争/关系；
+  2. hit_concept_scout｜Independent Hit Concept Foundry：允许完全不用舍弃，从零提出整本小说级Concept。
+- 已创建Book-Level Hit Concept Reframe brief，等两份独立研究回交后由总评审统一合流。
+- 最终Top 4可以0个Sheqi候选，也可以全部Sheqi候选，不设配额。
+- 在真实匿名Prototype + clean-room blind read之前，不改Canon/Outline。
 
 ## AUTHOR FEEDBACK
-- 作者明确纠正总评审此前偏理论化的比较方法：
-  > **不能只看信息量和发动机数量。**
-  > **同样的信息量，读者就是会更偏爱某些欲望场域、生活冲突和社会戏。**
-  > **热门小说真正的优势包含“我就是更想看这个”，而不是理论等价。**
-- 已记录D-0052并加入当前Top3 PATCH。
-- 之后世界底盘评估必须区分：
-  1. 可写性 / 信息生产力；
-  2. **Reader Desire / Experience Preference**。
-- 前者高、后者低，仍然不能称为热门级底盘。
+- 作者强调第一性原理不是“围绕舍弃找最优解”。
+- 作者真正要的是：
+  > **最终成品达到热门头部小说级别的好看、上瘾、新鲜、一读不可收拾。**
+- 作者明确：
+  > **甚至可以不纠结于舍弃。**
+- 因此后续总评审不得再用“舍弃适配度 / 旧资产复用率”作为默认加分项。
+- 如果一个完全不同的新书Concept明显更强，必须如实推进Full Reboot Proposal。
+- 作者不应继续承担“指出我们优化错目标”的职责。
 
-- 作者认为传统修仙背景可能天然看头较小。
-- 作者要求不局限修仙，重新研究什么世界底盘能像热门小说一样新鲜、爆、上瘾。
-- 作者认为当前结构与《没钱修什么仙》的信息量/上瘾度仍不在一个级别。
-- 作者允许把研究拆给其它GPT窗口。
-- 作者有《没钱修什么仙》全文研究文档，可提供给项目。
-- 该研究不等于批准P2 Canon Change；最终改不改背景仍需作者Authority决定。
 ## AUTHORITY / OUTPUTS
 - Window reuse:
   - `meta/WINDOW_REUSE_PLAN.md`
@@ -81,16 +67,19 @@
 4. 是否需要Prose Editor定向修补后再进Blind Read。
 
 ## NEXT EXPECTED ACTION
-1. world_reframe立即执行Top-3 Sharpening PATCH。
-2. 回交后总评审只复核：
-   - C1是否从总框架收窄成可写发动机；
-   - C2第一屏是否真的爆；
-   - 第三席最终是谁；
-   - 三席是否非嵌套；
-   - 三张First-Page Combustion Card是否够资格实写。
-3. PASS后立即激活world_prototype：
-   > Top 3 + Traditional Control四篇受控冷开场。
-4. 仍不改Canon / Approved Outline。
+1. market_scout完成Reader Obsession Market Scan。
+2. hit_concept_scout独立完成至少12个整书级Concept并淘汰到Top 5。
+3. 总评审执行：
+   > `research/briefs/2026-09-22_book_level_hit_concept_reframe_brief.md`
+4. 将：
+   - 新Top 5；
+   - Sheqi-family C1R/C2/C8R；
+   - Traditional Control
+   放入同一候选池，不按来源加分。
+5. 内部只留Top 4 Book Candidates。
+6. 同一Opening Writer写匿名冷开场。
+7. 新clean-room blind reader只按“最好看/最想追”判断。
+8. 真实文本胜出后才提交作者选择与P2/Full Reboot Proposal。
 
 ## REQUIRED READS
 1. `reviews/2026-09-22_event_first_execution_validation_final_review.md`
