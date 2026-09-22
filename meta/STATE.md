@@ -528,22 +528,26 @@ Visual GPT暂停。
 
 ---
 
-# 已排队后续任务｜First-Volume Novelty & Payoff Engine Pass
+# 已排队后续任务｜Commercial First-Principles Volume 1 Rebuild
 
 Issue：
 > #37
 
 正式方向：
+> `meta/COMMERCIAL_FIRST_PRINCIPLES.md`
 > `reviews/2026-09-22_first_volume_novelty_payoff_direction.md`
 
-正式任务书：
-> `research/briefs/2026-09-22_first_volume_novelty_payoff_engine_brief.md`
+正式V2任务书：
+> `research/briefs/2026-09-22_first_volume_commercial_rebuild_brief_v2.md`
+
+旧V1：
+> `research/briefs/2026-09-22_first_volume_novelty_payoff_engine_brief.md`（历史保留，不再执行）
 
 状态：
 > **P0 / QUEUED / BLOCKED BY #36**
 
 执行身份：
-> 中段+衔接GPT -> Novelty & Payoff Systems Architect。
+> 中段+衔接GPT -> Commercial Story Showrunner。
 
 作者已批准：
 - 第一卷从头持续爽，不把活路押后期；
@@ -555,4 +559,17 @@ Issue：
 - 卷末必须有真实资产台阶，不只固定席位。
 
 执行顺序：
-> #36 Commercial Prose Calibration完成并通过总评审 -> 立即启动#37 -> 再大规模推进Ch2—10正文。
+> #36 Commercial Prose Calibration完成并通过总评审 -> 立即启动#37 V2，从零商业体检并允许挑战现Story Engine/章卡/入口/Timing -> 作者只看内部淘汰后的2套总方案 -> 再决定权威变更与正文。
+
+
+---
+
+# 商业第一性原理总则｜已启用
+
+正式文件：
+> `meta/COMMERCIAL_FIRST_PRINCIPLES.md`
+
+核心：
+> **作者不是基础QA。AI必须在作者看到之前，主动排查新鲜感、爽感、结算、可读性、AI味、场景、重复、动机与沉没成本。**
+
+“Frozen”只代表不能静默覆盖；若真实商业证据失败，可通过Proposal -> 独立审核 -> 作者批准重新打开。
