@@ -20,11 +20,11 @@
 - waiting_for: none
 
 ## opening_writer
-- status: ACTIVE
+- status: DONE / PAUSED
 - role: world_prototype / Controlled Book Opening Writer
-- current_task: Book-Level Prototype Duel
+- current_task: Book-Level Prototype Duel｜DONE
 - current: `handoffs/opening_writer/CURRENT.md`
-- brief: `research/briefs/2026-09-22_book_level_prototype_duel_brief.md`
+- output: `experiments/book_level_prototypes/`
 - deliver_to: fresh_book_blind_reader / editor_in_chief
 
 ## benchmark_deepread
@@ -71,7 +71,7 @@
 - waiting_for: Top-3 PATCH Re-review
 
 ## world_prototype
-- status: ACTIVE
+- status: DONE / PAUSED
 - execution_window: 复用“开头 / 主作者”窗口
 - current_task: Book-Level Prototype Duel
 - current: `handoffs/world_prototype/CURRENT.md`
@@ -89,11 +89,11 @@
 - current: `handoffs/visual/CURRENT.md`
 
 ## fresh_book_blind_reader
-- status: QUEUED / NEW CLEAN WINDOW REQUIRED
+- status: ACTIVE / NEW CLEAN WINDOW REQUIRED
 - execution_window: 必须新开全新GPT窗口
 - current_task: Fresh Book Prototype Blind Read
 - brief: `research/briefs/2026-09-22_book_prototype_fresh_blind_read_brief.md`
-- blocked_by: Book-Level Prototype Duel DONE
+- input_ready: A/B/C/D prototypes complete
 - deliver_to: editor_in_chief
 
 ## blind_reader
@@ -177,5 +177,5 @@
 - Popular Fiction Benchmark Gate：DONE
 - Sheqi-family C1R/C2/C8R：HOLD AS CANDIDATES
 - Book-Level Synthesis：DONE / Prototype Pool APPROVED
-- Prototype Duel：ACTIVE
-- Fresh Clean-Room Blind Read：QUEUED
+- Prototype Duel：DONE
+- Fresh Clean-Room Blind Read：ACTIVE
