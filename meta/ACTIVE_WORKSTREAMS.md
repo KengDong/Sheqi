@@ -43,11 +43,17 @@
 - deliver_to: editor_in_chief
 
 ## hit_concept_scout
-- status: ACTIVE
-- execution_window: **新开独立窗口**
-- current_task: Hit Concept Foundry｜整书级概念从零重选
+- status: DONE
+- execution_window: 新开独立窗口
+- current_task: Hit Concept Foundry｜DONE
 - current: `handoffs/hit_concept_scout/CURRENT.md`
-- brief: `research/briefs/2026-09-22_hit_concept_foundry_brief.md`
+- output: `research/design/2026-09-22_hit_concept_foundry.md`
+- top5:
+  - C01《明天已经卖掉》
+  - C03《人格股份有限公司》
+  - C02《热搜成真以后》
+  - C12《替有钱人渡劫》
+  - C08《职业遗产》
 - deliver_to: editor_in_chief
 
 ## world_reframe
@@ -152,7 +158,7 @@
 ## Book-Level Hit Concept Reframe｜ACTIVE UPSTREAM
 - D-0053：Hit Fiction First
 - Reader Obsession Market Scan：ACTIVE
-- Independent Hit Concept Foundry：ACTIVE
+- Independent Hit Concept Foundry：DONE
 - Sheqi-family C1R/C2/C8R：HOLD AS CANDIDATES
 - Book-Level Synthesis：QUEUED
 - Prototype Duel：BLOCKED UNTIL NEW TOP 4
