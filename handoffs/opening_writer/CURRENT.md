@@ -1,10 +1,10 @@
 # 开头 / 主作者｜CURRENT HANDOFF
 
 ## ROLE
-- role: opening_writer / Formal Chapter Draft Writer
-- status: PAUSED
-- current_task: none
-- next_task: Event-First Execution Validation -> Formal Ch1
+- role: opening_writer / Opening Execution Writer
+- status: ACTIVE
+- current_task: Event-First Execution Validation
+- brief: `research/briefs/2026-09-22_event_first_execution_validation_brief.md`
 
 ## LAST COMPLETED TASK
 - task: #38 PATCH终审
@@ -12,59 +12,71 @@
 - final_audit: `reviews/2026-09-22_issue38_patch_final_shelf_test.md`
 
 ## WHAT ACTUALLY HAPPENED
-- #38三个V2微样本均PASS。
-- 新总评审独立复核后，#38通过范围明确收窄为：
-  > 高压可视化 / 核心机制入门 / 日常活人感三类微场景能力PASS。
-- 不等于完整章节能力已经证明。
-- Event-First是preferred baseline，但完整“真切味 -> 无即时力量 -> 正常筑基 -> 救援继续”尚未按新版Scene Spine重新验证。
-- 正式Ch1仍未开始。
+- #38三个V2微样本PASS，但只证明微场景能力，不证明完整章节。
+- 作者D-0048已批准AC-Hybrid Authority Rewrite。
+- 总评审D-0049已正式通过新版：
+  - Story Engine V2；
+  - Phase Outline V2；
+  - Ch1—10；
+  - Ch1 Event-First Scene Spine；
+  - 第一重点收藏。
+- Event-First当前：
+  > 结构层PASS / 执行层未验证。
+- 本轮正式激活：
+  > **Event-First Execution Validation。**
+- 本轮不是正式Ch1，只写一段连续小说样本验证完整因果链。
 
 ## AUTHOR FEEDBACK
-- 作者要求所有窗口以后自己把交接和下一任务写进Git，不再依赖手工复制。
-- 作者希望#37/#38之后进入实际权威改写和正式写作链，不再无限训练Writer。
+- 作者要求后续窗口按Git CURRENT自动恢复，不再手工复制长任务。
+- 作者不希望继续无限研究/校准，要尽快进入真实正文生产，但基础QA必须在作者前完成。
 
 ## AUTHORITY / OUTPUTS
-- Final Shelf Test:
-  - `reviews/2026-09-22_issue38_patch_final_shelf_test.md`
-- Sample A V2:
-  - `experiments/prose_calibration/2026-09-22_opening_writer_scene_clarity_sample_v2.md`
-- Sample B V2:
-  - `experiments/prose_calibration/2026-09-22_opening_writer_core_mechanism_sample_v2.md`
-- Sample C V2:
-  - `experiments/prose_calibration/2026-09-22_opening_writer_human_texture_sample_v2.md`
-- Formal prose assets:
-  - `meta/COMMERCIAL_PROSE_REFERENCE_CARDS.md`
+- Authority Rewrite Final:
+  - `reviews/2026-09-22_authority_rewrite_targeted_patch_final_review.md`
+- Approved Ch1 Scene Spine:
+  - `outline/scene_spines/volume1_ch001.md`
+- Approved Ch1—3 Cards:
+  - `outline/chapter_cards/volume1_ch001_003.md`
+- Human Prose:
   - `meta/HUMAN_PROSE_GATE.md`
+  - `meta/COMMERCIAL_PROSE_REFERENCE_CARDS.md`
+- Active brief:
+  - `research/briefs/2026-09-22_event_first_execution_validation_brief.md`
 
 ## DO NOT CONTINUE
-- 不继续写新的微样本训练。
-- 不把三个V2样本拼成Ch1。
-- 不自己决定Opening Scene Spine。
-- 不在Authority Rewrite完成前写正式Ch1。
-- 不把Sample B的解释密度当固定模板。
-- 不把微场景PASS理解为整章PASS。
+- 不写正式完整Ch1。
+- 不写Ch2。
+- 不重开A/C。
+- 不修改Scene Spine /章卡 / Canon。
+- 不把旧A-T1/C-T2或#38样本当模板拼接。
+- 不为了防误读写成机制白皮书。
+- 不自己宣布Event-First最终冻结。
 
 ## OPEN QUESTIONS
-1. 新Authority Rewrite最终如何定义Opening Scene Spine。
-2. Event-First完整执行链是否通过新Scene Spine验证。
-3. 正式Ch1整章级节奏/POV/转场是否通过。
+1. 连续真实文字能否让第一次读者自然理解“舍味不产力量”。
+2. 是否能在高压救援不中断的情况下解释到刚好够用。
+3. 是否仍有Scene Spine扩写感 / API对白 / AI防误读痕迹。
 
 ## NEXT EXPECTED ACTION
-1. 等作者P1批准并完成Authority Rewrite。
-2. 等新的Opening Scene Spine与Ch1—3章卡。
-3. 接Event-First Execution Validation短任务。
-4. 通过后再写正式完整Ch1。
-5. 正式Ch1必须过Human Prose Gate + Commercial Shelf Test + Independent Red Team。
+- 立即完整执行：
+  > `research/briefs/2026-09-22_event_first_execution_validation_brief.md`
+- 输出样本 + Writer Selfcheck。
+- 更新CURRENT + history。
+- 完成后状态切：
+  > PAUSED / AWAITING TOTAL EDITOR REVIEW
+- 然后停止。
 
 ## REQUIRED READS
-1. `meta/TASK_DISPATCH_PROTOCOL.md`
-2. `meta/ACTIVE_WORKSTREAMS.md`
-3. 未来由总评审写入CURRENT的正式Event-First/Ch1 brief
+1. `research/briefs/2026-09-22_event_first_execution_validation_brief.md`
+2. `outline/scene_spines/volume1_ch001.md`
+3. `outline/chapter_cards/volume1_ch001_003.md`
+4. `meta/HUMAN_PROSE_GATE.md`
+5. `meta/COMMERCIAL_PROSE_REFERENCE_CARDS.md`
+6. `reviews/2026-09-22_authority_rewrite_targeted_patch_final_review.md`
 
 ## CONTEXT SNAPSHOT
-- #38 DONE as micro-scene calibration。
-- Writer暂停。
-- 当前阻塞在上游Authority Rewrite。
-- Event-First优先，但完整执行链待验证。
-- 不再无限校准微样本。
-- 后续任务由Git CURRENT自动派发。
+- AC-Hybrid Authority Rewrite PASS。
+- Event-First结构PASS。
+- 当前只验证执行，不重做设计。
+- 目标链：真切味 -> 无即时力量 -> 正常修炼续上 -> 筑基 -> 稳定离体 -> 机械制动持续 -> 救援继续。
+- Formal Ch1仍未解锁。
