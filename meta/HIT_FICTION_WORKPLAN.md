@@ -1,6 +1,6 @@
 ---
 status: active
-version: 1.0
+version: 1.1
 created_at: 2026-09-22
 authority: process
 canon_effect: none
@@ -99,18 +99,27 @@ authorized_by: meta/DECISIONS.md D-0053
 ### 前置
 A1 + A2均DONE。
 
-### 候选池
-统一放入：
+### Stage B1｜热门头部Benchmark Gate
+先把：
 - Hit Concept Foundry Top 5；
-- C1R 缺位复归；
-- C2 人格工业；
-- C8R 舍险契约；
-- Traditional Control。
+- Reader Obsession报告产生的新增挑战者（若有）；
+- Sheqi-family C1R / C2 / C8R / Traditional Control；
 
-不按来源加分。
+**分别独立对标真实热门头部作品。**
+
+热门作品才是标尺，《舍弃》不是标尺。
+
+直接问：
+> **这个候选如果今天和《没钱修什么仙》及其他成熟热门作品一起摆在读者面前，够不够吸引、够不够想追？**
+
+明显掉档：
+> **直接淘汰，不进入Prototype。**
+
+### Stage B2｜Prototype Candidate Selection
+只从通过Popular Benchmark Gate的候选中选择Top 4。
 
 ### 任务
-不是打理论总分。
+不是打理论总分，也不是先比较“谁比Sheqi强”。
 
 必须重点看：
 - 我是否本能想点；
@@ -125,13 +134,13 @@ A1 + A2均DONE。
 - 100万字后是否仍然有新的欲望层级。
 
 ### 最终
-只留：
-> **Top 4 Book Candidates**
+先形成：
+> **Popular Benchmark Pass List**
 
-允许：
-- 0个Sheqi；
-- 1—4个Sheqi；
-- 4个全新概念。
+然后只留：
+> **Top 4 Prototype Candidates**
+
+Sheqi-family可以0个入选，不设保底名额。
 
 ### 输出
 总评审Synthesis + 新Prototype brief。
@@ -200,9 +209,10 @@ Writer：
 # Phase E｜Authority Decision
 
 总评审合流：
+- Popular Benchmark Gate；
 - Prototype实际读感；
 - clean-room结果；
-- D-0051 / D-0052 / D-0053。
+- D-0051 / D-0052 / D-0053 / D-0054。
 
 然后才向作者提交：
 > **1—2个真正胜出的整书方向。**
