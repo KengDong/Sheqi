@@ -1,9 +1,10 @@
 ---
-status: authority-rewrite-pending-review
+status: approved-outline-support
 version: 1.1
 created_at: 2026-09-22
-authority: author-authorized-outline-support
+authority: author-delegated-editorial-approved
 authorized_by: meta/DECISIONS.md D-0048
+source_final_review: reviews/2026-09-22_authority_rewrite_targeted_patch_final_review.md
 canon_effect: none
 outline_effect: supports-volume1-ch004-010
 scope: 第一卷第一重点收藏
