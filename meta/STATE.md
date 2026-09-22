@@ -1,3 +1,24 @@
+# Dual Finalist 3-Chapter Reader Validation｜ACTIVE
+
+B / D三章包已完成。
+
+## ACTIVE
+1. Returning Reader Continuation Test
+2. Second Fresh 3-Chapter Shelf Test
+
+## WRITER WINDOW STATUS
+- 原 opening_writer：**RETIRED / CONTEXT LIMIT REACHED**
+- future writer：`handoffs/book_writer_v2/CURRENT.md`
+- Book Writer V2：QUEUED / NEW WINDOW REQUIRED
+
+## HARD RULE
+> 两路Reader结果回来前不继续写Ch4。
+
+NEXT：
+> 两份独立三章读感 -> 总评审Final Book Direction Synthesis。
+
+---
+
 # Book Finalists｜C01 vs C12
 
 Fresh Blind已完成并揭盲。
@@ -116,7 +137,7 @@ NEXT：
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：** D-0055 Good Novel First -> C01/C12 Finalist Opening Arc Stress Test ACTIVE
+**阶段：** D-0055 Good Novel First -> Dual Finalist 3-Chapter Reader Validation ACTIVE
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷AC-Hybrid权威化日期：**2026-09-22  
