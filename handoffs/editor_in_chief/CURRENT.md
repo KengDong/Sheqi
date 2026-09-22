@@ -3,7 +3,7 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: Formal Ch1 Total Editor Gate
+- current_gate: World Background Direction Review
 
 ## LAST COMPLETED TASK
 - task: Event-First Execution Validation总评审
@@ -14,23 +14,26 @@
   - `handoffs/editor_in_chief/history/2026-09-22_event_first_execution_validation_pass.md`
 
 ## WHAT ACTUALLY HAPPENED
-- Event-First Execution Validation V1总评审PASS。
-- 核心因果已通过真实连续文字证明：
-  > 真切味 -> 舍后第一次仍失败 -> 原本正常修炼接上 -> 筑基 -> 稳定离体 -> 机械持续制动 -> 救援继续。
-- “舍味=直接发力量”误读风险已降到可接受范围。
-- Human Prose重点Gate通过。
-- 样本仍有少量“防误读过度保护”痕迹，但属于Formal Ch1 craft，不阻塞Timing。
-- D-0050已生效：
-  > Event-First正式冻结为Opening Baseline。
-- A-T1退出当前执行路径，仅保留historical fallback。
-- Formal Ch1 V1已正式派发给opening_writer。
-- Execution Validation样本明确不得直接扩写/拼接成正式Ch1。
-
+- Formal Ch1 V1已经写完，但作者重新打开了更上游的问题：
+  > **传统修仙是否天然限制《舍弃》的信息量、新鲜感和上瘾度。**
+- 为避免沉没成本，Formal Ch1 V1暂不总审，封存为：
+  > **传统修仙底盘Control Sample。**
+- Canon / Approved Outline暂不修改。
+- 已建立并行World Background Reframe研究支线：
+  1. benchmark_deepread｜《没钱修什么仙》全文深读，等待用户上传研究源；
+  2. market_scout｜2024—2026跨题材热门世界底盘扫描，ACTIVE；
+  3. world_reframe｜结合两份研究，提出至少8个《舍弃》世界底盘候选，QUEUED；
+  4. world_prototype｜Top 3 + 传统修仙Control做控制变量冷开场对撞，QUEUED；
+  5. 最终交clean-room blind_reader，只看文本决定谁更想读。
+- 外部小说全文不进Git；原文进入Library，Git只存来源索引和派生研究。
+- `research/sources/BENCHMARK_SOURCE_INDEX.md` 已建立。
 ## AUTHOR FEEDBACK
-- 作者要求验证做完后由总评审直接审批并继续推进。
-- 作者不希望继续Opening理论研究。
-- Git-native task dispatch继续执行。
-
+- 作者认为传统修仙背景可能天然看头较小。
+- 作者要求不局限修仙，重新研究什么世界底盘能像热门小说一样新鲜、爆、上瘾。
+- 作者认为当前结构与《没钱修什么仙》的信息量/上瘾度仍不在一个级别。
+- 作者允许把研究拆给其它GPT窗口。
+- 作者有《没钱修什么仙》全文研究文档，可提供给项目。
+- 该研究不等于批准P2 Canon Change；最终改不改背景仍需作者Authority决定。
 ## AUTHORITY / OUTPUTS
 - Decision:
   - `meta/DECISIONS.md` D-0050
@@ -58,18 +61,13 @@
 4. 是否需要Prose Editor定向修补后再进Blind Read。
 
 ## NEXT EXPECTED ACTION
-1. 等opening_writer完成 `drafts/volume1/ch001_v1.md` 与Writer Selfcheck。
-2. 总评审做Formal Ch1 Gate；“没有硬伤”不构成PASS。
-3. 若主体可救：
-   - 派发独立Prose / Humanization；
-   - 做Top-Tier Shelf Parity Comparator；
-   - 做Independent Red Team；
-   - 第一章默认做Fresh Blind Read。
-4. 只有AI团队已经认为“可与热门商业小说正面对读”时，才交作者。
-5. 若同架明显掉一档：
-   - 继续内部返修；
-   - 不把基础体验问题交给作者发现。
-
+1. 用户上传《没钱修什么仙》研究源后，存入Library而非Git，并激活benchmark_deepread。
+2. market_scout立即执行跨题材热门世界底盘扫描。
+3. 两份报告完成后激活world_reframe。
+4. world_reframe筛Top 3后激活world_prototype。
+5. 由clean-room blind_reader对Top 3 + 当前传统修仙Control做真实文本对撞。
+6. 总评审最终只提交给作者：哪些背景明显更强、改动级别、是否值得推翻当前Traditional-Xianxia Base。
+7. 在作者决定前：不改Canon、不写Ch2、不继续打磨Traditional Ch1。
 ## REQUIRED READS
 1. `reviews/2026-09-22_event_first_execution_validation_final_review.md`
 2. `research/briefs/2026-09-22_formal_ch001_v1_draft_brief.md`
