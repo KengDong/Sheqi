@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：** Bible V1.0 Frozen -> AC-Hybrid Authority Rewrite PASS -> Event-First PASS -> Formal Ch1 V1 DONE/HOLD -> World Background Reframe Research ACTIVE
+**阶段：** Bible V1.0 Frozen -> AC-Hybrid Authority Rewrite PASS -> Event-First PASS -> Formal Ch1 V1 DONE/HOLD -> Benchmark+Market DONE -> World Reframe ACTIVE
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷AC-Hybrid权威化日期：**2026-09-22  
@@ -111,6 +111,29 @@ Mystery导航：
 3. 通过后进入独立Prose / Red Team / 必要时Fresh Blind Read
 
 
+
+# Benchmark + Market Research｜DONE
+
+上游两份研究均已完成并由总评审合流：
+- `research/reports/2026-09-22_no_money_cultivation_deepread.md`
+- `research/reports/2026-09-22_crossgenre_background_market_scan.md`
+- `reviews/2026-09-22_world_background_research_consolidation.md`
+
+稳定结论：
+> **真正要比较的不是“修仙 / 都市 / 末世”，而是“单轴修炼世界 / 多社会接口的舍弃文明”。**
+
+当前：
+> **World Reframe ACTIVE。**
+
+执行窗口：
+> 中段+衔接窗口转职 world_reframe。
+
+正式brief：
+> `research/briefs/2026-09-22_sheqi_world_reframe_brief.md`
+
+Canon / Approved Outline暂不修改。
+
+---
 # World Background Reframe｜ACTIVE
 
 作者于2026-09-22重新打开上游问题：
