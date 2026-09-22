@@ -6,6 +6,7 @@ authority: research-proposal
 canon_effect: none
 outline_effect: none
 source_review: reviews/2026-09-22_world_reframe_top3_total_editor_review.md
+authorized_by: meta/DECISIONS.md D-0052
 ---
 
 # World Reframe Top-3 Sharpening PATCH
@@ -89,3 +90,98 @@ source_review: reviews/2026-09-22_world_reframe_top3_total_editor_review.md
 - 不写Prototype正文；
 - 不因理论分数选第三席；
 - 不把Traditional Control移出后续四篇对撞。
+
+
+## 8. D-0052追加Hard Gate｜Reader Desire / Experience First
+
+本PATCH不得再按“理论世界评分”挑Top 3。
+
+### A. 先问“这些故事我想不想看”
+每个候选必须列出：
+> **12个它最自然高频产出的章节级故事钩子。**
+
+要求：
+- 不写制度名词堆砌；
+- 每条1—2句；
+- 即使陌生读者还没学世界观，也应能产生阅读欲；
+- 至少覆盖：
+  - 钱/翻身；
+  - 地位/竞争；
+  - 关系/熟人秘密；
+  - 身体/人格选择；
+  - 阶层差；
+  - 禁忌/犯罪/灰产；
+  - 高价值机会；
+  - 舆论/名声或公开输赢
+  中的6类以上。
+
+### B. Chapter-Menu Test
+把候选世界想象成一本已经连载100章的热门书。
+
+只看章节事件菜单，问：
+> **我会不会真的想点进去？**
+
+若高频菜单主要是：
+- 工伤复评；
+- 旧件检测；
+- 保险理赔；
+- 设备停线；
+- 责任评估；
+- 制度纠纷；
+
+即使信息耦合很高，也不能据此称为头部底盘。
+
+### C. Self-Projection Test
+每个候选必须给出至少5个读者会自然产生：
+> **“如果是我，我会怎么选？”**
+的问题。
+
+例如：
+- 多拿三倍工资，代价是预签某种永久舍备，签不签？
+- 恋人隐瞒了一项会长期影响共同生活的缺位，要不要结婚？
+- 家里只够保全一个人的突破，保谁？
+- 某种缺位让你更适合一个高薪岗位，但会失去另一种人生可能，选不选？
+
+这些选择必须是：
+> 普通读者能感到痛痒的。
+
+### D. Social Spectacle Test
+世界必须天然产出“旁观别人也很好看”的事件。
+
+不能所有趣味都依赖陆野。
+
+至少给出5类：
+- 热门争议；
+- 极端案例；
+- 富人玩法；
+- 穷人玩法；
+- 黑市/骗局；
+- 名人/组织丑闻；
+- 公共事件
+中的具体例子。
+
+### E. Familiar Desire × Strange Rule
+最终Top 3优先选择：
+> **现实中已经高兴趣的欲望场域**
+> ×
+> **舍弃造成的陌生变化**
+
+而不是单纯选择社会接口最多的方案。
+
+### F. 重新允许所有原候选竞争
+D-0052生效后，原“C2保留Top席”取消自动保送。
+
+C1/C2/C3/C7/C8/C9均可重新比较；
+C4/C5/C6如果在Reader Desire上明显更强，也允许作为挑战者回到第三席竞争，但不得重开大候选池。
+
+### G. 输出新增
+必须在：
+`research/design/2026-09-22_world_reframe_top3_combustion_cards.md`
+中，为每个最终候选新增：
+- 12条 Chapter Desire Menu；
+- 5条 Self-Projection Choice；
+- 5类 Social Spectacle；
+- 一段“为什么普通读者会偏爱看这种生活/冲突”的说明。
+
+最终自检必须回答：
+> **如果信息量相同，我为什么更愿意看它，而不是另一个候选？**
