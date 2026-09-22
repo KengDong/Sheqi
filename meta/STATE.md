@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：**Bible V1.0 Frozen -> Draft V0否决 -> High-Voltage Opening收敛 -> Author Read完成 -> A-T1 Scene Legibility Rewrite  
+**阶段：**Bible V1.0 Frozen -> Draft V0否决 -> High-Voltage Opening收敛 -> Author Read完成 -> Commercial Prose Calibration + A-T1 Legibility  
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷发动机批准日期：**2026-09-21  
@@ -472,22 +472,31 @@ Writer自检：
 
 ---
 
-# 当前活动任务｜A-T1 Scene Legibility Rewrite
+# 当前活动任务｜Commercial Prose Calibration + A-T1 Legibility
 
-任务书：
-> `research/briefs/2026-09-22_AT1_scene_legibility_rewrite_brief.md`
+作者再次修正：
+> “借鉴热门小说”必须包含正文执行方式，不能只借结构/Hook。
+
+方向说明：
+> `reviews/2026-09-22_popular_novel_benchmark_scope_correction.md`
+
+正式V2任务书：
+> `research/briefs/2026-09-22_commercial_prose_calibration_AT1_brief_v2.md`
 
 执行窗口：
-> 中段+衔接GPT -> Scene Legibility Editor。
+> 中段+衔接GPT -> Commercial Prose Benchmark Editor。
 
 本轮不写小说。
-先解决：
-- 场景最低空间图；
-- 物件第一次怎么让读者看见；
-- API式对白；
-- “借载”功能先于名词；
-- “舍味”第一次完整读者模型；
-- 普通同工救援的动机尺度。
+
+先建立：
+- 小型成熟商业网文正文参考池；
+- 功能Reference Cards；
+- HUMAN PROSE GATE；
+- A-T1文本差距审计；
+- 再做Scene Map / Reader-Language Patch。
+
+目标：
+> **不只“看得懂”，还要先进入成熟商业网文正常写法的分布。**
 
 开头GPT暂停。
 Visual GPT暂停。
@@ -496,13 +505,13 @@ Visual GPT暂停。
 
 # 下一阶段
 
-1. 完成A-T1 Scene Legibility编辑资产；
-2. 总评审核场景图/物件首见/舍味解释；
-3. 开头GPT据此重写A-T1 V2；
-4. 作者再次亲读A-T1 V2；
-5. 若明显成立，冻结Timing 1；
-6. 若仍不成立，再回看C或第三节拍，不硬保A；
-7. 时序冻结后重开Ch1—5 Opening Run与必要Ch6—10接口。
+1. 完成商业正文Benchmark / Reference Cards / HUMAN PROSE GATE；
+2. 完成A-T1相对成熟商业网文的文本差距审计；
+3. 总评审冻结可复用的商业正文校准规则；
+4. 再审核A-T1 Scene Map / Reader-Language Patch；
+5. 开头GPT基于“功能参考卡 + Human Prose Gate”重写A-T1 V2；
+6. 作者再次亲读；
+7. 若明显成立，冻结Timing 1；若仍不成立，不硬保A。
 
 ## 故意仍不锁死
 
