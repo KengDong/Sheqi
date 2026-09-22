@@ -8,8 +8,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: Book-Level Hit Concept Reframe调度
-- gate: Reader Obsession + Hit Concept Foundry Upstream
+- current_task: Hit Fiction候选总评审调度
+- gate: Popular Fiction Benchmark Gate
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -27,19 +27,21 @@
 - blocked_by: World Background Reframe decision
 
 ## benchmark_deepread
-- status: DONE
-- current_task: 《没钱修什么仙》全文深读完成
-- execution_window: 复用旧“结构盲读 / Reader-Language”窗口
+- status: ACTIVE
+- role: hit_benchmark_comparator
+- execution_window: 复用旧“结构盲读 / Benchmark Deep Read”窗口
+- current_task: Hit Candidate Popular Benchmark Gate
 - current: `handoffs/benchmark_deepread/CURRENT.md`
-- report: `research/reports/2026-09-22_no_money_cultivation_deepread.md`
-- deliver_to: world_reframe / editor_in_chief
+- brief: `research/briefs/2026-09-22_hit_candidate_popular_benchmark_brief.md`
+- prior_report: `research/reports/2026-09-22_no_money_cultivation_deepread.md`
+- deliver_to: editor_in_chief
 
 ## market_scout
-- status: ACTIVE
+- status: DONE
 - execution_window: 复用Market Scout窗口
-- current_task: Reader Obsession Market Scan
+- current_task: Reader Obsession Market Scan｜DONE
 - current: `handoffs/market_scout/CURRENT.md`
-- brief: `research/briefs/2026-09-22_reader_obsession_market_scan_brief.md`
+- output: `research/reports/2026-09-22_reader_obsession_market_scan.md`
 - deliver_to: editor_in_chief
 
 ## hit_concept_scout
@@ -157,8 +159,9 @@
 
 ## Book-Level Hit Concept Reframe｜ACTIVE UPSTREAM
 - D-0053：Hit Fiction First
-- Reader Obsession Market Scan：ACTIVE
+- Reader Obsession Market Scan：DONE
 - Independent Hit Concept Foundry：DONE
+- Popular Fiction Benchmark Gate：ACTIVE
 - Sheqi-family C1R/C2/C8R：HOLD AS CANDIDATES
 - Book-Level Synthesis：QUEUED
 - Prototype Duel：BLOCKED UNTIL NEW TOP 4
