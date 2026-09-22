@@ -2,8 +2,8 @@
 
 ## ROLE
 - role: world_reframe / Commercial World Engine Editor
-- status: PAUSED / AWAITING TOTAL EDITOR REVIEW
-- current_task: DONE｜World Reframe Top-3 Sharpening PATCH
+- status: PAUSED / SHEQI-FAMILY HOLD
+- current_task: HOLD｜Sheqi-family候选集，等待Book-Level Hit Concept Reframe
 - brief: `research/briefs/2026-09-22_world_reframe_top3_sharpening_patch_brief.md`
 - source_review: `reviews/2026-09-22_world_reframe_top3_total_editor_review.md`
 
