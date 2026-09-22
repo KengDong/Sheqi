@@ -1007,3 +1007,42 @@ A-T1自此退出当前执行路径，仅保留historical fallback。
 > **Formal Ch1 Draft。**
 
 Formal Ch1必须从当前Approved Scene Spine重新写，不得把Execution Validation样本直接扩写或拼接成正式章。
+
+
+## D-0051 第一性原理升级｜热门小说同架质量门 + 作者前零基础QA
+**状态：作者明确要求，2026-09-22生效**
+
+作者明确：
+> **《舍弃》的目标不是“设定好 / 结构对 / 没明显问题”，而是读者读起来就觉得这是另一部很好看的热门小说。**
+>
+> **开头必须爆。**
+>
+> **作者不接受正式全文第一次拿到手时仍需要自己到处挑基础问题、感受哪里不自然，再反复解释给AI。**
+
+因此自本决策起：
+
+1. Formal正文交作者前，必须通过：
+   - Writer Selfcheck；
+   - Total Editor Gate；
+   - Independent Prose / Humanization Pass；
+   - Top-Tier Shelf Parity Comparator；
+   - Independent Red Team；
+   - Fresh Blind Read（第一章默认必做）；
+   - 总评审最终合流。
+2. “没有硬伤 / 规则都对 / 机制清楚”不构成PASS。
+3. 如果与当前成熟热门商业小说同架时明显掉一档：
+   > **不得交作者。**
+4. 第一章必须实现高密度吸附：
+   - 事件压力；
+   - 主角可记忆性；
+   - 独特世界；
+   - 标题Concept兑现；
+   - 情绪 / 爽点；
+   - 强下一章欲望。
+5. 作者看到的版本应当已经是：
+   > **AI团队愿意当作可与热门作品正面对读的候选。**
+6. 若作者仍轻易发现明显AI味、人物不活、开头不抓、场景不清、解释过量、章节像功能卡等基础问题：
+   > **首先视为前置质量流程失败，而不是正常把基础QA交给作者。**
+
+正式总则：
+> `meta/COMMERCIAL_FIRST_PRINCIPLES.md` V1.1
