@@ -3,7 +3,7 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: Popular Fiction Benchmark Gate
+- current_gate: Book-Level Prototype Duel
 
 ## LAST COMPLETED TASK
 - task: Event-First Execution Validation总评审
@@ -14,29 +14,29 @@
   - `handoffs/editor_in_chief/history/2026-09-22_event_first_execution_validation_pass.md`
 
 ## WHAT ACTUALLY HAPPENED
-- D-0055已生效：
-  > 唯一第一性原理是“写出一部真正好看的小说”。
-- Reader Obsession Market Scan：DONE
-  - 报告：`research/reports/2026-09-22_reader_obsession_market_scan.md`
-  - 提炼14类High-Desire Story Territories + 8张Reader Mechanism Cards。
-- Independent Hit Concept Foundry：DONE
-  - 报告：`research/design/2026-09-22_hit_concept_foundry.md`
-  - 共14个整书Concept，Top5：
-    1. C01《明天已经卖掉》
-    2. C03《人格股份有限公司》
-    3. C02《热搜成真以后》
-    4. C12《替有钱人渡劫》
-    5. C08《职业遗产》
-- 当前不直接让Writer写。
-- 已激活独立热门同架体验审查：
-  - role: hit_benchmark_comparator
-  - 复用原Benchmark Deep Read窗口
-  - brief: `research/briefs/2026-09-22_hit_candidate_popular_benchmark_brief.md`
-- 该Gate只问：
-  > 候选本身是否真的有资格和成熟热门小说同架讨论？
-- 不把《舍弃》当标尺，也不做纯数值评分。
-- Gate完成后，总评审再选不超过4个Prototype候选。
-- 在此之前不改Canon/Outline，不启动正式新书Bible。
+- Reader Obsession Market Scan：DONE。
+- Hit Concept Foundry：DONE。
+- Popular Fiction Benchmark Gate：DONE。
+- Benchmark verdict：
+  - C01《明天已经卖掉》 PASS
+  - C12《替有钱人渡劫》 PASS
+  - C08《职业遗产》 PASS
+  - C10《死人也要履约》 PASS / Challenger Return
+  - C03《人格股份有限公司》 BORDERLINE / HOLD
+  - C02《热搜成真以后》 FAIL
+- 总评审已完成独立复核，不机械照抄原Top5。
+- 正式放行四个Prototype席：
+  - A = C10《死人也要履约》
+  - B = C01《明天已经卖掉》
+  - C = C08《职业遗产》
+  - D = C12《替有钱人渡劫》
+- 本轮不带Sheqi Control，不给旧项目保底席。
+- 已创建：
+  - `reviews/2026-09-22_book_level_hit_concept_total_editor_review.md`
+  - `research/briefs/2026-09-22_book_level_prototype_duel_brief.md`
+- opening_writer已转职world_prototype并ACTIVE。
+- Fresh Book Prototype Blind Read brief已预先排队，但必须等Prototype完成后用全新窗口执行。
+- 当前不改Canon/Outline，不立项。
 
 ## AUTHOR FEEDBACK
 - 作者进一步纠正D-0053后的评估顺序：
@@ -90,21 +90,16 @@
 4. 是否需要Prose Editor定向修补后再进Blind Read。
 
 ## NEXT EXPECTED ACTION
-1. hit_benchmark_comparator执行：
-   > `research/briefs/2026-09-22_hit_candidate_popular_benchmark_brief.md`
-2. 输出：
-   > `reviews/2026-09-22_hit_candidate_popular_benchmark_gate.md`
-3. 总评审读取Benchmark Gate：
-   - 淘汰“高概念但不够想看”的；
-   - 审查Borderline致命风险；
-   - 只从PASS/必要Borderline中选不超过4个Prototype候选。
-4. 通过后才重写world_prototype brief为“Book-Level Prototype Duel”。
-5. Opening Writer统一写匿名原型。
-6. 再新开真正clean-room blind reader。
-7. 真实文本结果出来前：
-   - 不立项；
-   - 不改Canon；
-   - 不讨论旧资产复用成本。
+1. opening_writer / world_prototype执行：
+   > `research/briefs/2026-09-22_book_level_prototype_duel_brief.md`
+2. 输出A/B/C/D四篇真实小说冷开场 + Writer Selfcheck。
+3. Writer停止，不排名。
+4. Prototype完成后：
+   - 新开从未参与项目的clean-room窗口；
+   - 执行：
+     > `research/briefs/2026-09-22_book_prototype_fresh_blind_read_brief.md`
+5. 盲读完成后，总评审做最终Book Direction Synthesis。
+6. 在此之前不改Canon/Outline，不做Full Reboot。
 
 ## REQUIRED READS
 1. `reviews/2026-09-22_event_first_execution_validation_final_review.md`
