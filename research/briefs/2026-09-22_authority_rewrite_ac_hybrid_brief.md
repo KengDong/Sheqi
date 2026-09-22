@@ -1,27 +1,31 @@
 ---
-status: blocked
+status: active
 version: 1.0
 document_type: authority-rewrite-brief
 project: 修仙先舍一件人间事
 created_at: 2026-09-22
 authority: process
 canon_effect: none
-outline_effect: author-approval-required
-blocked_by: author-p1-ac-hybrid-approval
+outline_effect: authorized-rewrite
+authorized_by: D-0048
 ---
 
 # Authority Rewrite｜AC-Hybrid 第一卷权威改写任务
 
-## 0. 启动条件
-本任务已经准备好，但当前**不得执行**。
+## 0. 启动状态
 
-唯一解锁条件：
-> 作者明确批准：按AC-Hybrid正式重开第一卷Approved Outline。
+本任务已于2026-09-22由作者明确P1批准，现正式**ACTIVE**。
 
-在作者明确批准前：
-- 不修改任何Approved Outline；
-- 不写正式Ch1；
-- 不把本brief视为权威变更。
+授权决策：
+> `meta/DECISIONS.md` D-0048
+
+允许按本brief正式重开并改写第一卷Approved Outline。
+
+仍然禁止：
+- 修改Canon；
+- 写正式Ch1；
+- 把Event-First当作已经完成新版完整执行验证；
+- 在第一重点收藏未过Gate前冻结Ch4—10。
 
 ## 1. 身份
 > **Commercial Story Showrunner / Authority Rewrite Editor**
