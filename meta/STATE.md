@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：** Bible V1.0 Frozen -> Commercial Rebuild通过 -> Author P1 AC-Hybrid批准 -> Authority Rewrite COMPLETE -> Awaiting Total Editor Review
+**阶段：** Bible V1.0 Frozen -> AC-Hybrid Authority Rewrite主体PASS -> Targeted PATCH ACTIVE
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷发动机批准日期：**2026-09-21  
@@ -50,7 +50,7 @@
 
 > **按 AC-Hybrid 正式重开第一卷 Approved Outline。**
 
-mid_continuity 已完成 Authority Rewrite，当前等待总评审。
+Authority Rewrite主体已完成总评审；当前进入定向PATCH，仅修第一收藏Canon-fit / Ch7-Ch9接口 / STATE导航。
 
 本轮已写回：
 - `outline/volume1_story_engine.md` v2.0
@@ -73,7 +73,7 @@ Opening：
 
 第一重点收藏：
 > **旧护角皮带（工作俗称：咬手带）**
-已完成合法来源、低端市场合理性、窄用途、余扰、第一次回用设计并过本轮内部Gate。
+当前**未过总评审Hard Gate**。槽位、合法低端来源、视觉记忆点保留；作者侧弃相来源、余器携带/退余闭环及第一次回用的“去教学关”需要定向PATCH。
 
 Canon：
 > **KEEP，不触发P2 Change。**
@@ -89,8 +89,8 @@ Secret Ladder：
 - 把本轮pending-review文件称为最终冻结。
 
 下一Gate：
-1. Authority Consistency Gate
-2. Novelty & Payoff Gate
+1. Authority Rewrite Targeted PATCH
+2. 总评审仅复核第一收藏 / Ch7-Ch9 / STATE导航
 3. Event-First Execution Validation
 4. 通过后才进入Formal Ch1 Draft
 
