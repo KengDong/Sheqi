@@ -3,7 +3,7 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: Fresh Book Prototype Blind Read
+- current_gate: Finalist Opening Arc Stress Test
 
 ## LAST COMPLETED TASK
 - task: Event-First Execution Validation总评审
@@ -14,28 +14,32 @@
   - `handoffs/editor_in_chief/history/2026-09-22_event_first_execution_validation_pass.md`
 
 ## WHAT ACTUALLY HAPPENED
-- Book-Level Prototype Duel：DONE。
-- 四篇真实匿名冷开场已完成：
-  - `experiments/book_level_prototypes/2026-09-22_proto_A_v1.md`
-  - `experiments/book_level_prototypes/2026-09-22_proto_B_v1.md`
-  - `experiments/book_level_prototypes/2026-09-22_proto_C_v1.md`
-  - `experiments/book_level_prototypes/2026-09-22_proto_D_v1.md`
-- Writer Selfcheck：DONE。
-- 总评审本轮没有先做内容排名，避免污染clean-room第一读。
-- Fresh Blind Read已正式ACTIVE：
-  - CURRENT: `handoffs/fresh_book_blind_reader/CURRENT.md`
-  - brief: `research/briefs/2026-09-22_book_prototype_fresh_blind_read_brief.md` V1.1
-- V1.1新增Absolute Read Test：
-  > 每篇先独立判断是否真的想点第二章；允许四篇全部FAIL。
-- Blind Reader第一轮禁止读取：
-  - AGENTS / STATE / DECISIONS；
-  - Concept Foundry；
-  - Benchmark Gate；
-  - Writer Selfcheck；
-  - 总评审；
-  - A/B/C/D映射；
-  - Sheqi旧资产。
-- 只有盲读回交后，总评审才揭盲并做Book Direction Synthesis。
+- Fresh Book Prototype Blind Read：DONE。
+- Clean-room输入边界严格遵守，Blind未读任何映射/Concept/Benchmark/总评审。
+- Absolute结果：
+  - A：PASS / 会继续试读，但未形成整本下注；
+  - B：STRONG PASS / 值得继续押整本；
+  - C：PASS WEAK / 高概念能力Demo感最强；
+  - D：STRONG PASS / 值得继续押整本。
+- 揭盲：
+  - A = C10《死人也要履约》
+  - B = C01《明天已经卖掉》
+  - C = C08《职业遗产》
+  - D = C12《替有钱人渡劫》
+- Popular Benchmark与Fresh Blind独立收敛：
+  > C01 + C12进入FINALIST。
+- C10转RESERVE；C08当前决赛退出。
+- 总评审未宣布C01/C12赢家。
+- 原因：
+  > 约2000字只能验证第一口，不能验证Concept褪色后的连续上瘾。
+- 已创建：
+  - `reviews/2026-09-22_book_direction_synthesis_after_fresh_blind.md`
+  - `research/briefs/2026-09-22_finalist_opening_arc_stress_test_brief.md`
+- opening_writer已ACTIVE，续写B/D的Ch2—Ch3。
+- 后续已预排双重验证：
+  1. 原Blind Reader续读，测Promise Delivery；
+  2. 第二个全新Reader从Ch1—3重读，测Fresh Shelf Experience。
+- 当前仍不改Canon/Outline，不建Full Bible，不正式立项。
 
 ## AUTHOR FEEDBACK
 - 作者进一步纠正D-0053后的评估顺序：
@@ -89,21 +93,28 @@
 4. 是否需要Prose Editor定向修补后再进Blind Read。
 
 ## NEXT EXPECTED ACTION
-1. 新开从未参与Sheqi项目的全新GPT窗口。
-2. 只执行：
-   > `handoffs/fresh_book_blind_reader/CURRENT.md`
-3. 第一轮只读blind brief + A/B/C/D四篇正文。
-4. 输出：
-   > `reviews/2026-09-22_book_prototype_fresh_blind_read.md`
-5. Blind Reader停止，不揭盲，不写修补方案。
-6. 回总评审。
-7. 总评审届时才：
-   - 揭盲；
-   - 对照Popular Benchmark；
-   - 判断是否已有值得继续押整本书的方向；
-   - 允许0个方向通过；
-   - 必要时再做最小修补或重开Concept Foundry。
-8. 在盲读完成前不改Canon/Outline，不正式立项。
+1. opening_writer执行：
+   > `research/briefs/2026-09-22_finalist_opening_arc_stress_test_brief.md`
+2. 完成：
+   - B Ch2—Ch3
+   - D Ch2—Ch3
+   - Writer Selfcheck
+3. Writer STOP，不写Ch4。
+4. 原fresh_book_blind_reader执行：
+   > `research/briefs/2026-09-22_finalist_returning_reader_continuation_brief.md`
+5. 再新开第二个clean-room reader执行：
+   > `research/briefs/2026-09-22_finalist_three_chapter_fresh_shelf_test_brief.md`
+6. 两份结果回总评审。
+7. 总评审决定：
+   - C01胜；
+   - C12胜；
+   - 双强继续更深；
+   - 双崩则回C10或重开Foundry。
+8. 最终书方向确定前：
+   - 不Full Bible；
+   - 不正式书名冻结；
+   - 不改Sheqi Canon/Outline；
+   - 不做旧资产迁移。
 
 ## REQUIRED READS
 1. `reviews/2026-09-22_event_first_execution_validation_final_review.md`
