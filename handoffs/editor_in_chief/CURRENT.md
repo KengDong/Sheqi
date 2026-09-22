@@ -27,6 +27,15 @@
 - 在真实匿名Prototype + clean-room blind read之前，不改Canon/Outline。
 
 ## AUTHOR FEEDBACK
+- 作者进一步纠正D-0053后的评估顺序：
+  > **新Concept不应该主要和《舍弃》比较。真正的质量标尺是热门头部小说。**
+- D-0054已生效：
+  1. Popular Fiction = Benchmark；
+  2. Sheqi = Incumbent Candidate；
+  3. 每个候选先独立过热门Benchmark Gate；
+  4. 明显不如热门作品的候选直接淘汰；
+  5. 只有都过线后，才讨论是否替换Sheqi以及重启成本。
+
 - 作者强调第一性原理不是“围绕舍弃找最优解”。
 - 作者真正要的是：
   > **最终成品达到热门头部小说级别的好看、上瘾、新鲜、一读不可收拾。**
@@ -73,15 +82,14 @@
 2. hit_concept_scout独立完成至少12个整书级Concept并淘汰到Top 5。
 3. 总评审执行：
    > `research/briefs/2026-09-22_book_level_hit_concept_reframe_brief.md`
-4. 将：
-   - 新Top 5；
-   - Sheqi-family C1R/C2/C8R；
-   - Traditional Control
-   放入同一候选池，不按来源加分。
-5. 内部只留Top 4 Book Candidates。
+4. Stage 1先做Head-to-Head Popular Fiction Benchmark Gate：
+   - 新Top 5逐一对标《没钱修什么仙》及其他有效头部热门样本；
+   - Sheqi-family若想进入后续，也必须独立过同一门；
+   - 明显掉档者直接淘汰。
+5. 只从Popular Benchmark Pass List里选Top 4 Prototype Candidates。
 6. 同一Opening Writer写匿名冷开场。
 7. 新clean-room blind reader只按“最好看/最想追”判断。
-8. 真实文本胜出后才提交作者选择与P2/Full Reboot Proposal。
+8. 都过热门Benchmark之后，才比较项目切换成本与是否Full Reboot。
 
 ## REQUIRED READS
 1. `reviews/2026-09-22_event_first_execution_validation_final_review.md`
