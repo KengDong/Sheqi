@@ -1,58 +1,66 @@
 # 开头 / 主作者｜CURRENT HANDOFF
 
 ## ROLE
-- role: opening_writer / Opening Writer
-- status: PAUSED
-- current_issue: none
-- queued_next: #undefined Opening Writer Commercial Prose Calibration
+- role: opening_writer / Commercial Prose Calibration Writer
+- status: ACTIVE
+- current_issue: #38 Opening Writer Commercial Prose Calibration
 
 ## LAST COMPLETED TASK
 - task: A-T1 / C-T2 Taste Timing Prose Duel
 - completed_at: 2026-09-22
+- current_trigger: #36 Commercial Prose Calibration已通过
 
 ## WHAT ACTUALLY HAPPENED
-- 作者亲读后A-T1略优，但Timing未冻结。
-- 项目随后发现更上游问题：成熟商业小说正文执行Benchmark不足，AI/设计稿味未被生产线提前挡住。
-- 当前#36由中段+衔接GPT建立Commercial Prose Benchmark / Reference Cards / Human Prose Gate。
-- 在#36标准未通过前，Opening Writer不得自行定义“像热门小说”的标准，也不得写完整第一章。
-- #36通过后，Opening Writer将启动#undefined，用三个700—1100字功能微样本证明自身正文执行能力。
-- #undefined可与#37第一卷商业重构并行：#37决定写什么，#undefined校准怎么写。
+- #36已正式建立成熟商业正文外部标尺。
+- Reference Cards与Human Prose Gate已成为正式流程资产。
+- 当前Opening Writer不写完整第一章，而先证明自身“怎么写”能力。
+- #38与#37并行：#37重构故事，#38只校准正文执行。
+- A-T1仍不是正式Opening；微样本只测试可迁移写作能力。
 
 ## AUTHOR FEEDBACK
-- 最终正文必须放进热门商业小说里也不像AI。
-- 作者不应继续承担基础场景/黑话/AI味排查。
-- 可以推翻旧设计，第一性原理优先。
+- 正文放在热门商业小说旁边不能一眼像AI/设计稿。
+- 作者不再替AI排查黑话、场景、对白、人味。
+- 第一性原理优先，旧A-T1可以被#37推翻。
 
 ## AUTHORITY / OUTPUTS
-- 商业总则：`meta/COMMERCIAL_FIRST_PRINCIPLES.md`
-- #36当前标准建设任务：`research/briefs/2026-09-22_commercial_prose_calibration_AT1_brief_v2.md`
-- #undefined未来任务：`research/briefs/2026-09-22_opening_writer_commercial_prose_calibration_brief.md`
+- 正式Reference Cards：`meta/COMMERCIAL_PROSE_REFERENCE_CARDS.md`
+- 正式Human Prose Gate：`meta/HUMAN_PROSE_GATE.md`
+- A-T1差距审计：`reviews/2026-09-22_AT1_commercial_prose_gap_audit.md`
+- Reader Scene Map：`research/design/2026-09-22_AT1_reader_scene_map.md`
+- Reader-Language Patch：`meta/READER_LANGUAGE_AT1_PATCH.md`
+- #38 brief：`research/briefs/2026-09-22_opening_writer_commercial_prose_calibration_brief.md`
 
 ## DO NOT CONTINUE
-- #36通过前不要自行写校准样本。
 - 不写完整Ch1。
-- 不冻结A-T1。
-- 不自行模仿某位热门作者。
-- 不改Canon/Outline/Story Engine。
+- 不自行决定A-T1/C-T2或Opening架构。
+- 不改Story Engine / Canon / Outline。
+- 不模仿具体热门作者句法。
+- 不把Reference Cards机械写成模板。
 
 ## OPEN QUESTIONS
-- #36最终会冻结哪些Reference Cards和Human Prose Gate？
-- Writer能否在不依赖设计稿术语的情况下通过Commercial Shelf Test？
+- Writer能否真正通过Scene Clarity、Core Mechanism、Human Texture三项微样本？
+- Commercial Shelf Test是否仍能一眼看出AI/项目稿？
 
 ## NEXT EXPECTED ACTION
-1. 当前保持暂停。
-2. 等#36总评审通过。
-3. 立即执行#undefined，与#37并行。
-4. #undefined通过后形成Opening Writer Prose Baseline。
-5. 等#37冻结最终Opening方向后，再写完整第一章。
+1. 完整执行 `research/briefs/2026-09-22_opening_writer_commercial_prose_calibration_brief.md`。
+2. 写3个700—1100字功能微样本。
+3. 逐项用 `meta/HUMAN_PROSE_GATE.md` 自检，但不得自宣通过。
+4. 更新CURRENT + history后停止，交总评审做Commercial Shelf Test。
 
 ## REQUIRED READS
-1. `meta/COMMERCIAL_FIRST_PRINCIPLES.md`
-2. #36批准资产（完成后）
-3. `research/briefs/2026-09-22_opening_writer_commercial_prose_calibration_brief.md`
+1. `AGENTS.md`
+2. `meta/COMMERCIAL_FIRST_PRINCIPLES.md`
+3. `meta/STATE.md`
+4. `meta/HANDOFF_PROTOCOL.md`
+5. `meta/COMMERCIAL_PROSE_REFERENCE_CARDS.md`
+6. `meta/HUMAN_PROSE_GATE.md`
+7. `reviews/2026-09-22_AT1_commercial_prose_gap_audit.md`
+8. `research/design/2026-09-22_AT1_reader_scene_map.md`
+9. `meta/READER_LANGUAGE_AT1_PATCH.md`
+10. `research/briefs/2026-09-22_opening_writer_commercial_prose_calibration_brief.md`
 
 ## CONTEXT SNAPSHOT
-- 现在不能写完整第一章。
-- 也不让Opening Writer闲到#37结束。
-- #36过后：#37和#undefined并行。
-- #37解决故事；#undefined解决写法。
+- #38 ACTIVE。
+- 只校准“怎么写”。
+- #37并行决定“写什么”。
+- 两边都通过前不写完整Ch1。
