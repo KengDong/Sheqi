@@ -42,13 +42,14 @@
 - deliver_to: world_reframe / editor_in_chief
 
 ## world_reframe
-- status: ACTIVE
+- status: PAUSED / DONE
 - execution_window: 复用“中段+衔接”窗口
-- current_task: 《舍弃》世界底盘重选
+- current_task: DONE｜《舍弃》世界底盘重选
 - current: `handoffs/world_reframe/CURRENT.md`
-- brief: `research/briefs/2026-09-22_sheqi_world_reframe_brief.md`
+- output: `research/design/2026-09-22_sheqi_world_reframe_options.md`
 - synthesis: `reviews/2026-09-22_world_background_research_consolidation.md`
 - deliver_to: editor_in_chief
+- waiting_for: World Background Direction Review
 
 ## world_prototype
 - status: QUEUED
@@ -103,12 +104,14 @@
    - 必要时Fresh Blind Read
    - 然后交作者。
 
-6. **World Background Reframe Research｜ACTIVE**
-   - 《没钱修什么仙》全文Deep Read｜等待用户研究源；
-   - 2024—2026跨题材热门世界底盘扫描｜ACTIVE；
-   - World Reframe｜QUEUED；
-   - Controlled Prototype Duel｜QUEUED；
-   - 最终由clean-room blind_reader比较真实开场，不靠理论拍板。
+6. **World Background Reframe Research｜DONE / AWAITING TOTAL EDITOR REVIEW**
+   - Benchmark Deep Read｜DONE；
+   - Market Scout｜DONE；
+   - Total-editor consolidation｜DONE；
+   - World Reframe｜DONE；
+   - Top 3候选：缺位公民社会 / 人格工业城 / 家庭责任共同体；
+   - Traditional AC-Hybrid继续作为Control；
+   - Controlled Prototype Duel仍QUEUED，等待总评审确认Top 3。
 
 ---
 
@@ -121,10 +124,12 @@
 - 不把微场景Prose PASS等同于整章能力PASS。
 
 
-## World Background Research｜UPSTREAM DONE / REFRAME ACTIVE
+## World Background Research｜REFRAME DONE / REVIEW ACTIVE
 - Benchmark Deep Read：DONE
 - Market Scout：DONE
 - Total-editor consolidation：DONE
-- World Reframe：ACTIVE
-- World Prototype：QUEUED
+- World Reframe：DONE
+- World Reframe output：`research/design/2026-09-22_sheqi_world_reframe_options.md`
+- Total Editor Direction Review：ACTIVE
+- World Prototype：QUEUED / BLOCKED BY REVIEW
 - Clean-room Blind Reader：NOT YET OPEN
