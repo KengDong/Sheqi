@@ -24,11 +24,10 @@
 
 ## opening_writer
 - status: PAUSED
-- next_task: Event-First Execution Validation / Formal Ch1
+- next_task: Event-First Execution Validation
 - blocked_by:
-  1. Authority Rewrite completion
-  2. new Story Engine / Phase Outline
-  3. new Opening Scene Spine
+  1. Authority Rewrite Targeted PATCH completion
+  2. Targeted PATCH total-editor re-review
 - current: `handoffs/opening_writer/CURRENT.md`
 
 ## visual
