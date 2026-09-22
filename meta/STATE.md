@@ -82,6 +82,15 @@ Secret Ladder：
 > 第一卷Outline执行V3时序；
 > S5以前不得正式确认“信号位置≠源头”。
 
+Mystery导航：
+> `canon/10_mystery_ladder.md` 当前只是 **historical reviewed-proposal v0.2**，不是locked Canon。
+>
+> 第一卷当前执行时序以：
+> **D-0048 + `research/design/2026-09-22_volume1_secret_ladder_v3_patch.md` + 当前新版Outline**
+> 为准。
+>
+> 不得因为文件位于 `canon/` 目录就让v0.2旧时序覆盖当前第一卷Authority Rewrite。
+
 当前不得：
 - 写正式Ch1；
 - 跳过总评审；
@@ -121,7 +130,7 @@ Secret Ladder：
 
 ---
 
-# 开篇辨识度专项｜已通过
+# [HISTORICAL / REOPENED BY D-0048] 开篇辨识度专项｜当时已通过
 
 作者于 2026-09-21 批准：
 
@@ -144,7 +153,7 @@ Secret Ladder：
 
 ---
 
-# 第一卷功能级阶段纲｜已批准
+# [HISTORICAL / REOPENED BY D-0048] 第一卷功能级阶段纲｜旧版当时已批准
 
 权威文件：
 
@@ -160,7 +169,7 @@ Secret Ladder：
 
 ---
 
-# 前三章详细事件卡 V2｜已冻结
+# [HISTORICAL / REOPENED BY D-0048] 前三章详细事件卡 V2｜旧版当时已冻结
 
 正式权威文件：
 
@@ -172,7 +181,7 @@ Secret Ladder：
 
 ---
 
-# 前10章章卡｜已冻结
+# [HISTORICAL / REOPENED BY D-0048] 前10章章卡｜旧版当时已冻结
 
 正式权威文件：
 - `outline/chapter_cards/volume1_ch001_003.md`
@@ -186,7 +195,7 @@ Secret Ladder：
 
 ---
 
-# 正文前执行资产｜已冻结
+# [HISTORICAL / PARTLY SUPERSEDED] 正文前执行资产｜旧版冻结记录
 
 ## 第1—10章章卡
 正式权威：
@@ -281,7 +290,7 @@ Reader-Language与Visual都不再阻塞第一章Scene Spine。
 
 ---
 
-# 第一章 Scene Spine｜已完成
+# [HISTORICAL / REOPENED BY D-0048] 第一章 Scene Spine｜旧版当时已完成
 
 正式权威：
 > `outline/scene_spines/volume1_ch001.md`
@@ -483,24 +492,24 @@ A-T1仍只是PROVISIONAL BASE；Timing 1未冻结。
 ---
 
 
-# 下一阶段
+# [HISTORICAL / SUPERSEDED] 旧“等待作者P1”下一阶段说明
 
-当前受唯一Authority Gate控制：
-> **作者是否批准按AC-Hybrid正式重开第一卷Approved Outline。**
+该段历史流程已经由D-0048完成并被当前Authority Rewrite替代。
 
-正式工作流见：
-> `meta/ACTIVE_WORKSTREAMS.md`
+历史上当时等待的是：
+> 作者是否批准按AC-Hybrid正式重开第一卷Approved Outline。
 
-若作者批准：
-1. mid_continuity直接执行 `research/briefs/2026-09-22_authority_rewrite_ac_hybrid_brief.md`；
-2. 重写Story Engine / Phase Outline；
-3. 设计第一重点收藏；
-4. 重做Opening Scene Spine + Ch1—10；
-5. 总评审做Authority / Novelty & Payoff Gate；
-6. Opening Writer做Event-First完整执行验证；
-7. 再进入Formal Ch1。
+当前事实：
+- D-0048已批准；
+- Authority Rewrite主体已完成并通过总评审主体Gate；
+- 当前只执行第一收藏Canon-fit / Ch7-Ch9接口 / STATE导航的Targeted PATCH；
+- PATCH复核通过后才进入Event-First Execution Validation；
+- Formal Ch1仍未解锁。
 
-后续跨窗口任务不再依赖作者手工复制提示；以 `meta/TASK_DISPATCH_PROTOCOL.md` + 各角色CURRENT为准。
+当前工作流一律以：
+> `meta/ACTIVE_WORKSTREAMS.md` + 各角色 `handoffs/*/CURRENT.md`
+
+为准。
 
 ## 故意仍不锁死
 
@@ -628,16 +637,17 @@ Sample A/B/C V2：
 > `meta/DECISIONS.md` D-0048
 
 当前：
-> **Authority Rewrite ACTIVE。**
+> **D-0048 Authority Rewrite主体已完成；总评审主体PASS；Targeted PATCH ACTIVE。**
 
-执行窗口：
-> mid_continuity / Commercial Story Showrunner / Authority Rewrite Editor
+当前执行窗口：
+> mid_continuity / Commercial Story Showrunner / Authority Rewrite Patch Editor
 
-正式brief：
-> `research/briefs/2026-09-22_authority_rewrite_ac_hybrid_brief.md`
+当前brief：
+> `research/briefs/2026-09-22_authority_rewrite_targeted_patch_brief.md`
 
-权威边界：
+当前权威边界：
 - Canon继续KEEP；
-- 旧Outline已获授权重开，但在新版本实际写回并通过总评审前，不应误称为已完成AC-Hybrid替换；
-- Event-First为优先Opening实现方向，最终冻结前仍需新版完整执行验证；
-- 正式Ch1仍禁止，必须等Authority Rewrite + 总评审Gate + Event-First Execution Validation。
+- AC-Hybrid Story Engine / Phase / Event-First结构 / Ch1—3主体不重开；
+- 当前只修第一收藏Canon-fit、Ch7-Ch9联动与STATE导航；
+- Event-First最终冻结前仍需新版完整执行验证；
+- 正式Ch1仍禁止。
