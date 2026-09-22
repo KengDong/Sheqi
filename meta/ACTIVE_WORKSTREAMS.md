@@ -1,14 +1,15 @@
 # ACTIVE WORKSTREAMS｜Sheqi 当前窗口与任务总表
 
 - window_reuse_plan: `meta/WINDOW_REUSE_PLAN.md`
+- hit_fiction_workplan: `meta/HIT_FICTION_WORKPLAN.md`
 
 > 本文件只记录当前工作流状态，不创造Canon / Outline权威。
 > 总评审每次阶段切换必须同步。
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: World Background Reframe研究调度
-- gate: World Background Direction Review
+- current_task: Book-Level Hit Concept Reframe调度
+- gate: Reader Obsession + Hit Concept Foundry Upstream
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
