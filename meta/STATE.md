@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：** Bible V1.0 Frozen -> AC-Hybrid Authority Rewrite主体PASS -> Targeted PATCH ACTIVE
+**阶段：** Bible V1.0 Frozen -> AC-Hybrid Authority Rewrite主体PASS -> Targeted PATCH COMPLETE -> Awaiting Total Editor Re-review
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷发动机批准日期：**2026-09-21  
@@ -50,15 +50,15 @@
 
 > **按 AC-Hybrid 正式重开第一卷 Approved Outline。**
 
-Authority Rewrite主体已完成总评审；当前进入定向PATCH，仅修第一收藏Canon-fit / Ch7-Ch9接口 / STATE导航。
+Authority Rewrite主体已完成总评审；定向PATCH也已完成，当前等待总评审只复核第一收藏Canon-fit / Ch7-Ch9接口 / STATE导航。
 
 本轮已写回：
 - `outline/volume1_story_engine.md` v2.0
 - `outline/volume1_phase_outline.md` v2.0
-- `outline/assets/volume1_first_collection.md` v1.0
+- `outline/assets/volume1_first_collection.md` v1.1
 - `outline/scene_spines/volume1_ch001.md` v2.0
 - `outline/chapter_cards/volume1_ch001_003.md` v3.0
-- `outline/chapter_cards/volume1_ch004_010.md` v2.0
+- `outline/chapter_cards/volume1_ch004_010.md` v2.1
 
 自红队：
 > `reviews/2026-09-22_authority_rewrite_ac_hybrid_self_red_team.md`
@@ -73,7 +73,16 @@ Opening：
 
 第一重点收藏：
 > **旧护角皮带（工作俗称：咬手带）**
-当前**未过总评审Hard Gate**。槽位、合法低端来源、视觉记忆点保留；作者侧弃相来源、余器携带/退余闭环及第一次回用的“去教学关”需要定向PATCH。
+
+Targeted PATCH已完成，当前等待总评审复核。
+
+PATCH后已明确：
+- 作者侧来源锁定为有效舍契切出的**痛觉我相残留**；
+- 余器语法=**回声**；
+- 未隔离时存在低水平被动余扰；
+- 前期用低等级隔余布单独携带，使用时解除隔离；
+- 使用后需要退余/静置/低风险清理；
+- Ch9第一次工作回用不再“一试命中专用隐藏夹点”，只帮助缩小部分检查范围，最终仍靠普通经验与拆检解决。
 
 Canon：
 > **KEEP，不触发P2 Change。**
@@ -98,10 +107,9 @@ Mystery导航：
 - 把本轮pending-review文件称为最终冻结。
 
 下一Gate：
-1. Authority Rewrite Targeted PATCH
-2. 总评审仅复核第一收藏 / Ch7-Ch9 / STATE导航
-3. Event-First Execution Validation
-4. 通过后才进入Formal Ch1 Draft
+1. 总评审仅复核第一收藏 / Ch7-Ch9 / STATE导航
+2. Event-First Execution Validation
+3. 通过后才进入Formal Ch1 Draft
 
 # 中段研究已完成
 
