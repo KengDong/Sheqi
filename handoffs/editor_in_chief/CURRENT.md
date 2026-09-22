@@ -3,7 +3,7 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: Finalist Opening Arc Stress Test
+- current_gate: Dual Finalist 3-Chapter Reader Validation
 
 ## LAST COMPLETED TASK
 - task: Event-First Execution Validation总评审
@@ -14,32 +14,29 @@
   - `handoffs/editor_in_chief/history/2026-09-22_event_first_execution_validation_pass.md`
 
 ## WHAT ACTUALLY HAPPENED
-- Fresh Book Prototype Blind Read：DONE。
-- Clean-room输入边界严格遵守，Blind未读任何映射/Concept/Benchmark/总评审。
-- Absolute结果：
-  - A：PASS / 会继续试读，但未形成整本下注；
-  - B：STRONG PASS / 值得继续押整本；
-  - C：PASS WEAK / 高概念能力Demo感最强；
-  - D：STRONG PASS / 值得继续押整本。
-- 揭盲：
-  - A = C10《死人也要履约》
-  - B = C01《明天已经卖掉》
-  - C = C08《职业遗产》
-  - D = C12《替有钱人渡劫》
-- Popular Benchmark与Fresh Blind独立收敛：
-  > C01 + C12进入FINALIST。
-- C10转RESERVE；C08当前决赛退出。
-- 总评审未宣布C01/C12赢家。
-- 原因：
-  > 约2000字只能验证第一口，不能验证Concept褪色后的连续上瘾。
+- Finalist Opening Arc Stress Test：DONE。
+- B = C01《明天已经卖掉》：
+  - Ch2 DONE
+  - Ch3 DONE
+- D = C12《替有钱人渡劫》：
+  - Ch2 DONE
+  - Ch3 DONE
+- Writer Selfcheck：DONE。
+- 两边均未重写Ch1、未写Ch4、未扩Full Bible。
+- 用户明确：
+  > 原“开头 / 主作者”GPT已达到对话上限。
+- 该窗口已正式：
+  > RETIRED / CONTEXT LIMIT REACHED
 - 已创建：
-  - `reviews/2026-09-22_book_direction_synthesis_after_fresh_blind.md`
-  - `research/briefs/2026-09-22_finalist_opening_arc_stress_test_brief.md`
-- opening_writer已ACTIVE，续写B/D的Ch2—Ch3。
-- 后续已预排双重验证：
-  1. 原Blind Reader续读，测Promise Delivery；
-  2. 第二个全新Reader从Ch1—3重读，测Fresh Shelf Experience。
-- 当前仍不改Canon/Outline，不建Full Bible，不正式立项。
+  > `handoffs/book_writer_v2/CURRENT.md`
+  作为未来所有正文写作的新窗口入口；当前QUEUED，不提前启动。
+- 已匿名组装第二轮三章包：
+  - X package
+  - Y package
+- 当前两路评审同时ACTIVE：
+  1. 原fresh_book_blind_reader续读B/D Ch2—3，测试第一章Promise是否兑现；
+  2. 新finalist_fresh_reader从X/Y Ch1—3整包盲读，测试Fresh Shelf Experience。
+- 两路结果回来前不继续写Ch4，不建Full Bible，不正式立项。
 
 ## AUTHOR FEEDBACK
 - 作者进一步纠正D-0053后的评估顺序：
@@ -93,28 +90,25 @@
 4. 是否需要Prose Editor定向修补后再进Blind Read。
 
 ## NEXT EXPECTED ACTION
-1. opening_writer执行：
-   > `research/briefs/2026-09-22_finalist_opening_arc_stress_test_brief.md`
-2. 完成：
-   - B Ch2—Ch3
-   - D Ch2—Ch3
-   - Writer Selfcheck
-3. Writer STOP，不写Ch4。
-4. 原fresh_book_blind_reader执行：
+1. 原fresh_book_blind_reader执行：
    > `research/briefs/2026-09-22_finalist_returning_reader_continuation_brief.md`
-5. 再新开第二个clean-room reader执行：
-   > `research/briefs/2026-09-22_finalist_three_chapter_fresh_shelf_test_brief.md`
-6. 两份结果回总评审。
-7. 总评审决定：
+2. 新开第二个全新GPT窗口，执行：
+   > `handoffs/finalist_fresh_reader/CURRENT.md`
+3. 两个Reader分别完成正式报告 + CURRENT/history 后停止。
+4. 两份结果都回交后，总评审做Final Book Direction Synthesis。
+5. 总评审允许：
    - C01胜；
    - C12胜；
-   - 双强继续更深；
-   - 双崩则回C10或重开Foundry。
-8. 最终书方向确定前：
+   - 双强继续；
+   - 双崩回C10 / Foundry。
+6. 若需要任何新正文任务：
+   > **必须新开Book Writer V2窗口**
+   并按 `handoffs/book_writer_v2/CURRENT.md` 接棒。
+7. 在最终方向确定前：
+   - 不写Ch4；
    - 不Full Bible；
-   - 不正式书名冻结；
-   - 不改Sheqi Canon/Outline；
-   - 不做旧资产迁移。
+   - 不改Canon/Outline；
+   - 不迁移旧Sheqi资产。
 
 ## REQUIRED READS
 1. `reviews/2026-09-22_event_first_execution_validation_final_review.md`
