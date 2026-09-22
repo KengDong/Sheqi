@@ -2,14 +2,18 @@
 
 ## ROLE
 - role: world_reframe
-- status: QUEUED
+- status: ACTIVE
 - current_task: 《舍弃》世界底盘重选
 - brief: `research/briefs/2026-09-22_sheqi_world_reframe_brief.md`
-- blocked_by: benchmark_deepread + market_scout reports
+- upstream_status: benchmark_deepread DONE + market_scout DONE
 
 ## NEXT EXPECTED ACTION
-- 上游两份报告完成后执行brief。
-- 产出候选，不改Canon/Outline。
+- **立即执行** `research/briefs/2026-09-22_sheqi_world_reframe_brief.md`。
+- 必读总评审合流：
+  `reviews/2026-09-22_world_background_research_consolidation.md`
+- 产出至少8个候选，内部淘汰后只留Top 3 + Traditional Control。
+- 不改Canon/Outline。
+- 完成报告 + CURRENT + history 后停止，交总评审。
 
 ## DO NOT CONTINUE
 - 不把传统修仙当默认答案。
