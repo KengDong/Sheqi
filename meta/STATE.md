@@ -1,7 +1,28 @@
+# D-0053｜Hit Fiction First
+
+作者于2026-09-22明确重置最高目标：
+
+> **目标不是“把《舍弃》做好”，而是做出一部能与当前头部热门小说正面对读、一样好看、上瘾、新鲜、一读不可收拾的小说。**
+
+当前：
+- 《舍弃》= Incumbent Candidate；
+- C1R / C2 / C8R = Sheqi-family Candidates；
+- Traditional Ch1 = Control；
+- 均不再享有默认优先权；
+- 允许完全不用舍弃的新Concept参与；
+- 不改Canon，直到真实Prototype + blind read + 作者Authority决定。
+
+活动上游：
+1. Reader Obsession Market Scan｜ACTIVE
+2. Independent Hit Concept Foundry｜ACTIVE
+3. Book-Level Hit Concept Reframe｜QUEUED
+
+---
+
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：** Bible V1.0 Frozen -> AC-Hybrid Authority Rewrite PASS -> Event-First PASS -> Formal Ch1 V1 DONE/HOLD -> World Reframe Top-3 PATCH DONE/AWAITING RE-REVIEW
+**阶段：** D-0053 Hit Fiction First -> Book-Level Hit Concept Reframe ACTIVE
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷AC-Hybrid权威化日期：**2026-09-22  
