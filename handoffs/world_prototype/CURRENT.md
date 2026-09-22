@@ -14,3 +14,7 @@
 ## DO NOT CONTINUE
 - 不改Canon/Outline。
 - 不模仿标杆作者句法。
+
+## EXECUTION WINDOW
+- preferred_existing_window: 开头/主作者聊天窗口
+- reason: 同一Writer统一写Top3 + Traditional Control，减少Writer水平差异造成的实验噪声。
