@@ -2,10 +2,10 @@
 
 ## ROLE
 - role: mid_continuity / Commercial Story Showrunner / Authority Rewrite Editor
-- status: BLOCKED
+- status: ACTIVE
 - current_task: Authority Rewrite｜AC-Hybrid第一卷权威改写
 - brief: `research/briefs/2026-09-22_authority_rewrite_ac_hybrid_brief.md`
-- blocked_by: Author P1 Approved Outline Change confirmation
+- authorized_by: `meta/DECISIONS.md` D-0048
 
 ## LAST COMPLETED TASK
 - task: #37 PATCH终审
@@ -21,12 +21,12 @@
   1. Event-First是preferred baseline，但新版完整执行链尚未重新验证；
   2. 第一重点收藏必须在Ch4—10正式冻结前具体设计并过Gate。
 - Authority Rewrite时必须防止前10章变成“一章一个功能”的设计表。
-- 正式Authority Rewrite brief已经落库，但当前被作者P1 Gate阻塞。
+- 作者已于2026-09-22明确批准P1 AC-Hybrid，Authority Rewrite正式解锁。
 
 ## AUTHOR FEEDBACK
 - 作者要求所有活跃窗口任务完成后自动写Git交接，不再依赖手工复制。
 - 作者希望#37/#38之后立即推进真正的写作任务，而不是继续空转研究。
-- 作者尚未明确批准P1 AC-Hybrid。
+- 作者已明确批准：按AC-Hybrid正式重开第一卷Approved Outline。
 
 ## AUTHORITY / OUTPUTS
 - Final audit:
@@ -47,7 +47,7 @@
   - `research/briefs/2026-09-22_authority_rewrite_ac_hybrid_brief.md`
 
 ## DO NOT CONTINUE
-- 未获作者P1批准前，不修改Approved Outline。
+- 仅按正式Authority Rewrite brief修改第一卷Approved Outline；不得超出D-0048授权范围修改Canon。
 - 不继续扩#37 Benchmark。
 - 不恢复A/C二选一。
 - 不恢复A-T1/C-T2长期并列。
@@ -57,15 +57,15 @@
 - 不按“一章一个功能”机械铺前10章。
 
 ## OPEN QUESTIONS
-1. 作者是否批准按AC-Hybrid正式重开Approved Outline。
-2. 第一重点收藏能否设计到足够可记、可回用、合法且不替代正常修炼。
-3. 新Event-First Scene Spine能否清楚完成切味->无即时力量->正常筑基->救援。
+1. 第一重点收藏能否设计到足够可记、可回用、合法且不替代正常修炼。
+2. 新Event-First Scene Spine能否清楚完成切味->无即时力量->正常筑基->救援。
+3. 前10章能否在高频Payoff下避免功能格子化与“工作+旧物”单一化。
 
 ## NEXT EXPECTED ACTION
-- 当前不要执行。
-- 作者一旦明确批准P1：
-  > 直接完整执行 `research/briefs/2026-09-22_authority_rewrite_ac_hybrid_brief.md`
-- 完成后更新CURRENT + history，停止交总评审。
+- **立即执行**：
+  > `research/briefs/2026-09-22_authority_rewrite_ac_hybrid_brief.md`
+- 完整完成Story Engine / Phase Outline / 第一重点收藏 / Opening Scene Spine / Ch1—10 / 自红队。
+- 完成后更新CURRENT + history，状态切为PAUSED / AWAITING TOTAL EDITOR REVIEW，然后停止。
 
 ## REQUIRED READS
 1. `meta/TASK_DISPATCH_PROTOCOL.md`
@@ -75,8 +75,8 @@
 
 ## CONTEXT SNAPSHOT
 - #37 DONE。
-- AC-Hybrid等待作者P1。
-- Authority Rewrite任务已经准备好但BLOCKED。
+- AC-Hybrid已获作者P1批准（D-0048）。
+- Authority Rewrite已ACTIVE，应立即按brief执行。
 - Canon KEEP。
 - Event-First优先但待新版执行验证。
 - 第一收藏是下阶段硬Gate。
