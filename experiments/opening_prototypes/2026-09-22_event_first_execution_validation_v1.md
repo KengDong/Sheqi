@@ -1,5 +1,5 @@
 ---
-status: review-pending
+status: validated-pass
 document_type: event-first-execution-validation-sample
 project: 修仙先舍一件人间事
 created_at: 2026-09-22
@@ -8,6 +8,7 @@ canon_effect: none
 outline_effect: none
 formal_manuscript: false
 source_brief: research/briefs/2026-09-22_event_first_execution_validation_brief.md
+source_final_review: reviews/2026-09-22_event_first_execution_validation_final_review.md
 ---
 
 # Event-First Execution Validation V1
