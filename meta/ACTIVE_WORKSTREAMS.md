@@ -5,22 +5,23 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: #37/#38独立复核后，等待作者P1决定
-- gate: Author P1 Approved Outline Change
+- current_task: Authority Rewrite已正式派发，等待mid_continuity完成后总评审
+- gate: Authority Rewrite Review
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
-- status: BLOCKED
-- queued_task: Authority Rewrite｜AC-Hybrid第一卷权威改写
-- blocked_by: Author P1 approval
+- status: ACTIVE
+- current_task: Authority Rewrite｜AC-Hybrid第一卷权威改写
+- authorized_by: `meta/DECISIONS.md` D-0048
 - current: `handoffs/mid_continuity/CURRENT.md`
 - brief: `research/briefs/2026-09-22_authority_rewrite_ac_hybrid_brief.md`
+- deliver_to: editor_in_chief
 
 ## opening_writer
 - status: PAUSED
 - next_task: Event-First Execution Validation / Formal Ch1
 - blocked_by:
-  1. Author P1 approval
+  1. Authority Rewrite completion
   2. new Story Engine / Phase Outline
   3. new Opening Scene Spine
 - current: `handoffs/opening_writer/CURRENT.md`
@@ -39,10 +40,10 @@
 
 # Next Gate Sequence
 
-1. **Author P1**
-   - 是否批准AC-Hybrid正式重开第一卷Approved Outline。
+1. **Author P1｜DONE 2026-09-22**
+   - AC-Hybrid P1 Authority Change已获作者明确批准（D-0048）。
 
-2. **Authority Rewrite**
+2. **Authority Rewrite｜ACTIVE**
    - Story Engine
    - Phase Outline
    - 第一重点收藏设计
@@ -73,7 +74,7 @@
 # Global Do Not Continue
 - 不重开#37大Benchmark。
 - 不重开#38无限微样本训练。
-- 不在P1批准前修改Approved Outline。
+- Authority Rewrite已获D-0048授权；仅mid_continuity按正式brief可修改第一卷Approved Outline。
 - 不在新Opening Scene Spine前写正式Ch1。
 - 不把Event-First当成已经完成新版完整执行验证。
 - 不把微场景Prose PASS等同于整章能力PASS。
