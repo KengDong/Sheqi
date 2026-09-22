@@ -15,3 +15,7 @@
 - 不把传统修仙当默认答案。
 - 不因新鲜而牺牲长期可写性。
 - 不直接提交P2修改。
+
+## EXECUTION WINDOW
+- preferred_existing_window: 中段+衔接聊天窗口
+- reason: 熟悉Canon/Story Engine/第一卷资产，适合做上游综合，不参与第一轮外部扫描。
