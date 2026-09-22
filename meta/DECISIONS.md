@@ -975,3 +975,35 @@ Opening：
 > **Event-First Execution Validation。**
 
 只有该Gate通过后，才能最终冻结Event-First并派发Formal Ch1 Draft。
+
+
+## D-0050 Event-First Opening执行验证通过并冻结为正式Baseline
+**状态：总评审通过，2026-09-22生效**
+
+依据：
+- `reviews/2026-09-22_event_first_execution_validation_final_review.md`
+- `experiments/opening_prototypes/2026-09-22_event_first_execution_validation_v1.md`
+
+总评审确认：
+> **Event-First结构层PASS + 执行层PASS。**
+
+正式冻结：
+- Ch1真实执行舍味；
+- 舍味后味觉先永久消失；
+- 舍后第一次控闸仍失败，证明舍味不直接生产力量；
+- 原本正常修炼随后接上并完成筑基；
+- 筑基新能力表现为稳定离体；
+- 重载仍由机械承担；
+- 救援继续，不以“升级成功”替代现场后果。
+
+A-T1自此退出当前执行路径，仅保留historical fallback。
+
+除非未来Formal Ch1出现新的硬失败，不得重新开启：
+- A/C Timing二选一；
+- Opening大理论研究；
+- 重新Benchmark决定Ch1是否真正舍味。
+
+下一正式阶段：
+> **Formal Ch1 Draft。**
+
+Formal Ch1必须从当前Approved Scene Spine重新写，不得把Execution Validation样本直接扩写或拼接成正式章。
