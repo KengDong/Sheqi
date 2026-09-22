@@ -8,8 +8,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: 双层三章读者验证调度
-- gate: Returning Reader + Fresh Shelf Reader
+- current_task: Final Book Direction Authority Gate
+- gate: C01 Full Reboot Author Approval
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -92,7 +92,7 @@
 - current: `handoffs/visual/CURRENT.md`
 
 ## fresh_book_blind_reader
-- status: ACTIVE / RETURNING CONTINUATION TEST
+- status: DONE / PAUSED
 - execution_window: 必须新开全新GPT窗口
 - current_task: Fresh Book Prototype Blind Read
 - brief: `research/briefs/2026-09-22_book_prototype_fresh_blind_read_brief.md`
@@ -102,7 +102,7 @@
 - deliver_to: editor_in_chief
 
 ## finalist_fresh_reader
-- status: ACTIVE / NEW CLEAN WINDOW REQUIRED
+- status: DONE / PAUSED
 - execution_window: 必须新开第二个全新GPT窗口
 - current_task: Finalist 3-Chapter Fresh Shelf Test
 - brief: `research/briefs/2026-09-22_finalist_three_chapter_fresh_shelf_test_brief.md`
@@ -112,13 +112,13 @@
 - deliver_to: editor_in_chief
 
 ## book_writer_v2
-- status: QUEUED / NEW WINDOW REQUIRED
+- status: QUEUED / BLOCKED BY AUTHOR AUTHORITY
 - execution_window: 必须新开全新GPT窗口
 - current: `handoffs/book_writer_v2/CURRENT.md`
 - blocked_by:
-  - Returning Reader Continuation Test
-  - Fresh 3-Chapter Shelf Test
-  - Total Editor final direction synthesis
+  - Full Reboot Author Approval
+- proposed_direction: C01《明天已经卖掉》
+- proposal: `reviews/2026-09-22_full_reboot_proposal_c01.md`
 - note: 原opening_writer已到对话上限，永久退休
 
 ## blind_reader
@@ -222,3 +222,14 @@
 - Second Fresh 3-Chapter Shelf Test：ACTIVE
 - Old Opening Writer：RETIRED
 - Book Writer V2：QUEUED / NEW WINDOW REQUIRED
+
+
+## Final Book Direction｜AWAITING AUTHOR APPROVAL
+- total_editor_recommendation: C01《明天已经卖掉》
+- reserve: C12《替有钱人渡劫》
+- returning_reader_test: DONE
+- second_fresh_three_chapter_test: DONE
+- final_synthesis: `reviews/2026-09-22_final_book_direction_synthesis.md`
+- full_reboot_proposal: `reviews/2026-09-22_full_reboot_proposal_c01.md`
+- authority_gate: **AUTHOR APPROVE / REJECT / HOLD**
+- no Canon / Outline changes before approval
