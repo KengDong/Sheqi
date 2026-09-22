@@ -1,6 +1,6 @@
 ---
 status: active
-version: 1.1
+version: 1.2
 created_at: 2026-09-22
 authority: process
 canon_effect: none
@@ -147,6 +147,19 @@ Sheqi-family可以0个入选，不设保底名额。
 
 ---
 
+# Phase B｜状态更新
+- Reader Obsession：DONE
+- Hit Concept Foundry：DONE
+- Popular Fiction Benchmark Gate：DONE
+- Total Editor Prototype Pool：APPROVED
+  - A/C10《死人也要履约》
+  - B/C01《明天已经卖掉》
+  - C/C08《职业遗产》
+  - D/C12《替有钱人渡劫》
+- C03：HOLD
+- C02：FAIL
+- Sheqi-family：本轮不占Prototype席
+
 # Phase C｜统一Writer真实冷开场对撞
 
 ### 窗口
@@ -233,31 +246,33 @@ Writer：
 # 当前窗口状态
 
 ## 现在立即工作
-1. Market Scout｜ACTIVE
-2. Hit Concept Scout｜ACTIVE
+1. Opening Writer / world_prototype｜ACTIVE：四篇匿名冷开场
 
 ## 现在暂停
+- market_scout
+- hit_concept_scout
+- benchmark_deepread
 - world_reframe
 - mid_continuity
-- opening_writer
 - visual
 - old blind_reader
-- world_prototype
 
-## 现在不要新开
+## 下一步新开
+- **Fresh Book Prototype Blind Reader**
+- 必须等四篇Prototype DONE后再新开。
+- 必须是从未参与本项目的新窗口。
+
+现在不要新开：
 - Prose Editor
 - Visual Reframe
-- Prototype Blind Reader
-
-等Phase B结束后再开。
 
 ---
 
 # 当前用户需要操作
 
-只需要：
-1. 让现有Market Scout按CURRENT执行；
-2. 新开Hit Concept Scout窗口按CURRENT执行。
+现在只需要：
+1. 回到现有“开头 / 主作者”窗口；
+2. 发送“继续 Sheqi，按 Git CURRENT 执行”。
 
-两者完成后回总评审：
-> **Reader Obsession 和 Hit Concept Foundry 都完成了，合流。**
+四篇Prototype完成后回总评审。
+届时再新开真正clean-room blind reader。
