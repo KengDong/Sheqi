@@ -11,9 +11,9 @@
 - 允许完全不用舍弃。
 
 ## NEXT EXPECTED ACTION
-- 先做第一轮独立构思，不读Sheqi Canon/Outline/Ch1。
-- market_scout Reader Obsession报告完成后补读并做第二轮淘汰。
-- 至少12个整书级Concept，最终Top 5。
+- 独立执行，不读Sheqi Canon/Outline/Ch1，也不读当前World Reframe候选。
+- 至少12个整书级Concept，内部淘汰到Top 5。
+- 不等待market_scout；两份结果由总评审后续合流。
 - 完成报告 + CURRENT + history 后停止，交总评审。
 
 ## DO NOT CONTINUE
