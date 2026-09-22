@@ -1,6 +1,6 @@
 ---
 status: approved-process
-version: 1.3
+version: 1.4
 created_at: 2026-09-21
 authority: author-approved-process
 canon_effect: none
@@ -28,7 +28,7 @@ outline_effect: none
 - Canon KEEP。
 
 当前Opening：
-> **Event-First结构层PASS，执行层正在验证。**
+> **Event-First结构层PASS + 执行层PASS，D-0050已冻结为Opening Baseline。**
 
 当前生产优先级：
 > **按Approved Scene Spine从头写完整Formal Ch1 V1；完成后先过总评审，再进入独立Prose / Red Team / 必要时Fresh Blind Read。**
@@ -324,7 +324,28 @@ Prose GPT独立审核。
 
 不因编辑个人偏好把全文重写成另一种腔。
 
+## Gate 5.5｜Top-Tier Shelf Parity Comparator
+
+正式第一章在交作者前必须执行。
+
+不是比较文风是否相似，而是比较：
+- 第一屏抓力；
+- 主角记忆点；
+- 世界辨识度；
+- Concept兑现；
+- 自然度；
+- 阅读收益密度；
+- 章尾追读；
+- AI / 设计稿痕迹。
+
+若结论是：
+> **“结构正确，但明显没有成熟热门书自然/好看。”**
+
+直接FAIL，不送作者。
+
 ## Gate 6｜Fresh Text Blind Read
+**第一章默认必做。**
+
 新窗口。
 
 不看：
@@ -337,6 +358,14 @@ Prose GPT独立审核。
 > 第一章正文。
 
 ## Gate 7｜作者确认
+
+作者此时不承担基础QA。
+
+只有前面所有Gate都已经认为：
+> **这一章可以与热门商业小说正面对读。**
+
+才交作者。
+
 作者重点判断：
 - 我自己愿不愿意看；
 - 哪些地方别扭；
