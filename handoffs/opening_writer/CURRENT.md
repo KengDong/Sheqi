@@ -2,8 +2,8 @@
 
 ## ROLE
 - role: opening_writer / Commercial Prose Calibration Writer
-- status: PAUSED
-- current_issue: #38 Opening Writer Commercial Prose Calibration
+- status: ACTIVE
+- current_issue: #38 PATCH｜Opening Writer Prose Calibration Micro-Revision
 
 ## LAST COMPLETED TASK
 - task: Opening Writer Commercial Prose Calibration｜3个功能微样本 + Human Prose Gate自检
@@ -93,3 +93,22 @@
 - Human Prose Gate只做了Writer预检。
 - G12 / G13尚未裁决。
 - 下一步由总评审做Commercial Shelf Test。
+
+
+---
+
+## TOTAL EDITOR PATCH DIRECTIVE
+
+Shelf Test：
+> reviews/2026-09-22_issue38_commercial_shelf_test.md
+
+正式PATCH：
+> research/briefs/2026-09-22_issue38_prose_patch_brief.md
+
+判定：
+- Sample A：微修；
+- Sample B：重点重写；
+- Sample C：微修。
+
+不写完整Ch1。
+完成后更新CURRENT + history，停止。
