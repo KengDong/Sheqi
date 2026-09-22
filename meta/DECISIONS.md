@@ -931,3 +931,47 @@ Opening V0 Reference冻结：
 
 正式执行Brief：
 > `research/briefs/2026-09-22_authority_rewrite_ac_hybrid_brief.md`
+
+
+## D-0049 AC-Hybrid Authority Rewrite总评审终审通过
+**状态：总评审通过，2026-09-22生效**
+
+依据作者D-0048对第一卷AC-Hybrid Authority Rewrite的明确授权，总评审完成：
+- Authority Consistency Gate；
+- Novelty & Payoff Gate；
+- 第一重点收藏 Canon-fit Gate；
+- Targeted PATCH复核。
+
+最终结论：
+> **Authority Rewrite CLOSED / PASS。**
+
+正式通过：
+- `outline/volume1_story_engine.md` V2
+- `outline/volume1_phase_outline.md` V2
+- `outline/assets/volume1_first_collection.md` V1.1
+- `outline/scene_spines/volume1_ch001.md` V2
+- `outline/chapter_cards/volume1_ch001_003.md` V3
+- `outline/chapter_cards/volume1_ch004_010.md` V2.1
+
+权威性质：
+> **author-delegated-editorial-approved under D-0048**
+
+这表示作者已经批准AC-Hybrid重开与改写方向，并授权项目流程完成具体Outline权威化；不表示作者逐文件逐句亲审上述细节。
+
+Canon：
+> KEEP，不触发P2 Change。
+
+第一重点收藏：
+> 旧护角皮带 / 咬手带。
+- 作者侧来源锁为“痛觉”我相残留；
+- 余器语法=回声；
+- 被动余扰 / 隔离 / 使用后退余闭环成立；
+- Ch9只提供不完整检查线索，不作为专用教学关或安全证明。
+
+Opening：
+> Event-First结构层PASS，但执行层仍未验证。
+
+下一正式Gate：
+> **Event-First Execution Validation。**
+
+只有该Gate通过后，才能最终冻结Event-First并派发Formal Ch1 Draft。
