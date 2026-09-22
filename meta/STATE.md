@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：**Bible V1.0 Frozen -> Draft V0否决 -> High-Voltage Opening收敛 -> Taste Timing Prose Duel完成 -> Author Read  
+**阶段：**Bible V1.0 Frozen -> Draft V0否决 -> High-Voltage Opening收敛 -> Author Read完成 -> A-T1 Scene Legibility Rewrite  
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷发动机批准日期：**2026-09-21  
@@ -456,32 +456,53 @@ Writer自检：
 
 ---
 
-# 当前活动任务｜Author Read
+# Author Read｜已完成
 
-执行者：
-> 作者本人。
+作者反馈：
+- A-T1略优于C-T2；
+- 两篇差距不大；
+- 当前最大问题不是Timing，而是场景可视化与术语读者化；
+- 大量物件/对话像“作者和圈内人都懂，第一次读者不懂”。
 
-只回答：
-1. 哪篇更早真正关心陆野？
-2. 哪篇更想立刻继续？
-3. C是否本能像“舍味换筑基”？
-4. A是否像“又拖到下一章才切”？
-5. 若都不够，哪里开始掉兴趣？
+总评审诊断：
+> `reviews/2026-09-22_author_read_scene_legibility_diagnosis.md`
+
+当前结论：
+> **A-T1 = PROVISIONAL BASE，Timing尚未冻结。**
+
+---
+
+# 当前活动任务｜A-T1 Scene Legibility Rewrite
+
+任务书：
+> `research/briefs/2026-09-22_AT1_scene_legibility_rewrite_brief.md`
+
+执行窗口：
+> 中段+衔接GPT -> Scene Legibility Editor。
+
+本轮不写小说。
+先解决：
+- 场景最低空间图；
+- 物件第一次怎么让读者看见；
+- API式对白；
+- “借载”功能先于名词；
+- “舍味”第一次完整读者模型；
+- 普通同工救援的动机尺度。
 
 开头GPT暂停。
-中段+衔接GPT暂停。
 Visual GPT暂停。
 旧盲读窗口暂停。
 ---
 
 # 下一阶段
 
-1. 作者完成A-T1 / C-T2亲读反馈；
-2. 若一套明显胜：冻结舍味时序；
-3. 若A拖、C乱或两套都不够：设计第三节拍，不硬选；
-4. 时序冻结后，正式重开Ch1—5 Opening Run与必要的Ch6—10接口；
-5. 新Scene Spine / 新Draft；
-6. 独立编辑 + 新clean-room盲读 + 作者亲读。
+1. 完成A-T1 Scene Legibility编辑资产；
+2. 总评审核场景图/物件首见/舍味解释；
+3. 开头GPT据此重写A-T1 V2；
+4. 作者再次亲读A-T1 V2；
+5. 若明显成立，冻结Timing 1；
+6. 若仍不成立，再回看C或第三节拍，不硬保A；
+7. 时序冻结后重开Ch1—5 Opening Run与必要Ch6—10接口。
 
 ## 故意仍不锁死
 
