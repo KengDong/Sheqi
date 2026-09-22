@@ -3,91 +3,78 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: Event-First Execution Validation Review
+- current_gate: Formal Ch1 Total Editor Gate
 
 ## LAST COMPLETED TASK
-- task: Authority Rewrite Targeted PATCH终审
+- task: Event-First Execution Validation总评审
 - completed_at: 2026-09-22
 - review:
-  - `reviews/2026-09-22_authority_rewrite_targeted_patch_final_review.md`
+  - `reviews/2026-09-22_event_first_execution_validation_final_review.md`
 - history:
-  - `handoffs/editor_in_chief/history/2026-09-22_authority_rewrite_targeted_patch_final_pass.md`
+  - `handoffs/editor_in_chief/history/2026-09-22_event_first_execution_validation_pass.md`
 
 ## WHAT ACTUALLY HAPPENED
-- Targeted PATCH四项终审PASS：
-  1. 痛觉我相 -> 回声 Canon-fit通过；
-  2. 未封存余扰 / 低级隔离 / 使用后退余闭环通过；
-  3. Ch7 / Ch9已去掉明显“解锁工具 -> 专用教学关”感；
-  4. STATE主要权威导航已清理，总评审顺手完成剩余历史段落清理。
-- Authority Rewrite整体正式CLOSED / PASS。
-- 已记录D-0049。
-- 新版Story Engine / Phase / 第一收藏 / Ch1 Scene Spine / Ch1—10已从pending-review提升为：
-  > author-delegated-editorial-approved
-- Canon KEEP。
-- Event-First：
-  > 结构层PASS / 执行层未验证。
-- 已正式派发：
-  > `research/briefs/2026-09-22_event_first_execution_validation_brief.md`
-- opening_writer已ACTIVE。
-- mid_continuity已PAUSED / DONE。
-- Formal Ch1仍未解锁。
+- Event-First Execution Validation V1总评审PASS。
+- 核心因果已通过真实连续文字证明：
+  > 真切味 -> 舍后第一次仍失败 -> 原本正常修炼接上 -> 筑基 -> 稳定离体 -> 机械持续制动 -> 救援继续。
+- “舍味=直接发力量”误读风险已降到可接受范围。
+- Human Prose重点Gate通过。
+- 样本仍有少量“防误读过度保护”痕迹，但属于Formal Ch1 craft，不阻塞Timing。
+- D-0050已生效：
+  > Event-First正式冻结为Opening Baseline。
+- A-T1退出当前执行路径，仅保留historical fallback。
+- Formal Ch1 V1已正式派发给opening_writer。
+- Execution Validation样本明确不得直接扩写/拼接成正式Ch1。
 
 ## AUTHOR FEEDBACK
-- 作者要求PATCH完成后由总评审直接复审并继续推进，不把基础QA退回作者。
-- Git-native task dispatch继续生效。
+- 作者要求验证做完后由总评审直接审批并继续推进。
+- 作者不希望继续Opening理论研究。
+- Git-native task dispatch继续执行。
 
 ## AUTHORITY / OUTPUTS
-- D-0049：
-  - `meta/DECISIONS.md`
-- Final Review：
-  - `reviews/2026-09-22_authority_rewrite_targeted_patch_final_review.md`
-- Approved Outline：
-  - `outline/volume1_story_engine.md`
-  - `outline/volume1_phase_outline.md`
-  - `outline/assets/volume1_first_collection.md`
+- Decision:
+  - `meta/DECISIONS.md` D-0050
+- Event-First final review:
+  - `reviews/2026-09-22_event_first_execution_validation_final_review.md`
+- Validated sample:
+  - `experiments/opening_prototypes/2026-09-22_event_first_execution_validation_v1.md`
+- Approved Scene Spine:
   - `outline/scene_spines/volume1_ch001.md`
-  - `outline/chapter_cards/volume1_ch001_003.md`
-  - `outline/chapter_cards/volume1_ch004_010.md`
-- Active next brief：
-  - `research/briefs/2026-09-22_event_first_execution_validation_brief.md`
+- Active next brief:
+  - `research/briefs/2026-09-22_formal_ch001_v1_draft_brief.md`
 
 ## DO NOT CONTINUE
-- 不重开Authority Rewrite。
-- 不重开第一收藏设计。
+- 不重开Event-First Timing。
 - 不重开A/C。
-- 不改Canon。
-- 不把Event-First称为执行已验证。
-- 不直接写Formal Ch1。
-- 不让mid_continuity继续扩写。
+- 不改Canon / Scene Spine / Chapter Cards。
+- 不把验证样本当Formal Ch1。
+- 不写Ch2。
+- 不在Formal Ch1总评审前升级manuscript。
 
 ## OPEN QUESTIONS
-1. Event-First连续真实文字能否让陌生读者自然理解“舍味不产力量”。
-2. 是否能同时维持事故高压、三锚空间与自然解释。
-3. 是否仍有Scene Spine扩写感 / AI防误读痕迹。
+1. Formal Ch1整章是否仍保持因果清晰且不重复解释。
+2. 陆野是否在完整章里真正像活人，而不是机制载体。
+3. 整章节奏 / Camera / 章尾 / AI-smell是否过关。
+4. 是否需要Prose Editor定向修补后再进Blind Read。
 
 ## NEXT EXPECTED ACTION
-1. 等opening_writer完成Event-First Execution Validation并提交handoff。
-2. 总评审只审该执行样本：
-   - 因果清晰度；
-   - Human Prose；
-   - Event-First误读风险。
-3. 若PASS：
-   - 最终冻结Event-First；
-   - 派发Formal Ch1 Draft。
-4. 若FAIL：
-   - 只做执行层定向PATCH；
-   - 不重开AC-Hybrid / Authority Rewrite。
+1. 等opening_writer完成 `drafts/volume1/ch001_v1.md` 与Writer Selfcheck。
+2. 总评审做Formal Ch1 Gate。
+3. 若主体PASS：
+   - 决定是否派发独立Prose Editor；
+   - 再做Independent Red Team；
+   - 必要时Fresh Blind Read。
+4. 作者只在基础QA通过后亲读。
 
 ## REQUIRED READS
-1. `reviews/2026-09-22_authority_rewrite_targeted_patch_final_review.md`
-2. `research/briefs/2026-09-22_event_first_execution_validation_brief.md`
+1. `reviews/2026-09-22_event_first_execution_validation_final_review.md`
+2. `research/briefs/2026-09-22_formal_ch001_v1_draft_brief.md`
 3. `handoffs/opening_writer/CURRENT.md`
 
 ## CONTEXT SNAPSHOT
 - AC-Hybrid Authority Rewrite PASS。
-- D-0049生效。
-- 第一收藏PASS。
-- Ch1—10权威化完成。
-- Event-First结构PASS / 执行未验证。
-- opening_writer ACTIVE on Execution Validation。
-- Formal Ch1禁止。
+- Event-First结构PASS + 执行PASS。
+- D-0050生效。
+- Formal Ch1 V1 ACTIVE。
+- Opening理论研究关闭。
+- Formal Ch1完成后回总评审。
