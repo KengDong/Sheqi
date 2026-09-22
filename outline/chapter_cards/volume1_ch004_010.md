@@ -1,10 +1,11 @@
 
 ---
-status: authority-rewrite-pending-review
+status: approved-chapter-cards
 version: 2.1
 created_at: 2026-09-22
-authority: author-authorized-rewrite
+authority: author-delegated-editorial-approved
 authorized_by: meta/DECISIONS.md D-0048
+source_final_review: reviews/2026-09-22_authority_rewrite_targeted_patch_final_review.md
 canon_effect: none
 scope: 第一卷第004—010章
 supersedes: volume1_ch004_010 v1.1
