@@ -3,84 +3,84 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: Authority Rewrite Review
+- current_gate: Targeted PATCH Re-review
 
 ## LAST COMPLETED TASK
-- task: Git-native Handoff & Task Dispatch流程升级
+- task: AC-Hybrid Authority Rewrite总评审
 - completed_at: 2026-09-22
+- review:
+  - `reviews/2026-09-22_authority_rewrite_total_editor_review.md`
 - history:
-  - `handoffs/editor_in_chief/history/2026-09-22_git_native_dispatch_upgrade.md`
+  - `handoffs/editor_in_chief/history/2026-09-22_authority_rewrite_total_editor_review.md`
 
 ## WHAT ACTUALLY HAPPENED
-- 作者于2026-09-22明确批准：
-  > **按AC-Hybrid正式重开第一卷Approved Outline。**
-- P1 Authority Gate已通过并记录为 `meta/DECISIONS.md` D-0048。
-- `research/briefs/2026-09-22_authority_rewrite_ac_hybrid_brief.md` 已从BLOCKED切为ACTIVE。
-- mid_continuity CURRENT已切为ACTIVE，正式获得第一卷Authority Rewrite执行权。
-- ACTIVE_WORKSTREAMS与STATE已同步。
-- 当前下一Gate不再是作者P1，而是：
-  > **Authority Rewrite完成后的总评审一致性 / Novelty & Payoff审查。**
-- 正式Ch1仍禁止；Opening Writer继续暂停。
-- Event-First继续作为preferred baseline，最终冻结前仍需新版完整执行验证。
-- Git-native交接/派发制度继续生效，作者不需要复制长任务正文。
+- Authority Rewrite主体通过：
+  - AC-Hybrid；
+  - Story Engine V2；
+  - Phase Outline V2；
+  - Event-First结构层；
+  - Ch1—3；
+  - Ch4—10总体连续链。
+- Novelty & Payoff Gate总体通过。
+- 未放行Opening Execution Validation，因为第一重点收藏Hard Gate未过。
+- 第一收藏当前三个阻塞：
+  1. `canon/08_artifacts.md`要求重点余器必须锁定真正弃相来源；当前只写“更接近痛觉相关弃相”；
+  2. 未封存余扰 / 携带 / 使用后退余闭环不足；
+  3. Ch7解锁“局部夹压->假痛”后，Ch9立刻出现隐藏夹点，过于像为新工具定制教学关。
+- 另发现 `meta/STATE.md` 仍有D-0048前旧冻结段落的权威导航歧义。
+- 已正式下发Targeted PATCH，不重开整卷。
 
 ## AUTHOR FEEDBACK
-- 作者明确批准P1 AC-Hybrid Authority Change。
-- 作者要求窗口任务继续通过Git CURRENT/brief自动派发，不依赖手工复制。
+- 作者要求完成Authority Rewrite后由总评审主动审批，不让作者承担基础QA。
+- Git-native交接/任务派发继续执行。
 
 ## AUTHORITY / OUTPUTS
-- Process:
-  - `meta/HANDOFF_PROTOCOL.md` V1.1
-  - `meta/TASK_DISPATCH_PROTOCOL.md`
-  - `meta/ACTIVE_WORKSTREAMS.md`
-- Queued next brief:
-  - `research/briefs/2026-09-22_authority_rewrite_ac_hybrid_brief.md`
-- Independent rereview:
-  - `handoffs/editor_in_chief/history/2026-09-22_issue37_issue38_independent_rereview.md`
-- Current author-approved Outline仍未修改。
+- 总评审review：
+  - `reviews/2026-09-22_authority_rewrite_total_editor_review.md`
+- Active PATCH brief：
+  - `research/briefs/2026-09-22_authority_rewrite_targeted_patch_brief.md`
+- 已通过、不重开的主体：
+  - `outline/volume1_story_engine.md`
+  - `outline/volume1_phase_outline.md`
+  - `outline/scene_spines/volume1_ch001.md`
+  - `outline/chapter_cards/volume1_ch001_003.md`
 
 ## DO NOT CONTINUE
-- 不自动把总评审推荐当作者批准。
-- 不修改Approved Outline。
+- 不重做Authority Rewrite。
+- 不重开#37/#38研究。
+- 不改Canon。
+- 不改Event-First Timing。
 - 不写正式Ch1。
-- 不重开#37大Benchmark。
-- 不让Writer继续无限微样本校准。
-- 不把Event-First称为已完成新版执行验证。
-- 不把#38微场景PASS等同于完整章节能力PASS。
+- 不在PATCH完成前激活Opening Writer。
+- 不把第一收藏槽删除；只修具体器物Canon-fit与回用。
 
 ## OPEN QUESTIONS
-1. Authority Rewrite是否正确落成AC-Hybrid且没有越过Canon边界。
-2. 第一重点收藏是否通过具体设计Gate。
-3. 新Event-First Scene Spine是否能通过完整执行验证。
+1. 第一收藏PATCH能否锁定真实弃相来源。
+2. 是否补齐余器余扰/封存/退余。
+3. Ch7/Ch9是否去掉钥匙-锁教学感。
+4. STATE是否消除旧权威导航歧义。
 
 ## NEXT EXPECTED ACTION
-1. 等mid_continuity完成Authority Rewrite并提交handoff。
-2. 总评审执行：
-   - Authority Consistency Gate；
-   - Novelty & Payoff Gate；
-   - 第一重点收藏Gate。
-3. 若通过，正式派发Event-First Execution Validation给opening_writer。
-4. 通过后才派发Formal Ch1 Draft。
+1. 等mid_continuity完成Targeted PATCH。
+2. 只复核：
+   - 第一收藏Canon-fit；
+   - Ch7/Ch9；
+   - STATE导航。
+3. 若PASS：
+   - 派发Event-First Execution Validation给opening_writer。
+4. 若仍FAIL：
+   - 只继续器物定向PATCH，不重开整卷。
 
 ## REQUIRED READS
-1. `handoffs/editor_in_chief/history/2026-09-22_issue37_issue38_independent_rereview.md`
-2. `reviews/2026-09-22_issue37_patch_final_audit.md`
-3. `reviews/2026-09-22_volume1_AC_hybrid_architecture.md`
-4. `reviews/2026-09-22_volume1_story_engine_change_proposal_v3.md`
-5. `reviews/2026-09-22_issue38_patch_final_shelf_test.md`
-6. `experiments/prose_calibration/2026-09-22_opening_writer_core_mechanism_sample_v2.md`
-7. `experiments/opening_prototypes/2026-09-21_CT2_event_first_taste_timing.md`
+1. `reviews/2026-09-22_authority_rewrite_total_editor_review.md`
+2. `research/briefs/2026-09-22_authority_rewrite_targeted_patch_brief.md`
+3. `handoffs/mid_continuity/CURRENT.md`
 
 ## CONTEXT SNAPSHOT
-- #37 DONE as research/commercial rebuild.
-- AC-Hybrid仍是最强P1候选。
-- #38 DONE as micro-scene prose calibration.
-- Canon无需P2变化。
-- Approved Outline尚未修改。
-- Event-First优先，但新版完整执行链未重新验证。
-- A-T1仍为Fallback。
-- 第一收藏尚未具体设计。
-- 前10章Rewrite需防“功能格子化”。
-- Writer不再无限校准。
-- 整章能力留待正式Ch1验证。
-- Author P1已通过；当前Gate是Authority Rewrite Review。
+- AC-Hybrid主体PASS。
+- Story Engine / Phase / Ch1—3 PASS。
+- Event-First结构PASS，尚未执行验证。
+- Novelty & Payoff总体PASS。
+- 第一收藏槽PASS，具体器物Hard Gate未过。
+- Targeted PATCH ACTIVE。
+- Formal Ch1禁止。
