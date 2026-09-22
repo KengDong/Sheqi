@@ -1,3 +1,33 @@
+# Final Book Direction｜AWAITING AUTHOR APPROVAL
+
+## TOTAL EDITOR RECOMMENDATION
+> **C01《明天已经卖掉》**
+
+## RESERVE
+> C12《替有钱人渡劫》
+
+## EVIDENCE
+- Popular Benchmark：C01 PASS
+- Fresh Prototype Blind：C01 STRONG PASS
+- Returning Reader Ch1—3：C01读欲上升
+- Second Fresh 3-Chapter Shelf：C01 STRONG PASS / 若只能追一本选X=C01
+
+## PROPOSAL
+- `reviews/2026-09-22_full_reboot_proposal_c01.md`
+
+## AUTHORITY
+当前旧Sheqi Canon / Outline仍有效。
+**作者未APPROVE前不做任何正式替换。**
+
+## WRITER
+- old opening_writer：RETIRED
+- book_writer_v2：QUEUED / BLOCKED BY AUTHOR AUTHORITY
+
+NEXT：
+> 作者 APPROVE / REJECT / HOLD。
+
+---
+
 # Dual Finalist 3-Chapter Reader Validation｜ACTIVE
 
 B / D三章包已完成。
@@ -137,7 +167,7 @@ NEXT：
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：** D-0055 Good Novel First -> Dual Finalist 3-Chapter Reader Validation ACTIVE
+**阶段：** D-0055 Good Novel First -> C01 Full Reboot Author Approval Gate
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷AC-Hybrid权威化日期：**2026-09-22  
