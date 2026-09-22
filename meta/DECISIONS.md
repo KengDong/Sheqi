@@ -769,3 +769,30 @@ Opening V0 Reference冻结：
 
 当前任务：
 > `research/briefs/2026-09-21_taste_timing_prose_duel_brief.md`
+
+
+## D-0043 A-T1亲读略优，但Timing暂不冻结
+**状态：已批准，2026-09-22生效**
+
+作者亲读A-T1 / C-T2后反馈：
+- A-T1体感略好；
+- 两篇差异不大；
+- 两篇共享严重读者可视化/术语理解问题。
+
+总评审诊断：
+> `reviews/2026-09-22_author_read_scene_legibility_diagnosis.md`
+
+正式决定：
+1. A-T1升级为 **PROVISIONAL BASE**，但不冻结Timing 1；
+2. 当前优先修复的不是时序，而是Scene Legibility / Reader Onboarding；
+3. 作者脑中的事故图不得直接以“长架/导向柱/控制位/外圈”等设计标签投射给读者；
+4. 核心机制“舍味”第一次出现允许更明确解释，不再以“防设定说明”为理由过度压缩；
+5. “借载”第一次必须先给功能，再给正式名；若影响高压场景，可删掉这一拍；
+6. 高危岗位的舍备需要建立社会尺度：
+   > 备得不稀奇，真切仍然疼。
+   该句为作者侧原则，不直接作为正文金句；
+7. 老秦默认可保持普通同工，不要求为救人合理性强行升级成主线人物；
+8. A-T1读者化重写通过后，再由作者决定是否正式冻结Timing 1。
+
+当前任务：
+> `research/briefs/2026-09-22_AT1_scene_legibility_rewrite_brief.md`
