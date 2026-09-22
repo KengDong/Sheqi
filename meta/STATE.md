@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：** Bible V1.0 Frozen -> AC-Hybrid Authority Rewrite PASS -> Event-First PASS -> Formal Ch1 V1 DONE/HOLD -> Benchmark+Market DONE -> World Reframe ACTIVE
+**阶段：** Bible V1.0 Frozen -> AC-Hybrid Authority Rewrite PASS -> Event-First PASS -> Formal Ch1 V1 DONE/HOLD -> Benchmark+Market DONE -> World Reframe DONE/AWAITING REVIEW
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷AC-Hybrid权威化日期：**2026-09-22  
@@ -123,18 +123,24 @@ Mystery导航：
 > **真正要比较的不是“修仙 / 都市 / 末世”，而是“单轴修炼世界 / 多社会接口的舍弃文明”。**
 
 当前：
-> **World Reframe ACTIVE。**
+> **World Reframe DONE / AWAITING TOTAL EDITOR REVIEW。**
 
-执行窗口：
-> 中段+衔接窗口转职 world_reframe。
+已完成输出：
+> `research/design/2026-09-22_sheqi_world_reframe_options.md`
 
-正式brief：
-> `research/briefs/2026-09-22_sheqi_world_reframe_brief.md`
+内部Top 3：
+> **缺位公民社会 / 人格工业城 / 家庭责任共同体**
 
-Canon / Approved Outline暂不修改。
+Traditional AC-Hybrid：
+> **继续保留为Control。**
+
+下一步：
+> 总评审确认Top 3后，才允许world_prototype执行真实匿名开场对撞。
+
+Canon / Approved Outline仍未修改。
 
 ---
-# World Background Reframe｜ACTIVE
+# World Background Reframe｜DONE / AWAITING REVIEW
 
 作者于2026-09-22重新打开上游问题：
 > **传统修仙是否限制《舍弃》的信息量、新鲜感和上瘾度。**
