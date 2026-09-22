@@ -1,3 +1,32 @@
+# Fresh Book Prototype Blind Read｜ACTIVE
+
+当前：
+- Book-Level Prototype Duel｜DONE
+- A/B/C/D四篇匿名正文｜READY
+- Writer Selfcheck｜DONE
+- Fresh clean-room Blind Reader｜ACTIVE
+
+Blind第一轮：
+> **只让文字说话。**
+
+Hard Boundary：
+- 不读A/B/C/D映射；
+- 不读Concept Foundry；
+- 不读Benchmark Gate；
+- 不读Writer Selfcheck；
+- 不读总评审；
+- 不读Sheqi旧资产。
+
+评估顺序：
+1. 每篇Absolute Read Test；
+2. 允许0—4篇通过；
+3. 再做相对比较。
+
+NEXT：
+> Blind Read回交 -> 总评审揭盲 + Book Direction Synthesis。
+
+---
+
 # Book-Level Prototype Duel｜ACTIVE
 
 D-0055唯一第一性原理：
@@ -56,7 +85,7 @@ NEXT：
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：** D-0055 Good Novel First -> Book-Level Prototype Duel ACTIVE
+**阶段：** D-0055 Good Novel First -> Fresh Book Prototype Blind Read ACTIVE
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷AC-Hybrid权威化日期：**2026-09-22  
