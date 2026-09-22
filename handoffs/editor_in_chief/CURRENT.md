@@ -3,7 +3,7 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: Book-Level Hit Concept Reframe
+- current_gate: Popular Fiction Benchmark Gate
 
 ## LAST COMPLETED TASK
 - task: Event-First Execution Validation总评审
@@ -14,17 +14,29 @@
   - `handoffs/editor_in_chief/history/2026-09-22_event_first_execution_validation_pass.md`
 
 ## WHAT ACTUALLY HAPPENED
-- 作者进一步明确最高目标，D-0053生效：
-  > **项目目标不是把《舍弃》做好，而是做出一部能和当前头部热门小说正面对读、一样好看/上瘾/新鲜的小说。**
-- “舍弃”已降级为Incumbent Candidate，不再是神圣前提。
-- 当前C1R / C2 / C8R不再作为最终Top3自动进入Prototype；统一降级为Sheqi-family Candidates。
-- 原World Prototype Duel暂停，等待更上游Book-Level Reframe。
-- 已启动两个独立上游：
-  1. market_scout｜Reader Obsession Market Scan：研究读者天然沉迷的生活/欲望/竞争/关系；
-  2. hit_concept_scout｜Independent Hit Concept Foundry：允许完全不用舍弃，从零提出整本小说级Concept。
-- 已创建Book-Level Hit Concept Reframe brief，等两份独立研究回交后由总评审统一合流。
-- 最终Top 4可以0个Sheqi候选，也可以全部Sheqi候选，不设配额。
-- 在真实匿名Prototype + clean-room blind read之前，不改Canon/Outline。
+- D-0055已生效：
+  > 唯一第一性原理是“写出一部真正好看的小说”。
+- Reader Obsession Market Scan：DONE
+  - 报告：`research/reports/2026-09-22_reader_obsession_market_scan.md`
+  - 提炼14类High-Desire Story Territories + 8张Reader Mechanism Cards。
+- Independent Hit Concept Foundry：DONE
+  - 报告：`research/design/2026-09-22_hit_concept_foundry.md`
+  - 共14个整书Concept，Top5：
+    1. C01《明天已经卖掉》
+    2. C03《人格股份有限公司》
+    3. C02《热搜成真以后》
+    4. C12《替有钱人渡劫》
+    5. C08《职业遗产》
+- 当前不直接让Writer写。
+- 已激活独立热门同架体验审查：
+  - role: hit_benchmark_comparator
+  - 复用原Benchmark Deep Read窗口
+  - brief: `research/briefs/2026-09-22_hit_candidate_popular_benchmark_brief.md`
+- 该Gate只问：
+  > 候选本身是否真的有资格和成熟热门小说同架讨论？
+- 不把《舍弃》当标尺，也不做纯数值评分。
+- Gate完成后，总评审再选不超过4个Prototype候选。
+- 在此之前不改Canon/Outline，不启动正式新书Bible。
 
 ## AUTHOR FEEDBACK
 - 作者进一步纠正D-0053后的评估顺序：
@@ -78,18 +90,21 @@
 4. 是否需要Prose Editor定向修补后再进Blind Read。
 
 ## NEXT EXPECTED ACTION
-1. market_scout完成Reader Obsession Market Scan。
-2. hit_concept_scout独立完成至少12个整书级Concept并淘汰到Top 5。
-3. 总评审执行：
-   > `research/briefs/2026-09-22_book_level_hit_concept_reframe_brief.md`
-4. Stage 1先做Head-to-Head Popular Fiction Benchmark Gate：
-   - 新Top 5逐一对标《没钱修什么仙》及其他有效头部热门样本；
-   - Sheqi-family若想进入后续，也必须独立过同一门；
-   - 明显掉档者直接淘汰。
-5. 只从Popular Benchmark Pass List里选Top 4 Prototype Candidates。
-6. 同一Opening Writer写匿名冷开场。
-7. 新clean-room blind reader只按“最好看/最想追”判断。
-8. 都过热门Benchmark之后，才比较项目切换成本与是否Full Reboot。
+1. hit_benchmark_comparator执行：
+   > `research/briefs/2026-09-22_hit_candidate_popular_benchmark_brief.md`
+2. 输出：
+   > `reviews/2026-09-22_hit_candidate_popular_benchmark_gate.md`
+3. 总评审读取Benchmark Gate：
+   - 淘汰“高概念但不够想看”的；
+   - 审查Borderline致命风险；
+   - 只从PASS/必要Borderline中选不超过4个Prototype候选。
+4. 通过后才重写world_prototype brief为“Book-Level Prototype Duel”。
+5. Opening Writer统一写匿名原型。
+6. 再新开真正clean-room blind reader。
+7. 真实文本结果出来前：
+   - 不立项；
+   - 不改Canon；
+   - 不讨论旧资产复用成本。
 
 ## REQUIRED READS
 1. `reviews/2026-09-22_event_first_execution_validation_final_review.md`
