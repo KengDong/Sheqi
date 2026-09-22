@@ -1,5 +1,7 @@
 # ACTIVE WORKSTREAMS｜Sheqi 当前窗口与任务总表
 
+- window_reuse_plan: `meta/WINDOW_REUSE_PLAN.md`
+
 > 本文件只记录当前工作流状态，不创造Canon / Outline权威。
 > 总评审每次阶段切换必须同步。
 
@@ -24,14 +26,17 @@
 - blocked_by: World Background Reframe decision
 
 ## benchmark_deepread
-- status: BLOCKED
+- status: ACTIVE
 - current_task: 《没钱修什么仙》全文深读
+- execution_window: 复用旧“结构盲读 / Reader-Language”窗口
 - current: `handoffs/benchmark_deepread/CURRENT.md`
 - brief: `research/briefs/2026-09-22_no_money_cultivation_deepread_brief.md`
-- blocked_by: 用户上传全文研究源到Library
+- source: `/Sheqi/Research Sources/Benchmark Full Texts/没钱修什么仙_用户研究版.txt`
+- deliver_to: editor_in_chief
 
 ## market_scout
 - status: ACTIVE
+- execution_window: **新开窗口**
 - current_task: 2024—2026热门网文世界底盘扫描
 - current: `handoffs/market_scout/CURRENT.md`
 - brief: `research/briefs/2026-09-22_crossgenre_background_market_scan_brief.md`
@@ -39,6 +44,7 @@
 
 ## world_reframe
 - status: QUEUED
+- execution_window: 复用“中段+衔接”窗口
 - current_task: 《舍弃》世界底盘重选
 - current: `handoffs/world_reframe/CURRENT.md`
 - brief: `research/briefs/2026-09-22_sheqi_world_reframe_brief.md`
@@ -48,6 +54,7 @@
 
 ## world_prototype
 - status: QUEUED
+- execution_window: 复用“开头 / 主作者”窗口
 - current_task: 世界底盘冷开场对撞
 - current: `handoffs/world_prototype/CURRENT.md`
 - brief: `research/briefs/2026-09-22_world_background_prototype_duel_brief.md`
