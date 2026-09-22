@@ -531,20 +531,28 @@ Visual GPT暂停。
 # 已排队后续任务｜First-Volume Novelty & Payoff Engine Pass
 
 Issue：
-> #undefined
+> #37
 
-方向提案：
-> `reviews/2026-09-22_horizontal_novelty_payoff_engine_proposal.md`
+正式方向：
+> `reviews/2026-09-22_first_volume_novelty_payoff_direction.md`
+
+正式任务书：
+> `research/briefs/2026-09-22_first_volume_novelty_payoff_engine_brief.md`
 
 状态：
-> **QUEUED / BLOCKED BY #36**
+> **P0 / QUEUED / BLOCKED BY #36**
 
-作者最新要求：
-- 第一卷从头就要爽，不把活路押后期；
-- 高频横向新鲜感 + 纵向大秘密必须并行；
-- 余世大秘密前增加中秘密/中大秘密；
-- “惜物”必须转化为捡漏/收集/工具/意外收入等可见回报，而不是只做文学呼应；
-- 读者要反复获得：
-  > “原来这个设定还能这么用。”
+执行身份：
+> 中段+衔接GPT -> Novelty & Payoff Systems Architect。
 
-#36 Commercial Prose Calibration完成后，优先启动本任务，再大规模写Ch2—10。
+作者已批准：
+- 第一卷从头持续爽，不把活路押后期；
+- 高频横向新鲜感 + 纵向秘密并行；
+- 余世大秘密前必须有中秘密/中大秘密；
+- 惜物必须转成捡漏/收集/工具/变现/意外收入等可见收益；
+- 尝余只能提供“值得查”的弱信号；
+- 重要小弧要有Money / Collection / Action / Knowledge / Status / Relationship / Reversal等可见结算；
+- 卷末必须有真实资产台阶，不只固定席位。
+
+执行顺序：
+> #36 Commercial Prose Calibration完成并通过总评审 -> 立即启动#37 -> 再大规模推进Ch2—10正文。
