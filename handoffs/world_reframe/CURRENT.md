@@ -2,8 +2,8 @@
 
 ## ROLE
 - role: world_reframe
-- status: PAUSED / AWAITING TOTAL EDITOR REVIEW
-- current_task: DONE｜《舍弃》世界底盘重选
+- status: ACTIVE
+- current_task: World Reframe Top-3 Sharpening PATCH
 - brief: `research/briefs/2026-09-22_sheqi_world_reframe_brief.md`
 - upstream: benchmark_deepread DONE + market_scout DONE + total-editor consolidation DONE
 
@@ -131,16 +131,21 @@
 5. 若某新底盘真实开场稳定压过Control，才进入P2 Authority Proposal。
 
 ## NEXT EXPECTED ACTION
-1. editor_in_chief读取：
-   - 本报告；
-   - 上游consolidation。
-2. 总评审确认/调整Top 3。
-3. 若放行：
-   > world_prototype执行现有queued brief，做Top 3 + Traditional Control真实冷开场对撞。
-4. world_reframe保持PAUSED，不继续理论扩写。
+- 立即执行：
+  > `research/briefs/2026-09-22_world_reframe_top3_sharpening_patch_brief.md`
+- 本轮只修：
+  1. C1稳定进件口；
+  2. C2 First-Page Combustion Card；
+  3. 第三席重选；
+  4. 三候选互斥度；
+  5. 三张First-Page Combustion Card。
+- 完成后更新CURRENT + history，状态切PAUSED / AWAITING TOTAL EDITOR REVIEW。
+- 不写Prototype正文。
 
 ## REQUIRED READS
-1. `research/design/2026-09-22_sheqi_world_reframe_options.md`
+1. `reviews/2026-09-22_world_reframe_top3_total_editor_review.md`
+2. `research/briefs/2026-09-22_world_reframe_top3_sharpening_patch_brief.md`
+3. `research/design/2026-09-22_sheqi_world_reframe_options.md`
 2. `reviews/2026-09-22_world_background_research_consolidation.md`
 3. `research/briefs/2026-09-22_sheqi_world_reframe_brief.md`
 4. `drafts/volume1/ch001_v1.md`
