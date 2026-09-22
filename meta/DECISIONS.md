@@ -1173,3 +1173,56 @@ Formal Ch1必须从当前Approved Scene Spine重新写，不得把Execution Vali
    
    旧资产复用永远不能绑架“好不好看”。
 
+
+
+## D-0054 Benchmark First｜热门头部作品是标尺，不是《舍弃》
+**状态：作者明确纠正，2026-09-22生效**
+
+作者指出：
+> **新Concept不应主要拿去和《舍弃》比较。真正的质量标尺必须是当前热门头部小说。**
+
+因此正式修正：
+
+1. 《舍弃》不是Benchmark。
+   - 它只是Incumbent Candidate。
+   - 不承担“新Concept够不够好”的参照作用。
+
+2. 每个候选必须先独立通过：
+   > **Head-to-Head Popular Fiction Benchmark Gate**
+
+   直接对比：
+   - 《没钱修什么仙》；
+   - Reader Obsession / Market Scout筛出的其他有效头部样本；
+   - 必要时按候选功能选择不同头部参照。
+
+3. 比较重点不是理论表格，而是实际阅读体验潜力：
+   - One-line Click；
+   - Reader Fantasy；
+   - 第一屏吸附；
+   - 第一章兑现；
+   - 前10章上瘾循环；
+   - 章节欲望菜单；
+   - 主角记忆点；
+   - 世界自然新鲜感；
+   - 钱/身份/关系/秘密的高欲望耦合；
+   - 长篇持续升级；
+   - 是否具备“我就是更想看这个”的体验优势。
+
+4. 只有达到：
+   > **至少有资格与头部热门作品同架讨论**
+   
+   的候选，才进入Prototype Pool。
+
+5. 《舍弃》及其C1R/C2/C8R同样必须独立过热门Benchmark Gate。
+   - 不因旧资产多获得Prototype名额；
+   - 不因已经投入大量工作被默认保送；
+   - 如果直接对热门作品明显掉档，则不进入最终Prototype Duel。
+
+6. “新Concept vs 《舍弃》”只在一个阶段有意义：
+   > **当多个候选都已经达到热门Benchmark线之后，用于最终项目切换/重启成本判断。**
+
+   该比较不参与质量门本身。
+
+7. 后续总评审顺序：
+   > Popular Benchmark Gate -> 淘汰不够热门级的候选 -> Top候选真实Prototype -> clean-room blind read -> 最后才讨论是否替换《舍弃》。
+
