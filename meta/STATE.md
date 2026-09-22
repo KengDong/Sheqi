@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：**Bible V1.0 Frozen -> Draft V0否决 -> Commercial Prose Calibration通过 -> #37/#38双线并行  
+**阶段：**Bible V1.0 Frozen -> Commercial Prose Calibration通过 -> #37/#38总评审后定向PATCH  
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷发动机批准日期：**2026-09-21  
@@ -494,13 +494,13 @@ A-T1仍只是PROVISIONAL BASE；Timing 1未冻结。
 
 ---
 
-# 当前活动任务A｜#37 Commercial First-Principles Volume 1 Rebuild
+# 当前活动任务A｜#37 Commercial First-Principles Volume 1 Rebuild｜PATCH
 
 执行窗口：
 > 中段+衔接GPT -> Commercial Story Showrunner。
 
 状态：
-> **P0 / ACTIVE**
+> **P0 / PATCH REQUIRED**
 
 任务书：
 > `research/briefs/2026-09-22_first_volume_commercial_rebuild_brief_v2.md`
@@ -519,13 +519,13 @@ A-T1仍只是PROVISIONAL BASE；Timing 1未冻结。
 
 ---
 
-# 当前活动任务B｜#38 Opening Writer Commercial Prose Calibration
+# 当前活动任务B｜#38 Opening Writer Commercial Prose Calibration｜PATCH
 
 执行窗口：
 > 开头GPT -> Opening Writer / Commercial Prose Calibration Writer。
 
 状态：
-> **P0 / ACTIVE，与#37并行**
+> **P0 / PATCH REQUIRED，与#37并行**
 
 任务书：
 > `research/briefs/2026-09-22_opening_writer_commercial_prose_calibration_brief.md`
@@ -620,3 +620,34 @@ Issue：
 > **#37 Opening方向通过 + #38 Writer Prose Baseline通过**
 
 才允许完整Ch1正式Draft。
+
+---
+
+# #37/#38总评审结果｜2026-09-22
+
+#37：
+> 研究层通过，最终架构需一次定向整合PATCH。
+
+终审：
+> reviews/2026-09-22_issue37_total_editorial_audit.md
+
+PATCH：
+> research/briefs/2026-09-22_issue37_consolidation_patch_brief.md
+
+关键修正：
+- Secret Ladder不得提前剧透后续“感知真、归因错”；
+- 补低端市场失效模型，解释成熟社会为何仍有合法低估物；
+- A/C合并为AC-Hybrid；
+- Event-First / Ch1执行舍味升为主Baseline；
+- Payoff数字规则降为review trigger。
+
+#38：
+> Sample A/C接近通过，Sample B仍有“普通话版机制白皮书”感，因此不批准Prose Baseline。
+
+Shelf Test：
+> reviews/2026-09-22_issue38_commercial_shelf_test.md
+
+PATCH：
+> research/briefs/2026-09-22_issue38_prose_patch_brief.md
+
+完整Ch1继续禁止，直到#37与#38 PATCH均通过。
