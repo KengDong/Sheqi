@@ -8,8 +8,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: Finalist Opening Arc Stress Test调度
-- gate: C01 vs C12 three-chapter endurance
+- current_task: 双层三章读者验证调度
+- gate: Returning Reader + Fresh Shelf Reader
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -20,15 +20,15 @@
 - waiting_for: none
 
 ## opening_writer
-- status: ACTIVE
+- status: RETIRED / CONTEXT LIMIT REACHED
 - role: world_prototype / Finalist Continuation Writer
-- current_task: Finalist Opening Arc Stress Test
+- completed_task: Finalist Opening Arc Stress Test｜DONE
 - current: `handoffs/opening_writer/CURRENT.md`
-- brief: `research/briefs/2026-09-22_finalist_opening_arc_stress_test_brief.md`
-- finalists:
-  - B = C01《明天已经卖掉》
-  - D = C12《替有钱人渡劫》
-- deliver_to: returning_reader + fresh_three_chapter_reader + editor_in_chief
+- output:
+  - B Ch2—Ch3
+  - D Ch2—Ch3
+  - Writer Selfcheck
+- hard_rule: no future tasks to this window
 
 ## benchmark_deepread
 - status: DONE
@@ -92,22 +92,34 @@
 - current: `handoffs/visual/CURRENT.md`
 
 ## fresh_book_blind_reader
-- status: DONE FIRST PASS / QUEUED FOR CONTINUATION
+- status: ACTIVE / RETURNING CONTINUATION TEST
 - execution_window: 必须新开全新GPT窗口
 - current_task: Fresh Book Prototype Blind Read
 - brief: `research/briefs/2026-09-22_book_prototype_fresh_blind_read_brief.md`
 - first_pass_output: `reviews/2026-09-22_book_prototype_fresh_blind_read.md`
 - next_brief: `research/briefs/2026-09-22_finalist_returning_reader_continuation_brief.md`
-- blocked_by: finalist Ch2—Ch3 completion
+- input_ready: finalist B/D Ch2—Ch3 complete
 - deliver_to: editor_in_chief
 
 ## finalist_fresh_reader
-- status: QUEUED / NEW CLEAN WINDOW REQUIRED
+- status: ACTIVE / NEW CLEAN WINDOW REQUIRED
 - execution_window: 必须新开第二个全新GPT窗口
 - current_task: Finalist 3-Chapter Fresh Shelf Test
 - brief: `research/briefs/2026-09-22_finalist_three_chapter_fresh_shelf_test_brief.md`
-- blocked_by: finalist Ch2—Ch3 completion
+- input_ready:
+  - `experiments/finalist_three_chapter_packages/2026-09-22_finalist_X_ch001_003.md`
+  - `experiments/finalist_three_chapter_packages/2026-09-22_finalist_Y_ch001_003.md`
 - deliver_to: editor_in_chief
+
+## book_writer_v2
+- status: QUEUED / NEW WINDOW REQUIRED
+- execution_window: 必须新开全新GPT窗口
+- current: `handoffs/book_writer_v2/CURRENT.md`
+- blocked_by:
+  - Returning Reader Continuation Test
+  - Fresh 3-Chapter Shelf Test
+  - Total Editor final direction synthesis
+- note: 原opening_writer已到对话上限，永久退休
 
 ## blind_reader
 - status: PAUSED
@@ -200,3 +212,13 @@
 - C10《死人也要履约》：RESERVE
 - C08《职业遗产》：DROP FOR CURRENT FINAL
 - current_test: Ch2—Ch3 continuity / concept-fade / life-compounding
+
+
+## Finalist Opening Arc｜STATUS UPDATE
+- B Ch2—Ch3：DONE
+- D Ch2—Ch3：DONE
+- Writer Selfcheck：DONE
+- Returning Reader Continuation Test：ACTIVE
+- Second Fresh 3-Chapter Shelf Test：ACTIVE
+- Old Opening Writer：RETIRED
+- Book Writer V2：QUEUED / NEW WINDOW REQUIRED
