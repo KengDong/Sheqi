@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：**Bible V1.0 Frozen -> Commercial Prose Calibration通过 -> #37商业重构通过 -> #38 Writer Baseline通过 -> 等待作者P1 Outline Change确认
+**阶段：** Bible V1.0 Frozen -> Commercial Rebuild通过 -> Author P1 AC-Hybrid批准 -> Authority Rewrite ACTIVE
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷发动机批准日期：**2026-09-21  
@@ -631,10 +631,25 @@ Sample A/B/C V2：
 
 ---
 
-# 当前唯一决策门｜作者P1确认
+# Author P1 Authority Gate｜已通过
 
-总评审建议作者批准：
+作者于2026-09-22明确批准：
+> **按AC-Hybrid正式重开第一卷Approved Outline。**
 
-> **按AC-Hybrid正式重开并重写第一卷Approved Outline。**
+正式决策：
+> `meta/DECISIONS.md` D-0048
 
-若作者批准，下一阶段才可开始正式权威改写。
+当前：
+> **Authority Rewrite ACTIVE。**
+
+执行窗口：
+> mid_continuity / Commercial Story Showrunner / Authority Rewrite Editor
+
+正式brief：
+> `research/briefs/2026-09-22_authority_rewrite_ac_hybrid_brief.md`
+
+权威边界：
+- Canon继续KEEP；
+- 旧Outline已获授权重开，但在新版本实际写回并通过总评审前，不应误称为已完成AC-Hybrid替换；
+- Event-First为优先Opening实现方向，最终冻结前仍需新版完整执行验证；
+- 正式Ch1仍禁止，必须等Authority Rewrite + 总评审Gate + Event-First Execution Validation。
