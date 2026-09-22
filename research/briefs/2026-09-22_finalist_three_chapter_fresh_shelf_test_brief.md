@@ -1,6 +1,6 @@
 ---
-status: queued
-version: 1.0
+status: active
+version: 1.1
 created_at: 2026-09-22
 authority: evaluation
 canon_effect: none
@@ -14,17 +14,14 @@ depends_on: finalist-opening-arc-stress-test-done
 > **必须再新开一个从未参与Sheqi项目、也没读过第一轮四篇Prototype的GPT窗口。**
 
 ## FIRST INPUT ONLY
-Finalist X package:
-- Ch1
-- Ch2
-- Ch3
+只允许读取：
+1. 本brief；
+2. `experiments/finalist_three_chapter_packages/2026-09-22_finalist_X_ch001_003.md`
+3. `experiments/finalist_three_chapter_packages/2026-09-22_finalist_Y_ch001_003.md`
 
-Finalist Y package:
-- Ch1
-- Ch2
-- Ch3
+X / Y 已由总评审匿名组装。
 
-由总评审在执行前复制/匿名组装，不能泄露：
+不能泄露 / 不得查询：
 - C01/C12；
 - 真实书名；
 - Foundry；
