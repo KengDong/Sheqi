@@ -3,7 +3,7 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: World Reframe Top-3 Review
+- current_gate: World Reframe Top-3 PATCH Re-review
 
 ## LAST COMPLETED TASK
 - task: Event-First Execution Validation总评审
@@ -14,24 +14,24 @@
   - `handoffs/editor_in_chief/history/2026-09-22_event_first_execution_validation_pass.md`
 
 ## WHAT ACTUALLY HAPPENED
-- Benchmark Deep Read与Market Scout均已完成并回交。
-- 总评审已经完成两份研究合流：
-  - `reviews/2026-09-22_world_background_research_consolidation.md`
-- 核心共识：
-  > 高信息量不是题材更怪，而是“根规则进入多社会接口”。
-  > 当前真正要比较的是“单轴修炼世界 vs 多社会接口的舍弃文明”，而不是简单“修仙 vs 都市/末世”。
-- World Reframe正式ACTIVE：
-  - `research/briefs/2026-09-22_sheqi_world_reframe_brief.md`
-- brief已新增Hard Gates：
-  1. 禁止题材换皮；
-  2. 舍弃必须进入至少8/12社会接口；
-  3. 去掉陆野/尝余后世界仍持续产事；
-  4. 四台发动机要在同一事件中合流；
-  5. Top 3必须在社会发动机上本质不同；
-  6. Traditional Control公平参赛；
-  7. 理论高分不能直接触发P2，必须真实文本对撞。
-- Canon / Approved Outline目前继续保持不变。
-- Formal Ch1 V1继续封存为Traditional Control。
+- World Reframe主体研究PASS。
+- 10个方向（9新 + Traditional Control）确实完成了第一性原理比较，不是题材换皮。
+- 原Top 3：
+  - C1 缺位公民社会；
+  - C2 人格工业城；
+  - C3 家庭责任共同体。
+- 总评审不原样放行Prototype Duel，原因：
+  1. C1过于像总社会框架，容易把C2/C3吞成子接口；
+  2. C2值得保留，是目前最容易同场点燃Action/Money/Asset/Secret的候选；
+  3. C3主题深，但当前First-Page Combustion不足，容易“设定聪明但第一页不爆”；
+  4. Top 3理论社会密度很高，但D-0051要求的是“热门小说同架的真实开头爆发力”。
+- 已下发一次Targeted Sharpening PATCH：
+  - C1锁定第一卷稳定进件口；
+  - C2补First-Page Combustion Card；
+  - C3与C7/C8/C9现有候选重新竞争第三席；
+  - 三席必须真正互斥；
+  - 三候选必须先过Opening Combustion Gate。
+- 不重做Benchmark、不新增大候选池、不改Canon/Outline、不写Prototype。
 
 ## AUTHOR FEEDBACK
 - 作者认为传统修仙背景可能天然看头较小。
@@ -71,19 +71,16 @@
 4. 是否需要Prose Editor定向修补后再进Blind Read。
 
 ## NEXT EXPECTED ACTION
-1. world_reframe由“中段+衔接”窗口立即执行。
-2. 必须先产至少8个候选，再内部淘汰到Top 3。
-3. Top 3不得只是视觉/时代皮肤不同，必须是不同社会发动机。
-4. 回交后总评审做Top-3 Gate：
-   - 信息生产力；
-   - 舍弃一阶社会化；
-   - 去外挂产事；
-   - 四发动机合流；
-   - 长篇可持续性；
-   - 与Traditional Control改动成本对比。
-5. 通过后激活opening_writer做Top3 + Traditional Control受控开场对撞。
-6. 最终由新clean-room blind reader匿名盲读。
-7. 作者在真实文本对撞前不需要做世界观选择。
+1. world_reframe立即执行Top-3 Sharpening PATCH。
+2. 回交后总评审只复核：
+   - C1是否从总框架收窄成可写发动机；
+   - C2第一屏是否真的爆；
+   - 第三席最终是谁；
+   - 三席是否非嵌套；
+   - 三张First-Page Combustion Card是否够资格实写。
+3. PASS后立即激活world_prototype：
+   > Top 3 + Traditional Control四篇受控冷开场。
+4. 仍不改Canon / Approved Outline。
 
 ## REQUIRED READS
 1. `reviews/2026-09-22_event_first_execution_validation_final_review.md`
