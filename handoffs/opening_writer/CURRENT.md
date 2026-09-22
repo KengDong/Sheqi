@@ -2,45 +2,41 @@
 
 ## ROLE
 - role: world_prototype / Controlled Book Opening Writer
-- status: ACTIVE
+- status: PAUSED
 - current_task: Book-Level Prototype Duel
+- task_status: DONE
 - active_brief: `research/briefs/2026-09-22_book_level_prototype_duel_brief.md`
 
-## PRIOR WORK
-- Sheqi Formal Ch1 V1：DONE / ARCHIVED AS OLD CANDIDATE ASSET
-- 当前不继续修Sheqi Ch1。
-- 不写Sheqi Ch2。
+## COMPLETED OUTPUTS
+- Prototype A: `experiments/book_level_prototypes/2026-09-22_proto_A_v1.md`
+- Prototype B: `experiments/book_level_prototypes/2026-09-22_proto_B_v1.md`
+- Prototype C: `experiments/book_level_prototypes/2026-09-22_proto_C_v1.md`
+- Prototype D: `experiments/book_level_prototypes/2026-09-22_proto_D_v1.md`
+- Writer Selfcheck: `reviews/2026-09-22_book_level_prototype_writer_selfcheck.md`
 
-## WHY ROLE CHANGED
-D-0055：
-> **唯一第一性原理是写出一部真正好看的小说。**
-
-当前总评审已完成Popular Fiction Benchmark Gate。
-本窗口被复用为统一Writer，只负责把四个通过门槛的新书候选写成可直接盲读的真实小说样本。
-
-## CURRENT PROTOTYPES
+## ANONYMOUS INTERNAL MAPPING
 - A = C10《死人也要履约》
 - B = C01《明天已经卖掉》
 - C = C08《职业遗产》
 - D = C12《替有钱人渡劫》
 
-## REQUIRED READS
-1. `meta/COMMERCIAL_FIRST_PRINCIPLES.md`
-2. `handoffs/opening_writer/CURRENT.md`
-3. `research/briefs/2026-09-22_book_level_prototype_duel_brief.md`
-4. `reviews/2026-09-22_book_level_hit_concept_total_editor_review.md`
-5. `research/design/2026-09-22_hit_concept_foundry.md`
-6. `meta/HUMAN_PROSE_GATE.md`
-7. `meta/COMMERCIAL_PROSE_REFERENCE_CARDS.md`
+> Blind Reader不得读取本映射；只提供A/B/C/D正文。
+
+## EXECUTION NOTES
+- 四篇均按约1800—2600中文字符完成。
+- 四篇均落实：第一屏事件、主角选择味道、真实结算、长期关系、Future-Life Promise、Ending Urge。
+- 未给任何一篇额外第二章级展开或额外机制优势。
+- Writer Selfcheck未排名、未宣布赢家。
 
 ## NEXT EXPECTED ACTION
-- 直接执行active brief。
-- 完成4篇Prototype + Writer Selfcheck + CURRENT/history。
-- 然后停止，等待全新clean-room blind reader。
+- 等待全新 clean-room Blind Reader。
+- Blind Reader只拿四篇匿名正文，不拿Foundry、总评审偏好、匿名映射或Writer Selfcheck。
+- Blind Reader完成后再由总评审合流；Writer不得抢先续写。
 
 ## DO NOT CONTINUE
-- 不读Sheqi Canon/Outline/旧Ch1作为本轮写作依据。
-- 不写第二章。
-- 不自己排名。
-- 不替总评审立项。
-- 不改Canon/Outline。
+- 不写任何Prototype第二章。
+- 不继续旧Sheqi Formal Ch1。
+- 不自行排名或宣布赢家。
+- 不替总评审正式立项。
+- 不改Canon / Outline。
+- 不把四篇Prototype当作正式正文。
