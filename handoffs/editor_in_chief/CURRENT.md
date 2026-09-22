@@ -3,7 +3,7 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: World Background Direction Review
+- current_gate: World Reframe Top-3 Review
 
 ## LAST COMPLETED TASK
 - task: Event-First Execution Validation总评审
@@ -14,19 +14,25 @@
   - `handoffs/editor_in_chief/history/2026-09-22_event_first_execution_validation_pass.md`
 
 ## WHAT ACTUALLY HAPPENED
-- Formal Ch1 V1已经写完，但作者重新打开了更上游的问题：
-  > **传统修仙是否天然限制《舍弃》的信息量、新鲜感和上瘾度。**
-- 为避免沉没成本，Formal Ch1 V1暂不总审，封存为：
-  > **传统修仙底盘Control Sample。**
-- Canon / Approved Outline暂不修改。
-- 已建立并行World Background Reframe研究支线：
-  1. benchmark_deepread｜《没钱修什么仙》全文深读，等待用户上传研究源；
-  2. market_scout｜2024—2026跨题材热门世界底盘扫描，ACTIVE；
-  3. world_reframe｜结合两份研究，提出至少8个《舍弃》世界底盘候选，QUEUED；
-  4. world_prototype｜Top 3 + 传统修仙Control做控制变量冷开场对撞，QUEUED；
-  5. 最终交clean-room blind_reader，只看文本决定谁更想读。
-- 外部小说全文不进Git；原文进入Library，Git只存来源索引和派生研究。
-- `research/sources/BENCHMARK_SOURCE_INDEX.md` 已建立。
+- Benchmark Deep Read与Market Scout均已完成并回交。
+- 总评审已经完成两份研究合流：
+  - `reviews/2026-09-22_world_background_research_consolidation.md`
+- 核心共识：
+  > 高信息量不是题材更怪，而是“根规则进入多社会接口”。
+  > 当前真正要比较的是“单轴修炼世界 vs 多社会接口的舍弃文明”，而不是简单“修仙 vs 都市/末世”。
+- World Reframe正式ACTIVE：
+  - `research/briefs/2026-09-22_sheqi_world_reframe_brief.md`
+- brief已新增Hard Gates：
+  1. 禁止题材换皮；
+  2. 舍弃必须进入至少8/12社会接口；
+  3. 去掉陆野/尝余后世界仍持续产事；
+  4. 四台发动机要在同一事件中合流；
+  5. Top 3必须在社会发动机上本质不同；
+  6. Traditional Control公平参赛；
+  7. 理论高分不能直接触发P2，必须真实文本对撞。
+- Canon / Approved Outline目前继续保持不变。
+- Formal Ch1 V1继续封存为Traditional Control。
+
 ## AUTHOR FEEDBACK
 - 作者认为传统修仙背景可能天然看头较小。
 - 作者要求不局限修仙，重新研究什么世界底盘能像热门小说一样新鲜、爆、上瘾。
@@ -65,13 +71,20 @@
 4. 是否需要Prose Editor定向修补后再进Blind Read。
 
 ## NEXT EXPECTED ACTION
-1. 《没钱修什么仙》研究源已存入Library，benchmark_deepread已ACTIVE，复用旧结构盲读窗口执行。
-2. market_scout立即执行跨题材热门世界底盘扫描。
-3. 两份报告完成后激活world_reframe。
-4. world_reframe筛Top 3后激活world_prototype。
-5. 由clean-room blind_reader对Top 3 + 当前传统修仙Control做真实文本对撞。
-6. 总评审最终只提交给作者：哪些背景明显更强、改动级别、是否值得推翻当前Traditional-Xianxia Base。
-7. 在作者决定前：不改Canon、不写Ch2、不继续打磨Traditional Ch1。
+1. world_reframe由“中段+衔接”窗口立即执行。
+2. 必须先产至少8个候选，再内部淘汰到Top 3。
+3. Top 3不得只是视觉/时代皮肤不同，必须是不同社会发动机。
+4. 回交后总评审做Top-3 Gate：
+   - 信息生产力；
+   - 舍弃一阶社会化；
+   - 去外挂产事；
+   - 四发动机合流；
+   - 长篇可持续性；
+   - 与Traditional Control改动成本对比。
+5. 通过后激活opening_writer做Top3 + Traditional Control受控开场对撞。
+6. 最终由新clean-room blind reader匿名盲读。
+7. 作者在真实文本对撞前不需要做世界观选择。
+
 ## REQUIRED READS
 1. `reviews/2026-09-22_event_first_execution_validation_final_review.md`
 2. `research/briefs/2026-09-22_formal_ch001_v1_draft_brief.md`
