@@ -3,7 +3,7 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: Dual Finalist 3-Chapter Reader Validation
+- current_gate: C01 Full Reboot Author Approval
 
 ## LAST COMPLETED TASK
 - task: Event-First Execution Validation总评审
@@ -14,29 +14,31 @@
   - `handoffs/editor_in_chief/history/2026-09-22_event_first_execution_validation_pass.md`
 
 ## WHAT ACTUALLY HAPPENED
-- Finalist Opening Arc Stress Test：DONE。
-- B = C01《明天已经卖掉》：
-  - Ch2 DONE
-  - Ch3 DONE
-- D = C12《替有钱人渡劫》：
-  - Ch2 DONE
-  - Ch3 DONE
-- Writer Selfcheck：DONE。
-- 两边均未重写Ch1、未写Ch4、未扩Full Bible。
-- 用户明确：
-  > 原“开头 / 主作者”GPT已达到对话上限。
-- 该窗口已正式：
-  > RETIRED / CONTEXT LIMIT REACHED
+- Returning Reader Continuation Test：DONE。
+  - B：PASS / 读欲总体上升；
+  - D：PASS / 普通职业日仍成立；
+  - 两者到Ch3均开始追“人的人生”。
+- Second Fresh 3-Chapter Shelf Test：DONE。
+  - X：STRONG PASS；
+  - Y：PASS；
+  - 若只能追一本：X。
+- 揭盲：
+  - X = B = C01《明天已经卖掉》
+  - Y = D = C12《替有钱人渡劫》
+- 三层独立证据收敛：
+  1. Popular Benchmark：C01 / C12均PASS；
+  2. 第一轮Fresh Prototype Blind：B / D均STRONG PASS；
+  3. 第二Fresh 3-Chapter Shelf：C01明确领先。
+- 总评审最终推荐：
+  > **C01《明天已经卖掉》进入Full Reboot Authority Gate。**
+- C12：
+  > **第一Reserve，不并行研发。**
 - 已创建：
-  > `handoffs/book_writer_v2/CURRENT.md`
-  作为未来所有正文写作的新窗口入口；当前QUEUED，不提前启动。
-- 已匿名组装第二轮三章包：
-  - X package
-  - Y package
-- 当前两路评审同时ACTIVE：
-  1. 原fresh_book_blind_reader续读B/D Ch2—3，测试第一章Promise是否兑现；
-  2. 新finalist_fresh_reader从X/Y Ch1—3整包盲读，测试Fresh Shelf Experience。
-- 两路结果回来前不继续写Ch4，不建Full Bible，不正式立项。
+  - `reviews/2026-09-22_final_book_direction_synthesis.md`
+  - `reviews/2026-09-22_full_reboot_proposal_c01.md`
+- 原opening_writer继续RETIRED。
+- book_writer_v2保持QUEUED / BLOCKED BY AUTHOR AUTHORITY。
+- 在作者批准前不修改旧Sheqi Canon/Outline，不写C01正式Ch4，不做正式Book Bible。
 
 ## AUTHOR FEEDBACK
 - 作者进一步纠正D-0053后的评估顺序：
@@ -90,25 +92,23 @@
 4. 是否需要Prose Editor定向修补后再进Blind Read。
 
 ## NEXT EXPECTED ACTION
-1. 原fresh_book_blind_reader执行：
-   > `research/briefs/2026-09-22_finalist_returning_reader_continuation_brief.md`
-2. 新开第二个全新GPT窗口，执行：
-   > `handoffs/finalist_fresh_reader/CURRENT.md`
-3. 两个Reader分别完成正式报告 + CURRENT/history 后停止。
-4. 两份结果都回交后，总评审做Final Book Direction Synthesis。
-5. 总评审允许：
-   - C01胜；
-   - C12胜；
-   - 双强继续；
-   - 双崩回C10 / Foundry。
-6. 若需要任何新正文任务：
-   > **必须新开Book Writer V2窗口**
-   并按 `handoffs/book_writer_v2/CURRENT.md` 接棒。
-7. 在最终方向确定前：
-   - 不写Ch4；
-   - 不Full Bible；
-   - 不改Canon/Outline；
-   - 不迁移旧Sheqi资产。
+1. 作者审：
+   > `reviews/2026-09-22_full_reboot_proposal_c01.md`
+2. 作者只需给Authority结果：
+   - APPROVE
+   - REJECT
+   - HOLD
+3. 若APPROVE：
+   - 在 `meta/DECISIONS.md` 记录新Author Decision；
+   - 将旧Sheqi主研发状态改为ARCHIVED / SUPERSEDED AS MAIN DIRECTION；
+   - 启动C01 Authority Bootstrap；
+   - 更新 `handoffs/book_writer_v2/CURRENT.md`；
+   - 再新开Book Writer V2窗口。
+4. 若REJECT：
+   - 不改旧Authority；
+   - 重新决定C12 / C10 / Foundry路径。
+5. 若HOLD：
+   - 全部写作保持暂停，不继续消耗正文成本。
 
 ## REQUIRED READS
 1. `reviews/2026-09-22_event_first_execution_validation_final_review.md`
