@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：**Bible V1.0 Frozen -> Draft V0否决 -> 抓人第一性原则通过 -> High-Voltage Opening收敛 -> Taste Timing Prose Duel  
+**阶段：**Bible V1.0 Frozen -> Draft V0否决 -> High-Voltage Opening收敛 -> Taste Timing Prose Duel完成 -> Author Read  
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷发动机批准日期：**2026-09-21  
@@ -437,26 +437,38 @@ E3：
 
 ---
 
-# 当前活动任务｜Taste Timing Prose Duel
+# Taste Timing Prose Duel｜已完成
 
-任务书：
-> `research/briefs/2026-09-21_taste_timing_prose_duel_brief.md`
+A-T1：
+> `experiments/opening_prototypes/2026-09-21_AT1_decision_first_taste_timing.md`
 
-执行窗口：
-> 开头GPT -> Opening Prototype Writer。
+C-T2：
+> `experiments/opening_prototypes/2026-09-21_CT2_event_first_taste_timing.md`
 
-只测试：
-> **Ch1末决定舍味 vs Ch1内直接执行舍味。**
+Writer自检：
+> `reviews/2026-09-21_taste_timing_prototype_writer_selfcheck.md`
 
-同一职业、同一事故、同一W、同一信息预算。
+总评审门检：
+> `reviews/2026-09-22_taste_timing_prose_duel_gate.md`
 
-当前禁止：
-- 修改Canon；
-- 修改正式Outline；
-- 写完整Ch1/Ch2；
-- 重新开放职业入口竞争；
-- 继续扩Benchmark。
+结论：
+> 两篇均通过因果/违规门，可进入作者亲读；当前不宣布赢家。
 
+---
+
+# 当前活动任务｜Author Read
+
+执行者：
+> 作者本人。
+
+只回答：
+1. 哪篇更早真正关心陆野？
+2. 哪篇更想立刻继续？
+3. C是否本能像“舍味换筑基”？
+4. A是否像“又拖到下一章才切”？
+5. 若都不够，哪里开始掉兴趣？
+
+开头GPT暂停。
 中段+衔接GPT暂停。
 Visual GPT暂停。
 旧盲读窗口暂停。
@@ -464,13 +476,12 @@ Visual GPT暂停。
 
 # 下一阶段
 
-1. 开头GPT完成A-T1 / C-T2两篇舍味时序原型；
-2. 总评审只做违规/因果门检；
-3. 作者亲读，直接判断：A是否拖、C是否乱/像献祭换境；
-4. 冻结舍味时序；
-5. 正式重开Ch1—5 Opening Run与必要的Ch6—10接口；
-6. 新Scene Spine / 新Draft；
-7. 独立编辑 + 新clean-room盲读 + 作者亲读。
+1. 作者完成A-T1 / C-T2亲读反馈；
+2. 若一套明显胜：冻结舍味时序；
+3. 若A拖、C乱或两套都不够：设计第三节拍，不硬选；
+4. 时序冻结后，正式重开Ch1—5 Opening Run与必要的Ch6—10接口；
+5. 新Scene Spine / 新Draft；
+6. 独立编辑 + 新clean-room盲读 + 作者亲读。
 
 ## 故意仍不锁死
 
