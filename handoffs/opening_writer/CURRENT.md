@@ -1,50 +1,58 @@
 # 开头 / 主作者｜CURRENT HANDOFF
 
 ## ROLE
-- role: opening_writer / Opening Prototype Writer
+- role: opening_writer / Opening Writer
 - status: PAUSED
 - current_issue: none
+- queued_next: #undefined Opening Writer Commercial Prose Calibration
 
 ## LAST COMPLETED TASK
 - task: A-T1 / C-T2 Taste Timing Prose Duel
 - completed_at: 2026-09-22
 
 ## WHAT ACTUALLY HAPPENED
-- 作者亲读后A-T1略优，但两篇共享严重场景可视化/术语黑话问题。
-- A-T1没有正式胜出，只作为PROVISIONAL BASE。
-- 当前由中段+衔接窗口先做Scene Legibility编辑资产。
-- Opening Writer暂不自行改A文本，避免在没有场景读者图的情况下做局部换词。
+- 作者亲读后A-T1略优，但Timing未冻结。
+- 项目随后发现更上游问题：成熟商业小说正文执行Benchmark不足，AI/设计稿味未被生产线提前挡住。
+- 当前#36由中段+衔接GPT建立Commercial Prose Benchmark / Reference Cards / Human Prose Gate。
+- 在#36标准未通过前，Opening Writer不得自行定义“像热门小说”的标准，也不得写完整第一章。
+- #36通过后，Opening Writer将启动#undefined，用三个700—1100字功能微样本证明自身正文执行能力。
+- #undefined可与#37第一卷商业重构并行：#37决定写什么，#undefined校准怎么写。
 
 ## AUTHOR FEEDBACK
-- 长架/导向柱/铁柄/控制位/舍台等首次出现无画面。
-- 对话像圈内黑话。
-- 舍味第一次可以明确解释。
-- 老秦若只是普通同工，需要现实社会尺度支撑救援选择。
-- A读感略优。
+- 最终正文必须放进热门商业小说里也不像AI。
+- 作者不应继续承担基础场景/黑话/AI味排查。
+- 可以推翻旧设计，第一性原理优先。
 
 ## AUTHORITY / OUTPUTS
-- 诊断：`reviews/2026-09-22_author_read_scene_legibility_diagnosis.md`
-- 当前上游brief：`research/briefs/2026-09-22_AT1_scene_legibility_rewrite_brief.md`
+- 商业总则：`meta/COMMERCIAL_FIRST_PRINCIPLES.md`
+- #36当前标准建设任务：`research/briefs/2026-09-22_commercial_prose_calibration_AT1_brief_v2.md`
+- #undefined未来任务：`research/briefs/2026-09-22_opening_writer_commercial_prose_calibration_brief.md`
 
 ## DO NOT CONTINUE
-- 不直接润色A-T1。
-- 不冻结Timing 1。
-- 不重写事故空间直到Scene Map通过总评审。
-- 不改Canon/Outline。
+- #36通过前不要自行写校准样本。
+- 不写完整Ch1。
+- 不冻结A-T1。
+- 不自行模仿某位热门作者。
+- 不改Canon/Outline/Story Engine。
 
 ## OPEN QUESTIONS
-- 等#36交付后，A-T1 V2如何重写。
+- #36最终会冻结哪些Reference Cards和Human Prose Gate？
+- Writer能否在不依赖设计稿术语的情况下通过Commercial Shelf Test？
 
 ## NEXT EXPECTED ACTION
-1. 保持暂停。
-2. 等总评审批准Scene Legibility资产后，再接A-T1 V2实写。
+1. 当前保持暂停。
+2. 等#36总评审通过。
+3. 立即执行#undefined，与#37并行。
+4. #undefined通过后形成Opening Writer Prose Baseline。
+5. 等#37冻结最终Opening方向后，再写完整第一章。
 
 ## REQUIRED READS
-1. `meta/STATE.md`
-2. `handoffs/opening_writer/CURRENT.md`
-3. 未来A-T1 V2重写brief。
+1. `meta/COMMERCIAL_FIRST_PRINCIPLES.md`
+2. #36批准资产（完成后）
+3. `research/briefs/2026-09-22_opening_writer_commercial_prose_calibration_brief.md`
 
 ## CONTEXT SNAPSHOT
-- A略优但未冻结。
-- 当前不是写作阶段。
-- 先修读者场景模型与核心机制入门。
+- 现在不能写完整第一章。
+- 也不让Opening Writer闲到#37结束。
+- #36过后：#37和#undefined并行。
+- #37解决故事；#undefined解决写法。
