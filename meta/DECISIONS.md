@@ -1116,3 +1116,60 @@ Formal Ch1必须从当前Approved Scene Spine重新写，不得把Execution Vali
 真实偏好高于理论对称。
 
 该决策直接修改当前Top-3 Sharpening PATCH标准。
+
+
+## D-0053 最高目标重置｜Hit Fiction First，舍弃不再是神圣前提
+**状态：作者明确要求，2026-09-22生效**
+
+作者明确：
+> **最终目标不是“把《舍弃》做好”，而是“做出一部能和当前热门头部小说正面对读、一样好看、一样上瘾、一样有新鲜感、让人一读不可收拾的小说”。**
+>
+> **如果达到这个目标需要放弃“舍弃”核心概念、当前世界、当前主角入口、当前题材甚至当前书名，允许。**
+
+因此，自D-0053起：
+
+1. 《舍弃》降级为：
+   > **Incumbent Candidate / 现有高价值候选资产**
+   
+   不再是不可挑战的项目最高前提。
+
+2. 以下资产全部允许被更强方案挑战：
+   - “舍弃”核心Concept；
+   - 当前修炼体系；
+   - 当前世界底盘；
+   - 陆野当前职业入口；
+   - AC-Hybrid；
+   - 当前Ch1；
+   - 当前书名与题材归类。
+
+3. 但任何正式替换仍需：
+   > Research Proposal -> Independent Review -> Author Approval
+   
+   不允许AI静默重写Canon。
+
+4. 项目最高比较对象不再是：
+   > “哪个舍弃世界最好？”
+   
+   而是：
+   > **“哪一本书我作为陌生读者最想读、最停不下来，并且有长期头部潜力？”**
+
+5. 后续候选允许：
+   - 保留完整舍弃；
+   - 只保留“不可逆代价”精神内核；
+   - 只保留余器/余世等部分资产；
+   - 完全不用舍弃；
+   - 完全重做题材与世界。
+
+6. Current C1R / C2 / C8R：
+   > 保留为 **Sheqi-family Candidates**，不再自动进入最终Top3 Prototype Duel。
+
+7. 新增更上游Gate：
+   > **Book-Level Hit Concept Reframe**
+
+   只有该Gate完成，才重新选真正的Prototype Top3/Top4。
+
+8. 第一性原理：
+   > **Reader Obsession > Premise Preservation > Asset Reuse**
+   
+   旧资产复用永远不能绑架“好不好看”。
+
