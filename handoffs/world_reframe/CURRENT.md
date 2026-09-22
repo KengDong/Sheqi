@@ -74,6 +74,12 @@
 - 本轮只修改research/review/handoff/meta流程层，不触碰Canon/Approved Outline/Prototype正文。
 
 ## AUTHOR FEEDBACK
+- 作者于2026-09-22追加D-0052：
+  > **世界底盘不能只按信息量、社会接口、四发动机数量做理论对比。**
+  > **必须比较真实阅读偏好：同样信息量下，哪类生活、欲望、冲突就是更让人想看。**
+- 当前Top3 PATCH必须加入Reader Desire / Experience Gate。
+- 原C2“保留Top席”不再自动保送，所有既有挑战者可按真实阅读欲重新竞争。
+
 - 作者要求：
   - 不重做Benchmark；
   - 不新增大候选池；
