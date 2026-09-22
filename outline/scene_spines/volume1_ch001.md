@@ -6,6 +6,9 @@ created_at: 2026-09-22
 authority: author-delegated-editorial-approved
 authorized_by: meta/DECISIONS.md D-0048
 source_final_review: reviews/2026-09-22_authority_rewrite_targeted_patch_final_review.md
+execution_validation: passed
+execution_validation_review: reviews/2026-09-22_event_first_execution_validation_final_review.md
+event_first_timing: frozen
 canon_effect: none
 outline_effect: scene-execution
 scope: volume1_ch001
