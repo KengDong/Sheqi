@@ -1,3 +1,37 @@
+# Book-Level Prototype Duel｜ACTIVE
+
+D-0055唯一第一性原理：
+> **写出一部真正好看的小说。**
+
+当前上游：
+- Reader Obsession Market Scan｜DONE
+- Hit Concept Foundry｜DONE
+- Popular Fiction Benchmark Gate｜DONE
+- Total Editor Prototype Selection｜DONE
+
+当前正式原型池：
+- A = C10《死人也要履约》
+- B = C01《明天已经卖掉》
+- C = C08《职业遗产》
+- D = C12《替有钱人渡劫》
+
+HOLD：
+- C03《人格股份有限公司》
+
+FAIL：
+- C02《热搜成真以后》
+
+Sheqi旧项目：
+> 保留为历史/候选资产，本轮不占Prototype席、不作Benchmark。
+
+ACTIVE：
+> opening_writer / world_prototype执行四篇匿名真实冷开场。
+
+NEXT：
+> Prototype DONE -> 新开fresh_book_blind_reader -> 总评审最终Book Direction Synthesis。
+
+---
+
 # D-0053｜Hit Fiction First
 
 作者于2026-09-22明确重置最高目标：
@@ -22,7 +56,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：** D-0053 Hit Fiction First -> Book-Level Hit Concept Reframe ACTIVE
+**阶段：** D-0055 Good Novel First -> Book-Level Prototype Duel ACTIVE
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷AC-Hybrid权威化日期：**2026-09-22  
