@@ -1,66 +1,66 @@
 # 中段+衔接｜CURRENT HANDOFF
 
 ## ROLE
-- role: mid_continuity / Scene Legibility Editor
+- role: mid_continuity / Commercial Prose Benchmark Editor
 - status: ACTIVE
-- current_issue: #36 A-T1 Scene Legibility
+- current_issue: #36 Commercial Prose Calibration + A-T1 Legibility
 
 ## LAST COMPLETED TASK
-- task: High-Voltage Opening Reframe（三方案，已收敛到A/C）
-- current trigger: 作者亲读A/C后，A略优，但共享严重Scene Legibility问题
+- task: High-Voltage Opening研究 / Scene Legibility问题诊断
+- current trigger: 作者指出“热门小说借鉴长期只做了结构，没有做到正文执行层”
 - completed_at: 2026-09-22
 
 ## WHAT ACTUALLY HAPPENED
-- A-T1 / C-T2时序原型均通过因果门。
-- 作者亲读后认为A-T1略好，但两篇差距不大。
-- 作者明确指出：长架/导向柱/短钩/铁柄/舍务处/应急舍台/铁齿/绞盘/控制位等大量词首次出现没有画面，场景像小圈子黑话。
-- “临时借载呢？”没有功能上下文；事故对白像API；“用我原来那份/哪一份/舍味”过度压缩。
-- 当前A-T1只升级为PROVISIONAL BASE，Timing 1尚未冻结。
-- 当前第一优先级从“舍味时序”切换为“读者是否能看见、听懂、理解核心机制”。
+- 作者亲读A/C后，A略优，但文本仍有明显“不像正常小说”的问题。
+- 先发现scene legibility：物件没有画面、空间没建立、对白像黑话。
+- 作者进一步指出这不是局部事故，而是整个生产流程没有真正借鉴成熟热门小说的正文执行方式。
+- 总评审正式将Benchmark从结构层扩展为四层：Architecture / Scene Construction / Prose Execution / Reader Experience。
+- 原#36 Scene Legibility单点brief被V2取代。
+- 本轮需要先建立小型商业正文参考池、功能Reference Cards、Human Prose Gate，再审A-T1并做Scene Map。
 
 ## AUTHOR FEEDBACK
-- 场景应该更完整地描述，读者先看见空间与物体，不能靠设计图记忆。
-- 开头允许较明确解释舍味是什么、永久代价、作用和目的。
-- 若老秦只是普通同工，要让舍味执行成为高危职业中可理解的现实选择，而不是主角突然为路人圣人式献祭。
-- 作者当前读感：A-T1略优。
+- “借鉴热门小说”不只是架构与思路，还包括他们正确的写作方式。
+- 目标至少是把《舍弃》放在热门商业小说旁边，不会一眼看出是AI/内部设计稿。
+- 不希望继续局部发现问题、改一处又冒一处。
+- A-T1目前略优，但Timing尚未冻结。
 
 ## AUTHORITY / OUTPUTS
-- 作者反馈诊断：`reviews/2026-09-22_author_read_scene_legibility_diagnosis.md`
-- 当前brief：`research/briefs/2026-09-22_AT1_scene_legibility_rewrite_brief.md`
-- 决策：`meta/DECISIONS.md` D-0043
-- A原型：`experiments/opening_prototypes/2026-09-21_AT1_decision_first_taste_timing.md`
-- C原型：`experiments/opening_prototypes/2026-09-21_CT2_event_first_taste_timing.md`
+- 方向修正：`reviews/2026-09-22_popular_novel_benchmark_scope_correction.md`
+- 正式V2 brief：`research/briefs/2026-09-22_commercial_prose_calibration_AT1_brief_v2.md`
+- 作者场景诊断：`reviews/2026-09-22_author_read_scene_legibility_diagnosis.md`
+- 决策：`meta/DECISIONS.md` D-0044
 
 ## DO NOT CONTINUE
-- 不重新比较A/C时序。
+- 不执行旧 `research/briefs/2026-09-22_AT1_scene_legibility_rewrite_brief.md`。
+- 不只修术语/物件就交差。
+- 不再做宏观Hook Benchmark。
 - 不写小说正文。
-- 不改Canon/正式Outline。
-- 不继续热门书大Benchmark。
-- 不用更多黑话解释黑话。
-- 不强行把老秦升级成关键人物。
-- 不把“详细场景”写成机械说明书。
+- 不模仿具体热门作者句法。
+- 不复制长段公开小说。
+- 不改Canon/Outline。
 
 ## OPEN QUESTIONS
-- A'事故最小读者空间图如何建立？
-- 哪些物件名必须首见描述、延后或删除？
-- 舍味第一次说明需要多详细才清楚但不拖？
-- 高危岗位“舍备常见、执行重大”如何自然入文？
+- 哪8—10部组成最有用的商业正文参考池？
+- 成熟网文Scene Anchor/Object First Mention/Dialogue/Action/Paragraph Rhythm的共同正常区间是什么？
+- A-T1最像“设计稿扩写”的5个位置在哪里？
+- Human Prose Gate怎样成为以后所有正文的硬门？
 
 ## NEXT EXPECTED ACTION
-1. 完整执行 `research/briefs/2026-09-22_AT1_scene_legibility_rewrite_brief.md`。
-2. 输出Scene Map、物件/术语审计、Reader-Language AT1 Patch。
-3. 更新CURRENT + history后停止，交总评审。
+1. 完整执行 `research/briefs/2026-09-22_commercial_prose_calibration_AT1_brief_v2.md`。
+2. 必须阅读实际公开正文，不以简介/书评替代。
+3. 先做Reference Cards/Human Prose Gate，再做A-T1差距审计与Scene Map。
+4. 更新CURRENT + history后停止，交总评审。
 
 ## REQUIRED READS
-1. `meta/HANDOFF_PROTOCOL.md`
-2. `reviews/2026-09-22_author_read_scene_legibility_diagnosis.md`
-3. `research/briefs/2026-09-22_AT1_scene_legibility_rewrite_brief.md`
-4. A-T1 / C-T2两篇原型
-5. Reader Language Gate / Map
-6. Opening V0 Reference Spec与A'事故作者侧物理资料。
+1. `reviews/2026-09-22_popular_novel_benchmark_scope_correction.md`
+2. `research/briefs/2026-09-22_commercial_prose_calibration_AT1_brief_v2.md`
+3. A-T1原型
+4. PROSE_BIBLE / PLAYBOOK
+5. READER_LANGUAGE_GATE / MAP
 
 ## CONTEXT SNAPSHOT
-- A-T1目前只是暂定底稿。
-- Timing 1未冻结。
-- 当前修的是读者可理解性，不是剧情主链。
-- 先做场景资产，再交开头GPT重写。
+- A-T1只是PROVISIONAL BASE。
+- 当前不再只修scene legibility。
+- 本轮要建立可复用的商业正文外部标尺。
+- 目标是“正常成熟商业小说感”，不是模仿某位作者。
+- 开头GPT继续暂停。
