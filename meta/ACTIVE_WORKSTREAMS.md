@@ -42,13 +42,16 @@
 - deliver_to: world_reframe / editor_in_chief
 
 ## world_reframe
-- status: ACTIVE
+- status: PAUSED / DONE
 - execution_window: 复用“中段+衔接”窗口
-- current_task: Top-3 Sharpening PATCH
+- current_task: DONE｜Top-3 Sharpening PATCH
 - current: `handoffs/world_reframe/CURRENT.md`
-- source_review: `reviews/2026-09-22_world_reframe_top3_total_editor_review.md`
-- brief: `research/briefs/2026-09-22_world_reframe_top3_sharpening_patch_brief.md`
+- output:
+  - `research/design/2026-09-22_sheqi_world_reframe_options.md` v1.1
+  - `research/design/2026-09-22_world_reframe_top3_combustion_cards.md`
+  - `reviews/2026-09-22_world_reframe_top3_patch_selfcheck.md`
 - deliver_to: editor_in_chief
+- waiting_for: Top-3 PATCH Re-review
 
 ## world_prototype
 - status: QUEUED
@@ -103,14 +106,15 @@
    - 必要时Fresh Blind Read
    - 然后交作者。
 
-6. **World Background Reframe Research｜DONE / AWAITING TOTAL EDITOR REVIEW**
+6. **World Background Reframe Research｜TOP-3 PATCH DONE / AWAITING RE-REVIEW**
    - Benchmark Deep Read｜DONE；
    - Market Scout｜DONE；
    - Total-editor consolidation｜DONE；
-   - World Reframe｜DONE；
-   - Top 3候选：缺位公民社会 / 人格工业城 / 家庭责任共同体；
+   - World Reframe主体｜DONE；
+   - Top-3 Sharpening PATCH｜DONE；
+   - 当前三席：C1R缺位复归 / C2人格工业 / C8R舍险契约；
    - Traditional AC-Hybrid继续作为Control；
-   - Controlled Prototype Duel仍QUEUED，等待总评审确认Top 3。
+   - Controlled Prototype Duel仍QUEUED，等待总评审复核PATCH。
 
 ---
 
@@ -123,12 +127,14 @@
 - 不把微场景Prose PASS等同于整章能力PASS。
 
 
-## World Background Research｜REFRAME DONE / REVIEW ACTIVE
+## World Background Research｜TOP-3 PATCH DONE / RE-REVIEW ACTIVE
 - Benchmark Deep Read：DONE
 - Market Scout：DONE
 - Total-editor consolidation：DONE
-- World Reframe：DONE
-- World Reframe output：`research/design/2026-09-22_sheqi_world_reframe_options.md`
-- Total Editor Direction Review：ACTIVE
-- World Prototype：QUEUED / BLOCKED BY TOP3 PATCH
+- World Reframe主体：DONE
+- Top-3 Sharpening PATCH：DONE
+- Current Top 3：C1R缺位复归 / C2人格工业 / C8R舍险契约
+- Traditional Control：KEEP
+- Total Editor Re-review：ACTIVE
+- World Prototype：QUEUED / BLOCKED BY RE-REVIEW
 - Clean-room Blind Reader：NOT YET OPEN
