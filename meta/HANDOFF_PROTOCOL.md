@@ -1,6 +1,6 @@
 ---
 status: approved-process
-version: 1.0
+version: 1.1
 created_at: 2026-09-21
 authority: author-approved-process
 canon_effect: none
@@ -299,3 +299,78 @@ CURRENT 应该像：
 
 任何“如果这个窗口消失，新窗口就不知道”的信息：
 > 都不应该只存在聊天里。
+
+
+---
+
+# 10. Git任务派发｜禁止依赖作者手工复制长提示
+
+正式任务派发规则：
+> `meta/TASK_DISPATCH_PROTOCOL.md`
+
+从V1.1起，长期窗口之间不再以“作者复制一大段聊天提示”为标准交接方式。
+
+总评审/上游窗口下发正式任务时必须：
+
+1. 先把任务要求写成仓库中的正式 brief；
+2. 更新目标角色的 `handoffs/<role>/CURRENT.md`：
+   - status；
+   - current_task；
+   - exact brief path；
+   - blocked_by / prerequisites；
+   - REQUIRED READS；
+   - DO NOT CONTINUE；
+3. 同步 `meta/ACTIVE_WORKSTREAMS.md`；
+4. 若任务仍被Authority Gate阻塞，标记为 `QUEUED / BLOCKED`，不得让目标窗口提前执行；
+5. 只有Git中的brief + CURRENT同时就绪，才算“已下发”。
+
+作者之后不需要手工复制任务正文。
+新窗口只需按启动顺序读取自己的CURRENT和其中引用的brief即可恢复。
+
+---
+
+# 11. Task-Close Integrity Check｜任务关闭完整性检查
+
+每个长期窗口宣布任务完成前，除CURRENT + history外，还必须完成一次最小闭环核对：
+
+- [ ] 任务产物已落库；
+- [ ] CURRENT已更新；
+- [ ] history已新增；
+- [ ] 旧结论/失败路线已写入DO NOT CONTINUE；
+- [ ] AUTHOR FEEDBACK已记录；
+- [ ] REQUIRED READS是最小必要集合；
+- [ ] 如影响其它窗口，已通知总评审同步其CURRENT；
+- [ ] 如改变全局工作流，已同步 `meta/ACTIVE_WORKSTREAMS.md`；
+- [ ] 不存在“Git显示ACTIVE，但实际已DONE/PAUSED”的明显状态漂移。
+
+若任一关键项缺失：
+> **任务不得视为完整关闭。**
+
+---
+
+# 12. 总评审的跨窗口同步责任｜扩展
+
+总评审每次完成以下任一动作：
+- 批准/否决；
+- 阶段切换；
+- Authority Gate变化；
+- 任务优先级变化；
+- 上游产物使下游brief失效；
+
+必须同时执行：
+
+1. 更新 `handoffs/editor_in_chief/CURRENT.md`；
+2. 更新 `meta/ACTIVE_WORKSTREAMS.md`；
+3. 检查所有受影响长期窗口CURRENT；
+4. 将过期窗口改成：
+   - ACTIVE；
+   - PAUSED；
+   - BLOCKED；
+   - QUEUED；
+   - RETIRED；
+   之一；
+5. 若下一个任务已经明确，直接写出/更新正式brief并挂到目标CURRENT；
+6. 新增editor_in_chief history快照。
+
+目标：
+> **任何一个窗口突然达到上下文上限，新窗口只读Git即可继续，不需要作者恢复任务说明。**
