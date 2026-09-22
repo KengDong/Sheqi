@@ -903,3 +903,31 @@ Opening V0 Reference冻结：
     - #37决定“写什么”；
     - #38校准Opening Writer“怎么写”；
 11. 只有#37最终Opening方向通过 + #38 Writer Prose Baseline通过，才允许写完整第一章。
+
+
+## D-0048 AC-Hybrid 第一卷 P1 Authority Change获作者批准
+**状态：已批准，2026-09-22生效**
+
+作者明确批准：
+> **按AC-Hybrid正式重开第一卷Approved Outline。**
+
+自本决策起：
+- #37的AC-Hybrid从“总评审推荐 / P1候选”升级为正式第一卷权威改写方向；
+- 授权重写：
+  - `outline/volume1_story_engine.md`
+  - `outline/volume1_phase_outline.md`
+  - `outline/chapter_cards/volume1_ch001_003.md`
+  - `outline/chapter_cards/volume1_ch004_010.md`
+  - `outline/scene_spines/volume1_ch001.md`
+- Canon继续KEEP，不触发P2 Change；
+- Secret Ladder V3、低端市场失效模型、Payoff Ledger V3作为本次Authority Rewrite的正式约束/设计依据；
+- Event-First / Ch1真正执行舍味作为优先Opening实现方向，A-T1保留Fallback；
+- 但Event-First完整“真切味 -> 无即时力量 -> 正常筑基 -> 稳定离体 -> 救援继续”仍需在新版Scene Spine下做一次执行验证后再最终冻结；
+- 第一重点收藏必须在Ch4—10正式冻结前完成具体设计与Gate；
+- 前10章不得按“一章一个功能”机械排格，且必须自然出现至少一次舍弃规则进入非捡漏领域的现实利益后果。
+
+权威边界：
+> 本决策授权**重开与改写**Approved Outline；在新版本实际写回并通过总评审前，旧Outline文件仍是仓库中当前已存在的author-approved文本，不应被误称为已经完成AC-Hybrid替换。
+
+正式执行Brief：
+> `research/briefs/2026-09-22_authority_rewrite_ac_hybrid_brief.md`
