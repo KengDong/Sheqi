@@ -847,3 +847,37 @@ Opening V0 Reference冻结：
 9. #37只输出Benchmark / 矩阵 / 秘密梯 / 收集循环 / Payoff审计 / Story Engine Change Proposal，不直接改Canon/Approved Outline；
 10. 执行顺序：
     > **先完成#36 Commercial Prose Calibration，再立即启动#37。**
+
+
+## D-0046 商业第一性原理高于旧设计保护
+**状态：作者批准，2026-09-22生效**
+
+正式总则：
+> `meta/COMMERCIAL_FIRST_PRINCIPLES.md`
+
+作者明确修正项目职责：
+> 作者不应持续承担“自己亲读后才发现基本爽感、可读性、AI味、场景不清”等基础QA；这些问题应由AI在交付作者前主动排查。
+
+正式决定：
+1. 项目最高目标为：
+   > **让陌生普通读者从第一次点开开始，持续觉得新鲜、好看、爽、想继续读。**
+2. 旧设计、旧章卡、旧职业入口、旧Story Engine与既有研究投入均不得因沉没成本获得保护；
+3. Frozen只表示“不得静默覆盖”，不表示“永远不能推翻”；若商业证据失败，允许Proposal -> 独立审核 -> 作者批准后重开；
+4. “借鉴热门小说”以后必须覆盖：
+   - Concept / Premise；
+   - Architecture / Retention；
+   - Payoff / Pleasure；
+   - Scene / Prose Craft；
+   - Long-Run Novelty；
+5. AI必须承担主动发现问题责任，不能等作者指出后只做局部修补；
+6. 正式作者评审前新增Commercial Quality Gauntlet：
+   - Benchmark Comparator；
+   - Novelty & Payoff Audit；
+   - Continuity & Canon Gate；
+   - AI-Smell / Human Prose Gate；
+   - Independent Red Team；
+   - 必要时Fresh Blind Read；
+7. #37原Novelty & Payoff V1升级为：
+   > **Commercial First-Principles Volume 1 Rebuild V2**
+8. #37允许挑战Story Engine / Phase Outline / Ch1—10 / 驿货行 / A-T1 Timing；需要Canon变化时只提Change Proposal，不直接修改；
+9. #37最终不得把大量半成品甩给作者，必须先内部淘汰，只交2套完整可拍板方案。
