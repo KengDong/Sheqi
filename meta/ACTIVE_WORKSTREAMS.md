@@ -5,17 +5,25 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: Authority Rewrite已正式派发，等待mid_continuity完成后总评审
-- gate: Authority Rewrite Review
+- current_task: Authority Rewrite Review｜AC-Hybrid权威改写验收
+- gate: Authority Consistency Gate + Novelty & Payoff Gate
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
-- status: ACTIVE
-- current_task: Authority Rewrite｜AC-Hybrid第一卷权威改写
+- status: PAUSED
+- current_task: DONE｜Authority Rewrite｜AC-Hybrid第一卷权威改写
 - authorized_by: `meta/DECISIONS.md` D-0048
 - current: `handoffs/mid_continuity/CURRENT.md`
-- brief: `research/briefs/2026-09-22_authority_rewrite_ac_hybrid_brief.md`
+- completed_outputs:
+  - `outline/volume1_story_engine.md`
+  - `outline/volume1_phase_outline.md`
+  - `outline/assets/volume1_first_collection.md`
+  - `outline/scene_spines/volume1_ch001.md`
+  - `outline/chapter_cards/volume1_ch001_003.md`
+  - `outline/chapter_cards/volume1_ch004_010.md`
+  - `reviews/2026-09-22_authority_rewrite_ac_hybrid_self_red_team.md`
 - deliver_to: editor_in_chief
+- waiting_for: Authority Rewrite Review
 
 ## opening_writer
 - status: PAUSED
@@ -43,24 +51,25 @@
 1. **Author P1｜DONE 2026-09-22**
    - AC-Hybrid P1 Authority Change已获作者明确批准（D-0048）。
 
-2. **Authority Rewrite｜ACTIVE**
+2. **Authority Rewrite｜DONE / AWAITING REVIEW**
    - Story Engine
    - Phase Outline
    - 第一重点收藏设计
    - Opening Scene Spine
    - Ch1—3
    - Ch4—10
+   - Self Red Team
 
-3. **Opening Execution Validation**
+3. **Authority Rewrite Review｜ACTIVE**
+   - Authority Consistency Gate
+   - Novelty & Payoff Gate
+   - 第一重点收藏Artifact/Canon-fit复核
+   - 决定是否放行Event-First Execution Validation
+
+4. **Opening Execution Validation**
    - 只验证新版Event-First完整体验链：
      > 真切味 -> 无即时力量 -> 正常筑基 -> 稳定离体 -> 救援继续
    - 不重开A/C大理论研究。
-
-4. **Novelty & Payoff Gate**
-   - 防许可梯复燃；
-   - 防工作+旧物单一化；
-   - 防一章一个功能；
-   - 防资产表格化。
 
 5. **Formal Ch1 Draft**
    - Human Prose Gate
