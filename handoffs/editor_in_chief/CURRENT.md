@@ -35,6 +35,10 @@
 - 作者有《没钱修什么仙》全文研究文档，可提供给项目。
 - 该研究不等于批准P2 Canon Change；最终改不改背景仍需作者Authority决定。
 ## AUTHORITY / OUTPUTS
+- Window reuse:
+  - `meta/WINDOW_REUSE_PLAN.md`
+- Benchmark source:
+  - `research/sources/BENCHMARK_SOURCE_INDEX.md`
 - Decision:
   - `meta/DECISIONS.md` D-0050
 - Event-First final review:
@@ -61,7 +65,7 @@
 4. 是否需要Prose Editor定向修补后再进Blind Read。
 
 ## NEXT EXPECTED ACTION
-1. 用户上传《没钱修什么仙》研究源后，存入Library而非Git，并激活benchmark_deepread。
+1. 《没钱修什么仙》研究源已存入Library，benchmark_deepread已ACTIVE，复用旧结构盲读窗口执行。
 2. market_scout立即执行跨题材热门世界底盘扫描。
 3. 两份报告完成后激活world_reframe。
 4. world_reframe筛Top 3后激活world_prototype。
