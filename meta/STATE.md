@@ -524,3 +524,27 @@ Visual GPT暂停。
 - 第二卷具体事件；
 - 拾余产业化节奏；
 - 全国异常货运制度。
+
+
+---
+
+# 已排队后续任务｜First-Volume Novelty & Payoff Engine Pass
+
+Issue：
+> #undefined
+
+方向提案：
+> `reviews/2026-09-22_horizontal_novelty_payoff_engine_proposal.md`
+
+状态：
+> **QUEUED / BLOCKED BY #36**
+
+作者最新要求：
+- 第一卷从头就要爽，不把活路押后期；
+- 高频横向新鲜感 + 纵向大秘密必须并行；
+- 余世大秘密前增加中秘密/中大秘密；
+- “惜物”必须转化为捡漏/收集/工具/意外收入等可见回报，而不是只做文学呼应；
+- 读者要反复获得：
+  > “原来这个设定还能这么用。”
+
+#36 Commercial Prose Calibration完成后，优先启动本任务，再大规模写Ch2—10。
