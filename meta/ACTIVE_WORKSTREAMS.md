@@ -8,8 +8,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: Hit Fiction候选总评审调度
-- gate: Popular Fiction Benchmark Gate
+- current_task: Book-Level Prototype Duel调度
+- gate: Controlled Prototype -> Fresh Blind Read
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -20,20 +20,20 @@
 - waiting_for: none
 
 ## opening_writer
-- status: PAUSED / HOLD
-- current_task: Formal Ch1 V1已完成，封存为传统修仙Control
+- status: ACTIVE
+- role: world_prototype / Controlled Book Opening Writer
+- current_task: Book-Level Prototype Duel
 - current: `handoffs/opening_writer/CURRENT.md`
-- output: `drafts/volume1/ch001_v1.md`
-- blocked_by: World Background Reframe decision
+- brief: `research/briefs/2026-09-22_book_level_prototype_duel_brief.md`
+- deliver_to: fresh_book_blind_reader / editor_in_chief
 
 ## benchmark_deepread
-- status: ACTIVE
+- status: DONE
 - role: hit_benchmark_comparator
 - execution_window: 复用旧“结构盲读 / Benchmark Deep Read”窗口
-- current_task: Hit Candidate Popular Benchmark Gate
+- current_task: Hit Candidate Popular Benchmark Gate｜DONE
 - current: `handoffs/benchmark_deepread/CURRENT.md`
-- brief: `research/briefs/2026-09-22_hit_candidate_popular_benchmark_brief.md`
-- prior_report: `research/reports/2026-09-22_no_money_cultivation_deepread.md`
+- output: `reviews/2026-09-22_hit_candidate_popular_benchmark_gate.md`
 - deliver_to: editor_in_chief
 
 ## market_scout
@@ -71,17 +71,30 @@
 - waiting_for: Top-3 PATCH Re-review
 
 ## world_prototype
-- status: PAUSED / SUPERSEDED BY BOOK-LEVEL REFRAME
+- status: ACTIVE
 - execution_window: 复用“开头 / 主作者”窗口
-- current_task: 世界底盘冷开场对撞
+- current_task: Book-Level Prototype Duel
 - current: `handoffs/world_prototype/CURRENT.md`
-- brief: `research/briefs/2026-09-22_world_background_prototype_duel_brief.md`
-- blocked_by: world_reframe Top 3
+- brief: `research/briefs/2026-09-22_book_level_prototype_duel_brief.md`
+- candidates:
+  - A = C10《死人也要履约》
+  - B = C01《明天已经卖掉》
+  - C = C08《职业遗产》
+  - D = C12《替有钱人渡劫》
+- deliver_to: fresh_book_blind_reader / editor_in_chief
 
 ## visual
 - status: PAUSED
 - next_task: only update internal visual assets if new approved opening invalidates current V0 references
 - current: `handoffs/visual/CURRENT.md`
+
+## fresh_book_blind_reader
+- status: QUEUED / NEW CLEAN WINDOW REQUIRED
+- execution_window: 必须新开全新GPT窗口
+- current_task: Fresh Book Prototype Blind Read
+- brief: `research/briefs/2026-09-22_book_prototype_fresh_blind_read_brief.md`
+- blocked_by: Book-Level Prototype Duel DONE
+- deliver_to: editor_in_chief
 
 ## blind_reader
 - status: PAUSED
@@ -161,7 +174,8 @@
 - D-0053：Hit Fiction First
 - Reader Obsession Market Scan：DONE
 - Independent Hit Concept Foundry：DONE
-- Popular Fiction Benchmark Gate：ACTIVE
+- Popular Fiction Benchmark Gate：DONE
 - Sheqi-family C1R/C2/C8R：HOLD AS CANDIDATES
-- Book-Level Synthesis：QUEUED
-- Prototype Duel：BLOCKED UNTIL NEW TOP 4
+- Book-Level Synthesis：DONE / Prototype Pool APPROVED
+- Prototype Duel：ACTIVE
+- Fresh Clean-Room Blind Read：QUEUED
