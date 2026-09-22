@@ -1,7 +1,7 @@
 
 ---
 status: authority-rewrite-pending-review
-version: 2.0
+version: 2.1
 created_at: 2026-09-22
 authority: author-authorized-rewrite
 authorized_by: meta/DECISIONS.md D-0048
@@ -15,7 +15,7 @@ depends_on:
   - outline/chapter_cards/volume1_ch001_003.md
 ---
 
-# 第一卷第004—010章｜AC-Hybrid续航章卡 V2
+# 第一卷第004—010章｜AC-Hybrid续航章卡 V2.1
 
 > 这一段不再执行旧“许可梯”。
 >
