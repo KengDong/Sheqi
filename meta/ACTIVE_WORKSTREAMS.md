@@ -8,8 +8,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: Book-Level Prototype Duel调度
-- gate: Controlled Prototype -> Fresh Blind Read
+- current_task: Finalist Opening Arc Stress Test调度
+- gate: C01 vs C12 three-chapter endurance
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -20,12 +20,15 @@
 - waiting_for: none
 
 ## opening_writer
-- status: DONE / PAUSED
-- role: world_prototype / Controlled Book Opening Writer
-- current_task: Book-Level Prototype Duel｜DONE
+- status: ACTIVE
+- role: world_prototype / Finalist Continuation Writer
+- current_task: Finalist Opening Arc Stress Test
 - current: `handoffs/opening_writer/CURRENT.md`
-- output: `experiments/book_level_prototypes/`
-- deliver_to: fresh_book_blind_reader / editor_in_chief
+- brief: `research/briefs/2026-09-22_finalist_opening_arc_stress_test_brief.md`
+- finalists:
+  - B = C01《明天已经卖掉》
+  - D = C12《替有钱人渡劫》
+- deliver_to: returning_reader + fresh_three_chapter_reader + editor_in_chief
 
 ## benchmark_deepread
 - status: DONE
@@ -89,11 +92,21 @@
 - current: `handoffs/visual/CURRENT.md`
 
 ## fresh_book_blind_reader
-- status: ACTIVE / NEW CLEAN WINDOW REQUIRED
+- status: DONE FIRST PASS / QUEUED FOR CONTINUATION
 - execution_window: 必须新开全新GPT窗口
 - current_task: Fresh Book Prototype Blind Read
 - brief: `research/briefs/2026-09-22_book_prototype_fresh_blind_read_brief.md`
-- input_ready: A/B/C/D prototypes complete
+- first_pass_output: `reviews/2026-09-22_book_prototype_fresh_blind_read.md`
+- next_brief: `research/briefs/2026-09-22_finalist_returning_reader_continuation_brief.md`
+- blocked_by: finalist Ch2—Ch3 completion
+- deliver_to: editor_in_chief
+
+## finalist_fresh_reader
+- status: QUEUED / NEW CLEAN WINDOW REQUIRED
+- execution_window: 必须新开第二个全新GPT窗口
+- current_task: Finalist 3-Chapter Fresh Shelf Test
+- brief: `research/briefs/2026-09-22_finalist_three_chapter_fresh_shelf_test_brief.md`
+- blocked_by: finalist Ch2—Ch3 completion
 - deliver_to: editor_in_chief
 
 ## blind_reader
@@ -179,3 +192,11 @@
 - Book-Level Synthesis：DONE / Prototype Pool APPROVED
 - Prototype Duel：DONE
 - Fresh Clean-Room Blind Read：ACTIVE
+
+
+## Book Finalists｜ACTIVE
+- C01《明天已经卖掉》：FINALIST
+- C12《替有钱人渡劫》：FINALIST
+- C10《死人也要履约》：RESERVE
+- C08《职业遗产》：DROP FOR CURRENT FINAL
+- current_test: Ch2—Ch3 continuity / concept-fade / life-compounding
