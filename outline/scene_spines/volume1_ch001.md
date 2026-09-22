@@ -1,10 +1,11 @@
 
 ---
-status: authority-rewrite-pending-review
+status: approved-scene-spine
 version: 2.0
 created_at: 2026-09-22
-authority: author-authorized-rewrite
+authority: author-delegated-editorial-approved
 authorized_by: meta/DECISIONS.md D-0048
+source_final_review: reviews/2026-09-22_authority_rewrite_targeted_patch_final_review.md
 canon_effect: none
 outline_effect: scene-execution
 scope: volume1_ch001
