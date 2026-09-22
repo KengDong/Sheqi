@@ -3,7 +3,7 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: author P1 Approved Outline Change confirmation
+- current_gate: Authority Rewrite Review
 
 ## LAST COMPLETED TASK
 - task: Git-native Handoff & Task Dispatch流程升级
@@ -12,19 +12,21 @@
   - `handoffs/editor_in_chief/history/2026-09-22_git_native_dispatch_upgrade.md`
 
 ## WHAT ACTUALLY HAPPENED
-- 原CURRENT + history持久交接机制继续保留并升级。
-- 新增 `meta/TASK_DISPATCH_PROTOCOL.md`：正式跨窗口任务必须“brief + 目标CURRENT + ACTIVE_WORKSTREAMS”三件套。
-- 新增 `meta/ACTIVE_WORKSTREAMS.md` 作为全局窗口/任务状态表。
-- `meta/HANDOFF_PROTOCOL.md` 已升级V1.1，加入任务关闭完整性检查与总评审跨窗口同步责任。
-- 已预写 `research/briefs/2026-09-22_authority_rewrite_ac_hybrid_brief.md`，但仍BLOCKED BY AUTHOR P1。
-- 已同步mid_continuity / opening_writer CURRENT，并清理STATE中的#37/#38旧ACTIVE状态。
-- 后续作者通常不再复制长任务正文，只需让目标窗口“按Git CURRENT执行”。
-- #37/#38独立复核结论继续有效：AC-Hybrid仍是最强P1候选；Event-First优先但待新版完整执行验证；#38为微场景能力PASS，整章能力待正式Ch1。
+- 作者于2026-09-22明确批准：
+  > **按AC-Hybrid正式重开第一卷Approved Outline。**
+- P1 Authority Gate已通过并记录为 `meta/DECISIONS.md` D-0048。
+- `research/briefs/2026-09-22_authority_rewrite_ac_hybrid_brief.md` 已从BLOCKED切为ACTIVE。
+- mid_continuity CURRENT已切为ACTIVE，正式获得第一卷Authority Rewrite执行权。
+- ACTIVE_WORKSTREAMS与STATE已同步。
+- 当前下一Gate不再是作者P1，而是：
+  > **Authority Rewrite完成后的总评审一致性 / Novelty & Payoff审查。**
+- 正式Ch1仍禁止；Opening Writer继续暂停。
+- Event-First继续作为preferred baseline，最终冻结前仍需新版完整执行验证。
+- Git-native交接/派发制度继续生效，作者不需要复制长任务正文。
 
 ## AUTHOR FEEDBACK
-- 作者要求所有活跃窗口任务完成后自动留Git交接，不能再依赖手工复制。
-- 作者要求#37/#38后推进真正写作任务链，不继续空转研究。
-- 作者尚未明确批准P1 AC-Hybrid。
+- 作者明确批准P1 AC-Hybrid Authority Change。
+- 作者要求窗口任务继续通过Git CURRENT/brief自动派发，不依赖手工复制。
 
 ## AUTHORITY / OUTPUTS
 - Process:
@@ -47,16 +49,18 @@
 - 不把#38微场景PASS等同于完整章节能力PASS。
 
 ## OPEN QUESTIONS
-1. 作者是否批准按AC-Hybrid正式重开第一卷Approved Outline。
-2. P1批准后，新Event-First执行能否清楚完成“切味 -> 无即时力量 -> 正常筑基 -> 救援”。
-3. 第一重点收藏能否在Ch4—10冻结前通过具体设计验证。
+1. Authority Rewrite是否正确落成AC-Hybrid且没有越过Canon边界。
+2. 第一重点收藏是否通过具体设计Gate。
+3. 新Event-First Scene Spine是否能通过完整执行验证。
 
 ## NEXT EXPECTED ACTION
-1. 将本次独立复核差异交作者。
-2. 若作者批准P1 AC-Hybrid，进入Authority Rewrite。
-3. Rewrite期间：正式重写Story Engine / Phase Outline，同时把Event-First作为优先Opening实现方向，但最终冻结前补新Scene Spine执行验证。
-4. 在Ch4—10冻结前完成第一重点收藏设计。
-5. 正式Ch1验证整章级Prose能力。
+1. 等mid_continuity完成Authority Rewrite并提交handoff。
+2. 总评审执行：
+   - Authority Consistency Gate；
+   - Novelty & Payoff Gate；
+   - 第一重点收藏Gate。
+3. 若通过，正式派发Event-First Execution Validation给opening_writer。
+4. 通过后才派发Formal Ch1 Draft。
 
 ## REQUIRED READS
 1. `handoffs/editor_in_chief/history/2026-09-22_issue37_issue38_independent_rereview.md`
@@ -79,4 +83,4 @@
 - 前10章Rewrite需防“功能格子化”。
 - Writer不再无限校准。
 - 整章能力留待正式Ch1验证。
-- 当前唯一Authority Gate仍是作者P1确认。
+- Author P1已通过；当前Gate是Authority Rewrite Review。
