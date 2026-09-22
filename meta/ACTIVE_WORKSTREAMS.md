@@ -5,8 +5,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: Event-First Execution Validation已派发，等待opening_writer回交
-- gate: Event-First Execution Validation Review
+- current_task: Formal Ch1已派发，等待opening_writer回交
+- gate: Formal Ch1 Total Editor Gate
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -18,9 +18,9 @@
 
 ## opening_writer
 - status: ACTIVE
-- current_task: Event-First Execution Validation
+- current_task: Formal Ch1 Draft V1
 - current: `handoffs/opening_writer/CURRENT.md`
-- brief: `research/briefs/2026-09-22_event_first_execution_validation_brief.md`
+- brief: `research/briefs/2026-09-22_formal_ch001_v1_draft_brief.md`
 - deliver_to: editor_in_chief
 
 ## visual
@@ -56,12 +56,12 @@
    - 只复核STATE权威导航
    - 决定是否放行Event-First Execution Validation
 
-4. **Opening Execution Validation｜ACTIVE**
+4. **Opening Execution Validation｜DONE / PASS（D-0050）**
    - 只验证新版Event-First完整体验链：
      > 真切味 -> 无即时力量 -> 正常筑基 -> 稳定离体 -> 救援继续
    - 不重开A/C大理论研究。
 
-5. **Formal Ch1 Draft**
+5. **Formal Ch1 Draft｜ACTIVE**
    - Human Prose Gate
    - Commercial Shelf Test
    - Independent Red Team
