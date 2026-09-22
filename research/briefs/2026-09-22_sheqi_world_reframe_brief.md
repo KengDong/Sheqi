@@ -1,11 +1,11 @@
 ---
-status: queued
+status: active
 version: 1.0
 created_at: 2026-09-22
 authority: research-proposal
 canon_effect: proposal-only
 outline_effect: proposal-only
-depends_on: benchmark-deepread + market-scan
+depends_on: satisfied
 ---
 
 # 《舍弃》世界底盘重选｜World Reframe Lab
@@ -26,6 +26,8 @@ depends_on: benchmark-deepread + market-scan
 - 长篇新鲜感。
 
 ## 输入
+0. **总评审合流必读**：
+   - `reviews/2026-09-22_world_background_research_consolidation.md`
 - 《没钱修什么仙》Deep Read报告；
 - Crossgenre Market Scan报告；
 - 当前Sheqi Canon/Story Engine；
@@ -52,3 +54,32 @@ depends_on: benchmark-deepread + market-scan
 ## 输出
 - `research/design/2026-09-22_sheqi_world_reframe_options.md`
 - CURRENT + history
+
+## 追加Hard Gates｜来自两份研究合流
+
+### Gate A｜不是换皮
+候选不得只是“古代 / 现代 / 近未来”题材皮肤变化。
+
+### Gate B｜舍弃必须成为一阶社会变量
+Top候选必须让舍弃自然进入至少8/12社会接口硬题。
+
+### Gate C｜去外挂仍产事
+没有陆野 / 尝余，世界仍必须持续产舍弃相关故事。
+
+### Gate D｜四台发动机要合流，不是轮班
+优先寻找能让同一事件同时自然产生：
+- 正常修炼 / 行动；
+- 舍弃文明横向碰撞；
+- 资产 / 价值增长；
+- 秘密 / 认知推进
+的底盘。
+
+### Gate E｜Top 3必须本质不同
+Top 3不得只是三种视觉皮肤；至少在进件口、价值流、身份结构、组织主体、世界扩张方式中两项以上本质不同。
+
+### Gate F｜Traditional Control公平参赛
+当前Traditional-Xianxia AC-Hybrid保留为Control。
+不得因作者提出担心就故意写低或先验淘汰。
+
+### Gate G｜不因理论高分直接P2
+最终仍必须进入Top3 + Traditional Control真实开场对撞，再交clean-room blind reader。
