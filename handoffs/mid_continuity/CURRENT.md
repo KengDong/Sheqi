@@ -2,8 +2,8 @@
 
 ## ROLE
 - role: mid_continuity / Commercial Story Showrunner / Authority Rewrite Patch Editor
-- status: PAUSED / AWAITING TOTAL EDITOR REVIEW
-- current_task: DONE｜Authority Rewrite Targeted PATCH｜第一收藏 Canon-fit + 去教学关 + STATE清理
+- status: PAUSED / DONE
+- current_task: DONE｜Authority Rewrite + Targeted PATCH｜总评审终审PASS
 - brief: `research/briefs/2026-09-22_authority_rewrite_targeted_patch_brief.md`
 - source_review: `reviews/2026-09-22_authority_rewrite_total_editor_review.md`
 
@@ -93,6 +93,8 @@
 - 正式Ch1继续禁止。
 
 ## AUTHORITY / OUTPUTS
+- 总评审终审：
+  - `reviews/2026-09-22_authority_rewrite_targeted_patch_final_review.md`
 - 总评审：
   - `reviews/2026-09-22_authority_rewrite_total_editor_review.md`
 - PATCH brief：
@@ -141,15 +143,9 @@
 4. STATE权威导航是否已经完全消除D-0048前旧冻结歧义。
 
 ## NEXT EXPECTED ACTION
-1. editor_in_chief只复核本PATCH四项：
-   - 第一收藏来源 / Canon语法；
-   - 余扰 / 隔离 / 退余；
-   - Ch7 / Ch9 anti-tailoring；
-   - STATE导航。
-2. 若四项通过：
-   > 直接放行 **Event-First Execution Validation**。
-3. 不再重审整卷。
-4. mid_continuity保持PAUSED，不自行继续。
+- Authority Rewrite职责已关闭。
+- 保持PAUSED。
+- 不自行继续；未来只有总评审通过Git CURRENT再次派发时才重启。
 
 ## REQUIRED READS
 1. `reviews/2026-09-22_authority_rewrite_total_editor_review.md`
@@ -171,6 +167,7 @@
 - Ch10咬手带单独隔余携带。
 - STATE旧冻结导航已历史化。
 - canon/10 v0.2明确只是historical reviewed-proposal。
-- PATCH自检PASS。
-- 当前等待总评审定向复核。
-- Formal Ch1仍禁止。
+- PATCH已由总评审终审PASS（D-0049）。
+- Event-First Execution Validation已派发给opening_writer。
+- mid_continuity保持PAUSED。
+- Formal Ch1仍未解锁。
