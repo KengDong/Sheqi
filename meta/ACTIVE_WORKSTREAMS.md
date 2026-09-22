@@ -5,30 +5,23 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: Authority Rewrite Targeted PATCH Re-review
-- gate: First Collection Canon-fit + Ch7/Ch9 + STATE Navigation
+- current_task: Event-First Execution Validation已派发，等待opening_writer回交
+- gate: Event-First Execution Validation Review
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
 - status: PAUSED
-- current_task: DONE｜Authority Rewrite Targeted PATCH
-- authorized_by: total-editor review
+- current_task: DONE｜Authority Rewrite + Targeted PATCH
 - current: `handoffs/mid_continuity/CURRENT.md`
-- completed_outputs:
-  - `outline/assets/volume1_first_collection.md` v1.1
-  - `outline/chapter_cards/volume1_ch004_010.md` v2.1
-  - `reviews/2026-09-22_authority_rewrite_collection_patch_selfcheck.md`
-  - `meta/STATE.md`
-- deliver_to: editor_in_chief
-- waiting_for: Targeted PATCH Re-review
+- final_review: `reviews/2026-09-22_authority_rewrite_targeted_patch_final_review.md`
+- waiting_for: none
 
 ## opening_writer
-- status: PAUSED
-- next_task: Event-First Execution Validation
-- blocked_by:
-  1. Authority Rewrite Targeted PATCH completion
-  2. Targeted PATCH total-editor re-review
+- status: ACTIVE
+- current_task: Event-First Execution Validation
 - current: `handoffs/opening_writer/CURRENT.md`
+- brief: `research/briefs/2026-09-22_event_first_execution_validation_brief.md`
+- deliver_to: editor_in_chief
 
 ## visual
 - status: PAUSED
@@ -47,7 +40,7 @@
 1. **Author P1｜DONE 2026-09-22**
    - AC-Hybrid P1 Authority Change已获作者明确批准（D-0048）。
 
-2. **Authority Rewrite｜DONE / AWAITING REVIEW**
+2. **Authority Rewrite｜DONE / PASS（D-0049）**
    - Story Engine
    - Phase Outline
    - 第一重点收藏设计
@@ -56,14 +49,14 @@
    - Ch4—10
    - Self Red Team
 
-3. **Authority Rewrite Review｜主体PASS / TARGETED PATCH DONE / RE-REVIEW ACTIVE**
+3. **Authority Rewrite Review｜DONE / PASS**
    - 只复核第一收藏来源与Canon语法
    - 只复核余扰/隔离/退余闭环
    - 只复核Ch7/Ch9去教学关
    - 只复核STATE权威导航
    - 决定是否放行Event-First Execution Validation
 
-4. **Opening Execution Validation**
+4. **Opening Execution Validation｜ACTIVE**
    - 只验证新版Event-First完整体验链：
      > 真切味 -> 无即时力量 -> 正常筑基 -> 稳定离体 -> 救援继续
    - 不重开A/C大理论研究。
