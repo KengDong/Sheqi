@@ -3,7 +3,7 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: Book-Level Prototype Duel
+- current_gate: Fresh Book Prototype Blind Read
 
 ## LAST COMPLETED TASK
 - task: Event-First Execution Validation总评审
@@ -14,29 +14,28 @@
   - `handoffs/editor_in_chief/history/2026-09-22_event_first_execution_validation_pass.md`
 
 ## WHAT ACTUALLY HAPPENED
-- Reader Obsession Market Scan：DONE。
-- Hit Concept Foundry：DONE。
-- Popular Fiction Benchmark Gate：DONE。
-- Benchmark verdict：
-  - C01《明天已经卖掉》 PASS
-  - C12《替有钱人渡劫》 PASS
-  - C08《职业遗产》 PASS
-  - C10《死人也要履约》 PASS / Challenger Return
-  - C03《人格股份有限公司》 BORDERLINE / HOLD
-  - C02《热搜成真以后》 FAIL
-- 总评审已完成独立复核，不机械照抄原Top5。
-- 正式放行四个Prototype席：
-  - A = C10《死人也要履约》
-  - B = C01《明天已经卖掉》
-  - C = C08《职业遗产》
-  - D = C12《替有钱人渡劫》
-- 本轮不带Sheqi Control，不给旧项目保底席。
-- 已创建：
-  - `reviews/2026-09-22_book_level_hit_concept_total_editor_review.md`
-  - `research/briefs/2026-09-22_book_level_prototype_duel_brief.md`
-- opening_writer已转职world_prototype并ACTIVE。
-- Fresh Book Prototype Blind Read brief已预先排队，但必须等Prototype完成后用全新窗口执行。
-- 当前不改Canon/Outline，不立项。
+- Book-Level Prototype Duel：DONE。
+- 四篇真实匿名冷开场已完成：
+  - `experiments/book_level_prototypes/2026-09-22_proto_A_v1.md`
+  - `experiments/book_level_prototypes/2026-09-22_proto_B_v1.md`
+  - `experiments/book_level_prototypes/2026-09-22_proto_C_v1.md`
+  - `experiments/book_level_prototypes/2026-09-22_proto_D_v1.md`
+- Writer Selfcheck：DONE。
+- 总评审本轮没有先做内容排名，避免污染clean-room第一读。
+- Fresh Blind Read已正式ACTIVE：
+  - CURRENT: `handoffs/fresh_book_blind_reader/CURRENT.md`
+  - brief: `research/briefs/2026-09-22_book_prototype_fresh_blind_read_brief.md` V1.1
+- V1.1新增Absolute Read Test：
+  > 每篇先独立判断是否真的想点第二章；允许四篇全部FAIL。
+- Blind Reader第一轮禁止读取：
+  - AGENTS / STATE / DECISIONS；
+  - Concept Foundry；
+  - Benchmark Gate；
+  - Writer Selfcheck；
+  - 总评审；
+  - A/B/C/D映射；
+  - Sheqi旧资产。
+- 只有盲读回交后，总评审才揭盲并做Book Direction Synthesis。
 
 ## AUTHOR FEEDBACK
 - 作者进一步纠正D-0053后的评估顺序：
@@ -90,16 +89,21 @@
 4. 是否需要Prose Editor定向修补后再进Blind Read。
 
 ## NEXT EXPECTED ACTION
-1. opening_writer / world_prototype执行：
-   > `research/briefs/2026-09-22_book_level_prototype_duel_brief.md`
-2. 输出A/B/C/D四篇真实小说冷开场 + Writer Selfcheck。
-3. Writer停止，不排名。
-4. Prototype完成后：
-   - 新开从未参与项目的clean-room窗口；
-   - 执行：
-     > `research/briefs/2026-09-22_book_prototype_fresh_blind_read_brief.md`
-5. 盲读完成后，总评审做最终Book Direction Synthesis。
-6. 在此之前不改Canon/Outline，不做Full Reboot。
+1. 新开从未参与Sheqi项目的全新GPT窗口。
+2. 只执行：
+   > `handoffs/fresh_book_blind_reader/CURRENT.md`
+3. 第一轮只读blind brief + A/B/C/D四篇正文。
+4. 输出：
+   > `reviews/2026-09-22_book_prototype_fresh_blind_read.md`
+5. Blind Reader停止，不揭盲，不写修补方案。
+6. 回总评审。
+7. 总评审届时才：
+   - 揭盲；
+   - 对照Popular Benchmark；
+   - 判断是否已有值得继续押整本书的方向；
+   - 允许0个方向通过；
+   - 必要时再做最小修补或重开Concept Foundry。
+8. 在盲读完成前不改Canon/Outline，不正式立项。
 
 ## REQUIRED READS
 1. `reviews/2026-09-22_event_first_execution_validation_final_review.md`
