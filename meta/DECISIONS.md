@@ -796,3 +796,30 @@ Opening V0 Reference冻结：
 
 当前任务：
 > `research/briefs/2026-09-22_AT1_scene_legibility_rewrite_brief.md`
+
+
+## D-0044 热门小说Benchmark升级为完整正文执行校准
+**状态：已批准，2026-09-22生效**
+
+作者明确指出：
+
+> 过去“借鉴热门小说”主要借了结构、Hook和世界观思路，没有真正把成熟商业小说的场景构建、对白、动作、段落、设定解释、读者入门等正文执行方式变成生产基准，导致宏观越来越正确，正文仍不断暴露“不像正常小说”的问题。
+
+总评审修正：
+> `reviews/2026-09-22_popular_novel_benchmark_scope_correction.md`
+
+正式决定：
+1. “借鉴热门小说”以后必须同时覆盖：
+   - Architecture；
+   - Scene Construction；
+   - Prose Execution；
+   - Reader Experience；
+2. 不允许只做结构Benchmark后就进入正文；
+3. 建立固定商业正文参考池 + 场景功能Reference Cards；
+4. Writer每次正文任务必须按功能选择参考卡，不模仿具体作者句法；
+5. Prose Editor前新增Commercial Prose Comparator，对照成熟商业小说实际正文；
+6. 建立HUMAN PROSE GATE，重点检查500字复述、空间草图、术语功能、专业对白、人类段落纹理、AI味与Shelf Test；
+7. Fresh Blind Reader继续保持clean-room，不读取Benchmark分析；
+8. 当前#36升级为Commercial Prose Calibration + A-T1 Legibility，原Scene Legibility单点brief不再执行；
+9. 目标不是“写得像某位热门作者”，而是：
+   > **先进入成熟男频商业小说的正常语言分布，再形成《舍弃》自己的特色。**
