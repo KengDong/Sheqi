@@ -1,6 +1,6 @@
 ---
 status: approved-process
-version: 1.2
+version: 1.3
 created_at: 2026-09-21
 authority: author-approved-process
 canon_effect: none
@@ -19,25 +19,29 @@ outline_effect: none
 # 0. 当前总状态
 
 当前活动任务：
+> **Event-First Execution Validation**
 
-> **#36｜Commercial Prose Calibration + A-T1 Legibility**
+权威状态：
+- D-0048：作者批准按AC-Hybrid重开第一卷；
+- D-0049：Authority Rewrite总评审终审PASS；
+- Story Engine / Phase / Ch1—10 / Ch1 Scene Spine已完成author-delegated-editorial-approved；
+- Canon KEEP。
 
-正式总则：
-> `meta/COMMERCIAL_FIRST_PRINCIPLES.md`
-
-#36完成并经总评审后，下一P0：
-
-> **#37｜Commercial First-Principles Volume 1 Rebuild**
-
-在#37完成以前：
-- A-T1仅为PROVISIONAL BASE；
-- Timing 1不冻结；
-- 不大规模推进Ch2—10正式正文；
-- 既有Story Engine / Phase Outline / Ch1—10允许被挑战，但不得静默覆盖；
-- 任何Canon变化只走Change Proposal。
+当前Opening：
+> **Event-First结构层PASS，执行层正在验证。**
 
 当前生产优先级：
-> **先把文字校准到成熟商业小说正常分布 -> 再把第一卷从设定/爽点/秘密/资产/节奏整体重构 -> 再进入大规模正文。**
+> **先用一段连续真实文字验证“真切味 -> 无即时力量 -> 正常筑基 -> 稳定离体 -> 救援继续”是否自然清楚；通过后才进入Formal Ch1。**
+
+当前禁止：
+- 重开#37/#38研究；
+- 重开A/C；
+- 修改Canon；
+- 把Execution Validation样本当正式Ch1；
+- 跳过验证直接写Formal Ch1。
+
+正式工作流状态：
+> `meta/ACTIVE_WORKSTREAMS.md`
 
 ---
 
@@ -130,9 +134,10 @@ outline_effect: none
 
 ## C｜开头 / Writer GPT
 当前：
-> 暂停。
+> **ACTIVE｜Event-First Execution Validation。**
 
-#24冻结后重新启用。
+当前brief：
+> `research/briefs/2026-09-22_event_first_execution_validation_brief.md`
 
 未来职责：
 1. 第一章 Scene Spine；
@@ -272,6 +277,25 @@ Writer GPT只做：
 不写完整正文。
 
 总编审核一次。
+
+## Gate 2.5｜Event-First Execution Validation
+
+仅针对新版Opening新增一次执行验证：
+
+> **真切味 -> 无即时力量 -> 正常修炼续上 -> 筑基 -> 稳定离体 -> 救援继续**
+
+这不是正式Ch1。
+
+目的：
+- 验证Event-First不会被误读成“舍味换力量”；
+- 验证核心机制可以在高压场景中自然讲清；
+- 验证Scene Spine不会直接显形为正文模板。
+
+未通过：
+> 只做执行层定向PATCH，不重开Authority Rewrite。
+
+通过：
+> 再进入Formal Ch1 Draft。
 
 ## Gate 3｜Draft V0
 Writer GPT：
