@@ -31,8 +31,9 @@ Git只保存：
 
 ## Source A｜《没钱修什么仙》
 - source_key: benchmark_no_money_cultivation
-- raw_source_status: PENDING USER UPLOAD
-- preferred_library_path: /Sheqi/Research Sources/Benchmark Full Texts/
+- raw_source_status: READY
+- library_path: `/Sheqi/Research Sources/Benchmark Full Texts/没钱修什么仙_用户研究版.txt`
+- library_file_id: `libfile_51feca13b958819190a381afae5e3397`
 - use:
   - 第一章/前三章/前十章深读；
   - 信息密度；
