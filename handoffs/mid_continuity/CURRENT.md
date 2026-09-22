@@ -1,10 +1,11 @@
 # 中段+衔接｜CURRENT HANDOFF
 
 ## ROLE
-- role: mid_continuity / Commercial Story Showrunner / Consolidation Editor
-- status: PAUSED
-- current_issue: none
-- awaiting: author P1 Approved Outline Change confirmation
+- role: mid_continuity / Commercial Story Showrunner / Authority Rewrite Editor
+- status: BLOCKED
+- current_task: Authority Rewrite｜AC-Hybrid第一卷权威改写
+- brief: `research/briefs/2026-09-22_authority_rewrite_ac_hybrid_brief.md`
+- blocked_by: Author P1 Approved Outline Change confirmation
 
 ## LAST COMPLETED TASK
 - task: #37 PATCH终审
@@ -12,68 +13,72 @@
 - final_audit: `reviews/2026-09-22_issue37_patch_final_audit.md`
 
 ## WHAT ACTUALLY HAPPENED
-- #37研究层与定向PATCH均已通过总评审。
-- 唯一主Baseline：
-  > **AC-Hybrid｜职业底盘上的资产飞轮。**
-- Opening主Baseline：
-  > **Event-First / Ch1真正执行舍味。**
-- A-T1：
-  > Fallback only。
-- Secret Ladder V3通过：
-  - S5以前禁止正式学会“信号位置≠源头”；
-  - 大误判保留为第一次真正源头—载体认知。
-- 低端市场失效模型通过：
-  - 陆野只降低低端长尾旧物的筛查成本；
-  - 不允许高风险/已知高价值/受控物成为早期捡漏池；
-  - 第一件异常物必须合法取得。
-- Payoff Ledger V3通过：
-  - 作为Review/诊断工具；
-  - 不做机械章数KPI。
-- 总评审额外加一个Outline Rewrite Gate：
-  > 前10章必须自然出现至少一次“舍弃规则进入非捡漏领域的现实利益后果”，优先工伤/赔偿、借载成本或缺位现实定价。
-- 当前不需要P2 Canon Change。
-- #37已关闭。
-- Approved Outline仍未修改，等待作者明确批准P1 Change。
+- #37研究层与定向PATCH均已完成。
+- AC-Hybrid仍是最强P1第一卷候选。
+- Canon无需P2变化。
+- Secret Ladder V3、低端市场失效模型、Payoff Ledger V3继续成立。
+- 新总评审独立复核后，额外收紧两点：
+  1. Event-First是preferred baseline，但新版完整执行链尚未重新验证；
+  2. 第一重点收藏必须在Ch4—10正式冻结前具体设计并过Gate。
+- Authority Rewrite时必须防止前10章变成“一章一个功能”的设计表。
+- 正式Authority Rewrite brief已经落库，但当前被作者P1 Gate阻塞。
 
 ## AUTHOR FEEDBACK
-- 作者不应承担基础QA。
-- 第一卷必须高频新鲜 + 可见爽感 + 纵深秘密并行。
-- 旧设计可因商业第一性原理被正式重开。
-- 但权威变更仍需作者确认。
+- 作者要求所有活跃窗口任务完成后自动写Git交接，不再依赖手工复制。
+- 作者希望#37/#38之后立即推进真正的写作任务，而不是继续空转研究。
+- 作者尚未明确批准P1 AC-Hybrid。
 
 ## AUTHORITY / OUTPUTS
-- Final audit：
+- Final audit:
   - `reviews/2026-09-22_issue37_patch_final_audit.md`
-- AC-Hybrid：
+- Independent rereview:
+  - `handoffs/editor_in_chief/history/2026-09-22_issue37_issue38_independent_rereview.md`
+- AC-Hybrid:
   - `reviews/2026-09-22_volume1_AC_hybrid_architecture.md`
-- Story Engine Change Proposal V3：
+- Story Engine Change Proposal V3:
   - `reviews/2026-09-22_volume1_story_engine_change_proposal_v3.md`
-- Secret Ladder V3：
+- Secret Ladder V3:
   - `research/design/2026-09-22_volume1_secret_ladder_v3_patch.md`
-- Low-End Market Model：
+- Low-End Market Model:
   - `research/design/2026-09-22_low_end_residual_market_model.md`
-- Payoff Ledger V3：
+- Payoff Ledger V3:
   - `reviews/2026-09-22_volume1_payoff_ledger_v3_patch.md`
+- Queued Authority Rewrite brief:
+  - `research/briefs/2026-09-22_authority_rewrite_ac_hybrid_brief.md`
 
 ## DO NOT CONTINUE
-- 不自行修改Approved Outline。
-- 不写完整Ch1。
+- 未获作者P1批准前，不修改Approved Outline。
+- 不继续扩#37 Benchmark。
 - 不恢复A/C二选一。
 - 不恢复A-T1/C-T2长期并列。
-- 不扩Benchmark。
-- 不设计第一收藏到正式细节，除非进入下阶段任务。
-- 不把低端市场模型升级为全国Canon。
+- 不写正式Ch1。
+- 不把Event-First写成已经通过新版完整执行验证。
+- 不在第一收藏未具体设计前冻结Ch4—10。
+- 不按“一章一个功能”机械铺前10章。
+
+## OPEN QUESTIONS
+1. 作者是否批准按AC-Hybrid正式重开Approved Outline。
+2. 第一重点收藏能否设计到足够可记、可回用、合法且不替代正常修炼。
+3. 新Event-First Scene Spine能否清楚完成切味->无即时力量->正常筑基->救援。
 
 ## NEXT EXPECTED ACTION
-1. 等作者明确批准或拒绝P1 Story Engine Change。
-2. 若批准：
-   - 正式重写Story Engine / Phase Outline；
-   - 设计第一重点收藏；
-   - 重做Opening Scene Spine与Ch1—10章卡；
-   - 再过Novelty & Payoff Gate。
-3. 若作者提出方向性异议，先处理异议，不直接改权威。
+- 当前不要执行。
+- 作者一旦明确批准P1：
+  > 直接完整执行 `research/briefs/2026-09-22_authority_rewrite_ac_hybrid_brief.md`
+- 完成后更新CURRENT + history，停止交总评审。
+
+## REQUIRED READS
+1. `meta/TASK_DISPATCH_PROTOCOL.md`
+2. `meta/ACTIVE_WORKSTREAMS.md`
+3. `research/briefs/2026-09-22_authority_rewrite_ac_hybrid_brief.md`
+4. `handoffs/editor_in_chief/history/2026-09-22_issue37_issue38_independent_rereview.md`
 
 ## CONTEXT SNAPSHOT
 - #37 DONE。
-- 总评审已通过AC-Hybrid。
-- 当前唯一阻塞：作者P1批准。
+- AC-Hybrid等待作者P1。
+- Authority Rewrite任务已经准备好但BLOCKED。
+- Canon KEEP。
+- Event-First优先但待新版执行验证。
+- 第一收藏是下阶段硬Gate。
+- 前10章禁止功能格子化。
+- 不再需要作者手工复制任务说明。
