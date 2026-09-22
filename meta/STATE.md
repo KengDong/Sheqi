@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：**Bible V1.0 Frozen -> Draft V0否决 -> High-Voltage Opening收敛 -> Author Read完成 -> Commercial Prose Calibration + A-T1 Legibility  
+**阶段：**Bible V1.0 Frozen -> Draft V0否决 -> Commercial Prose Calibration通过 -> #37/#38双线并行  
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷发动机批准日期：**2026-09-21  
@@ -472,46 +472,88 @@ Writer自检：
 
 ---
 
-# 当前活动任务｜Commercial Prose Calibration + A-T1 Legibility
+# Commercial Prose Calibration + A-T1 Legibility｜已完成
 
-作者再次修正：
-> “借鉴热门小说”必须包含正文执行方式，不能只借结构/Hook。
+总评审：
+> `reviews/2026-09-22_commercial_prose_calibration_final_audit.md`
 
-方向说明：
-> `reviews/2026-09-22_popular_novel_benchmark_scope_correction.md`
+正式通过：
+- `research/reports/2026-09-22_commercial_prose_execution_benchmark.md`
+- `meta/COMMERCIAL_PROSE_REFERENCE_CARDS.md`
+- `meta/HUMAN_PROSE_GATE.md`
+- `reviews/2026-09-22_AT1_commercial_prose_gap_audit.md`
+- `research/design/2026-09-22_AT1_reader_scene_map.md`
+- `meta/READER_LANGUAGE_AT1_PATCH.md`
 
-正式V2任务书：
-> `research/briefs/2026-09-22_commercial_prose_calibration_AT1_brief_v2.md`
+关键结论：
+> 成熟正文不是“少解释”，而是信息优先级正确。
+
+> A-T1最大倒置：标题级核心舍味被黑话化，次要机械链反而解释过精。
+
+A-T1仍只是PROVISIONAL BASE；Timing 1未冻结。
+
+---
+
+# 当前活动任务A｜#37 Commercial First-Principles Volume 1 Rebuild
 
 执行窗口：
-> 中段+衔接GPT -> Commercial Prose Benchmark Editor。
+> 中段+衔接GPT -> Commercial Story Showrunner。
 
-本轮不写小说。
+状态：
+> **P0 / ACTIVE**
 
-先建立：
-- 小型成熟商业网文正文参考池；
-- 功能Reference Cards；
-- HUMAN PROSE GATE；
-- A-T1文本差距审计；
-- 再做Scene Map / Reader-Language Patch。
+任务书：
+> `research/briefs/2026-09-22_first_volume_commercial_rebuild_brief_v2.md`
 
-目标：
-> **不只“看得懂”，还要先进入成熟商业网文正常写法的分布。**
+职责：
+> **决定“写什么”。**
 
-开头GPT暂停。
-Visual GPT暂停。
-旧盲读窗口暂停。
+允许挑战：
+- 现Story Engine；
+- Phase Outline；
+- Ch1—10章卡；
+- 驿货行入口；
+- A-T1 Timing。
+
+若需改Canon：只提交Change Proposal。
+
+---
+
+# 当前活动任务B｜#38 Opening Writer Commercial Prose Calibration
+
+执行窗口：
+> 开头GPT -> Opening Writer / Commercial Prose Calibration Writer。
+
+状态：
+> **P0 / ACTIVE，与#37并行**
+
+任务书：
+> `research/briefs/2026-09-22_opening_writer_commercial_prose_calibration_brief.md`
+
+职责：
+> **验证“怎么写”。**
+
+只写三个700—1100字功能微样本：
+- 高压场景可视化；
+- 核心机制自然入门；
+- 陆野日常/对白/生活纹理。
+
+不写完整Ch1，不决定Opening架构。
+
+只有：
+> **#37最终Opening方向通过 + #38 Writer Prose Baseline通过**
+
+才允许写完整第一章。
 ---
 
 # 下一阶段
 
-1. 完成商业正文Benchmark / Reference Cards / HUMAN PROSE GATE；
-2. 完成A-T1相对成熟商业网文的文本差距审计；
-3. 总评审冻结可复用的商业正文校准规则；
-4. 再审核A-T1 Scene Map / Reader-Language Patch；
-5. 开头GPT基于“功能参考卡 + Human Prose Gate”重写A-T1 V2；
-6. 作者再次亲读；
-7. 若明显成立，冻结Timing 1；若仍不成立，不硬保A。
+1. #37完成第一卷商业第一性原理重构并内部淘汰到2套总方案；
+2. #38完成Opening Writer三个功能微样本并通过Commercial Shelf Test；
+3. 总评审分别审核#37与#38；
+4. 作者只对#37最终2套方向做重大taste拍板，不承担基础QA；
+5. 冻结新的Opening / 第一卷Story Engine后，再给Opening Writer下发完整第一章；
+6. 完整Ch1先过Commercial Comparator + Human Prose Gate + Independent Red Team，再送作者。
 
 ## 故意仍不锁死
 
@@ -528,40 +570,21 @@ Visual GPT暂停。
 
 ---
 
-# 已排队后续任务｜Commercial First-Principles Volume 1 Rebuild
+# #37 Commercial First-Principles Volume 1 Rebuild｜ACTIVE
 
 Issue：
 > #37
 
-正式方向：
-> `meta/COMMERCIAL_FIRST_PRINCIPLES.md`
-> `reviews/2026-09-22_first_volume_novelty_payoff_direction.md`
-
-正式V2任务书：
+正式任务书：
 > `research/briefs/2026-09-22_first_volume_commercial_rebuild_brief_v2.md`
 
-旧V1：
-> `research/briefs/2026-09-22_first_volume_novelty_payoff_engine_brief.md`（历史保留，不再执行）
-
 状态：
-> **P0 / QUEUED / BLOCKED BY #36**
+> **P0 / ACTIVE**
 
-执行身份：
+执行窗口：
 > 中段+衔接GPT -> Commercial Story Showrunner。
 
-作者已批准：
-- 第一卷从头持续爽，不把活路押后期；
-- 高频横向新鲜感 + 纵向秘密并行；
-- 余世大秘密前必须有中秘密/中大秘密；
-- 惜物必须转成捡漏/收集/工具/变现/意外收入等可见收益；
-- 尝余只能提供“值得查”的弱信号；
-- 重要小弧要有Money / Collection / Action / Knowledge / Status / Relationship / Reversal等可见结算；
-- 卷末必须有真实资产台阶，不只固定席位。
-
-执行顺序：
-> #36 Commercial Prose Calibration完成并通过总评审 -> 立即启动#37 V2，从零商业体检并允许挑战现Story Engine/章卡/入口/Timing -> 作者只看内部淘汰后的2套总方案 -> 再决定权威变更与正文。
-
-
+当前与#38并行。
 ---
 
 # 商业第一性原理总则｜已启用
@@ -577,29 +600,23 @@ Issue：
 
 ---
 
-# 已排队并行任务｜Opening Writer Commercial Prose Calibration
+# #38 Opening Writer Commercial Prose Calibration｜ACTIVE
 
 Issue：
-> #undefined
+> #38
 
 正式任务书：
 > `research/briefs/2026-09-22_opening_writer_commercial_prose_calibration_brief.md`
 
 状态：
-> **P0 / QUEUED / BLOCKED BY #36**
+> **P0 / ACTIVE / PARALLEL WITH #37**
 
-启动时机：
-> #36 Commercial Prose Calibration经总评审通过后。
+执行窗口：
+> 开头GPT -> Opening Writer / Commercial Prose Calibration Writer。
 
-启动后：
-- #37由中段+衔接GPT执行第一卷商业重构；
-- #undefined由开头GPT并行执行商业正文微样本校准。
-
-职责分离：
-- #37 = 决定“写什么”；
-- #undefined = 验证Writer“怎么写”。
+#38只校准“怎么写”；不写完整第一章、不决定Opening架构。
 
 只有：
-> **#37 Opening方向冻结 + #undefined Writer Prose Baseline通过**
+> **#37 Opening方向通过 + #38 Writer Prose Baseline通过**
 
-才允许开头GPT写完整第一章正式Draft。
+才允许完整Ch1正式Draft。
