@@ -2,9 +2,8 @@
 
 ## ROLE
 - role: mid_continuity / Commercial Story Showrunner
-- status: PAUSED
-- current_issue: #37 Commercial First-Principles Volume 1 Rebuild V2
-- pause_reason: #37八个主产物与商业红队已完成，等待总评审；未修改Canon或Approved Outline
+- status: ACTIVE
+- current_issue: #37 PATCH｜AC-Hybrid Consolidation
 
 ## LAST COMPLETED TASK
 - task: Commercial First-Principles Volume 1 Rebuild V2
@@ -228,3 +227,25 @@
 - 当前需要P1 Approved Outline Change，不改Canon。
 - 现Approved Outline仍然有效，直到总评审+作者批准Change Proposal。
 - 本窗口停止，交总评审。
+
+
+---
+
+## TOTAL EDITOR PATCH DIRECTIVE
+
+总评审：
+> reviews/2026-09-22_issue37_total_editorial_audit.md
+
+正式PATCH：
+> research/briefs/2026-09-22_issue37_consolidation_patch_brief.md
+
+不要重跑大Benchmark。
+
+只修：
+1. Secret Ladder去重；
+2. 低端市场失效模型；
+3. A/C -> AC-Hybrid；
+4. Event-First升主Baseline；
+5. Payoff Ledger去KPI化。
+
+完成后更新CURRENT + history，停止。
