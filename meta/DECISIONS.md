@@ -881,3 +881,25 @@ Opening V0 Reference冻结：
    > **Commercial First-Principles Volume 1 Rebuild V2**
 8. #37允许挑战Story Engine / Phase Outline / Ch1—10 / 驿货行 / A-T1 Timing；需要Canon变化时只提Change Proposal，不直接修改；
 9. #37最终不得把大量半成品甩给作者，必须先内部淘汰，只交2套完整可拍板方案。
+
+
+## D-0047 #36商业正文校准通过
+**状态：已批准，2026-09-22生效**
+
+总评审：
+> `reviews/2026-09-22_commercial_prose_calibration_final_audit.md`
+
+正式批准：
+1. `research/reports/2026-09-22_commercial_prose_execution_benchmark.md` 作为当前商业正文外部标尺；
+2. `meta/COMMERCIAL_PROSE_REFERENCE_CARDS.md` 作为正式Writer功能参考卡；
+3. `meta/HUMAN_PROSE_GATE.md` 作为正式作者前置商业正文闸门；
+4. `research/design/2026-09-22_AT1_reader_scene_map.md` 作为A-T1 Reader Layer执行支持资产；
+5. `meta/READER_LANGUAGE_AT1_PATCH.md` 作为A-T1定向执行补丁；
+6. Reference Cards只按当前功能选2—4张，不得机械全套执行；
+7. Human Prose Gate不得机械计数AI味，核心看模式强度与第一次读者体验；
+8. “舍味7项必懂事实”是读者理解结果，不要求单段连续说明；
+9. A-T1 Timing 1仍未冻结；#36不替现Story Engine / Ch1—10 / 驿货行背书；
+10. #36完成后，#37与#38正式并行启动：
+    - #37决定“写什么”；
+    - #38校准Opening Writer“怎么写”；
+11. 只有#37最终Opening方向通过 + #38 Writer Prose Baseline通过，才允许写完整第一章。
