@@ -1,147 +1,128 @@
 # 中段+衔接｜CURRENT HANDOFF
 
 ## ROLE
-- role: mid_continuity / Commercial Story Showrunner
-- status: ACTIVE
+- role: mid_continuity / Commercial Story Showrunner / Consolidation Editor
+- status: PAUSED
 - current_issue: #37 PATCH｜AC-Hybrid Consolidation
+- pause_reason: 五项定向PATCH已完成，等待总评审；Canon与Approved Outline均未修改
 
 ## LAST COMPLETED TASK
-- task: Commercial First-Principles Volume 1 Rebuild V2
-- brief: `research/briefs/2026-09-22_first_volume_commercial_rebuild_brief_v2.md`
+- task: #37 Consolidation Patch｜AC-Hybrid
+- brief: `research/briefs/2026-09-22_issue37_consolidation_patch_brief.md`
 - completed_at: 2026-09-22
 
 ## WHAT ACTUALLY HAPPENED
-- #36通过后，本轮不再保护现有第一卷Story Engine、驿货行、A-T1或Ch1—10的沉没成本，按 `meta/COMMERCIAL_FIRST_PRINCIPLES.md` 从商业第一性原理重审第一卷。
-- 外部长篇Benchmark采用14部功能样本，覆盖：
-  - 高频横向新鲜感；
-  - 收集/养成/资产增长；
-  - 低买高用/价值发现；
-  - 中秘密->大秘密；
-  - 成熟商业正文执行。
-- 外部Benchmark得到的最高价值结论：
-  > **耐跑长篇的每个循环最好都留下“存量”——钱、物、技能、客户、市场入口、关系、地图权限或可行动知识；任务不能长期清零。**
-- 对《舍弃》从零商业体检后，判断：
-  > **Concept本身足够强，当前不需要P2 Canon Change。**
-  系统性商业瓶颈主要在Approved Outline的奖励逻辑：
-  - 职业许可恢复占据过多篇幅；
-  - 资产增长太晚/太弱；
-  - 中秘密多问号、少可行动结论；
-  - 陆野长期偏被动接任务；
-  - 前10章横向新鲜感与Collection不足。
-- 完成Top15 Commercial Failure Risks；最严重的是：
-  1. “资格冻结 -> 受限复工 -> 试岗 -> 资格恢复 -> 固定席位”被当成主奖励链；
-  2. 价值回收发动机前半卷停机；
-  3. 陆野缺少主动捕获价值的持续主角算法；
-  4. Mystery Ladder前半回答现实行动太少；
-  5. 卷末除固定席位外缺乏可见资产台阶。
-- 新的主角商业发动机建议：
-  > **职业经验 + 正常修炼 + 穷人愿意多验证一步 + 有限尝余信号**
-  共同组成：
-  > **发现可能被低估的价值 -> 花验证成本 -> 修/试/查 -> 决定买/留/卖/隔离 -> 为判断结果负责。**
-- 横向新鲜感矩阵完成：
-  - 12个现实领域 × 5类利益冲突；
-  - 18个可写小弧原型；
-  - 不靠新增舍项图鉴，而让同一套舍弃规则撞进钱、工伤、借载、招聘、家庭、宗门、医疗、市场、司法等现实利益。
-- Secret Ladder V2完成S0—S8：
-  - S0舍后仍需处理；
-  - S1异常可重复且部分来自外界；
-  - S2信号位置≠真正源头 / 载体可带痕；
-  - S3稳定差异 + 窄用途；
-  - S4官方/市场早已分类；
-  - S5共享物/地点可积累；
-  - S6部分残留被合法受控利用；
-  - S7存在共同“导走”逻辑；
-  - S8只种“利用与安全双重性”种子。
-  第一卷仍不解释完整余世。
-- 价值回收/资产增长设计完成10阶段：
-  1. 普通修复赚钱；
-  2. 第一低价异常物；
-  3. 第一窄用途收藏；
-  4. 第一次真实变现；
-  5. 旧收藏回用；
-  6. 本金主动下注；
-  7. 第一次真实亏损；
-  8. 市场准入；
-  9. 监管/所有权冲突；
-  10. 卷末本金+工具箱+市场+方法资产台阶。
-- Payoff Ledger V2建立七类回报：
-  - Action；
-  - Money；
-  - Collection；
-  - Cultivation；
-  - Knowledge；
-  - Status / Market Value；
-  - Relationship / Reversal。
-- 新硬门：
-  > 任意约8—12章区间至少出现2种不同Payoff，且至少1种不能只是Status。
-- 本轮完整构造A/B/C三套总架构后内部淘汰B：
-  - **A｜高爽高资产：拾余资产飞轮**
-  - B｜高新高世界：舍弃文明巡游【内部淘汰】
-  - **C｜商业均衡：职业底盘 + 资产增长 + 中秘密**
-- B淘汰原因：
-  > 世界案例新鲜，但陆野容易变社会观察者；每单元新人/新制度过多，个人资产飞轮弱，极易变“舍弃文明案例集”。
-- Finalist A：
-  - 更快建立普通修复 -> 低价异常物 -> 第一收藏 -> 回用 -> 变现 -> 主动下注；
-  - Opening建议重新测试C-T2 Event-First；
-  - 卷末固定席位只是资产包之一；
-  - 最大风险是退化成“修仙捡漏创业文”。
-- Finalist C：
-  - 保留驿货行/团队为强底盘；
-  - 资产与秘密明显提前；
-  - A-T1 Decision-First仍作为首选Opening基线，但不冻结；
-  - 正式资格Early-Mid完成，不再撑半卷；
-  - 最大风险是“均衡=平”，偷偷退回旧许可梯。
-- Independent Commercial Red Team已完成：
-  - 明确旧许可梯“聪明但无聊”；
-  - 惜物文学意义不能替代商业收益；
-  - 驿货行/A-T1/Ch1—10均未因沉没成本保护；
-  - 防连续10章收益真空；
-  - 防秘密只问不答；
-  - 防主角变观察者；
-  - 防物流/捡漏重复模板；
-  - 防工伤/市场准入等场景写成制度会议；
-  - 防#37本身的整齐设计表泄漏成正文AI模板。
-- 结论：
-  > **当前不需要Canon Change；需要P1 Approved Outline正式重开。**
+- #37第一轮总评审结论为：
+  > **研究层通过，最终架构暂不批准。**
+  本轮没有重做Benchmark，只修总评审指定的5个接口。
+- Secret Ladder已从V2重排为V3：
+  - S0 舍后仍需处理；
+  - S1 异常可重复，至少一部分来自外界；
+  - S2 只确认异常之间存在稳定行为差异，**来源仍不清楚**；
+  - S3 少数对象出现窄用途 -> 第一收藏；
+  - S4 官方/市场早已做部分分类；
+  - S5 **第一次大误判后**才确认“信号位置≠真正源头 / 载体可带痕”，并形成接触链验证法；
+  - S6 共享物/地点可长期积累；
+  - S7 部分残留受控利用 + 更大处理流存在共同导走逻辑；
+  - S8 只种“导去哪 / 利用与安全双重性”问题。
+- 大误判因此重新被保护：
+  > S5以前，陆野不能正式学会“载体≠源头”。
+  他的错误来自早期“有信号的对象往往值得查”这一成功经验在更复杂场景里失效，不再是重复犯已学会的错。
+- 已建立“低端市场失效模型”，解决：
+  > **成熟舍弃文明为什么仍有合法低估物？**
+- 该模型明确：
+  - 高风险、明确高价值、已知受控残留、强异常对象不能成为陆野早期捡漏池；
+  - 早期机会只来自低风险、低强度、来源混杂、单件深检不经济、用途极窄的长尾旧物；
+  - 正规体系主要优化“风险识别”，不替每件低价旧物支付高成本做“窄用途价值发现”；
+  - 陆野只降低第一轮筛查成本，不降低验证/合规/找买家/持有/犯错成本；
+  - 他吃的是低端边角市场，不是制度级大漏洞；
+  - 第一件异常物必须来自已完成常规放行、所有权人明确允许普通低价处置的合法旧物池，不能从受控废物里“顺手捡走”。
+- A/C原样二选一已取消。
+- 唯一主Baseline：
+  > **AC-Hybrid｜职业底盘上的资产飞轮。**
+- AC-Hybrid采用：
+  - C的驿货行BASE、团队关系、正常修炼、流程余灾终局；
+  - A的早期Money、Collection、主动验证、本金增长速度；
+  - 资格线降级为Career Track，不再主导半卷；
+  - 第一件收藏在前10章附近真正落袋；
+  - 专业/成熟市场不在前10章提前打开；
+  - 主角必须主动付钱/时间取得验证权。
+- Opening主Baseline正式收束为：
+  > **Event-First / Ch1真正执行舍味。**
+- Opening状态链Proposal：
+  - Ch1：事故 -> 正常办法不足 -> 陆野本就在筑基续关 -> 到达事先设定的“真要命才执行”阈值 -> **真正执行舍味**；
+  - Ch2：筑基稳定离体兑现 -> 救援完成 -> 漏舍 -> 职业路径冻结；
+  - Ch3：永久失味进入生活 + 收入现实 -> 新主动目标“先让钱重新流起来”。
+- A-T1 Decision-First降为Fallback：
+  > 只有Event-First通过#36写法校准后仍持续导致“舍味=换力量”误读，才允许回退。
+  不再长期50/50并列。
+- AC-Hybrid前段Baseline：
+  - 普通修复先赚第一笔Money；
+  - 正常筑基低风险工作；
+  - S1外界异常确认；
+  - 合法低端旧物进入验证；
+  - 普通团队任务换挡；
+  - Ch9—10附近第一件窄用途收藏落袋。
+- 中段才逐渐进入：
+  - 小额真实变现；
+  - 主动本金下注；
+  - 官方/市场部分分类；
+  - 真亏损；
+  - 更成熟市场入口。
+- “感知真、归因错”仍是Mid-Late大节点，并升级成：
+  > 真实损失 + 接触链验证方法资产。
+- Finale继续保留旧强骨架：
+  - 流程级复合余灾；
+  - 尝余高混杂下接近失效；
+  - 正常修炼/团队/路线/封控主解；
+  - 前期工具/方法局部回用；
+  - S7只确认“部分利用 + 共同导走逻辑”，不揭完整余世。
+- Payoff Ledger已去KPI化。
+- V3只保留4条Hard原则：
+  1. 不能长时间只有Status；
+  2. 主要弧必须留下可感知状态变化/存量；
+  3. Payoff不能长期同质；
+  4. 前期积累必须在后续有真实回报。
+- 原“8—12章几种收益 / 3—4弧一次资产 / 卷末回用3类资产”等固定频率全部降为Review Trigger。
+- 本轮没有写正文、没有改Canon、没有改Approved Outline、没有增加新Benchmark。
 
 ## AUTHOR FEEDBACK
-- 作者已批准#36并解除#37 BLOCKED。
-- 作者明确要求本轮：
-  - 不是给旧第一卷补爽点；
-  - Concept / 主角发动机 / Opening / 爽感 / 横向新鲜感 / 收集资产 / 中秘密 / Story Engine / Ch1—10全部允许挑战；
-  - 不得直接修改Canon/Approved Outline；
-  - 必须主动商业红队；
-  - 不得把三个半成品扔给作者；
-  - 内部淘汰后只交2套真正能打的总方案。
-- 本轮已严格执行：最终只保留A / C。
+- 作者/总评审明确要求：
+  - #37研究层保留，不重做；
+  - 不再扩Benchmark；
+  - 只修5项定向问题；
+  - Secret Ladder不得提前剧透大误判；
+  - 必须解释成熟文明里的合法低估物，而不是让全世界比主角笨；
+  - 不再A/C原样二选一，定向合并为AC-Hybrid；
+  - Event-First / Ch1执行舍味升为主Baseline；
+  - Payoff数字频率全部去KPI化。
+- 本轮已严格按这5项执行，没有扩任务面。
 
 ## AUTHORITY / OUTPUTS
-- #37正式brief：
-  - `research/briefs/2026-09-22_first_volume_commercial_rebuild_brief_v2.md`
-- 外部长篇Benchmark：
-  - `research/reports/2026-09-22_commercial_longform_benchmark.md`
-  - commit: `da31d9138f1489a47dba6618b68afdf41454a1d4`
-- 第一卷商业体检 / Top15：
-  - `reviews/2026-09-22_volume1_first_principles_commercial_audit.md`
-  - commit: `1573de5178a41e6a1ffca5356405a0051473cd98`
-- 横向新鲜感矩阵：
-  - `research/design/2026-09-22_volume1_horizontal_novelty_matrix_v2.md`
-  - commit: `7816b5623a36268560bf168fd4b2e48248c1eee4`
-- Secret Ladder V2 Proposal：
-  - `research/design/2026-09-22_volume1_secret_ladder_v2_proposal.md`
-  - commit: `1ba698f663d07d48584369b243bd98e7d221dbb1`
-- 价值回收 / 资产成长：
-  - `research/design/2026-09-22_value_recovery_asset_growth_v2.md`
-  - commit: `dca89fd48c83eb071094a7eeded5c82ec5343bf1`
-- Payoff Ledger V2：
-  - `reviews/2026-09-22_volume1_payoff_ledger_v2.md`
-  - commit: `3dab135751b167fa74caf4ec89caca38fee431b2`
-- 最终商业架构两套：
-  - `reviews/2026-09-22_volume1_commercial_architecture_options_v2.md`
-  - commit: `e02e71385fbe497c0a91a9d6dd979362544115d8`
-- Story Engine Change Proposal：
-  - `reviews/2026-09-22_volume1_story_engine_change_proposal_v2.md`
-  - commit: `7d9a1798aeff245c809e8d2af75cd566d8cdae0d`
+- 总评审审计：
+  - `reviews/2026-09-22_issue37_total_editorial_audit.md`
+- PATCH brief：
+  - `research/briefs/2026-09-22_issue37_consolidation_patch_brief.md`
+- Secret Ladder V3 Patch：
+  - `research/design/2026-09-22_volume1_secret_ladder_v3_patch.md`
+  - commit: `4618efbd9bba502b6f0e69e0f7266d7c6b652d1c`
+- 低端市场失效模型：
+  - `research/design/2026-09-22_low_end_residual_market_model.md`
+  - commit: `6a0a84a4a872af3d6a44c9f13bf5adc4c1eea39a`
+- AC-Hybrid唯一主架构：
+  - `reviews/2026-09-22_volume1_AC_hybrid_architecture.md`
+  - commit: `23083ce51a322cf497ba47af369a183dc60c7498`
+- Story Engine Change Proposal V3：
+  - `reviews/2026-09-22_volume1_story_engine_change_proposal_v3.md`
+  - commit: `d569b977f561e9767bd1c9f417d25e0e1f895a69`
+- Payoff Ledger V3 Patch：
+  - `reviews/2026-09-22_volume1_payoff_ledger_v3_patch.md`
+  - commit: `f05d2daa2080ab66005340b6fdee7799b74cecbc`
+- #37第一轮八个产物继续作为研究底座，但以下V2项已被本PATCH supersede for review：
+  - Secret Ladder V2；
+  - A/C原样二选一；
+  - Story Engine Change Proposal V2；
+  - Payoff Ledger V2固定频率规则。
 - 本轮未修改：
   - `canon/*`
   - `outline/volume1_story_engine.md`
@@ -150,102 +131,67 @@
   - 正文。
 
 ## DO NOT CONTINUE
-- 不把#37 Proposal当成已批准Outline。
-- 不直接把Secret Ladder V2覆盖 `canon/10_mystery_ladder.md` 或其它权威文件。
-- 不现在写第一章。
-- 不自行选择Finalist A或C为最终权威。
-- 不恢复被内部淘汰的B“舍弃文明巡游”为第三作者选项。
-- 不把A写成鉴宝UI / 垃圾全是宝 / 无限余器仓库。
-- 不把C写回“更顺滑的许可恢复旧方案”。
-- 不让固定席位继续成为卷末唯一大奖。
-- 不让尝余提供名称/价格/来源/稀有度。
-- 不因为资产线增强而削弱正常修炼主轴。
-- 不把横向社会矩阵全部塞进第一卷；只选真正带收益与状态变化的少数领域。
-- 不修改Canon。
-- 不修改Approved Outline，除非总评审+作者正式批准Change Proposal。
+- 不重跑#37 Benchmark。
+- 不恢复A / C原样二选一。
+- 不恢复B“舍弃文明巡游”。
+- 不再把A-T1与Event-First长期50/50并列；A-T1只是fallback。
+- 不在S5前让陆野正式确认“信号位置≠源头 / 载体可带痕”。
+- 不把第一件异常物写成受控重宝漏出。
+- 不让陆野“顺手捡走”已知受控残留。
+- 不把尝余写成价值高亮/名称/价格/来源答案机。
+- 不让早期低端旧物暴利。
+- 不把低端市场模型升级成全国统一Canon法规。
+- 不让专业市场在前10章成熟打开。
+- 不把Payoff Review Trigger重新机械化成章数KPI。
+- 不改Canon。
+- 不直接改Approved Outline，除非总评审+作者批准P1 Change Proposal。
+- 不写正文。
 
 ## OPEN QUESTIONS
-- 总评审最终更倾向：
-  - A｜高爽高资产；
-  - C｜商业均衡；
-  还是要求在二者之间做一次定向融合？
-- Opening：
-  - A建议重测C-T2；
-  - C建议以#36校准后的A-T1重写再测；
-  哪种更符合最终第一卷方案？
-- 正式资格完成点是否允许显著前移到Early-Mid？
-- 第一件重点窄用途余器是否批准升级为第一卷必需资产节点？
-- Secret Ladder V2是否批准取代旧reviewed-proposal时序？
-- 卷末资产硬门应锁：
-  - 本金 + 工具箱 + 市场入口三者全有；
-  还是至少有其中2项？
-- 驿货行是否继续作为正式社会BASE，但不再作为第一卷唯一价值来源？
+- 总评审是否批准AC-Hybrid作为新第一卷唯一主Baseline？
+- 是否批准Event-First / Ch1执行舍味为Opening主Baseline，A-T1正式降fallback？
+- 是否批准Secret Ladder V3取代V2作为下一轮Outline重写依据？
+- 是否批准低端市场失效模型作为第一卷现实层约束？
+- 第一件重点窄用途收藏的具体器物仍未设计；若P1通过，应另做Artifact/Story设计。
+- 正式资格具体完成点仍不锁章数，只建议从旧“40%—55%”前移到Early-Mid。
 
 ## NEXT EXPECTED ACTION
-1. 停止继续扩#37研究，交总评审。
-2. 总评审只审核Finalist A / C与P1 Story Engine Change Proposal。
-3. 若总评审选定方向，再由作者批准是否重开Approved Outline。
-4. 只有批准后才正式修改：
-   - `outline/volume1_story_engine.md`
-   - `outline/volume1_phase_outline.md`
-   - Ch1—10章卡
-   - Opening Scene Spine。
-5. Outline重新批准后，再进入#36已批准的Commercial Prose生产流程。
-6. 当前不得直接写完整第一章。
+1. 停止本窗口继续设计，交总评审。
+2. 总评审只审：
+   - AC-Hybrid；
+   - Event-First Opening Baseline；
+   - Secret Ladder V3；
+   - 低端市场模型；
+   - Story Engine Change Proposal V3；
+   - Payoff Ledger V3。
+3. 若总评审批准：
+   - 作者确认P1 Story Engine Change；
+   - 再正式重写Approved Story Engine / Phase Outline / Ch1—10 / Opening Scene Spine。
+4. 正式Outline重写批准前，不写完整第一章。
 
 ## REQUIRED READS
-1. `meta/COMMERCIAL_FIRST_PRINCIPLES.md`
-2. `reviews/2026-09-22_first_volume_novelty_payoff_direction.md`
-3. `research/reports/2026-09-22_commercial_longform_benchmark.md`
-4. `reviews/2026-09-22_volume1_first_principles_commercial_audit.md`
-5. `research/design/2026-09-22_volume1_horizontal_novelty_matrix_v2.md`
-6. `research/design/2026-09-22_volume1_secret_ladder_v2_proposal.md`
-7. `research/design/2026-09-22_value_recovery_asset_growth_v2.md`
-8. `reviews/2026-09-22_volume1_payoff_ledger_v2.md`
-9. `reviews/2026-09-22_volume1_commercial_architecture_options_v2.md`
-10. `reviews/2026-09-22_volume1_story_engine_change_proposal_v2.md`
-11. `outline/volume1_story_engine.md`
-12. `canon/00_core_premise.md`
-13. `canon/05_characters.md`
-14. `canon/08_artifacts.md`
+1. `reviews/2026-09-22_issue37_total_editorial_audit.md`
+2. `research/briefs/2026-09-22_issue37_consolidation_patch_brief.md`
+3. `research/design/2026-09-22_volume1_secret_ladder_v3_patch.md`
+4. `research/design/2026-09-22_low_end_residual_market_model.md`
+5. `reviews/2026-09-22_volume1_AC_hybrid_architecture.md`
+6. `reviews/2026-09-22_volume1_story_engine_change_proposal_v3.md`
+7. `reviews/2026-09-22_volume1_payoff_ledger_v3_patch.md`
+8. `meta/COMMERCIAL_FIRST_PRINCIPLES.md`
 
 ## CONTEXT SNAPSHOT
-- #36已关闭，商业正文基准正式生效。
-- #37已完整执行，八个主产物全部完成。
-- Concept判断：核心足够强，不建议P2 Canon Change。
-- 系统性问题：旧第一卷把太多奖励压在职业许可/席位。
-- 新商业总则：每个主要循环尽量留下存量。
-- 资产线：普通修复 -> 低价异常物 -> 第一收藏 -> 回用 -> 变现 -> 主动下注 -> 真亏 -> 市场 -> 所有权 -> 卷末资产台阶。
-- Secret Ladder V2：小答案必须带行动/钱/工具/风控，不提前揭完整余世。
-- 横向矩阵：12领域×5利益冲突，18个小弧原型；第一卷只选少数，不做百科巡游。
-- B高新高世界方案已内部淘汰。
-- 最终只剩：
-  - A高爽高资产；
-  - C商业均衡。
-- 两套都保留正常修炼主轴与卷末流程余灾。
-- A建议重测C-T2；C建议保留A-T1为首选基线但不冻结。
-- 当前需要P1 Approved Outline Change，不改Canon。
-- 现Approved Outline仍然有效，直到总评审+作者批准Change Proposal。
-- 本窗口停止，交总评审。
-
-
----
-
-## TOTAL EDITOR PATCH DIRECTIVE
-
-总评审：
-> reviews/2026-09-22_issue37_total_editorial_audit.md
-
-正式PATCH：
-> research/briefs/2026-09-22_issue37_consolidation_patch_brief.md
-
-不要重跑大Benchmark。
-
-只修：
-1. Secret Ladder去重；
-2. 低端市场失效模型；
-3. A/C -> AC-Hybrid；
-4. Event-First升主Baseline；
-5. Payoff Ledger去KPI化。
-
-完成后更新CURRENT + history，停止。
+- #37第一轮研究通过，架构需PATCH。
+- PATCH已完成，未重跑Benchmark。
+- Secret Ladder已升级V3；S5前禁止源头—载体分离认知。
+- 大误判仍是第一次真正学会“信号≠源头”的代价节点。
+- 低端市场模型已补齐：陆野赚的是低端长尾筛查成本差，不是制度大漏。
+- 高风险/高价值/受控残留不能进入早期捡漏池。
+- 第一异常物必须合法取得。
+- 唯一主架构变为AC-Hybrid。
+- 驿货行/团队/正常修炼继续做底盘。
+- 早期Money/Collection/主动验证明显提速。
+- Opening主Baseline=Event-First / Ch1执行舍味。
+- A-T1=Fallback。
+- Payoff固定数字频率已去KPI化。
+- 当前仍是P1 Change Proposal，不是Approved Outline。
+- Canon/Approved Outline/正文均未修改。
