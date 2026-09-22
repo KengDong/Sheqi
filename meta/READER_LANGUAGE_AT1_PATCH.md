@@ -1,11 +1,11 @@
 ---
-status: proposal
+status: approved-execution-patch
 version: 1.1
 document_type: reader-language-AT1-patch
 project: 修仙先舍一件人间事
 created_at: 2026-09-22
 verified_at: 2026-09-22
-authority: proposal-only
+authority: total-editor-approved-execution
 canon_effect: none
 outline_effect: none
 target: experiments/opening_prototypes/2026-09-21_AT1_decision_first_taste_timing.md
@@ -475,3 +475,19 @@ A-T1 V2写完后，
 ---
 
 > 本Patch待总评审批准，不自动修改PROSE_BIBLE/Reader Language Map。
+
+
+---
+
+# 16. 总评审批准边界
+
+本Patch已通过#36总评审，可作为未来A-T1/同功能开篇重写的定向执行输入。
+
+但它**不代表**：
+- Timing 1已冻结；
+- A-T1已成为正式Opening；
+- Story Engine已通过；
+- 当前事故入口不得在#37被挑战。
+
+它只批准：
+> **若未来继续使用这一场景/机制，Reader Layer与解释归属应按本Patch执行。**
