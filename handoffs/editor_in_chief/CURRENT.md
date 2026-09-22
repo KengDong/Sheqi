@@ -59,12 +59,16 @@
 
 ## NEXT EXPECTED ACTION
 1. 等opening_writer完成 `drafts/volume1/ch001_v1.md` 与Writer Selfcheck。
-2. 总评审做Formal Ch1 Gate。
-3. 若主体PASS：
-   - 决定是否派发独立Prose Editor；
-   - 再做Independent Red Team；
-   - 必要时Fresh Blind Read。
-4. 作者只在基础QA通过后亲读。
+2. 总评审做Formal Ch1 Gate；“没有硬伤”不构成PASS。
+3. 若主体可救：
+   - 派发独立Prose / Humanization；
+   - 做Top-Tier Shelf Parity Comparator；
+   - 做Independent Red Team；
+   - 第一章默认做Fresh Blind Read。
+4. 只有AI团队已经认为“可与热门商业小说正面对读”时，才交作者。
+5. 若同架明显掉一档：
+   - 继续内部返修；
+   - 不把基础体验问题交给作者发现。
 
 ## REQUIRED READS
 1. `reviews/2026-09-22_event_first_execution_validation_final_review.md`
