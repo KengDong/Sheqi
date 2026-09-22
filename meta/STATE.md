@@ -1,10 +1,10 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：** Bible V1.0 Frozen -> AC-Hybrid Authority Rewrite主体PASS -> Targeted PATCH COMPLETE -> Awaiting Total Editor Re-review
+**阶段：** Bible V1.0 Frozen -> AC-Hybrid Authority Rewrite PASS -> Event-First Execution Validation ACTIVE
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
-**第一卷发动机批准日期：**2026-09-21  
+**第一卷AC-Hybrid权威化日期：**2026-09-22  
 **当前唯一重点项目：**《舍弃》；《七成同意，法令生效》暂停开发。
 
 ## Bible V1.0 已冻结的底层
@@ -50,7 +50,7 @@
 
 > **按 AC-Hybrid 正式重开第一卷 Approved Outline。**
 
-Authority Rewrite主体已完成总评审；定向PATCH也已完成，当前等待总评审只复核第一收藏Canon-fit / Ch7-Ch9接口 / STATE导航。
+Authority Rewrite与Targeted PATCH均已通过总评审，D-0049已记录；当前正式进入 Event-First Execution Validation。
 
 本轮已写回：
 - `outline/volume1_story_engine.md` v2.0
@@ -74,7 +74,7 @@ Opening：
 第一重点收藏：
 > **旧护角皮带（工作俗称：咬手带）**
 
-Targeted PATCH已完成，当前等待总评审复核。
+Targeted PATCH已通过总评审。
 
 PATCH后已明确：
 - 作者侧来源锁定为有效舍契切出的**痛觉我相残留**；
@@ -101,14 +101,13 @@ Mystery导航：
 > 不得因为文件位于 `canon/` 目录就让v0.2旧时序覆盖当前第一卷Authority Rewrite。
 
 当前不得：
-- 写正式Ch1；
-- 跳过总评审；
 - 把Event-First称为完整执行已验证；
-- 把本轮pending-review文件称为最终冻结。
+- 把Execution Validation样本当正式Ch1；
+- 跳过Execution Validation直接写Formal Ch1。
 
 下一Gate：
-1. 总评审仅复核第一收藏 / Ch7-Ch9 / STATE导航
-2. Event-First Execution Validation
+1. Event-First Execution Validation
+2. 总评审验证真实文字因果清晰度 / Human Prose
 3. 通过后才进入Formal Ch1 Draft
 
 # 中段研究已完成
@@ -277,7 +276,7 @@ Mystery导航：
 正式流程：
 > `meta/MANUSCRIPT_PIPELINE.md`
 
-当前原则：#24未冻结前，不写第一章正式正文；Visual GPT可并行做内部空间/器物V0。
+当前原则：Authority Rewrite已通过；先完成Event-First Execution Validation，再决定是否放行Formal Ch1。
 
 ---
 
@@ -308,7 +307,7 @@ Reader-Language与Visual都不再阻塞第一章Scene Spine。
 
 ---
 
-# 第一章 Draft V0｜已完成
+# [HISTORICAL] 第一章 Draft V0｜旧稿已完成
 
 正式草稿：
 > `drafts/volume1/ch001_v0.md`
@@ -324,7 +323,7 @@ Reader-Language与Visual都不再阻塞第一章Scene Spine。
 
 ---
 
-# 第一章 Draft V0｜作者实读否决
+# [HISTORICAL] 第一章 Draft V0｜作者实读否决
 
 作者本人明确反馈：
 - 沉闷；
@@ -547,7 +546,7 @@ A-T1仍只是PROVISIONAL BASE；Timing 1未冻结。
 
 ---
 
-# #37/#38总评审结果｜2026-09-22
+# [HISTORICAL] #37/#38总评审结果｜2026-09-22
 
 #37：
 > 研究层通过，最终架构需一次定向整合PATCH。
@@ -579,7 +578,7 @@ PATCH：
 
 ---
 
-# #37/#38 PATCH终审｜已完成
+# [HISTORICAL] #37/#38 PATCH终审｜已完成
 
 ## #37 Commercial First-Principles Volume 1 Rebuild
 状态：
@@ -636,26 +635,28 @@ Sample A/B/C V2：
 
 ---
 
-# Author P1 Authority Gate｜已通过
+# Author P1 Authority Gate｜已通过并完成权威化
 
 作者于2026-09-22明确批准：
 > **按AC-Hybrid正式重开第一卷Approved Outline。**
 
 正式决策：
-> `meta/DECISIONS.md` D-0048
+- `meta/DECISIONS.md` D-0048｜作者P1授权重开
+- `meta/DECISIONS.md` D-0049｜Authority Rewrite总评审终审通过
 
-当前：
-> **D-0048 Authority Rewrite主体已完成；总评审主体PASS；Targeted PATCH ACTIVE。**
+当前权威：
+> **AC-Hybrid新版Story Engine / Phase / Ch1—10 / Ch1 Scene Spine已完成 author-delegated-editorial-approved。**
 
 当前执行窗口：
-> mid_continuity / Commercial Story Showrunner / Authority Rewrite Patch Editor
+> opening_writer / Opening Execution Writer
 
 当前brief：
-> `research/briefs/2026-09-22_authority_rewrite_targeted_patch_brief.md`
+> `research/briefs/2026-09-22_event_first_execution_validation_brief.md`
 
 当前权威边界：
 - Canon继续KEEP；
-- AC-Hybrid Story Engine / Phase / Event-First结构 / Ch1—3主体不重开；
-- 当前只修第一收藏Canon-fit、Ch7-Ch9联动与STATE导航；
-- Event-First最终冻结前仍需新版完整执行验证；
-- 正式Ch1仍禁止。
+- AC-Hybrid Story Engine / Phase / Ch1—10主体不重开；
+- Event-First结构层PASS；
+- Event-First执行层尚未验证；
+- Execution Validation不是正式Ch1；
+- Formal Ch1仍禁止，直到本Gate通过。
