@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：** Bible V1.0 Frozen -> Commercial Rebuild通过 -> Author P1 AC-Hybrid批准 -> Authority Rewrite ACTIVE
+**阶段：** Bible V1.0 Frozen -> Commercial Rebuild通过 -> Author P1 AC-Hybrid批准 -> Authority Rewrite COMPLETE -> Awaiting Total Editor Review
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷发动机批准日期：**2026-09-21  
@@ -44,67 +44,55 @@
 
 ---
 
-# 第一卷已批准故事发动机
+# 第一卷 Authority Rewrite｜当前状态
 
-权威 Outline：
+作者于2026-09-22通过 D-0048 正式批准：
 
-> `outline/volume1_story_engine.md`
+> **按 AC-Hybrid 正式重开第一卷 Approved Outline。**
 
-## 社会入口
-> **驿货行短途杂役 / 押货杂役。**
+mid_continuity 已完成 Authority Rewrite，当前等待总评审。
 
-## 两级现实目标
-1. **正式押货资格**
-2. **固定路线 / 固定小队席位**
+本轮已写回：
+- `outline/volume1_story_engine.md` v2.0
+- `outline/volume1_phase_outline.md` v2.0
+- `outline/assets/volume1_first_collection.md` v1.0
+- `outline/scene_spines/volume1_ch001.md` v2.0
+- `outline/chapter_cards/volume1_ch001_003.md` v3.0
+- `outline/chapter_cards/volume1_ch004_010.md` v2.0
 
-一级目标在第一卷中点附近完成，原则上约40%—55%，以状态条件为准，不锁精确章数。
+自红队：
+> `reviews/2026-09-22_authority_rewrite_ac_hybrid_self_red_team.md`
 
-## 第一卷暗主题
-> **陆野想变得不那么容易被替换；后来他真的难以替代，却部分因为别人发现他的缺位有用。**
+当前主Baseline：
+> **AC-Hybrid｜职业底盘上的资产飞轮。**
 
-## 人物结构
+Opening：
+> **Event-First / Ch1真正执行舍味** 为优先实现方向；
+> A-T1仅保留Fallback；
+> Event-First仍需新版 Execution Validation 后再最终冻结。
 
-### 固定工作核心
-- 陆野
-- 乔九
-- 罗槐
-- 唐禾
-- 石小庚
+第一重点收藏：
+> **旧护角皮带（工作俗称：咬手带）**
+已完成合法来源、低端市场合理性、窄用途、余扰、第一次回用设计并过本轮内部Gate。
 
-### 高频外部
-- 周照
-- 曹闻川
+Canon：
+> **KEEP，不触发P2 Change。**
 
-### 私人生活
-必须存在1名高频非任务型生活锚点。
+Secret Ladder：
+> 第一卷Outline执行V3时序；
+> S5以前不得正式确认“信号位置≠源头”。
 
-当前首选：
-> **合租旧友**
+当前不得：
+- 写正式Ch1；
+- 跳过总评审；
+- 把Event-First称为完整执行已验证；
+- 把本轮pending-review文件称为最终冻结。
 
-但姓名、性别、手艺行业和具体关系结局暂不冻结。
-
-## 第一卷关键因果
-- 第一次事故完成舍味筑基 + 漏舍，资格被冻结；
-- 限制复工与普通护运证明陆野真正的筑基本事；
-- 尝余从后遗症逐渐变成有用但有限的信息；
-- 必须出现一次**感知真实、归因错误**的实际误判；
-- 误判造成钱、信用和关系代价；
-- 卷末根因是中转流程长期低水平风险叠加，不是邪恶仓库或幕后黑手；
-- 曹闻川不黑化，冲突来自经营与安全监管的风险阈值差异；
-- 卷末高混杂余灾中尝余接近失效，正常修炼、团队、路线知识和封控共同解决危机。
-
-## 正常修炼三次兑现
-1. 事故中的筑基新行动权限；
-2. 中段尝余为0的纯传统修仙护运 / 战斗；
-3. 卷末个人修炼进入团队系统。
-
-## 单元策略
-不冻结完整12单元顺序。
-
-采用：
-> **8个骨干功能节点 + 2—4个弹性单元。**
-
----
+下一Gate：
+1. Authority Consistency Gate
+2. Novelty & Payoff Gate
+3. Event-First Execution Validation
+4. 通过后才进入Formal Ch1 Draft
 
 # 中段研究已完成
 
