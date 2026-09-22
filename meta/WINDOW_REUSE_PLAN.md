@@ -1,6 +1,6 @@
 ---
 status: active
-version: 1.0
+version: 1.1
 created_at: 2026-09-22
 authority: process
 canon_effect: none
@@ -82,3 +82,31 @@ outline_effect: none
 - 现在新增：**1个**（Market Scout）。
 - 后续新增：**1个**（Clean-room Blind Reader）。
 - 其余任务全部复用现有窗口。
+
+
+---
+
+# 7. 原“开头 / 主作者”窗口｜RETIRED
+
+- status: **RETIRED / CONTEXT LIMIT REACHED**
+- completed:
+  - Book-Level Prototype Duel
+  - Finalist B/D Ch2—Ch3 Stress Test
+- user_note:
+  > 原窗口已到对话上限。
+- hard_rule:
+  > **以后不再复用该窗口。**
+
+# 8. 新窗口C｜Book Writer V2
+
+- must_be_new: **YES**
+- status: QUEUED
+- current: `handoffs/book_writer_v2/CURRENT.md`
+- starts_after:
+  - Returning Reader Continuation Test
+  - Fresh 3-Chapter Shelf Test
+  - Total Editor synthesis
+- purpose:
+  > 承担后续所有正文 / Book Bible / 续章写作任务。
+- handoff_rule:
+  > 只按Git CURRENT与正式brief接棒，不依赖旧Writer聊天记忆。
