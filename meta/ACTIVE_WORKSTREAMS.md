@@ -5,8 +5,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: Formal Ch1已派发，等待opening_writer回交
-- gate: Formal Ch1 Total Editor Gate
+- current_task: World Background Reframe研究调度
+- gate: World Background Direction Review
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -17,11 +17,41 @@
 - waiting_for: none
 
 ## opening_writer
-- status: ACTIVE
-- current_task: Formal Ch1 Draft V1
+- status: PAUSED / HOLD
+- current_task: Formal Ch1 V1已完成，封存为传统修仙Control
 - current: `handoffs/opening_writer/CURRENT.md`
-- brief: `research/briefs/2026-09-22_formal_ch001_v1_draft_brief.md`
+- output: `drafts/volume1/ch001_v1.md`
+- blocked_by: World Background Reframe decision
+
+## benchmark_deepread
+- status: BLOCKED
+- current_task: 《没钱修什么仙》全文深读
+- current: `handoffs/benchmark_deepread/CURRENT.md`
+- brief: `research/briefs/2026-09-22_no_money_cultivation_deepread_brief.md`
+- blocked_by: 用户上传全文研究源到Library
+
+## market_scout
+- status: ACTIVE
+- current_task: 2024—2026热门网文世界底盘扫描
+- current: `handoffs/market_scout/CURRENT.md`
+- brief: `research/briefs/2026-09-22_crossgenre_background_market_scan_brief.md`
 - deliver_to: editor_in_chief
+
+## world_reframe
+- status: QUEUED
+- current_task: 《舍弃》世界底盘重选
+- current: `handoffs/world_reframe/CURRENT.md`
+- brief: `research/briefs/2026-09-22_sheqi_world_reframe_brief.md`
+- blocked_by:
+  - benchmark_deepread report
+  - market_scout report
+
+## world_prototype
+- status: QUEUED
+- current_task: 世界底盘冷开场对撞
+- current: `handoffs/world_prototype/CURRENT.md`
+- brief: `research/briefs/2026-09-22_world_background_prototype_duel_brief.md`
+- blocked_by: world_reframe Top 3
 
 ## visual
 - status: PAUSED
@@ -61,12 +91,19 @@
      > 真切味 -> 无即时力量 -> 正常筑基 -> 稳定离体 -> 救援继续
    - 不重开A/C大理论研究。
 
-5. **Formal Ch1 Draft｜ACTIVE**
+5. **Formal Ch1 Draft｜DONE / HOLD AS CONTROL**
    - Human Prose Gate
    - Commercial Shelf Test
    - Independent Red Team
    - 必要时Fresh Blind Read
    - 然后交作者。
+
+6. **World Background Reframe Research｜ACTIVE**
+   - 《没钱修什么仙》全文Deep Read｜等待用户研究源；
+   - 2024—2026跨题材热门世界底盘扫描｜ACTIVE；
+   - World Reframe｜QUEUED；
+   - Controlled Prototype Duel｜QUEUED；
+   - 最终由clean-room blind_reader比较真实开场，不靠理论拍板。
 
 ---
 
