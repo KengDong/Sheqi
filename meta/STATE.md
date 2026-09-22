@@ -1,7 +1,7 @@
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：** Bible V1.0 Frozen -> AC-Hybrid Authority Rewrite PASS -> Event-First Execution Validation ACTIVE
+**阶段：** Bible V1.0 Frozen -> AC-Hybrid Authority Rewrite PASS -> Event-First PASS -> Formal Ch1 V1 ACTIVE
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷AC-Hybrid权威化日期：**2026-09-22  
@@ -67,9 +67,8 @@ Authority Rewrite与Targeted PATCH均已通过总评审，D-0049已记录；当�
 > **AC-Hybrid｜职业底盘上的资产飞轮。**
 
 Opening：
-> **Event-First / Ch1真正执行舍味** 为优先实现方向；
-> A-T1仅保留Fallback；
-> Event-First仍需新版 Execution Validation 后再最终冻结。
+> **Event-First / Ch1真正执行舍味** 已通过结构层与执行层验证，并由D-0050正式冻结为Opening Baseline；
+> A-T1仅保留historical fallback。
 
 第一重点收藏：
 > **旧护角皮带（工作俗称：咬手带）**
@@ -101,14 +100,15 @@ Mystery导航：
 > 不得因为文件位于 `canon/` 目录就让v0.2旧时序覆盖当前第一卷Authority Rewrite。
 
 当前不得：
-- 把Event-First称为完整执行已验证；
+- 重开Event-First Timing；
 - 把Execution Validation样本当正式Ch1；
-- 跳过Execution Validation直接写Formal Ch1。
+- 写Ch2；
+- 在Formal Ch1总评审前升级manuscript。
 
 下一Gate：
-1. Event-First Execution Validation
-2. 总评审验证真实文字因果清晰度 / Human Prose
-3. 通过后才进入Formal Ch1 Draft
+1. Formal Ch1 Draft V1
+2. 总评审Formal Ch1 Gate
+3. 通过后进入独立Prose / Red Team / 必要时Fresh Blind Read
 
 # 中段研究已完成
 
@@ -648,15 +648,14 @@ Sample A/B/C V2：
 > **AC-Hybrid新版Story Engine / Phase / Ch1—10 / Ch1 Scene Spine已完成 author-delegated-editorial-approved。**
 
 当前执行窗口：
-> opening_writer / Opening Execution Writer
+> opening_writer / Formal Chapter Writer
 
 当前brief：
-> `research/briefs/2026-09-22_event_first_execution_validation_brief.md`
+> `research/briefs/2026-09-22_formal_ch001_v1_draft_brief.md`
 
 当前权威边界：
 - Canon继续KEEP；
 - AC-Hybrid Story Engine / Phase / Ch1—10主体不重开；
-- Event-First结构层PASS；
-- Event-First执行层尚未验证；
+- Event-First结构层PASS + 执行层PASS（D-0050）；
 - Execution Validation不是正式Ch1；
-- Formal Ch1仍禁止，直到本Gate通过。
+- Formal Ch1 V1已正式解锁并ACTIVE。
