@@ -1918,3 +1918,68 @@ Patch完成后：
 
 第一性原理：
 > **读者不会因为我们设计完整而喜欢；会因为舍不得人、等着事、不断吃到果子、又想知道远处答案而继续读。**
+
+
+## D-0063 Targeted Patch PASS -> Fresh Six-Chapter Clean-Room Blind
+**状态：总评审Diff通过，2026-09-23生效**
+
+依据：
+- D-0061 Writer Patch：DONE
+- Total Editor Quick Diff：
+  `reviews/2026-09-23_dual_six_chapter_targeted_patch_diff_gate.md`
+
+结论：
+> **PATCH PASS / FRESH BLIND UNLOCKED**
+
+### Verified
+C01：
+- T1-R本人离线规则恢复；
+- 16:00本人回归增强“卖掉人生”的题材触感；
+- 方栀提示器减弱；
+- Ch6解释/章尾收束。
+
+C12：
+- 第一次失败变成“信息拿到但综合判断错误”；
+- 不再靠主角突然失忆/降智；
+- Ch6因果统一；
+- 章尾AI总结移除。
+
+### Fresh Blind
+必须使用：
+> 一个此前从未参与Sheqi / C01 / C12的全新GPT窗口。
+
+唯一输入：
+- X2 V2匿名六章包；
+- Y2 V2匿名六章包；
+- Fresh Blind brief。
+
+正式brief：
+> `research/briefs/2026-09-23_finalist_six_chapter_fresh_blind_read_brief.md`
+
+CURRENT：
+> `handoffs/six_chapter_fresh_reader/CURRENT.md`
+
+### D-0062 Reader Desire Questions
+Fresh Reader必须额外回答：
+1. 最想再见哪个非主角；
+2. 现在具体等什么事；
+3. 除Concept外还在追主角什么；
+4. 哪类回报最满足、哪里只在工作；
+5. 没有更大奇观是否仍愿意继续跟这些人生活。
+
+### After Blind
+默认不是继续Research。
+
+下一步：
+> **Total Editor synthesis**
+
+只根据真实读感决定：
+- PASS TO FIRST-30 DEVELOPMENT；
+- TARGETED PROSE / CHARACTER PATCH；
+- HOLD。
+
+不得因为Canopy漂亮忽略Blind。
+不得因为Blind一个小点就重开全项目研究。
+
+第一性原理：
+> **现在最值钱的证据是陌生读者读完六章以后手会不会去点第七章。**
