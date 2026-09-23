@@ -1,3 +1,39 @@
+# D-0078｜EARLY-20 HIT-FICTION EXPERIENCE REBUILD ACTIVE
+
+Total Editor closed D-0076 narrow Narrative Aperture task as:
+> **diagnosis accepted / narrow deliverables superseded by D-0077 before production.**
+
+Audit:
+`reviews/2026-09-23_narrative_aperture_total_editor_absorption_audit.md`
+
+New active brief:
+`research/briefs/2026-09-23_dual_early20_hit_fiction_experience_rebuild_brief.md`
+
+Active executor:
+`handoffs/narrative_aperture/CURRENT.md`
+
+Required rebuild outputs per book:
+- Early 20 Chapter Experience Map;
+- Five Growth Curves;
+- Character Story-Entrance Map;
+- Macro Promise Ladder;
+- Scene Mode Map + Rolling-3 Audit;
+- Signature Scene Bank.
+
+Current prose:
+> FROZEN.
+
+Hard:
+- no Ch21;
+- no local prose patch;
+- no Primary;
+- no Canon/Outline authority edit.
+
+Next:
+> narrative_aperture rebuild -> Total Editor Experience Gate -> only then prototype prose.
+
+---
+
 # D-0077｜HIT FICTION RESEARCH V2 COMPLETE
 
 Author required a research-first reset before any further prose.
