@@ -1,3 +1,35 @@
+# D-0076｜DUAL NARRATIVE APERTURE REFRAME ACTIVE
+
+Author First Read exposed a cross-book problem:
+- static dialogue / small-stage feel;
+- weak scene motion and background social texture;
+- low cognitive intake;
+- future macro promise not visible in prose.
+
+Formal review:
+`reviews/2026-09-23_dual_narrative_aperture_macro_promise_review.md`
+
+Current active task:
+> Dual Narrative Aperture Reframe
+
+CURRENT:
+`handoffs/narrative_aperture/CURRENT.md`
+
+Brief:
+`research/briefs/2026-09-23_dual_narrative_aperture_reframe_brief.md`
+
+C01:
+- Ch1—3 provisional assets only
+- Ch4—20 experiment/history
+
+C12:
+- Ch1—20 useful evidence/assets
+- no Ch21
+
+No prose until reframe returns and passes Total Editor.
+
+---
+
 # D-0075｜AUTHOR NOVELTY-BANDWIDTH OVERRIDE
 
 Author First Read produced a voluntary drop-off:
