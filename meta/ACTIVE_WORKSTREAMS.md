@@ -8,8 +8,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: D-0060 Controlled Six-Chapter Prose Duel Orchestration
-- gate: Book Writer V2 ACTIVE
+- current_task: D-0060 Internal Quality Kill Chain Orchestration
+- gate: Book Writer V2 DONE / QUALITY CHAIN NEXT
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
