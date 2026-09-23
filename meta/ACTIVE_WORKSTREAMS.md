@@ -566,15 +566,22 @@
 
 
 ## narrative_aperture
-- status: ACTIVE
-- role: narrative_aperture / Scene-Scale & Serial-Promise Architect
+- status: ACTIVE / D-0078
+- role: narrative_aperture / Hit-Fiction Experience Architect
 - current: `handoffs/narrative_aperture/CURRENT.md`
-- brief: `research/briefs/2026-09-23_dual_narrative_aperture_reframe_brief.md`
+- brief: `research/briefs/2026-09-23_dual_early20_hit_fiction_experience_rebuild_brief.md`
 - scope:
-  - C01 early reframe
-  - C12 early reframe
-  - scene ecology
-  - narrative aperture
-  - novelty bandwidth
-  - macro promise
-- deliver_to: editor_in_chief
+  - C01 Early-20 Experience Rebuild
+  - C12 Early-20 Experience Rebuild
+  - Five Growth Curves
+  - Character Story-Entrance Map
+  - Scene Ecology + Scene Mode
+  - Macro Promise Ladder
+  - Signature Scene Bank
+  - Voluntary Continuation design
+- deliver_to: editor_in_chief / Total-Editor Experience Gate
+- hard:
+  - no prose
+  - no Ch21
+  - no Primary
+  - no Canon/Outline authority edit
