@@ -2,80 +2,85 @@
 
 ## ROLE
 - role: book_writer_v2 / C12 Equalization Writer
-- status: ACTIVE
-- current_task: C12 Ch16—20 Equalization
-- date: 2026-09-23
+- status: DONE / PAUSED
+- completed_task: C12 Ch16—20 Equalization
+- completed_at: 2026-09-23 (Asia/Singapore)
 
 ## WHY
-Returning Reader result:
-- C01/X4: STRONG PASS continues, high-level stable.
-- C12/Y4: upgraded from PASS (strong) to STRONG PASS.
-- C12 course/case feeling dropped substantially.
-- Reader clearly wants C12 Ch16—20.
+Returning Reader：
+- C01/X4 = STRONG PASS continues
+- C12/Y4 = upgraded to STRONG PASS
 
-C01 is frozen at Ch20.
+D-0071 therefore only equalized C12 to Ch20.
 
-## TASK
-Write only:
-> C12《替有钱人渡劫》Ch16—20
+C01 remains frozen at Ch20.
 
-Do not write C01.
-Do not write either Ch21.
+## LAST COMPLETED TASK
 
-## CORE DIRECTION
-Zhou Ye is no longer only the worker helping other people through Foundation Establishment.
-He is now the paying client for his own upcoming breakthrough.
+### C12 Ch16—20
+Completed:
+- 周野从“给别人做分劫”的人变成自己筑基的付费客户；
+- 标准4人分流 vs 加强6人分流真实进入自己的选择；
+- 没有写成“用劫工=坏 / 不用=好”；
+- 周野选择标准4人分流；
+- 主动放弃一晚约1800元中高暴露收入保护10/18日期；
+- 外圈名单第一次以4个具体名字进入客户视角；
+- 最终复评显示异常低位但未消失，仍可继续；
+- 尾款支付；
+- 临场追加分流改为本人二次确认；
+- 10/18 08:30本人已进入阵心；
+- 最后一问：
+  > “启动吗？”
+  > “启动。”
 
-The next five chapters should naturally confront:
-> when the risk is finally his own, how much transferable burden is he willing to let outside workers carry?
+没有写第一道雷。
+没有写Ch21。
 
-This is a character/life conflict, not a professional lesson.
+## OUTPUTS
+- `experiments/c12_equalization/2026-09-23_c12_ch016_020_v1.md`
+- `experiments/c12_equalization/2026-09-23_c12_ch001_020_package.md`
+- `reviews/2026-09-23_c12_ch016_020_equalization_writer_selfcheck.md`
+- history:
+  `handoffs/book_writer_v2/history/2026-09-23_c12_ch016_020_equalization_done.md`
 
-Keep:
-- his money pressure real;
-- Zhao Hang / Lao Xue as friends, not teachers;
-- breakfast-shop consequences as background life;
-- anomaly line uncertain and low-volume;
-- 10/18 08:30 as the concrete countdown;
-- Life-First style from Ch11—15.
+## QA
+- C12 Ch1—20 package = 20 chapters
+- no Ch21
+- standard split = 4 outside workers throughout Ch16/18/19/20
+- date remains 10/18 08:30
+- Zhao Hang remains recovery contact
+- Lao Xue does not become a high-risk worker in this job
+- Zhou Ye still has no independent sign-off authority
+- anomaly remains uncertain / unconfirmed
 
-Do not simplify it into:
-- using workers = bad;
-- refusing workers = good.
-
-Zhou Ye used to earn money doing exactly this work.
-The conflict must stay materially and morally mixed.
-
-## Ch20
-Do not force the actual breakthrough only because it is Chapter 20.
-
-By Ch20, however, his Foundation Establishment must have moved from:
-> scheduled date
-
-to:
-> concrete, costly, hard-to-reverse preparation and risk choice.
-
-If the actual breakthrough is natural, it may happen.
-If not, stop before it.
-
-## OUTPUT
-- C12 Ch16—20 prose
-- C12 Ch1—20 continuous package
-- Writer selfcheck
-- CURRENT + history
+## OPEN RISKS
+Only for Total Editor hard-error / continuity check:
+1. Ch16是否略像套餐比较；
+2. Ch18外圈名单是否有设计痕迹；
+3. 赵航是否有少量过准台词；
+4. Ch19再次出现加强分流是否略重复；
+5. Ch20停在“启动”是否自然。
 
 ## HARD STOP｜AUTHOR GATE
-After Ch20:
-- no C12 Ch21
-- no C01 Ch21
-- no Reader Test
-- no Benchmark
-- no Primary selection
-- no new Research
-- no Canon/Outline edits
+Writer stops now.
 
-Next:
-> editor_in_chief performs only hard-error / continuity check.
+Do not:
+- write C01 Ch21
+- write C12 Ch21
+- start Reader Test
+- start Benchmark
+- select Primary
+- start new Research
+- edit Canon / Outline
 
-Then:
-> AUTHOR FIRST READ of both complete Ch1—20 packages.
+## NEXT EXPECTED ACTION
+> **editor_in_chief / hard-error + continuity check only**
+
+If PASS:
+> **AUTHOR FIRST READ**
+
+Author packages:
+- C01:
+  `experiments/asymmetric_prose_validation/2026-09-23_c01_ch001_020_package.md`
+- C12:
+  `experiments/c12_equalization/2026-09-23_c12_ch001_020_package.md`
