@@ -51,3 +51,28 @@ D-0057生效：
 - 不细排700章；
 - 不把Arc Bank直接变Outline；
 - 不宣布胜C12。
+
+
+## D-0058 LONG-HORIZON ADDITION
+作者新增要求：
+> 两本都必须评估终极秘密 / 终局目标 / 长线未知量，不能只做纵横线和枝叶。
+
+正式框架：
+- `meta/LONG_HORIZON_ENGINE.md`
+
+当前C01 Canopy brief已更新，必须新增：
+- Ultimate Horizon Card；
+- Secret / Question Ladder；
+- Recontextualization Seeds；
+- Terminal Choice；
+- Mystery-to-Life Coupling Audit。
+
+重点压力测试：
+> **今天的我，有没有权把十年后的我卖掉？**
+
+并比较：
+- 真正终极秘密方案；
+- 结构性终局问题方案；
+- 无秘密纯成长方案。
+
+不得默认采用“意识去了另一个世界”。
