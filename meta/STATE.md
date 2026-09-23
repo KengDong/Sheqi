@@ -1,3 +1,28 @@
+# D-0075｜AUTHOR NOVELTY-BANDWIDTH OVERRIDE
+
+Author First Read produced a voluntary drop-off:
+- C01 Ch7开始明显不想继续；
+- Ch8—9已不想读；
+- 两本均出现“视角窄 / 新东西不足 / 认知冲击不足”问题；
+- C01更严重。
+
+Formal review:
+`reviews/2026-09-23_dual_author_novelty_bandwidth_review.md`
+
+Current authority:
+- C01 Ch1—3: provisional keep
+- C01 Ch4—20: experiment/history, no longer forward-authority prose
+- C12 Ch1—20: frozen; no Ch21 before novelty-bandwidth audit
+
+Method correction:
+- future shelf tests allow voluntary stop;
+- no forced package completion;
+- dialogue judged by function, not raw percentage.
+
+No forward prose until next targeted redesign is approved.
+
+---
+
 # D-0074｜C01 NAME LOCKED / AUTHOR FIRST READ ACTIVE
 
 Author approved:
