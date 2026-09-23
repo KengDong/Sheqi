@@ -153,6 +153,33 @@ Small / Medium / Major Fruit。
 
 只能学功能，不学具体事件。
 
+### M. Long-Horizon Engine
+必须读取：
+- `meta/LONG_HORIZON_ENGINE.md`
+
+至少比较3种终局方案，其中必须包括：
+1. **替出去的劫到底去了哪里 / 系统性劫债**；
+2. 天劫来源更深层真相；
+3. 不靠终极秘密、只靠职业+修炼+规则权终局。
+
+最终必须明确：
+- 是否采用Ultimate Mystery；
+- Secret Ladder；
+- 至少10个Recontextualization Seeds；
+- 周野个人绑定；
+- Terminal Choice；
+- 如何把秘密线和职业/钱/修炼/关系每阶段耦合。
+
+重点压力测试：
+> **现代分劫没有消灭风险，只是把它分散、延迟、转嫁到更大的系统。**
+
+禁止：
+- 唯一幕后黑手；
+- 天道AI；
+- 周野特殊血脉；
+- 富人集团制造所有劫；
+- “打倒反派后一切恢复正常”。
+
 ## OUTPUT
 1. `research/design/2026-09-23_c12_longform_canopy_architecture.md`
 2. `reviews/2026-09-23_c12_longform_canopy_selfcheck.md`
