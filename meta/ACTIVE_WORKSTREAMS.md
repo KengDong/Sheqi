@@ -8,8 +8,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: D-0061 Total Editor Quick Diff Gate
-- gate: Writer V2 PATCH DONE / DIFF GATE NEXT
+- current_task: D-0063 Fresh Six-Chapter Blind Orchestration
+- gate: PATCH PASS / FRESH READER ACTIVE
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -121,7 +121,7 @@
 
 ## book_writer_v2
 - status: DONE / PAUSED
-- execution_window: Targeted Prose Patch已完成
+- execution_window: Targeted Prose Patch已完成并经Total Editor Diff PASS
 - current: `handoffs/book_writer_v2/CURRENT.md`
 - completed_task: Dual Six-Chapter Targeted Prose Patch
 - brief: `research/briefs/2026-09-23_dual_six_chapter_targeted_prose_patch_brief.md`
@@ -354,3 +354,29 @@
 - writer_status: DONE / PAUSED
 - next:
   > Total Editor Quick Diff Gate -> if PASS Fresh Six-Chapter Blind
+
+
+## six_chapter_fresh_reader
+- status: ACTIVE
+- role: six_chapter_fresh_reader / Fresh Shelf Reader
+- execution_window: **必须新开从未参与Sheqi项目的全新GPT窗口**
+- current: `handoffs/six_chapter_fresh_reader/CURRENT.md`
+- brief: `research/briefs/2026-09-23_finalist_six_chapter_fresh_blind_read_brief.md`
+- hard_input:
+  - `experiments/finalist_six_chapter_packages/2026-09-23_finalist_X2_ch001_006_v2.md`
+  - `experiments/finalist_six_chapter_packages/2026-09-23_finalist_Y2_ch001_006_v2.md`
+- mapping: hidden from reader
+- deliver_to: editor_in_chief
+- next: Total Editor synthesis
+
+
+## D-0063 Fresh Six-Chapter Blind｜ACTIVE
+- diff_gate:
+  `reviews/2026-09-23_dual_six_chapter_targeted_patch_diff_gate.md`
+- verdict: PATCH PASS
+- fresh_reader:
+  `handoffs/six_chapter_fresh_reader/CURRENT.md`
+- no new broad research
+- no Ch7
+- after_blind:
+  > Total Editor synthesis -> decide First-30 Development vs Targeted Patch vs Hold
