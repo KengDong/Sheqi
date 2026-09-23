@@ -9,7 +9,7 @@
 ## editor_in_chief
 - status: ACTIVE
 - current_task: Dual Finalist Bootstrap Orchestration
-- gate: C01 Novelty Bootstrap + C12 Scale Bootstrap
+- gate: C01 Novelty Bootstrap DONE + C12 Scale Bootstrap ACTIVE
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -40,12 +40,16 @@
 - deliver_to: editor_in_chief
 
 ## market_scout
-- status: ACTIVE
+- status: DONE / PAUSED
 - role: c01_analog_scout / Time-Commodity Benchmark & Novelty Architect
 - execution_window: 复用Market Scout窗口
-- current_task: C01 Time-Market Analog & Novelty Bootstrap
+- current_task: C01 Time-Market Analog & Novelty Bootstrap｜DONE
 - current: `handoffs/market_scout/CURRENT.md`
 - brief: `research/briefs/2026-09-23_c01_time_market_analog_novelty_bootstrap_brief.md`
+- output:
+  - `research/design/2026-09-23_c01_time_market_analog_novelty_bootstrap.md`
+  - `reviews/2026-09-23_c01_novelty_bootstrap_selfcheck.md`
+- verdict: PASS FOR TOTAL-EDITOR SYNTHESIS
 - deliver_to: editor_in_chief
 
 ## hit_concept_scout
@@ -117,7 +121,6 @@
 - execution_window: 必须新开全新GPT窗口
 - current: `handoffs/book_writer_v2/CURRENT.md`
 - blocked_by:
-  - C01 Novelty Bootstrap
   - C12 Scale Bootstrap
   - Total Editor synthesis
   - Author final direction
@@ -241,9 +244,12 @@
 ## D-0056 Dual Finalist Bootstrap｜ACTIVE
 - author_direction: **C01 / C12两部都推进**
 - C01:
-  - status: ACTIVE RESEARCH
+  - status: DONE / PASS TO SYNTHESIS
   - task: Time-Market Analog + Novelty + Technical Plausibility + Long-Run
   - owner: market_scout
+  - output:
+    - `research/design/2026-09-23_c01_time_market_analog_novelty_bootstrap.md`
+    - `reviews/2026-09-23_c01_novelty_bootstrap_selfcheck.md`
 - C12:
   - status: ACTIVE RESEARCH
   - task: Industrial Cultivation + 《没钱修什么仙》Scale Benchmark + Long-Run
