@@ -322,3 +322,43 @@ Reader必须全新clean-room。
 
 Next：
 > Fresh Ten-Chapter report -> Total Editor synthesis。
+
+
+## D-0066 DUAL-EVIDENCE GATE
+作者提醒：
+> 不能只做内部Fresh Blind，也必须持续对照真实热门小说，避免项目内部自嗨。
+
+因此当前Gate拆成两步：
+
+### Step 1｜ACTIVE NOW
+Fresh Ten-Chapter Blind
+> `handoffs/ten_chapter_fresh_reader/CURRENT.md`
+
+只测：
+> 陌生读者真实续读欲。
+
+### Step 2｜QUEUED IMMEDIATELY AFTER BLIND
+Head-Tier Benchmark Parity
+> `research/briefs/2026-09-23_ten_chapter_headtier_benchmark_parity_brief.md`
+
+只比：
+- 人物黏性；
+- 中距离期待；
+- 回报密度；
+- 复利；
+- Signature Engine；
+- Long-Horizon；
+- 普通生活耐看；
+- 阅读摩擦；
+- 第一阶段大果实。
+
+### Decision Rule
+Fresh Reader证据 + Benchmark证据必须同时合流，
+之后才决定：
+- Ch11—30；
+- Targeted Gap Patch；
+- Primary。
+
+不得：
+- 因Fresh喜欢就跳过Benchmark；
+- 因Benchmark看起来强就压过真实读者反应。
