@@ -1,10 +1,10 @@
 ---
-status: author-review
+status: active-approved
 version: 1.0
 created_at: 2026-09-23
 authority: naming-proposal
-canon_effect: pending-author-approval
-prose_effect: none-until-approved
+canon_effect: c01-protagonist-name-approved
+prose_effect: c01-protagonist-rename-applied
 ---
 
 # FINALIST NAMING BIBLE V1
@@ -685,3 +685,26 @@ Do not rewrite prose while renaming.
 Do not normalize dialogue.
 Do not alter plot.
 
+
+
+# 14. Author Approval Result｜2026-09-23
+
+Author approved:
+> **沈桥 -> 沈峥**
+
+This rename has been mechanically applied to:
+- current C01 Ch1—20 author package;
+- current C01 prose source files still used for continuation;
+- active C01 design assets.
+
+Historical blind packages, reviews and handoff history remain unchanged so the project can still reconstruct what each reader actually read at the time.
+
+Important:
+> This approval applies only to **沈峥**.
+
+Other proposals in this Naming Bible, including:
+- 赵立成;
+- 薛成海;
+- 许明峰;
+- C12 title challenger 《这道雷算谁的钱》;
+remain proposals until separately approved.
