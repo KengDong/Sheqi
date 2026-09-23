@@ -1,3 +1,40 @@
+# D-0079｜C01 EARLY-20 BLOCKER PATCH ACTIVE
+
+D-0078 Total Editor Experience Gate completed.
+
+Formal review:
+`reviews/2026-09-23_d0078_dual_early20_total_editor_experience_gate.md`
+
+Verdict:
+- D-0078: **PARTIAL PASS**
+- C12: **PASS TO SHORT PROTOTYPE**
+- C01: **TARGETED ARCHITECTURE REVISION REQUIRED**
+
+C01 design-level blockers:
+- Ch4—5 cannot remain two consecutive delivery/adaptation chapters;
+- Ch11—13 cannot remain a semantic small-business scaling sequence;
+- Ch20 cannot use a larger institutional customer as the main proof of a larger world;
+- recurring characters must demonstrate autonomous causality outside Shen Zheng's business.
+
+Active brief:
+`research/briefs/2026-09-23_c01_early20_total_editor_blocker_patch_brief.md`
+
+Active executor:
+`handoffs/narrative_aperture/CURRENT.md`
+
+C12 is frozen as prototype-ready architecture; no separate Writer start.
+
+After C01 quick-gate PASS:
+> short dual Ch4—10 prototypes -> Voluntary Stop Fresh Read.
+
+Hard:
+- no Ch21;
+- no sustained prose production;
+- no Primary;
+- no Canon / Approved Outline authority edit.
+
+---
+
 # D-0078｜EARLY-20 HIT-FICTION EXPERIENCE REBUILD ACTIVE
 
 Total Editor closed D-0076 narrow Narrative Aperture task as:
