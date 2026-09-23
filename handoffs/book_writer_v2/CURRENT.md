@@ -2,37 +2,30 @@
 
 ## ROLE
 - role: book_writer_v2 / Successor Fiction Writer
-- status: QUEUED / BLOCKED BY AUTHOR AUTHORITY
+- status: QUEUED / BLOCKED BY DUAL BOOTSTRAP
 - current_task: NONE YET
 
 ## BLOCKED BY
-> **Full Reboot Author Approval**
+1. C01 Time-Market Analog & Novelty Bootstrap
+2. C12 Industrial Cultivation Scale Bootstrap
+3. Total Editor dual-finalist synthesis
+4. Author final direction decision
 
-Proposal:
-- `reviews/2026-09-22_full_reboot_proposal_c01.md`
+## AUTHORITY
+D-0056：
+> **C01 / C12两部都推进研究，但都暂不写Ch4。**
 
-Total Editor recommendation:
-- `reviews/2026-09-22_final_book_direction_synthesis.md`
+C01 Full Reboot Proposal当前：
+> HOLD / AWAITING DUAL BOOTSTRAP
 
 ## EXECUTION WINDOW
 > 必须新开一个全新GPT窗口。
 
 原 opening_writer 已达到对话上限并永久退休。
 
-## IF AUTHOR APPROVES
-总评审将先启动：
-> **C01 Authority Bootstrap**
-
-不会直接续写Ch4。
-
-Writer V2后续只按新的CURRENT + brief接棒。
-
-## IF AUTHOR REJECTS / HOLDS
-保持QUEUED，不自行继续任何候选。
-
 ## DO NOT START
-- 不自行续写Ch4；
-- 不自行把C01当Canon；
-- 不修改旧Sheqi正文；
-- 不做Full Bible；
-- 等作者Authority Gate完成后再执行。
+- 不续写C01 Ch4；
+- 不续写C12 Ch4；
+- 不把任何Bootstrap候选直接当Canon；
+- 不做正式Book Bible；
+- 等总评审完成双Bootstrap合流后再接任务。
