@@ -1,6 +1,6 @@
 # AUTHOR FIRST READ｜CURRENT
 
-status: ACTIVE
+status: PAUSED FOR STRUCTURAL REWORK
 date: 2026-09-23
 
 ## Purpose
@@ -64,3 +64,21 @@ No prose or plot changes were bundled into the rename.
 Other naming proposals remain unapproved unless separately confirmed.
 
 AUTHOR FIRST READ is now resumed.
+
+
+## Author Read Override｜D-0075
+The author produced a valid voluntary stop signal:
+- C01 Ch7 began to lose pull;
+- Ch8—9 already felt not worth continuing;
+- both finalists currently feel cognitively narrow.
+
+Formal review:
+> `reviews/2026-09-23_dual_author_novelty_bandwidth_review.md`
+
+Do not force the author to finish the current C01 package.
+
+Current status:
+> **PAUSED FOR STRUCTURAL REWORK**
+
+No Ch21.
+No new reader test on the same prose.
