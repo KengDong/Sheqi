@@ -3,7 +3,7 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: Dual First-10 Story Engine
+- current_gate: D-0057 Longform Canopy Architecture
 
 ## LAST COMPLETED TASK
 - task: Event-First Execution Validation总评审
@@ -38,6 +38,22 @@
 - 下一次真正正文验证将以同一个新Writer控制文笔变量，并做六章级clean-room对读。
 
 ## AUTHOR FEEDBACK
+- 作者新增关键反馈：
+  > 当前纵线/横线仍像一根光秃秃的树，树还不够粗、枝叶不够茂盛。
+- 作者不接受：
+  > 写到中段才发现体量不足、爽点不足、比不上热门小说，再临时翻找内容填充。
+- 正式要求：
+  - 提前规划整本书的体量与阶段；
+  - 明确中小分支如何自然填充；
+  - 明确小爽点 / 小兑现的稳定来源；
+  - 构建固定人物网与长期关系线；
+  - 明确资源、资格、名声、钱、关系、旧债如何复利；
+  - Ch50 / 100 / 200 / 400 / 700分别知道读者在追什么。
+- 总评审处理：
+  > D-0057 Longform Canopy Before Manuscript 生效。
+- First-10降级为局部验证；
+  > 两本Canopy未通过前，Book Writer V2不得开始持续正文生产。
+
 - 作者于2026-09-23进一步决定：
   > **C01 / C12两部都推进。**
 - C12：
