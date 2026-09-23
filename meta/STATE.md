@@ -1,23 +1,36 @@
-# D-0071｜C12 Equalization to Ch20 ACTIVE
+# D-0071｜C12 Equalization to Ch20 WRITER DONE / AUTHOR GATE NEXT
 
 Returning Reader completed:
 - C01/X4: STRONG PASS continues
 - C12/Y4: upgraded to STRONG PASS
 
-Current:
-> Book Writer V2 writes only C12 Ch16—20.
+Writer completed:
+> C12 Ch16—20
 
-C01:
-> frozen at Ch20.
+Outputs:
+- `experiments/c12_equalization/2026-09-23_c12_ch016_020_v1.md`
+- `experiments/c12_equalization/2026-09-23_c12_ch001_020_package.md`
+- `reviews/2026-09-23_c12_ch016_020_equalization_writer_selfcheck.md`
 
-After C12 Ch20:
-> Total Editor hard-error / continuity check only,
-> then AUTHOR FIRST READ of both Ch1—20 packages.
+C01 remains frozen at Ch20:
+- `experiments/asymmetric_prose_validation/2026-09-23_c01_ch001_020_package.md`
 
-No Ch21 before author read.
-No new Reader Test.
-No new Benchmark.
-No Primary selection.
+C12 now also has full Ch1—20.
+
+NEXT:
+> **editor_in_chief hard-error / continuity check only**
+
+If PASS:
+> **AUTHOR FIRST READ of both complete Ch1—20 packages**
+
+HARD:
+- no C01 Ch21
+- no C12 Ch21
+- no Reader Test
+- no Benchmark
+- no Primary selection
+- no new Research
+- no Canon/Outline edits
 
 ---
 
