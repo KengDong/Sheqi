@@ -1,3 +1,39 @@
+# D-0070｜Returning Reader Continuation ACTIVE
+
+Asymmetric prose completed:
+- C01 Ch11—20
+- C12 Ch11—15
+
+Internal Quality Gate：
+> `reviews/2026-09-23_asymmetric_prose_internal_quality_gate.md`
+
+Verdict：
+- C01 PASS TO RETURNING READER
+- C12 PASS TO RETURNING READER
+- no patch
+
+Current：
+> 复用原十章Fresh Reader，做Continuation Trajectory Test。
+
+CURRENT：
+> `handoffs/ten_chapter_fresh_reader/CURRENT.md`
+
+Brief：
+> `research/briefs/2026-09-23_asymmetric_returning_reader_continuation_brief.md`
+
+Inputs：
+- X4 = X3 continuation / Ch11—20
+- Y4 = Y3 continuation / Ch11—15
+
+Hard：
+> 样本不等长，不做二选一。
+
+Next：
+> Reader report -> Total Editor。
+> 若C12修复成功，优先补C12 Ch16—20，再做等长20章Primary Gate。
+
+---
+
 # D-0069｜Asymmetric Prose Validation WRITER DONE / QUALITY GATE NEXT
 
 C01 / C12非对称正文验证已完成。
