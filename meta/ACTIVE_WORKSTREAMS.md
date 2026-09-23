@@ -8,8 +8,9 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: D-0076 Dual Narrative Aperture Reframe Orchestration
-- gate: AUTHOR DROP-OFF OVERRIDE / REFRAME ACTIVE
+- current_task: D-0079 C01 Early-20 Total-Editor Blocker Patch Oversight
+- gate: D-0078 PARTIAL PASS / C01 PATCH ACTIVE / C12 PROTOTYPE-READY FROZEN
+- review: `reviews/2026-09-23_d0078_dual_early20_total_editor_experience_gate.md`
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -566,22 +567,22 @@
 
 
 ## narrative_aperture
-- status: ACTIVE / D-0078
+- status: ACTIVE / D-0079 TARGETED PATCH
 - role: narrative_aperture / Hit-Fiction Experience Architect
 - current: `handoffs/narrative_aperture/CURRENT.md`
-- brief: `research/briefs/2026-09-23_dual_early20_hit_fiction_experience_rebuild_brief.md`
+- brief: `research/briefs/2026-09-23_c01_early20_total_editor_blocker_patch_brief.md`
+- input_review: `reviews/2026-09-23_d0078_dual_early20_total_editor_experience_gate.md`
 - scope:
-  - C01 Early-20 Experience Rebuild
-  - C12 Early-20 Experience Rebuild
-  - Five Growth Curves
-  - Character Story-Entrance Map
-  - Scene Ecology + Scene Mode
-  - Macro Promise Ladder
-  - Signature Scene Bank
-  - Voluntary Continuation design
-- deliver_to: editor_in_chief / Total-Editor Experience Gate
+  - C01 Ch4—6 alternative spines
+  - C01 Ch11—13 semantic-engine rebuild
+  - C01 Ch20 event-engine rebuild
+  - recurring-character autonomous causality proof
+  - Semantic Rolling-3 audit
+- C12: PASS TO SHORT PROTOTYPE / FROZEN UNTIL C01 QUICK GATE
+- deliver_to: editor_in_chief / D-0079 Quick Gate
 - hard:
   - no prose
   - no Ch21
   - no Primary
   - no Canon/Outline authority edit
+  - no new broad research
