@@ -2424,3 +2424,84 @@ Execution Guards：
 
 第一性原理：
 > **设计已经足够；现在要验证“罗晴是否活、老薛不上车是否真好看、C12是否真的不再像课程”。**
+
+
+## D-0070 Asymmetric Prose PASS -> Returning Reader Continuation Test
+**状态：总评审质量Gate通过，2026-09-23生效**
+
+依据：
+- C01 Ch11—20正文完成；
+- C12 Ch11—15正文完成；
+- Internal Quality Gate：
+  `reviews/2026-09-23_asymmetric_prose_internal_quality_gate.md`
+
+结论：
+> **C01 PASS TO RETURNING READER**
+>
+> **C12 PASS TO RETURNING READER**
+
+本轮不做Targeted Patch。
+
+### C01
+总编已确认：
+- 陈美兰三小时本人缺席继续强化C01独特性；
+- Ch13“漏掉一个真人承诺”比旧专业失败更新鲜；
+- 罗晴目前不是万能助理；
+- 顾经理复购已开始背景化；
+- Ch19—20 Medium Fruit成立；
+- 18:00赵先生边界场面保留，但不强行定义为本Arc最大名场面。
+
+Reader重点：
+- 罗晴是否已成为想再见的人；
+- 门店业务是否仍有项目管理味；
+- Ch11—20阅读欲是否继续上升；
+- Ch20是否真有“这十章值了”的满足。
+
+### C12
+总编已确认：
+- Ch11—15第一推动力已从职业命题切到人物人生；
+- 周野×老薛利益冲突成立；
+- Ch14“不上车”具备Signature Scene资格；
+- 周野自己的筑基已变成具体日期；
+- 赵航进入私人生活；
+- 秘密只推进半步，没有确诊同病。
+
+Reader重点：
+- 课程感是否真的消失；
+- 早餐铺/借钱数字是否仍显作者安排；
+- Ch13医院是否还有说明味；
+- 赵航是否开始变成想再见的人；
+- Y是否从十章时PASS偏强向STRONG PASS移动。
+
+### Test Design
+由于当前样本不等长：
+- C01续10章；
+- C12续5章；
+
+禁止直接二选一。
+
+必须复用：
+> 前一轮十章Fresh Reader
+
+做：
+> **Returning Reader Absolute Continuation Test**
+
+Brief：
+> `research/briefs/2026-09-23_asymmetric_returning_reader_continuation_brief.md`
+
+匿名续篇：
+- X4 = X3 continuation / Ch11—20
+- Y4 = Y3 continuation / Ch11—15
+
+### Next
+若C12修复成功：
+> 优先补C12 Ch16—20，再做等长20章Primary Gate。
+
+若C12课程感仍明显：
+> Targeted Repair，不急着补到20章。
+
+C01若Continuation保持STRONG：
+> 暂停在Ch20等C12追平，不继续抢跑。
+
+第一性原理：
+> **不拿不等长样本硬选赢家；先判断每本是否真的沿正确方向变得更好。**
