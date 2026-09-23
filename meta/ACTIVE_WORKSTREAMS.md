@@ -577,17 +577,31 @@
 ## first_principles_story_forge
 - status: ACTIVE / D-0080 PHASE 1
 - role: multi-lane concept forge
-- brief: `research/briefs/2026-09-23_first_principles_story_forge_phase1_brief.md`
+- master_brief: `research/briefs/2026-09-23_first_principles_story_forge_phase1_brief.md`
 - authority:
   - `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
   - `meta/EXPERIMENT_LANES_V1.md`
-- lanes:
-  - A Native Rebuild: C01/C12 free variants
-  - B Benchmark Function Clones
-  - C Wild Concepts
 - deliver_to: editor_in_chief / Desire Cut
 - hard:
   - no prose
   - no Ch1—20 outline
   - no Canon/Outline change
   - no Primary
+
+### Lane A｜Native Rebuild
+- status: READY / REQUIRES ISOLATED EXECUTION WINDOW
+- current: `handoffs/story_forge_native/CURRENT.md`
+- brief: `research/briefs/2026-09-23_story_forge_lane_a_native_brief.md`
+- output_target: `experiments/first_principles_forge/A_native/2026-09-23_native_rebuild_concepts.md`
+
+### Lane B｜Benchmark Function Clone
+- status: READY / REQUIRES ISOLATED EXECUTION WINDOW
+- current: `handoffs/story_forge_function_clone/CURRENT.md`
+- brief: `research/briefs/2026-09-23_story_forge_lane_b_function_clone_brief.md`
+- output_target: `experiments/first_principles_forge/B_function_clones/2026-09-23_function_clone_concepts.md`
+
+### Lane C｜Wild Concept Foundry
+- status: READY / HARD CLEAN-ROOM WINDOW REQUIRED
+- current: `handoffs/story_forge_wild/CURRENT.md`
+- brief: `research/briefs/2026-09-23_story_forge_lane_c_wild_brief.md`
+- output_target: `experiments/first_principles_forge/C_wild/2026-09-23_wild_concepts.md`
