@@ -392,3 +392,30 @@ Book Writer V2 paused until both targeted designs return and pass Total Editor.
 
 First principle:
 > give each book the next step that most directly increases real reader desire; do not force symmetric workflow.
+
+
+## D-0068 ANTI-CARGO-CULT
+正式标准：
+> `meta/BENCHMARK_CAUSALITY_STANDARD.md`
+
+总编修正：
+- 热门共同结构 = 主要用于发现Retention Floor缺口；
+- 不再假设“共同结构导致爆火”；
+- 每个Benchmark必须做Difference Audit；
+- 必须区分：
+  - Baseline / Hygiene
+  - Transferable Engine
+  - Breakout Differentiator
+  - Incidental / Contextual
+- 当前模型：
+  > **Hit Potential ≈ Retention Floor × Breakout Premium × Execution**
+- 任何“更像热门”但削弱本书独特体验的建议：
+  > REJECT。
+
+C01下一Arc重点保护：
+> 本人真实缺席 / 未来人格权利 / 时间价格与人生价值。
+
+C12 Life-First修正重点保护：
+> 工业渡劫荒诞 / 风险不会消失。
+
+两个active brief均已加入Anti-Benchmark检查。
