@@ -3,7 +3,7 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0070 Returning Reader Continuation
+- current_gate: D-0072 AUTHOR FIRST READ
 
 ## LAST COMPLETED TASK
 - task: Event-First Execution Validation总评审
@@ -483,3 +483,32 @@ Expected next：
 - 若C12明显修复 -> 补C12 Ch16—20 -> 等长20章Primary Gate；
 - 若C12仍有课程感 -> Targeted Repair；
 - 若C01保持STRONG -> 暂停在Ch20等C12追平。
+
+
+## D-0072 AUTHOR FIRST READ
+C12 Ch16—20 hard-error / continuity:
+> PASS
+
+Review:
+> `reviews/2026-09-23_c12_equalization_hard_error_continuity_gate.md`
+
+Both 20-chapter packages are frozen:
+- C01:
+  `experiments/asymmetric_prose_validation/2026-09-23_c01_ch001_020_package.md`
+- C12:
+  `experiments/c12_equalization/2026-09-23_c12_ch001_020_package.md`
+
+Author handoff:
+> `handoffs/author_first_read/CURRENT.md`
+
+Hard freeze until author response:
+- no Ch21
+- no new Reader
+- no Benchmark
+- no Primary
+- no Research
+- no Canon / Outline edit
+
+Next:
+> Author gives raw reading reaction first.
+> Only then Total Editor synthesizes all evidence.
