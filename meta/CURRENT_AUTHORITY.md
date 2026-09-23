@@ -30,24 +30,24 @@ Postmortem:
 
 # Active Phase
 
-> **FIRST-PRINCIPLES STORY FORGE｜Phase 1**
+> **FIRST-PRINCIPLES STORY FORGE｜Phase 2 / Story Reservoir Stress Test**
+
+Current review:
+- `reviews/2026-09-23_phase1_story_forge_desire_cut.md`
 
 Primary brief:
-- `research/briefs/2026-09-23_first_principles_story_forge_phase1_brief.md`
+- `research/briefs/2026-09-23_d0081_story_reservoir_stress_test_brief.md`
 
-# Active Execution Windows
+# Active Execution Window
 
-Phase 1 must run in three isolated windows:
+Phase 1 lanes are DONE.
 
-- Lane A Native Rebuild:
-  `handoffs/story_forge_native/CURRENT.md`
-- Lane B Benchmark Function Clone:
-  `handoffs/story_forge_function_clone/CURRENT.md`
-- Lane C Wild Concept Foundry:
-  `handoffs/story_forge_wild/CURRENT.md`
+Current isolated executor:
+- Story Reservoir Forge:
+  `handoffs/story_reservoir_forge/CURRENT.md`
 
-The editor_in_chief window is judge-only during concept generation.
-Do not merge or cross-read lanes before all three are DONE.
+The eight promoted concepts are frozen during stress test.
+No rescue / mutation before Reservoir Cut.
 
 # Evidence Rule
 
