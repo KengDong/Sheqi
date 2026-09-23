@@ -248,3 +248,27 @@
 - Formal Ch1 V1 ACTIVE。
 - Opening理论研究关闭。
 - Formal Ch1完成后回总评审。
+
+
+## D-0062 HEAD-TIER STANDARD
+作者要求：
+> 主动把两本向真实热门同梯度甚至更高推进，不能等作者继续手动补“好看点”。
+
+标准：
+> `meta/HEAD_TIER_READER_DESIRE_STANDARD.md`
+
+后续最优先补：
+1. 人物黏性；
+2. 中距离明确期待；
+3. 主角成长通过别人行为可视化；
+4. 多样小/中回报；
+5. Signature Scene；
+6. C12主角自己的修炼与私人生活；
+7. C01持续保住“真实人生缺席”而非普通劳务感。
+
+注意：
+> 这不是新Research Gate。
+当前仍按D-0061：
+Writer Patch -> Editor Diff -> Fresh Six-Chapter Blind。
+
+Fresh Blind必须追加五个Reader Desire问题。
