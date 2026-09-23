@@ -1,3 +1,32 @@
+# Dual First-10 Story Engine｜ACTIVE
+
+C01 / C12作品级Bootstrap均已DONE / PASS。
+
+总评审合流：
+> `reviews/2026-09-23_dual_finalist_bootstrap_synthesis.md`
+
+当前判断：
+- C01：正文完成度领先，140—170万为当前健康区间，220万+条件开放；
+- C12：大体量世界潜力显著追上，180—220万闭环可信，280万+条件开放；
+- 当前不选赢家。
+
+ACTIVE：
+1. C01 First-10 Story Engine；
+2. C12 First-10 Story Engine。
+
+目标：
+> 把世界/长篇研究转成真实前10章故事发动机。
+
+NEXT：
+> 两份First-10 Engine -> 总评审Audit -> 新Book Writer V2受控实写 -> 六章clean-room对读。
+
+HARD:
+- 两本现在都不写Ch4；
+- C12不直接沿旧Prototype续写；
+- Book Writer V2继续BLOCKED。
+
+---
+
 # D-0056｜Dual Finalist Bootstrap ACTIVE
 
 作者亲读C01 / C12后明确：
