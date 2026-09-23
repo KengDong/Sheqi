@@ -1,3 +1,49 @@
+# D-0080｜FIRST-PRINCIPLES STORY FORGE ACTIVE
+
+Highest authority:
+`meta/CURRENT_AUTHORITY.md`
+
+Process authority:
+- `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
+- `meta/READER_EVIDENCE_HIERARCHY.md`
+- `meta/EXPERIMENT_LANES_V1.md`
+
+Postmortem:
+`reviews/2026-09-23_fiction_rnd_process_postmortem.md`
+
+Current phase:
+> **FIRST-PRINCIPLES STORY FORGE / PHASE 1**
+
+Brief:
+`research/briefs/2026-09-23_first_principles_story_forge_phase1_brief.md`
+
+Current goal:
+> generate multiple genuinely different book-level candidates and perform a Desire Cut before any prose.
+
+Candidate lanes:
+- A: C01/C12 free rebuild variants;
+- B: benchmark-function clones;
+- C: wild concepts.
+
+D-0079:
+> **PAUSED / SUPERSEDED BY PROCESS RESET**
+
+Current prose:
+> FROZEN / historical experiment evidence.
+
+Hard:
+- no Ch21;
+- no full Early20 rewrite;
+- no checklist-driven repair loop;
+- no Primary;
+- no Canon / Approved Outline edit;
+- no Writer before Phase-1/2 selection.
+
+Next:
+> Phase-1 multi-lane concept generation -> editor_in_chief Desire Cut.
+
+---
+
 # D-0079｜C01 EARLY-20 BLOCKER PATCH ACTIVE
 
 D-0078 Total Editor Experience Gate completed.
