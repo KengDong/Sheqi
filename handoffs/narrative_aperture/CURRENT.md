@@ -13,10 +13,11 @@
 
 ## ROLE
 - role: narrative_aperture / Hit-Fiction Experience Architect
-- status: ACTIVE / D-0079 TARGETED PATCH
+- status: PAUSED / SUPERSEDED BY D-0080 PROCESS RESET
 - completed_gate: D-0078 Dual Early-20 Hit-Fiction Experience Rebuild
-- current_task: C01 Early-20 Total-Editor Blocker Patch
-- handoff_to: editor_in_chief / D-0079 Quick Gate
+- previous_task: C01 Early-20 Total-Editor Blocker Patch
+- current_task: NONE
+- handoff_to: NONE / wait for future targeted diagnostic request
 
 ## AUTHORITY
 
@@ -171,3 +172,16 @@ Do not touch C12 design except as frozen comparison control.
 
 After completion:
 > hand back to editor_in_chief / D-0079 Quick Gate.
+
+
+## D-0080 OVERRIDE
+
+D-0079 local patch execution is paused.
+
+Reason:
+> project-level process reset supersedes further checklist-driven targeted repair.
+
+Current authority:
+> `meta/CURRENT_AUTHORITY.md`
+
+Do not execute the old D-0079 brief unless editor_in_chief explicitly reactivates it after new behavioral evidence.
