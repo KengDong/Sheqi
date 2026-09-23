@@ -8,8 +8,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: D-0069 Asymmetric Prose Internal Quality Gate
-- gate: WRITER V2 DONE / QUALITY GATE NEXT
+- current_task: D-0071 C12 Equalization Hard-Error / Continuity Check
+- gate: C12 Ch20 DONE / AUTHOR GATE NEXT
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -121,18 +121,17 @@
 
 ## book_writer_v2
 - status: DONE / PAUSED
-- execution_window: Asymmetric Prose Validation已完成
+- execution_window: C12 Ch16—20 Equalization已完成
 - current: `handoffs/book_writer_v2/CURRENT.md`
-- completed_task: Asymmetric Prose Validation
-- brief: `research/briefs/2026-09-23_asymmetric_prose_validation_brief.md`
-- selfcheck: `reviews/2026-09-23_asymmetric_prose_writer_selfcheck.md`
+- completed_task: C12 Ch16—20 Equalization
+- selfcheck: `reviews/2026-09-23_c12_ch016_020_equalization_writer_selfcheck.md`
 - outputs:
-  - `experiments/asymmetric_prose_validation/2026-09-23_c01_ch011_020_v1.md`
+  - `experiments/c12_equalization/2026-09-23_c12_ch016_020_v1.md`
+  - `experiments/c12_equalization/2026-09-23_c12_ch001_020_package.md`
+- paired_author_package:
   - `experiments/asymmetric_prose_validation/2026-09-23_c01_ch001_020_package.md`
-  - `experiments/asymmetric_prose_validation/2026-09-23_c12_ch011_015_v1.md`
-  - `experiments/asymmetric_prose_validation/2026-09-23_c12_ch001_015_package.md`
-- deliver_to: editor_in_chief / Internal Quality Gate
-- hard_rule: no C01 Ch21 / no C12 Ch16 / no Primary / no reader test / no new research
+- deliver_to: editor_in_chief / hard-error + continuity check
+- hard_rule: no C01 Ch21 / no C12 Ch21 / no Reader / no Benchmark / no Primary / no Research
 - note: 原opening_writer已到对话上限，永久退休
 
 ## blind_reader
@@ -508,3 +507,23 @@
   > unequal continuation lengths; absolute trajectory only
 - next:
   > Reader report -> Total Editor -> likely C12 Ch16—20 equalization if repair succeeds
+
+
+## D-0071 C12 Equalization to Ch20｜WRITER DONE / AUTHOR GATE NEXT
+- returning_reader:
+  `reviews/2026-09-23_asymmetric_returning_reader_continuation.md`
+- result:
+  - C01/X4: STRONG PASS continues
+  - C12/Y4: upgraded to STRONG PASS
+- C01:
+  - frozen at Ch20
+  - package: `experiments/asymmetric_prose_validation/2026-09-23_c01_ch001_020_package.md`
+- C12:
+  - Ch16—20 DONE
+  - package: `experiments/c12_equalization/2026-09-23_c12_ch001_020_package.md`
+- writer_selfcheck:
+  `reviews/2026-09-23_c12_ch016_020_equalization_writer_selfcheck.md`
+- next:
+  > editor_in_chief hard-error / continuity check only -> AUTHOR FIRST READ
+- hard:
+  > no Ch21 / no Reader / no Benchmark / no Primary / no Research
