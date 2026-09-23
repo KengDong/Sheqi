@@ -9,7 +9,7 @@
 ## editor_in_chief
 - status: ACTIVE
 - current_task: Dual Longform Canopy Orchestration
-- gate: C01 Canopy ACTIVE + C12 Canopy ACTIVE
+- gate: C01 Canopy DONE + C12 Canopy ACTIVE
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -41,12 +41,16 @@
 - deliver_to: editor_in_chief
 
 ## market_scout
-- status: ACTIVE
+- status: DONE / PAUSED
 - role: c01_longform_architect / Book Canopy Architect
 - execution_window: 复用原 Market Scout / C01 Book Architect窗口
-- current_task: C01 Longform Canopy Architecture
+- current_task: C01 Longform Canopy Architecture｜DONE
 - current: `handoffs/market_scout/CURRENT.md`
 - brief: `research/briefs/2026-09-23_c01_longform_canopy_architecture_brief.md`
+- output:
+  - `research/design/2026-09-23_c01_longform_canopy_architecture.md`
+  - `reviews/2026-09-23_c01_longform_canopy_selfcheck.md`
+- verdict: PASS SELF-CHECK / READY FOR TOTAL-EDITOR CANOPY AUDIT
 - deliver_to: editor_in_chief
 
 ## hit_concept_scout
@@ -118,8 +122,6 @@
 - execution_window: 必须新开全新GPT窗口
 - current: `handoffs/book_writer_v2/CURRENT.md`
 - blocked_by:
-  - C01 Longform Canopy Architecture
-  - C12 First-10 Story Engine
   - C12 Longform Canopy Architecture
   - Total Editor canopy audit
   - Author final direction
@@ -281,7 +283,10 @@
   > 当前纵线/横线仍像光秃树干，必须在连续正文前证明枝叶和爽点供给足够厚。
 - C01:
   - First-10: DONE
-  - Canopy: ACTIVE
+  - Canopy: DONE / PASS SELF-CHECK
+  - output:
+    - `research/design/2026-09-23_c01_longform_canopy_architecture.md`
+    - `reviews/2026-09-23_c01_longform_canopy_selfcheck.md`
 - C12:
   - First-10: ACTIVE
   - Canopy: QUEUED AFTER FIRST-10
@@ -295,7 +300,7 @@
 - roadmap:
   `meta/FINALIST_CONVERGENCE_ROADMAP.md`
 - now:
-  - C01 Longform Canopy: ACTIVE
+  - C01 Longform Canopy: DONE / PASS SELF-CHECK
   - C12 Longform Canopy: ACTIVE
 - next:
   > Dual Canopy Total-Editor Shelf-Parity Audit
