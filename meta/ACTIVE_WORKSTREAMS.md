@@ -9,7 +9,7 @@
 ## editor_in_chief
 - status: ACTIVE
 - current_task: D-0067 Asymmetric Finalist Development Orchestration
-- gate: C01 ARC DESIGN ACTIVE + C12 LIFE-FIRST ARC ACTIVE
+- gate: C01 ARC DESIGN DONE + C12 LIFE-FIRST ARC ACTIVE
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -43,16 +43,16 @@
 - deliver_to: editor_in_chief
 
 ## market_scout
-- status: ACTIVE
+- status: DONE / PAUSED
 - role: c01_book_architect / Reader-Desire Arc Architect
 - execution_window: 复用原 Market Scout / C01 Book Architect窗口
-- current_task: C01 Ch11—30 Reader-Desire Arc Development
+- current_task: C01 Ch11—30 Reader-Desire Arc Development｜DONE
 - current: `handoffs/market_scout/CURRENT.md`
-- brief: `research/briefs/2026-09-23_c01_longform_canopy_architecture_brief.md`
+- brief: `research/briefs/2026-09-23_c01_ch011_030_reader_desire_arc_brief.md`
 - output:
-  - `research/design/2026-09-23_c01_longform_canopy_architecture.md`
-  - `reviews/2026-09-23_c01_longform_canopy_selfcheck.md`
-- verdict: PASS SELF-CHECK / READY FOR TOTAL-EDITOR CANOPY AUDIT
+  - `research/design/2026-09-23_c01_ch011_030_reader_desire_arcs.md`
+  - `reviews/2026-09-23_c01_ch011_030_arc_selfcheck.md`
+- verdict: PASS / READY FOR TOTAL-EDITOR ARC AUDIT
 - deliver_to: editor_in_chief
 
 ## hit_concept_scout
@@ -457,9 +457,12 @@
 - synthesis:
   `reviews/2026-09-23_dual_evidence_ten_chapter_total_editor_synthesis.md`
 - C01:
-  - status: ACTIVE
+  - status: DONE / PASS TO TOTAL-EDITOR ARC AUDIT
   - task: Ch11—30 Reader-Desire Arc Development
   - owner: market_scout / c01_book_architect
+  - output:
+    - `research/design/2026-09-23_c01_ch011_030_reader_desire_arcs.md`
+    - `reviews/2026-09-23_c01_ch011_030_arc_selfcheck.md`
 - C12:
   - status: ACTIVE
   - task: Ch11—15 Life-First De-Curricularization Arc
