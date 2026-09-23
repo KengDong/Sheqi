@@ -1350,3 +1350,99 @@ Formal Ch1必须从当前Approved Scene Spine重新写，不得把Execution Vali
 8. 双Bootstrap完成后，总评审重新回答：
    > **哪一本不仅前三章好看，而且拥有更强的100章 / 300章 / 百万字以上持续阅读欲？**
 
+
+## D-0057 Longform Canopy Before Manuscript｜正文继续前先证明“枝繁叶茂”
+**状态：作者明确要求，2026-09-23生效**
+
+作者指出：
+> 当前纵线 / 横线仍像一根光秃秃的树，树干不够粗、枝叶不够茂盛。
+>
+> 不接受写到中段才发现体量不够、爽点不足、比不上热门小说，再临时补设定和支线。
+
+因此正式新增：
+> **Longform Canopy Architecture Gate**
+
+正式框架：
+> `meta/LONGFORM_CANOPY_ARCHITECTURE.md`
+
+核心决策：
+
+1. **First-10 Story Engine不再视为进入连续正文前的最后结构Gate。**
+   - 它只验证“树苗能活”；
+   - 不能证明整本书有足够故事供给。
+
+2. Book Writer V2正式连续写作前，C01 / C12均必须完成：
+   - Book Spine；
+   - Major Branch Map；
+   - Minor Arc Bank；
+   - Story Reservoir；
+   - Recurring Cast Web；
+   - Asset / Relationship / Debt Ledgers；
+   - Leaf Payoff Matrix；
+   - Small / Medium / Major Fruit；
+   - Ch50/100/200/400/700 Horizon；
+   - Anti-Repetition Death List；
+   - Stage Big Payoff Map。
+
+3. “纵向升级 + 横向扩社会领域”只算骨架，不算完整长篇架构。
+   必须继续证明：
+   > 每5—20章有具体目标、局部胜负、关系变化、可见结算与永久残留。
+
+4. 小分支不是填充。
+   可进入正文的中小弧必须至少永久改变两项：
+   - 资产；
+   - 关系；
+   - 权限；
+   - 身体；
+   - 名声；
+   - 责任；
+   - 欲望；
+   - 世界认识。
+
+5. 建立Leaf Payoff层：
+   - 钱；
+   - 能力；
+   - 公开认可；
+   - 关系；
+   - 物/资源；
+   - 信息；
+   - 幽默；
+   - 选择权。
+   
+   连续3章不得只重复同一种回报。
+
+6. 建立周期性兑现：
+   - Small Fruit：约3—8章自然出现；
+   - Medium Fruit：约15—30章；
+   - Major Fruit：约60—120章。
+   
+   这是设计参考，不是机械KPI。
+
+7. 长篇高密度原则：
+   > **高耦合事件 > 多支线并排。**
+   
+   一件事最好同时改变钱、关系、地位、资源、风险、未来选择中的多项。
+
+8. 如果Ch50 / Ch100 / Ch200 / Ch400 / Ch700只能回答：
+   - 更大的金额；
+   - 更强的敌人；
+   - 更新的时间商品；
+   - 更大的雷；
+   - 更高境界；
+   
+   则长篇架构FAIL。
+
+9. C01目标：
+   > 证明140—170万健康体量里有足够厚的人物网、职业网、家庭网、权利变化和中小弧，不靠新时间商品续命。
+
+10. C12目标：
+   > 证明180—220万核心体量里有足够厚的职业、修炼、资格、工伤、保险、团队、学校、客户、私人生活与幽默枝叶，不靠更大劫续命。
+
+11. C01 First-10已完成后，立即进入Canopy Architecture。
+    C12先完成正在执行的First-10，再进入Canopy Architecture。
+
+12. 在两本Canopy均通过总评审前：
+    > **Book Writer V2不得开始持续正文生产。**
+
+第一性原理：
+> **提前证明“有很多值得写的好故事”，而不是提前把很多章节写死。**
