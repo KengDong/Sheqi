@@ -3,7 +3,7 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0059 Dual Canopy -> Prose Convergence
+- current_gate: D-0060 Controlled Six-Chapter Prose Duel
 
 ## LAST COMPLETED TASK
 - task: Event-First Execution Validation总评审
@@ -51,6 +51,32 @@
 - 不再自动新增大范围研究。
 - 只有明确证据缺口直接伤害“好不好看”时才允许Targeted Research。
 - Primary未决定前，不给两本同时建完整正式Bible / Canon。
+
+## D-0060 PROSE DUEL
+- C01 Longform Canopy：DONE / PASS SELF-CHECK。
+- C12 Longform Canopy：DONE / PASS SELF-CHECK。
+- Dual Canopy Total-Editor Shelf-Parity Audit：
+  `reviews/2026-09-23_dual_canopy_total_editor_shelf_parity_audit.md`
+- Verdict：
+  > **C01 PASS TO PROSE**
+  > **C12 PASS TO PROSE**
+- 当前不选赢家。
+- 正式启动：
+  > **Book Writer V2 / Controlled Dual-Finalist Fiction Writer**
+- Writer CURRENT：
+  `handoffs/book_writer_v2/CURRENT.md`
+- Brief：
+  `research/briefs/2026-09-23_dual_six_chapter_prose_duel_brief.md`
+- C01：
+  - Ch1—3 Provisional Base；
+  - 新写Ch4—6。
+- C12：
+  - 重写Ch1—3 V2；
+  - 新写Ch4—6。
+- Same Writer，严格Voice Separation。
+- 下一步：
+  > 内部质量消杀 -> Fresh Six-Chapter Blind -> 总评审合流。
+- Research默认关闭。
 
 ## AUTHOR FEEDBACK
 - 作者再次纠正上游遗漏：
