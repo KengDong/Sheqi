@@ -8,8 +8,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: D-0067 Asymmetric Finalist Development Orchestration
-- gate: C01 ARC DESIGN DONE + C12 LIFE-FIRST ARC ACTIVE
+- current_task: D-0069 Asymmetric Prose Validation Orchestration
+- gate: ARC DESIGNS PASS / WRITER V2 ACTIVE
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -31,10 +31,10 @@
 - hard_rule: no future tasks to this window
 
 ## benchmark_deepread
-- status: ACTIVE
+- status: DONE / PAUSED
 - role: c12_book_architect / Life-First Arc Architect
 - execution_window: 复用原 Benchmark Deep Read / C12 Book Architect窗口
-- current_task: C12 Ch11—15 Life-First De-Curricularization Arc
+- current_task: C12 Ch11—15 Life-First De-Curricularization Arc｜DONE
 - current: `handoffs/benchmark_deepread/CURRENT.md`
 - output:
   - `research/design/2026-09-23_c12_longform_canopy_architecture.md`
@@ -120,8 +120,8 @@
 - deliver_to: editor_in_chief
 
 ## book_writer_v2
-- status: DONE / PAUSED
-- execution_window: Ch7—10正文续写已完成并经Total Editor Internal Quality PASS
+- status: ACTIVE
+- execution_window: 复用Book Writer V2窗口
 - current: `handoffs/book_writer_v2/CURRENT.md`
 - completed_task: Dual Finalist Ch7—10 Prose Continuation
 - brief: `research/briefs/2026-09-23_dual_ch007_010_prose_continuation_brief.md`
@@ -472,3 +472,20 @@
   - reason: next-arc designs must pass Total Editor first
 - no_primary_yet:
   > C01 current front-runner; C12 retained because gap is targeted and repairable
+
+
+## D-0069 Asymmetric Prose Validation｜ACTIVE
+- total_editor_audit:
+  `reviews/2026-09-23_asymmetric_arc_total_editor_audit.md`
+- brief:
+  `research/briefs/2026-09-23_asymmetric_prose_validation_brief.md`
+- writer:
+  `handoffs/book_writer_v2/CURRENT.md`
+- C01:
+  - write Ch11—20 only
+- C12:
+  - write Ch11—15 only
+- next:
+  > Writer DONE -> Total Editor Internal Quality Gate
+- hard:
+  > no C01 Ch21 / no C12 Ch16 / no Primary / no Reader yet
