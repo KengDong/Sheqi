@@ -3,7 +3,35 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0081 Story Reservoir Stress Test
+- current_gate: D-0082 Character Collision Stress Test
+
+
+## D-0082 RESERVOIR CUT COMPLETE
+
+Formal review:
+> `reviews/2026-09-23_d0081_story_reservoir_total_editor_cut.md`
+
+Survivors:
+- R1 Future Holdings
+- R2 Second Autobiography
+- R3 Borrowed Tribulations
+- R5 This City I Have Routes
+- R7 Dead People Still Work
+- R8 Missing Day List
+
+Stopped:
+- R4 Borrow a Relationship
+- R6 Monday Prophecy
+
+Active executor:
+> `handoffs/character_collision_forge/CURRENT.md`
+
+Core test:
+> remove fresh Case supply and see whether 4—6 existing people can still generate 10—15 compelling events.
+
+No prose.
+No Primary.
+No Minimal Horizon yet.
 
 
 ## D-0081 DESIRE CUT COMPLETE
