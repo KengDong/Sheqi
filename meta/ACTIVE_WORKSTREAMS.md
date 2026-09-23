@@ -8,8 +8,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: D-0064 Ch7—10 Internal Quality Gate
-- gate: Writer V2 Ch7—10 DONE / QUALITY GATE NEXT
+- current_task: D-0065 Fresh Ten-Chapter Blind Orchestration
+- gate: INTERNAL QUALITY PASS / TEN-CHAPTER FRESH READER ACTIVE
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -121,7 +121,7 @@
 
 ## book_writer_v2
 - status: DONE / PAUSED
-- execution_window: Ch7—10正文续写已完成
+- execution_window: Ch7—10正文续写已完成并经Total Editor Internal Quality PASS
 - current: `handoffs/book_writer_v2/CURRENT.md`
 - completed_task: Dual Finalist Ch7—10 Prose Continuation
 - brief: `research/briefs/2026-09-23_dual_ch007_010_prose_continuation_brief.md`
@@ -402,3 +402,32 @@
   > Writer Ch7—10 -> Total Editor Internal Quality Gate
 - hard:
   > no Ch11 / no Primary yet / no broad research
+
+
+## ten_chapter_fresh_reader
+- status: ACTIVE
+- role: ten_chapter_fresh_reader / Fresh Longform Shelf Reader
+- execution_window: **必须全新GPT窗口，且此前从未读过Sheqi/C01/C12/X/Y系列**
+- current: `handoffs/ten_chapter_fresh_reader/CURRENT.md`
+- brief: `research/briefs/2026-09-23_finalist_ten_chapter_fresh_blind_read_brief.md`
+- inputs:
+  - `experiments/finalist_ten_chapter_packages/2026-09-23_finalist_X3_ch001_010.md`
+  - `experiments/finalist_ten_chapter_packages/2026-09-23_finalist_Y3_ch001_010.md`
+- mapping: hidden from reader
+- deliver_to: editor_in_chief
+
+
+## D-0065 Fresh Ten-Chapter Blind｜ACTIVE
+- quality_gate:
+  `reviews/2026-09-23_dual_ch007_010_internal_quality_gate.md`
+- verdict:
+  - C01 PASS
+  - C12 PASS
+- fresh_reader:
+  `handoffs/ten_chapter_fresh_reader/CURRENT.md`
+- core_test:
+  > Mature hot-shelf feel + Ch11 click + 20—50 chapter willingness
+- next:
+  > Fresh report -> Total Editor synthesis
+- hard:
+  > no Ch11 / no new research / no Writer polish before reader evidence
