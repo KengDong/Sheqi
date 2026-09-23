@@ -9,7 +9,7 @@
 ## editor_in_chief
 - status: ACTIVE
 - current_task: Dual Finalist Bootstrap Orchestration
-- gate: C01 Novelty Bootstrap DONE + C12 Scale Bootstrap ACTIVE
+- gate: C01 First-10 Engine ACTIVE + C12 First-10 Engine ACTIVE
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -32,24 +32,20 @@
 
 ## benchmark_deepread
 - status: ACTIVE
-- role: c12_scale_architect / Industrial Cultivation Long-Run Architect
-- execution_window: 复用旧“结构盲读 / Benchmark Deep Read”窗口
-- current_task: C12 Industrial Cultivation Scale Bootstrap
+- role: c12_book_architect / First-10 Industrial Cultivation Architect
+- execution_window: 复用旧 Benchmark Deep Read / C12 Scale Architect窗口
+- current_task: C12 First-10 Story Engine
 - current: `handoffs/benchmark_deepread/CURRENT.md`
-- brief: `research/briefs/2026-09-23_c12_industrial_cultivation_scale_bootstrap_brief.md`
+- brief: `research/briefs/2026-09-23_c12_first10_story_engine_brief.md`
 - deliver_to: editor_in_chief
 
 ## market_scout
-- status: DONE / PAUSED
-- role: c01_analog_scout / Time-Commodity Benchmark & Novelty Architect
-- execution_window: 复用Market Scout窗口
-- current_task: C01 Time-Market Analog & Novelty Bootstrap｜DONE
+- status: ACTIVE
+- role: c01_book_architect / First-10 Longform Architect
+- execution_window: 复用原 Market Scout / C01 Analog Scout窗口
+- current_task: C01 First-10 Story Engine
 - current: `handoffs/market_scout/CURRENT.md`
-- brief: `research/briefs/2026-09-23_c01_time_market_analog_novelty_bootstrap_brief.md`
-- output:
-  - `research/design/2026-09-23_c01_time_market_analog_novelty_bootstrap.md`
-  - `reviews/2026-09-23_c01_novelty_bootstrap_selfcheck.md`
-- verdict: PASS FOR TOTAL-EDITOR SYNTHESIS
+- brief: `research/briefs/2026-09-23_c01_first10_story_engine_brief.md`
 - deliver_to: editor_in_chief
 
 ## hit_concept_scout
@@ -258,3 +254,15 @@
 - Book Writer V2: BLOCKED
 - hard_rule:
   > 两个Bootstrap完成前都不写Ch4。
+
+
+## Dual First-10 Story Engine｜ACTIVE
+- bootstrap_synthesis:
+  `reviews/2026-09-23_dual_finalist_bootstrap_synthesis.md`
+- C01 Bootstrap: DONE / PASS
+- C12 Bootstrap: DONE / PASS
+- C01 First-10 Engine: ACTIVE
+- C12 First-10 Engine: ACTIVE
+- Book Writer V2: still BLOCKED
+- next_after_both_engines:
+  > Total Editor engine audit -> Book Writer V2 controlled 6-chapter validation
