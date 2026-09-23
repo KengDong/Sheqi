@@ -49,6 +49,29 @@ No Primary.
 No Ch21.
 
 
+## D-0080 PHASE-1 EXECUTION WINDOWS READY
+
+Three isolated execution windows are now prepared:
+
+1. Lane A Native Rebuild
+   > `handoffs/story_forge_native/CURRENT.md`
+2. Lane B Benchmark Function Clone
+   > `handoffs/story_forge_function_clone/CURRENT.md`
+3. Lane C Wild Concept Foundry
+   > `handoffs/story_forge_wild/CURRENT.md`
+
+Total Editor rule:
+> **do not generate their concepts in this window.**
+
+Reason:
+> keep creator lanes independent from the final Desire Cut judge.
+
+Gate condition:
+> all three lanes DONE -> editor_in_chief reads outputs together -> PULL / MAYBE / DROP.
+
+No lane gets early feedback or repair before comparison.
+
+
 ## D-0079 TOTAL-EDITOR EXPERIENCE GATE
 
 Formal review:
