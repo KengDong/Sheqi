@@ -2,43 +2,55 @@
 
 ## ROLE
 - role: hit_fiction_research / Popular-Serial Operating System Analyst
-- status: DONE V1 / TOTAL EDITOR REVIEW NEXT
+- status: DONE / V2 READY FOR TOTAL EDITOR
 - date: 2026-09-23
 
-## WHY
-Author feedback showed upstream evaluation was incomplete.
-Do not ask author to keep finding local issues manually.
+## AUTHOR DIRECTIVE
+Author explicitly requested:
+> Stop local patching; research comprehensively how a genuinely popular Fanqie long-form novel works so the author is not forced to keep discovering defects one-by-one.
 
-## OUTPUT
-- `research/reports/2026-09-23_fanqie_hit_fiction_operating_system_v1.md`
+## OUTPUTS
+- V1:
+  `research/reports/2026-09-23_fanqie_hit_fiction_operating_system_v1.md`
+- Formal V2:
+  `research/reports/2026-09-23_fanqie_hit_fiction_operating_system_v2.md`
 
-## CORE
-The research now covers:
-- Fanqie platform retention reality;
-- packaging;
-- opening;
-- novelty bandwidth;
-- narrative aperture;
-- scene ecology;
-- dialogue function;
-- desire;
-- compounding payoff;
-- character attachment;
-- conflict variety;
-- macro promise;
-- mystery;
-- mode rotation;
-- long-run retention;
-- voluntary-stop testing;
-- direct C01 / C12 reframe requirements.
+## V2 EVIDENCE
+- current Fanqie official Writer Center / Writer Courses
+- public Fanqie ranking mechanics
+- research on Fanqie algorithm / retention
+- 《没钱修什么仙？》 full-text research source
+- 《十日终焉》 official directory + author interviews
+- 《冰河末世，我囤积了百亿物资》 official directory
+- 《领主：我在苦痛世界，养成少女》 official directory
+- current fast-concept sample
+- current relationship/life-interface sample
 
-## STATUS
-No prose rewrite yet.
+## CORE FINDING
+There is no single Fanqie formula.
+
+At least three valid hit engines exist:
+1. World Expansion
+2. Mystery Recontextualization
+3. Fantasy / Asset Compounding
+
+The common failure is not “too few new settings”.
+It is:
+> **no expansion, no recontextualization, and no meaningful compounding.**
+
+Unified principle:
+> **眼前一直有事，身后一直有积累，旁边一直有人，远处一直有东西。**
+
+## PROJECT CONSEQUENCE
+Do NOT rewrite prose yet.
 
 Next:
-> editor_in_chief reviews the operating system and decides whether a deeper sample-by-sample chapter study is still needed before C01/C12 restructuring.
+> editor_in_chief uses V2 to redesign both books at book/early-arc level.
 
-Hard:
+The existing Narrative Aperture task must be expanded by V2; it is not enough to only fix scene width.
+
+## HARD STOP
 - no Ch21
 - no prose patch
-- no Primary selection
+- no Primary
+- no Canon/Outline freeze
