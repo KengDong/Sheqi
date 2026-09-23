@@ -47,3 +47,21 @@
 - 不写Ch4；
 - 不改Canon/Outline；
 - 不自行宣布胜C01。
+
+
+## NEXT GATE AFTER CURRENT
+D-0057已生效。
+
+当前First-10 Story Engine完成后：
+> **不得直接交Writer。**
+
+下一任务已预置：
+- `research/briefs/2026-09-23_c12_longform_canopy_architecture_brief.md`
+
+目标：
+> 证明180—220万核心体量有足够厚的职业、修炼、关系、资格、工伤、保险、团队、学校、客户、生活与幽默枝叶。
+
+完成当前First-10后：
+- 先交总评审；
+- 再由总评审激活Canopy CURRENT；
+- 不写正文。
