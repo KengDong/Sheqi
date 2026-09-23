@@ -431,3 +431,19 @@
   > Fresh report -> Total Editor synthesis
 - hard:
   > no Ch11 / no new research / no Writer polish before reader evidence
+
+
+## D-0066 Dual-Evidence Gate｜QUEUED
+- current_step:
+  > Fresh Ten-Chapter Blind
+- next_step:
+  > Head-Tier Benchmark Parity
+- benchmark_brief:
+  `research/briefs/2026-09-23_ten_chapter_headtier_benchmark_parity_brief.md`
+- activation_condition:
+  > ten_chapter_fresh_reader DONE
+- final_decision_requires:
+  - Fresh Reader evidence
+  - Head-Tier Benchmark evidence
+- hard_rule:
+  > neither internal taste nor benchmark alone can authorize Ch11—30 / Primary
