@@ -2702,3 +2702,57 @@ ACTIVE Role：
 
 第一性原理：
 > **读者必须感觉自己正在进入一个越来越大的世界，而不是同一张舞台不断换道具。**
+
+
+## D-0077 Research-First Reset｜先建立热门长篇OS，再重构两本
+**状态：作者明确要求，2026-09-23生效**
+
+作者反馈：
+> 不接受继续由作者一点点抓局部问题。
+> 在继续C01/C12正文前，应先系统研究“到底怎么写一部真正热门的番茄长篇”。
+
+Formal Research V2：
+> `research/reports/2026-09-23_fanqie_hit_fiction_operating_system_v2.md`
+
+Evidence：
+- 番茄2026官方作家课堂；
+- 番茄公开榜单与追更/留存机制资料；
+- 《没钱修什么仙？》全文研究源；
+- 《十日终焉》官方目录 + 作者访谈；
+- 《冰河末世，我囤积了百亿物资》；
+- 《领主：我在苦痛世界，养成少女》；
+- 快速高概念样本；
+- 关系/生活接口样本。
+
+Key correction：
+> 热门没有单一“快爽公式”。
+
+至少存在三类有效长篇发动机：
+1. World Expansion；
+2. Mystery Recontextualization；
+3. Fantasy / Asset Compounding。
+
+真正共同失败形态：
+> **既不扩张、不重解释、也不复利，只把同一类流程越讲越细。**
+
+Unified Standard：
+> **眼前一直有事，身后一直有积累，旁边一直有人，远处一直有东西。**
+
+Workflow：
+1. 当前正文继续冻结；
+2. Narrative Aperture不单独作为“场景修补任务”执行；
+3. 下一步由Total Editor基于Hit Fiction OS V2重新设计两本：
+   - Early 20 Chapter Experience Map；
+   - Five Growth Curves；
+   - Character Story-Entrance Map；
+   - Macro Promise Ladder；
+   - Scene Mode Map；
+   - Signature Scene Bank；
+4. 设计通过后才生产新Prototype；
+5. 新Prototype必须使用Voluntary Stop Shelf Test。
+
+Hard：
+- 不写Ch21；
+- 不局部润色旧正文代替结构重构；
+- 不选Primary；
+- 不让作者继续承担基础QA。
