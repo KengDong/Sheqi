@@ -183,3 +183,27 @@ Reserve只保留已验证资产，不同步做完整Bible。
 > 允许推翻设计。
 
 这就是后续所有任务的最高执行规则。
+
+
+# Phase E2｜Head-Tier Benchmark Parity
+
+在Fresh Ten-Chapter Blind完成后，必须立刻执行：
+
+> `research/briefs/2026-09-23_ten_chapter_headtier_benchmark_parity_brief.md`
+
+目的：
+> 不是问“我自己觉得好不好看”，而是问“放到真实头部热门旁边，持续追读发动机还差什么”。
+
+执行顺序不可逆：
+1. Fresh Reader先给无污染读欲证据；
+2. 再做Benchmark Parity；
+3. Total Editor合流两类证据；
+4. 才决定Ch11—30 / Primary / Targeted Gap Patch。
+
+Benchmark不用于：
+- 模仿具体情节；
+- 推翻真实Reader喜欢的东西；
+- 机械打分。
+
+Benchmark只用于：
+> 发现我们自己没意识到的追读短板。
