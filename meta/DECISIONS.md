@@ -2599,3 +2599,35 @@ Hard：
 
 Author First Read：
 > 暂停到主角名确认后再开始，避免“沈桥”持续污染作者读感。
+
+
+## D-0074 C01 Protagonist Naming LOCK｜沈桥 -> 沈峥
+**状态：作者批准，2026-09-23生效**
+
+Author approval:
+> **沈桥正式改名为沈峥。**
+
+Scope:
+- current C01 prose;
+- C01 Ch1—20 author package;
+- active C01 design assets.
+
+Method:
+> mechanical rename only.
+
+No plot, dialogue, pacing or prose edits were bundled into the rename.
+
+Audit rule:
+> historical blind packages / historical reviews / history snapshots keep the old name where it appeared at the time.
+
+Naming Bible:
+> `meta/FINALIST_NAMING_BIBLE_V1.md`
+
+Not approved by this decision:
+- 赵先生正式名候选；
+- 老薛 / 老许正式名候选；
+- C12 title challenger；
+- other deferred names.
+
+Author First Read:
+> **RESUME.**
