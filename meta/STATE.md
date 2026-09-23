@@ -1,3 +1,26 @@
+# D-0073｜NAMING APPROVAL GATE
+
+Before AUTHOR FIRST READ, resolve high-frequency naming friction.
+
+Naming Bible:
+> `meta/FINALIST_NAMING_BIBLE_V1.md`
+
+Recommended:
+- C01 title: keep 《明天已经卖掉》
+- C01 protagonist: 沈桥 -> 沈峥
+- C12 title: keep 《替有钱人渡劫》 for now
+- C12 title challenger: 《这道雷算谁的钱》
+- C12 protagonist: keep 周野
+
+Author First Read:
+> PAUSED pending naming approval.
+
+No prose continuation.
+No story rewrite.
+After approval, mechanical rename only.
+
+---
+
 # D-0072｜AUTHOR FIRST READ ACTIVE
 
 Both finalists now have complete 20-chapter prose samples.
