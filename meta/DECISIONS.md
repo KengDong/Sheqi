@@ -2279,3 +2279,69 @@ C01当前是明确Front-Runner。
 
 第一性原理：
 > **不是维持两本公平，而是给每本最能提高真实好看程度的下一步。**
+
+
+## D-0068 Anti-Cargo-Cult Benchmarking｜共同结构不等于爆火原因
+**状态：总编方法论修正，2026-09-23生效**
+
+作者指出：
+> 对标有了结构不代表爆火由这些共同结构导致；差异部分本身可能正是爆火原因。不能为了对标而对标。
+
+总编复盘结论：
+> **该提醒成立。现有Benchmark方向正确，但存在“共同出现 -> 因果迁移”的潜在幸存者偏差。**
+
+正式新增：
+> `meta/BENCHMARK_CAUSALITY_STANDARD.md`
+
+核心修正：
+
+1. **Commonality ≠ Causality**
+   - 人物黏性、回报、中距离目标、关系复利等更像Retention Floor；
+   - 它们缺失时容易掉档；
+   - 拥有它们不保证爆火。
+
+2. 热门特征必须分：
+   - Baseline / Retention Hygiene；
+   - Transferable Causal Engine；
+   - Breakout Differentiator；
+   - Incidental / Contextual。
+
+3. 每次迁移Benchmark特征必须做：
+   - Negative Control；
+   - Ablation；
+   - Reader-Level Mechanism；
+   - Compounding；
+   - Uniqueness；
+   - Form vs Function。
+
+4. 每个核心热门Benchmark必须新增：
+   > **Difference Audit**
+   不只问“共同点”，还问：
+   > “它和大量普通同类最不同的地方是什么？”
+   并判断该差异是否可能是Breakout Premium。
+
+5. 新默认模型：
+   > **Hit Potential ≈ Retention Floor × Breakout Premium × Execution**
+   Benchmark主要帮助Floor与可迁移Engine；
+   Breakout Premium必须由本书自己的独特体验证明。
+
+6. C01现有热门对标继续保留，但全部解释为：
+   > 功能校准，不是模仿目标。
+
+7. C01必须优先保护/放大：
+   - 本人真实缺席；
+   - 未来人格是否可被过去永久绑定；
+   - 时间价格 vs 人生价值；
+   - 从卖自己未来到组织别人未来的角色反转；
+   - 家庭关系直接变成未来所有权冲突。
+
+8. 任何“更像热门”的修改，如果削弱C01独特体验：
+   > **禁止。**
+
+9. Ch11—30 C01设计新增反对标问题：
+   > 这个Arc有什么是Benchmark作品不能轻易替换进来的？
+   > 若把时间换成普通劳务/商品，故事是否仍几乎成立？
+   > 是否存在只有C01能写的Signature Scene？
+
+第一性原理：
+> **热门Benchmark负责降低可避免的失败，不负责定义成功；真正的成功必须来自读者真实喜欢 + 本书不可替代的Breakout Premium。**
