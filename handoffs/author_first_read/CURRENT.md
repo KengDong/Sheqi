@@ -1,6 +1,6 @@
 # AUTHOR FIRST READ｜CURRENT
 
-status: PAUSED / NAMING APPROVAL
+status: ACTIVE
 date: 2026-09-23
 
 ## Purpose
@@ -54,19 +54,13 @@ Then editor_in_chief may synthesize:
 - Total Editor evidence
 
 
-## Naming Gate
-Author First Read is temporarily paused until the high-frequency naming issue is resolved.
+## Naming Gate｜RESOLVED
+Author approved:
+> **沈桥 -> 沈峥**
 
-Naming Bible:
-> `meta/FINALIST_NAMING_BIBLE_V1.md`
+The current C01 Ch1—20 author package has been mechanically renamed.
+No prose or plot changes were bundled into the rename.
 
-Current recommendation:
-- C01 protagonist: 沈桥 -> 沈峥
-- C01 title: keep 《明天已经卖掉》
-- C12 protagonist: keep 周野
-- C12 title: keep 《替有钱人渡劫》 for now; retain 《这道雷算谁的钱》 as pre-release A/B challenger
+Other naming proposals remain unapproved unless separately confirmed.
 
-Do not begin the formal author read with “沈桥” if the author already experiences persistent name friction.
-
-After author approves the naming set:
-> perform mechanical rename only, regenerate the C01 20-chapter author package, then resume AUTHOR FIRST READ.
+AUTHOR FIRST READ is now resumed.
