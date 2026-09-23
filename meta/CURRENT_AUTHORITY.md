@@ -35,6 +35,20 @@ Postmortem:
 Primary brief:
 - `research/briefs/2026-09-23_first_principles_story_forge_phase1_brief.md`
 
+# Active Execution Windows
+
+Phase 1 must run in three isolated windows:
+
+- Lane A Native Rebuild:
+  `handoffs/story_forge_native/CURRENT.md`
+- Lane B Benchmark Function Clone:
+  `handoffs/story_forge_function_clone/CURRENT.md`
+- Lane C Wild Concept Foundry:
+  `handoffs/story_forge_wild/CURRENT.md`
+
+The editor_in_chief window is judge-only during concept generation.
+Do not merge or cross-read lanes before all three are DONE.
+
 # Evidence Rule
 
 > Behavioral evidence > prose experience > unprompted desire > story reservoir > benchmark > architecture > selfcheck.
