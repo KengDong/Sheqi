@@ -1446,3 +1446,105 @@ Formal Ch1必须从当前Approved Scene Spine重新写，不得把Execution Vali
 
 第一性原理：
 > **提前证明“有很多值得写的好故事”，而不是提前把很多章节写死。**
+
+## D-0058 Long-Horizon Engine｜终极秘密不是必选，但终局牵引必须存在
+**状态：作者明确要求，2026-09-23生效**
+
+作者指出：
+> C01 / C12虽然已有纵线、横线、枝叶架构，但仍缺少类似“余世 / 十日终焉多层秘密”这种能牵引全书的终极方向。
+>
+> 同时要求：
+> 该问题本应由热门小说市场研究主动覆盖，不应每次等待作者补充“哪些点会好看”。
+
+正式修正：
+
+1. 正文持续生产前，每本书除Canopy外必须完成：
+   > **Long-Horizon Engine**
+
+2. Long-Horizon Engine不强制等于“世界终极秘密”。
+   可由以下组合承担：
+   - Ultimate Mystery；
+   - Ultimate Goal；
+   - Ultimate Structural Conflict；
+   - Ultimate Relationship / Identity Question。
+
+3. 每本至少具备：
+   > **1个明确终局远景 + 1个中长线未知量。**
+
+4. 若采用秘密线，必须建立：
+   > anomaly -> local fact -> wrong model -> mid secret -> recontextualization -> structural truth -> personal binding -> terminal choice
+
+5. 秘密节点不得只负责“还有更深一层”。
+   每次至少产生两项：
+   - 现实收益；
+   - 关系变化；
+   - 新选择；
+   - 新风险；
+   - 世界重解释；
+   - 新权限。
+
+6. C01当前推荐：
+   > **Ultimate Structural Conflict + Future-Self Identity Question**
+   
+   核心终局问题候选：
+   > **今天的我，有没有权把十年后的我卖掉？**
+   
+   不推荐复制“余世式意识另世界”。
+   C01主燃料仍应保持：
+   > 人生 / 生意 / 关系 / 市场位置。
+   
+   Long-Horizon用于把“时间产权”逐步推向：
+   > 未来人格是否拥有撤销 / 拒绝旧合同的权利。
+
+7. C12当前推荐：
+   > **Ultimate Mystery + Structural Conflict**
+   
+   核心终局问题候选：
+   > **替出去的劫，到底去了哪里？**
+   
+   结构性真相候选：
+   > 分劫并未消灭风险，而是将风险分散 / 延迟 / 转嫁到工人、器材、地点、时间和更大的社会系统中。
+   
+   周野的职业异常：
+   > 不是天命特殊，而可能只是系统性“劫债”最早被看见的症状。
+
+8. 两本均禁止用：
+   - 神秘组织包办一切；
+   - 唯一幕后Boss；
+   - 世界其实是假的；
+   - 主角唯一血脉；
+   作为默认终极秘密。
+   
+   优先：
+   > **结构性真相 > 单一阴谋。**
+
+9. Long-Horizon必须从第一章已有核心规则自然长出。
+   终局应让读者回看第一章时产生：
+   > “原来这个问题从一开始就在。”
+
+10. 总评审市场研究流程正式增加：
+    > **Long-Horizon Engine Scan**
+    
+    后续任何热门作品研究若只回答：
+    - 前30章Hook；
+    - 爽点；
+    - 资产复利；
+    - 社会接口；
+    
+    却未回答：
+    > “100万字后读者为什么仍想知道最后会怎样？”
+    
+    则视为研究不完整。
+
+11. 正式框架：
+    > `meta/LONG_HORIZON_ENGINE.md`
+
+12. C01 / C12 Canopy Architecture均必须新增：
+    - Ultimate Horizon Card；
+    - Secret / Question Ladder；
+    - Recontextualization Seeds；
+    - Terminal Choice；
+    - Mystery-to-Life Coupling Audit。
+
+第一性原理：
+> **终极秘密不是为了显得大，而是为了让整本小说更好看、更有远景、更值得一路追到底。**
