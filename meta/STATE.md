@@ -1,30 +1,50 @@
-# D-0069｜Asymmetric Prose Validation ACTIVE
+# D-0069｜Asymmetric Prose Validation WRITER DONE / QUALITY GATE NEXT
 
-C01 / C12下一阶段设计均已完成并通过Total Editor。
+C01 / C12非对称正文验证已完成。
 
 Audit：
 > `reviews/2026-09-23_asymmetric_arc_total_editor_audit.md`
 
-Verdict：
-- C01：PASS TO PROSE / WITH EXECUTION GUARDS
-- C12：PASS TO PROSE / WITH EXECUTION GUARDS
+Writer Selfcheck：
+> `reviews/2026-09-23_asymmetric_prose_writer_selfcheck.md`
 
-ACTIVE：
-> Book Writer V2 / Asymmetric Continuation Writer
+### C01
+- Ch11—20 DONE
+- 连续包：
+  `experiments/asymmetric_prose_validation/2026-09-23_c01_ch001_020_package.md`
+- 已完成：
+  - 顾经理稳定复购；
+  - 杜师傅白跑真失败；
+  - 罗晴按晚 -> 一月试合作；
+  - 方栀轮岗兑现；
+  - 陈美兰挂牌真实成交；
+  - Ch20稳定客户/协作人/固定生活支出覆盖；
+  - 一段时间不用再卖自己。
 
-Brief：
-> `research/briefs/2026-09-23_asymmetric_prose_validation_brief.md`
+### C12
+- Ch11—15 DONE
+- 连续包：
+  `experiments/asymmetric_prose_validation/2026-09-23_c12_ch001_015_package.md`
+- 已完成：
+  - 自己筑基真实预约；
+  - 老薛家庭现金压力；
+  - 老薛自己取消高风险班；
+  - Secret只推进半步；
+  - 周野有限借款；
+  - Ch1旧理赔阶段结算；
+  - 赵航进入恢复生活；
+  - 周野锁定10月18日08:30筑基。
 
-本轮：
-- C01写Ch11—20；
-- C12写Ch11—15。
+NEXT：
+> **editor_in_chief / Internal Quality Gate**
 
-不写更多。
-不选Primary。
-不重开Research。
-
-下一Gate：
-> Writer完成 -> Total Editor Internal Quality Gate。
+HARD：
+- 不写C01 Ch21；
+- 不写C12 Ch16；
+- 不提前写罗晴赎回周日；
+- 不选Primary；
+- 不启动Reader；
+- 不扩Research。
 
 ---
 
