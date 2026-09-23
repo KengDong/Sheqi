@@ -2953,3 +2953,60 @@ Brief：
 
 第一性原理：
 > **先证明“有很多真的想看的故事”，再证明“这些人会自己制造故事”，最后才证明“它能写很长”。**
+
+
+## D-0081 Phase-1 Desire Cut -> Story Reservoir Stress Test
+**状态：ACTIVE，2026-09-23**
+
+Phase-1 generation completed:
+- Lane A: 6
+- Lane B: 15
+- Lane C: 12
+- total: 33
+
+Total Editor Desire Cut:
+> `reviews/2026-09-23_phase1_story_forge_desire_cut.md`
+
+Promoted PULL:
+1. C01 Future Holdings
+2. C01 Second Autobiography
+3. C12 Borrowed Tribulations
+4. Borrow a Relationship
+5. This City I Have Routes
+6. Monday Prophecy
+7. Dead People Still Work
+8. Missing Day List
+
+Decision:
+> **8 candidates enter Story Reservoir Stress Test.**
+
+Phase 2 rule:
+> Concept frozen. No rescue during generation.
+
+Each candidate:
+> generate 30—50 Situation Seeds OR stop honestly at natural exhaustion.
+
+Exact exhaustion is evidence, not failure to complete a task.
+
+Key risk:
+> CASE-OF-WEEK DEPENDENCY
+
+Key positive:
+> COMPOUNDING LIFE
+
+Brief:
+> `research/briefs/2026-09-23_d0081_story_reservoir_stress_test_brief.md`
+
+Executor:
+> `handoffs/story_reservoir_forge/CURRENT.md`
+
+Hard:
+- no prose;
+- no chapter ordering;
+- no Character Collision yet;
+- no Concept mutation;
+- no Primary;
+- no Canon/Outline.
+
+Next:
+> Reservoir Forge DONE -> editor_in_chief Reservoir Cut.
