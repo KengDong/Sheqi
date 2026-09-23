@@ -31,6 +31,7 @@ outline_effect: none
 1. `reviews/2026-09-23_dual_evidence_ten_chapter_total_editor_synthesis.md`
 2. `reviews/2026-09-23_ten_chapter_headtier_benchmark_parity.md`
 3. `reviews/2026-09-23_finalist_ten_chapter_fresh_blind_read.md`
+4. `meta/BENCHMARK_CAUSALITY_STANDARD.md`
 4. C12 Ch1—10正文包
 5. `meta/HEAD_TIER_READER_DESIRE_STANDARD.md`
 6. C12 Canopy仅查必要段落
@@ -146,3 +147,18 @@ Ch15必须给一个明确果实：
 - 不重开Benchmark；
 - 不改前十章；
 - 不宣布C12输掉。
+
+
+## ANTI-BENCHMARK / BREAKOUT PREMIUM CHECK
+不要把“去课程化”误修成标准职业爽文。
+
+必须回答：
+1. 这个5章弧里有什么是只有“工业化渡劫”才能自然发生的？
+2. 若把渡劫替换成普通高危职业，这个Arc是否仍几乎成立？
+   - 若是：C12独特性不足。
+3. 有没有让“风险不会消失，只会换人承担”第一次真正改变熟人选择？
+4. 是否保留了神圣天劫被劳动/保险/工程处理后的荒诞感？
+5. 是否为了学《没钱修什么仙》的自然度，反而写成另一本现代修仙社会百科？
+
+硬原则：
+> **人生先行，不等于抹掉C12的怪；必须同时更自然、更不可替代。**
