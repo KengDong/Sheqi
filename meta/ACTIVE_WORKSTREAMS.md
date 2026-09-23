@@ -335,7 +335,7 @@
   > no new broad research; no Ch7; no Primary decision before independent prose proof
 
 
-## D-0061 Targeted Prose Patch｜ACTIVE
+## D-0061 Targeted Prose Patch｜WRITER PATCH DONE / DIFF GATE NEXT
 - reason:
   - C01 T1-R continuity hard fail
   - C12 Ch5 failure fairness hard fail
@@ -344,5 +344,11 @@
   `reviews/2026-09-23_dual_six_chapter_internal_quality_gate.md`
 - patch_brief:
   `research/briefs/2026-09-23_dual_six_chapter_targeted_prose_patch_brief.md`
+- patch_selfcheck:
+  `reviews/2026-09-23_dual_six_chapter_targeted_patch_selfcheck.md`
+- patched_packages:
+  - `experiments/finalist_six_chapter_packages/2026-09-23_finalist_X2_ch001_006_v2.md`
+  - `experiments/finalist_six_chapter_packages/2026-09-23_finalist_Y2_ch001_006_v2.md`
+- writer_status: DONE / PAUSED
 - next:
-  > Writer patch -> Total Editor Diff Gate -> Fresh Six-Chapter Blind
+  > Total Editor Quick Diff Gate -> if PASS Fresh Six-Chapter Blind
