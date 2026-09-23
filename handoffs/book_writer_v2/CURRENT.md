@@ -2,30 +2,49 @@
 
 ## ROLE
 - role: book_writer_v2 / Successor Fiction Writer
-- status: QUEUED / BLOCKED BY DUAL BOOTSTRAP
+- execution_window: 必须新开全新GPT窗口
+- status: QUEUED / BLOCKED BY DUAL CANOPY + TOTAL EDITOR AUDIT
 - current_task: NONE YET
 
-## BLOCKED BY
-1. C01 Time-Market Analog & Novelty Bootstrap
-2. C12 Industrial Cultivation Scale Bootstrap
-3. Total Editor dual-finalist synthesis
-4. Author final direction decision
+## CURRENT BLOCKERS
+1. C01 Longform Canopy Architecture
+2. C12 Longform Canopy Architecture
+3. Dual Canopy Total-Editor Shelf-Parity Audit
 
-## AUTHORITY
-D-0056：
-> **C01 / C12两部都推进研究，但都暂不写Ch4。**
+## CONVERGENCE ROADMAP
+> `meta/FINALIST_CONVERGENCE_ROADMAP.md`
 
-C01 Full Reboot Proposal当前：
-> HOLD / AWAITING DUAL BOOTSTRAP
+D-0059规定：
+> Canopy之后默认进入正文验证，不再无限研究。
 
-## EXECUTION WINDOW
-> 必须新开一个全新GPT窗口。
+## EXPECTED NEXT TASK IF BOTH PASS
+同一个Writer控制文笔变量：
 
-原 opening_writer 已达到对话上限并永久退休。
+### C01
+- Ch1—3保持Provisional Base；
+- 只做必要微修；
+- 写Ch4—6。
 
-## DO NOT START
-- 不续写C01 Ch4；
-- 不续写C12 Ch4；
-- 不把任何Bootstrap候选直接当Canon；
-- 不做正式Book Bible；
-- 等总评审完成双Bootstrap合流后再接任务。
+### C12
+- 按新版世界/术语/周野背景重写Ch1—3 V2；
+- 写Ch4—6。
+
+目标：
+> C01 Six-Chapter Package vs C12 Six-Chapter Package
+
+然后进入：
+- Human Prose / AI-Smell；
+- Shelf-Parity；
+- Independent Red Team；
+- Fresh Blind；
+- Total Editor synthesis。
+
+## HARD RULE
+- 当前不要启动；
+- 不提前写正文；
+- 不自行扩研究；
+- 不创建正式Book Bible；
+- Primary Book未决定前，不把两本都正式Canon化。
+
+## FIRST PRINCIPLE
+> **最终由正文读感决定，不由设计文档数量决定。**
