@@ -8,8 +8,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: Dual Finalist Bootstrap Orchestration
-- gate: C01 First-10 Engine ACTIVE + C12 First-10 Engine ACTIVE
+- current_task: Dual First-10 Story Engine Orchestration
+- gate: C01 First-10 Engine DONE + C12 First-10 Engine ACTIVE
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -40,12 +40,16 @@
 - deliver_to: editor_in_chief
 
 ## market_scout
-- status: ACTIVE
+- status: DONE / PAUSED
 - role: c01_book_architect / First-10 Longform Architect
 - execution_window: 复用原 Market Scout / C01 Analog Scout窗口
-- current_task: C01 First-10 Story Engine
+- current_task: C01 First-10 Story Engine｜DONE
 - current: `handoffs/market_scout/CURRENT.md`
 - brief: `research/briefs/2026-09-23_c01_first10_story_engine_brief.md`
+- output:
+  - `research/design/2026-09-23_c01_first10_story_engine.md`
+  - `reviews/2026-09-23_c01_first10_engine_selfcheck.md`
+- verdict: PASS FOR TOTAL-EDITOR REVIEW
 - deliver_to: editor_in_chief
 
 ## hit_concept_scout
@@ -113,12 +117,12 @@
 - deliver_to: editor_in_chief
 
 ## book_writer_v2
-- status: QUEUED / BLOCKED BY DUAL BOOTSTRAP
+- status: QUEUED / BLOCKED BY DUAL FIRST-10 ENGINE GATE
 - execution_window: 必须新开全新GPT窗口
 - current: `handoffs/book_writer_v2/CURRENT.md`
 - blocked_by:
-  - C12 Scale Bootstrap
-  - Total Editor synthesis
+  - C12 First-10 Story Engine
+  - Total Editor engine audit
   - Author final direction
 - proposal: `reviews/2026-09-22_full_reboot_proposal_c01.md` (HOLD)
 - note: 原opening_writer已到对话上限，永久退休
@@ -261,7 +265,10 @@
   `reviews/2026-09-23_dual_finalist_bootstrap_synthesis.md`
 - C01 Bootstrap: DONE / PASS
 - C12 Bootstrap: DONE / PASS
-- C01 First-10 Engine: ACTIVE
+- C01 First-10 Engine: DONE / PASS SELF-CHECK
+- C01 output:
+  - `research/design/2026-09-23_c01_first10_story_engine.md`
+  - `reviews/2026-09-23_c01_first10_engine_selfcheck.md`
 - C12 First-10 Engine: ACTIVE
 - Book Writer V2: still BLOCKED
 - next_after_both_engines:
