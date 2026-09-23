@@ -1,3 +1,25 @@
+# D-0059｜Convergence to Prose Proof ACTIVE
+
+唯一第一性原理：
+> **写出真正好看的小说。**
+
+当前：
+- C01 Longform Canopy：ACTIVE
+- C12 Longform Canopy：ACTIVE
+- Book Writer V2：BLOCKED
+
+正式路线：
+> 双Canopy -> 总编头部同架审查 -> 同Writer六章实写 -> AI内部质量消杀 -> Fresh Blind -> 总编合流 -> 作者Taste -> Primary正式化。
+
+政策变化：
+> Canopy之后默认“写、读、改”，不再自动继续研究。
+> 只有明确证据缺口直接伤害真实阅读体验时，才允许Targeted Research。
+
+roadmap:
+> `meta/FINALIST_CONVERGENCE_ROADMAP.md`
+
+---
+
 # D-0058｜Long-Horizon Engine ACTIVE
 
 作者指出：
