@@ -1,25 +1,34 @@
-# D-0061｜Targeted Prose Patch ACTIVE
+# D-0061｜Targeted Prose Patch DONE / DIFF GATE NEXT
 
-Writer V2六章已完成，但总评审未放行Fresh Blind。
+Writer V2定向补丁已完成。
 
 Internal Quality Gate：
 > `reviews/2026-09-23_dual_six_chapter_internal_quality_gate.md`
 
+Patch Selfcheck：
+> `reviews/2026-09-23_dual_six_chapter_targeted_patch_selfcheck.md`
+
+已修：
+- C01：14:00—16:00恢复T1-R本人离线；16:00本人回归；
+- C01：方栀提示器、Ch6解释与总结式章尾；
+- C12：Ch5从“漏问跨平台”改为“累计暴露综合判断错误”；
+- C12：Ch4/6总结式章尾。
+
+Patched packages：
+- `experiments/finalist_six_chapter_packages/2026-09-23_finalist_X2_ch001_006_v2.md`
+- `experiments/finalist_six_chapter_packages/2026-09-23_finalist_Y2_ch001_006_v2.md`
+
+NEXT：
+> **editor_in_chief / Total Editor Quick Diff Gate**
+
+若PASS：
+> Fresh Clean-Room Six-Chapter Blind Read。
+
 HARD：
-- C01：T1-R本人离线规则被Ch4—6写穿；
-- C12：Ch5失败因果让周野显得为剧情突然变笨。
-
-因此：
-> **TARGETED PATCH ONLY**
-
-ACTIVE：
-> Book Writer V2 / Targeted Prose Patch Writer
-
-brief：
-> `research/briefs/2026-09-23_dual_six_chapter_targeted_prose_patch_brief.md`
-
-Patch后：
-> Total Editor快速Diff Gate -> Fresh Clean-Room Six-Chapter Blind。
+- Writer不写Ch7；
+- Writer不选赢家；
+- Writer不自行启动Blind；
+- 不扩Research。
 
 ---
 
