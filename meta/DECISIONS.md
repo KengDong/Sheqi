@@ -2193,3 +2193,89 @@ Benchmark Parity负责：
 
 ### First Principle
 > **热门小说是现实校准，不是模仿对象；真实读欲是最终证据，两者必须同时存在。**
+
+
+## D-0067 Ten-Chapter Dual-Evidence Synthesis｜进入非对称下一阶段
+**状态：总评审完成，2026-09-23生效**
+
+依据：
+- Fresh Ten-Chapter Blind：
+  `reviews/2026-09-23_finalist_ten_chapter_fresh_blind_read.md`
+- Head-Tier Benchmark Parity：
+  `reviews/2026-09-23_ten_chapter_headtier_benchmark_parity.md`
+- Total Editor Synthesis：
+  `reviews/2026-09-23_dual_evidence_ten_chapter_total_editor_synthesis.md`
+
+Reveal：
+- X3 = C01《明天已经卖掉》
+- Y3 = C12《替有钱人渡劫》
+
+## C01
+Fresh：
+- STRONG PASS
+- 明确愿意追50章
+- 成熟热门新书感：有
+
+Benchmark：
+> **HEAD-TIER READY FOR NEXT ARC**
+
+Decision：
+> 进入Ch11—30 Reader-Desire Arc Development。
+
+重点：
+- 第一位长期共同做事的人；
+- 复购 / 固定客户 / 工作点；
+- “赎回未来”或同功能Long-Horizon第一次落地；
+- Signature Scene；
+- 压低流程/UI感。
+
+## C12
+Fresh：
+- PASS（偏强）
+- 会点Ch11
+- 20章愿意，50章有条件
+- 成熟热门新书感：接近但未完全到
+
+Benchmark：
+> **TARGETED GAP BEFORE Ch11—30**
+
+Decision：
+> 先做Ch11—15 Life-First De-Curricularization Arc。
+
+不改前十章。
+不重做世界观。
+
+只修：
+> 事件第一推动力。
+
+要求：
+- 先有人生/修炼欲望；
+- 专业能力后介入；
+- 周野自己的筑基进入真实准备；
+- 第一条中秘密改变熟人现实选择；
+- 五章保持同一人物/人生问题连续。
+
+## Development Mode
+项目从“对称双轨”切换为：
+> **Asymmetric Development**
+
+含义：
+- 两本都继续；
+- 但不再强迫同一步骤/同速度；
+- C01当前领先，直接做下一Arc；
+- C12先修叙事组织，再进入正文。
+
+## No Primary Yet
+C01当前是明确Front-Runner。
+但本轮仍不正式冻结Primary / Reserve。
+
+原因：
+> C12差距属于可修的叙事组织问题，不是Concept失败。
+
+下一次Primary Gate至少等：
+- C01 Ch11—20样本；
+- C12 Life-First Ch11—15样本；
+出现后再比较。
+
+第一性原理：
+> **不是维持两本公平，而是给每本最能提高真实好看程度的下一步。**
