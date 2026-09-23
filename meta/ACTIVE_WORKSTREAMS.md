@@ -8,8 +8,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: Dual First-10 Story Engine Orchestration
-- gate: C01 First-10 Engine DONE + C12 First-10 Engine ACTIVE
+- current_task: Longform Canopy Architecture Orchestration
+- gate: C01 Canopy ACTIVE + C12 First-10 ACTIVE -> C12 Canopy QUEUED
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -40,16 +40,12 @@
 - deliver_to: editor_in_chief
 
 ## market_scout
-- status: DONE / PAUSED
-- role: c01_book_architect / First-10 Longform Architect
-- execution_window: 复用原 Market Scout / C01 Analog Scout窗口
-- current_task: C01 First-10 Story Engine｜DONE
+- status: ACTIVE
+- role: c01_longform_architect / Book Canopy Architect
+- execution_window: 复用原 Market Scout / C01 Book Architect窗口
+- current_task: C01 Longform Canopy Architecture
 - current: `handoffs/market_scout/CURRENT.md`
-- brief: `research/briefs/2026-09-23_c01_first10_story_engine_brief.md`
-- output:
-  - `research/design/2026-09-23_c01_first10_story_engine.md`
-  - `reviews/2026-09-23_c01_first10_engine_selfcheck.md`
-- verdict: PASS FOR TOTAL-EDITOR REVIEW
+- brief: `research/briefs/2026-09-23_c01_longform_canopy_architecture_brief.md`
 - deliver_to: editor_in_chief
 
 ## hit_concept_scout
@@ -117,12 +113,14 @@
 - deliver_to: editor_in_chief
 
 ## book_writer_v2
-- status: QUEUED / BLOCKED BY DUAL FIRST-10 ENGINE GATE
+- status: QUEUED / BLOCKED BY LONGFORM CANOPY GATE
 - execution_window: 必须新开全新GPT窗口
 - current: `handoffs/book_writer_v2/CURRENT.md`
 - blocked_by:
+  - C01 Longform Canopy Architecture
   - C12 First-10 Story Engine
-  - Total Editor engine audit
+  - C12 Longform Canopy Architecture
+  - Total Editor canopy audit
   - Author final direction
 - proposal: `reviews/2026-09-22_full_reboot_proposal_c01.md` (HOLD)
 - note: 原opening_writer已到对话上限，永久退休
@@ -273,3 +271,20 @@
 - Book Writer V2: still BLOCKED
 - next_after_both_engines:
   > Total Editor engine audit -> Book Writer V2 controlled 6-chapter validation
+
+
+## D-0057 Longform Canopy Architecture｜ACTIVE
+- framework:
+  `meta/LONGFORM_CANOPY_ARCHITECTURE.md`
+- author_reason:
+  > 当前纵线/横线仍像光秃树干，必须在连续正文前证明枝叶和爽点供给足够厚。
+- C01:
+  - First-10: DONE
+  - Canopy: ACTIVE
+- C12:
+  - First-10: ACTIVE
+  - Canopy: QUEUED AFTER FIRST-10
+- Book Writer V2:
+  - BLOCKED
+- hard_gate:
+  > 两本Canopy通过总评审前，不进入持续正文生产。
