@@ -1983,3 +1983,90 @@ Fresh Reader必须额外回答：
 
 第一性原理：
 > **现在最值钱的证据是陌生读者读完六章以后手会不会去点第七章。**
+
+
+## D-0064 Six-Chapter STRONG PASS -> Dual Continuation to Ch10
+**状态：总评审合流，2026-09-23生效**
+
+依据：
+- Fresh Six-Chapter Blind：
+  `reviews/2026-09-23_finalist_six_chapter_fresh_blind_read.md`
+- Total Editor Synthesis：
+  `reviews/2026-09-23_six_chapter_fresh_blind_total_editor_synthesis.md`
+
+Reveal：
+- X2 = C01《明天已经卖掉》
+- Y2 = C12《替有钱人渡劫》
+
+Fresh Reader结果：
+> **C01 STRONG PASS**
+>
+> **C12 STRONG PASS**
+
+且：
+- 两本都会主动点Ch7；
+- 差距小；
+- C01六章点击力 / 商业推进略强；
+- C12非主角黏性 / 职业生活感略强；
+- 两本Concept-Fade均明确通过。
+
+因此按D-0059既定规则：
+> **两本继续短期双轨到Ch10，不提前选Primary。**
+
+### C01 Ch7—10
+保留原主链：
+- Ch7争议结算 + 受托撮合身份；
+- Ch8方栀职业边界；
+- Ch9陈美兰未来处分权；
+- Ch10第一次卖结果。
+
+但按Blind强化：
+- Ch7必须给明确结算；
+- Ch8让方栀更像独立的人，不是合规角色；
+- Ch9先写母亲人生，再写时间产权；
+- Ch10必须明显正向兑现，补回失败弧后的爽感。
+
+### C12 Ch7—10
+不机械执行：
+> 公司 -> 学校 -> 家庭 -> 报价
+四个独立接口章。
+
+必须重组为：
+> **一条连续人物/职业因果链。**
+
+Hard：
+- Ch7企业员工筑基福利；
+- Ch8学校回流但首次明确“周野自己什么时候筑基”；
+- Ch9优先延续Ch7人物生活，不再单独开世界案例；
+- Ch10第一次判断费 / 报价单里有他的判断。
+
+C12从本阶段起：
+> 不再证明“行业很完整”。
+要证明：
+> **这些人真的值得跟。**
+
+### Writer
+复用：
+> Book Writer V2
+
+正式brief：
+> `research/briefs/2026-09-23_dual_ch007_010_prose_continuation_brief.md`
+
+### Output
+- 两本Ch7—10；
+- X3/Y3十章匿名包；
+- Writer Selfcheck；
+- CURRENT/history。
+
+### Hard Stop
+- 不写Ch11；
+- 不选Primary；
+- 不重开Research；
+- 不改Canon / Outline；
+- 不建Book Bible。
+
+下一Gate：
+> Total Editor Internal Quality Gate -> Returning Reader / Ten-Chapter Shelf Test。
+
+第一性原理：
+> **既然两本都已真实STRONG PASS，就让正文继续竞争；不要用设计表提前淘汰。**
