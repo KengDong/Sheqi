@@ -1,3 +1,39 @@
+# D-0060｜Controlled Six-Chapter Prose Duel ACTIVE
+
+双Canopy均已完成并通过总评审：
+
+- C01：PASS TO PROSE
+- C12：PASS TO PROSE
+
+总评审：
+> `reviews/2026-09-23_dual_canopy_total_editor_shelf_parity_audit.md`
+
+当前默认动作：
+> **停止大范围研究，进入正文证明。**
+
+ACTIVE：
+> Book Writer V2 / Controlled Dual-Finalist Fiction Writer
+
+brief：
+> `research/briefs/2026-09-23_dual_six_chapter_prose_duel_brief.md`
+
+任务：
+- C01：保留Ch1—3，写Ch4—6；
+- C12：重写Ch1—3 V2，写Ch4—6；
+- 同Writer控制文笔变量；
+- 组装匿名X2/Y2六章包。
+
+下一Gate：
+> AI内部质量消杀 -> Fresh clean-room六章盲读 -> 总评审合流 -> 作者Taste -> Primary决定。
+
+HARD：
+- 不写Ch7；
+- 不改Canon/Outline；
+- 不建正式Bible；
+- 不再自动新增Research。
+
+---
+
 # D-0059｜Convergence to Prose Proof ACTIVE
 
 唯一第一性原理：
