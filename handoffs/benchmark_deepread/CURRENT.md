@@ -1,117 +1,48 @@
-# C12 Longform Architect｜CURRENT HANDOFF
+# C12 Book Architect｜CURRENT HANDOFF
 
 ## ROLE
-- role: c12_longform_architect / Industrial Cultivation Canopy Architect
+- role: c12_book_architect / Life-First Arc Architect
 - execution_window: 复用原 Benchmark Deep Read / C12 Book Architect窗口
-- status: PAUSED / AWAITING DUAL CANOPY TOTAL EDITOR
-- completed_task: C12 Longform Canopy Architecture
-- brief: `research/briefs/2026-09-23_c12_longform_canopy_architecture_brief.md`
+- status: ACTIVE
+- current_task: C12 Ch11—15 Life-First De-Curricularization Arc
+- brief: `research/briefs/2026-09-23_c12_ch011_015_life_first_arc_brief.md`
 
-## COMPLETED OUTPUTS
-### Canopy
-- `research/design/2026-09-23_c12_longform_canopy_architecture.md`
-- commit:
-  `5cf3a661e57d9f175d9739142e60a855e47488b2`
+## EVIDENCE
+Fresh Ten-Chapter：
+> C12 = PASS（偏强） / 会点Ch11 / 50章有条件愿意 / 成熟热门新书感接近但未完全到。
 
-### Selfcheck
-- `reviews/2026-09-23_c12_longform_canopy_selfcheck.md`
-- commit:
-  `593a8f202713f32f15f2c70b5499305e1a8917d3`
+Head-Tier Benchmark：
+> **TARGETED GAP BEFORE Ch11—30**
 
-### History
-- `handoffs/benchmark_deepread/history/2026-09-23_c12_longform_canopy_done.md`
-- commit:
-  `ab553e6b22b048e2fe8c23d6c71eacc50eaf3fa7`
+核心差距：
+> 读者仍能看见“这一章作者要讲什么职业安全命题”。
 
-## CORE VERDICT
-> C12 now has enough architecture-level evidence to support an 180—220万字 core without relying on bigger lightning / higher clients / endless new institutions.
+Total Editor：
+> `reviews/2026-09-23_dual_evidence_ten_chapter_total_editor_synthesis.md`
 
-This is not prose proof.
+## CURRENT OBJECTIVE
+只设计Ch11—15一条连续Life-First Arc。
 
-## LONGFORM ROOTS
-1. Choice:
-   > from selling bodily risk to deciding how risk is allocated.
-2. Responsibility:
-   > self -> coworker -> team -> company -> risk pool -> city -> industry rule.
+必须：
+- 人生/修炼欲望先发生；
+- 职业能力后介入；
+- 周野自己的筑基进入现实准备；
+- 老薛/老许或赵航进入真实生活选择；
+- 第一条中秘密改变熟人现实选择；
+- 同一组人物连续5章，不做案例合集。
 
-## BOOK SPINE
-1. Ch1—50：别人给我的身体标价
-2. Ch51—120：别人开始等我开条件
-3. Ch121—220：我带的人不能死
-4. Ch221—320：别人不给价，我自己开价
-5. Ch321—430：一场劫不再只是一场劫
-6. Ch431—540：风险池里没有“别人家的事故”
-7. Ch541—650：这套规则该谁说了算
-8. Ch651—终局：把账记回该承担的人身上
-
-## CANOPY COUNTS
-- Minor Arcs: 32
-- Story Reservoir: 60
-- Core recurring cast: 8
-- Secondary recurring cast: 10
-- Leaf payoff classes: 18
-- Humor sources: 34
-- Callbacks: 24
-- Anti-Repetition deaths: 22
-- Recontextualization seeds: 14
-
-## LONG-HORIZON RESEARCH DECISION
-Compared:
-1. systemic tribulation-debt / risk externalization;
-2. deeper heaven-earth balancing mechanism;
-3. no Ultimate Mystery, career + cultivation + rule-right only.
-
-Recommended at research-design level:
-> **limited Ultimate Mystery**
-> = A as structural mystery
-> + B as limited mechanism layer
-> + C as everyday narrative fuel.
-
-Not Canon.
-
-## SECRET LIMIT
-Do not literalize “劫债” as a hidden energy reservoir.
-
-Preferred structural reading:
-> a breakthrough imbalance must ultimately be borne / rebalanced by some person, material, place or time scale; industrial distribution changes the carrier and timing.
-
-## TERMINAL DIRECTION
-No single villain.
-
-Endgame asks:
-> if hidden long-term risk is honestly written back into price / reserves / self-retention, who pays and who loses access?
-
-Zhou Ye must apply the same rule to his own high-level breakthrough.
-
-## BIGGEST EXECUTION RISKS
-1. Stage4—6 turning into company / insurance case fiction.
-2. New recurring cast becoming social-interface avatars.
-3. Cultivation line thinning.
-4. Secret line overpowering daily life.
-5. Private / intimate-life line still not proven and must not be force-added before prose.
-
-## NEXT EXPECTED ACTION
-Per D-0059:
-> **Dual Canopy Total-Editor Shelf-Parity Audit**
-
-After that, allowed outputs are:
-- PASS TO PROSE;
-- TARGETED PATCH;
-- FAIL / HOLD.
-
-Do not default to more research.
-
-If PASS TO PROSE:
-> route both finalists to the same Book Writer V2 for six-chapter prose proof.
-
-## DO NOT CONTINUE
+## HARD
 - 不写正文；
-- 不细排700章；
-- 不改Canon；
-- 不改Outline；
-- 不把研究层Ultimate Mystery当Canon；
-- 不继续扩大市场研究；
-- 不自行宣布C12胜C01。
+- 不扩Ch16—30；
+- 不重开Benchmark；
+- 不改Ch1—10；
+- 不宣布C12输掉。
 
-## STOP
-> C12 Longform Canopy complete. Await Dual Canopy Total-Editor Shelf-Parity Audit.
+## OUTPUT
+- `research/design/2026-09-23_c12_ch011_015_life_first_arc.md`
+- `reviews/2026-09-23_c12_ch011_015_life_first_selfcheck.md`
+- CURRENT + history
+
+## NEXT
+完成后交：
+> editor_in_chief
