@@ -3,7 +3,7 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: C01 Full Reboot Author Approval
+- current_gate: D-0056 Dual Finalist Bootstrap
 
 ## LAST COMPLETED TASK
 - task: Event-First Execution Validation总评审
@@ -41,6 +41,22 @@
 - 在作者批准前不修改旧Sheqi Canon/Outline，不写C01正式Ch4，不做正式Book Bible。
 
 ## AUTHOR FEEDBACK
+- 作者于2026-09-23进一步决定：
+  > **C01 / C12两部都推进。**
+- C12：
+  - 认为有潜力做成类似《没钱修什么仙》那种大体量爆品；
+  - 要求更深入参考其“现代社会×修仙”融合、幽默、规模扩张与长跑；
+  - 好看程度若能跟上，作者认为有“下一部爆品”潜力。
+- C01：
+  - 认可前三章抓人，但认为要真正写好需要更深设计；
+  - 要求寻找类似/相邻热门作品做Benchmark；
+  - 特别指出：
+    > 如果倒卖时间没有技术含量，所有人都能做，主角优势就不成立。
+  - 还要求：
+    > 横向扩域带来人生资产变化仍然“不够”，还要持续出现更多真正新的东西。
+- 流程决定：
+  > C01 Full Reboot Proposal暂时HOLD；先完成两本作品级Bootstrap，再做最终方向选择。
+
 - C12《替有钱人渡劫》三章亲读：
   - 剧情总体可继续比较，但当前抓力弱于C01；
   - “副测申请 / 起劫境 / 个人劫期 / 量气机 / 初评”等第一次读不清楚；
@@ -117,23 +133,32 @@
 4. 是否需要Prose Editor定向修补后再进Blind Read。
 
 ## NEXT EXPECTED ACTION
-1. 作者审：
-   > `reviews/2026-09-22_full_reboot_proposal_c01.md`
-2. 作者只需给Authority结果：
-   - APPROVE
-   - REJECT
-   - HOLD
-3. 若APPROVE：
-   - 在 `meta/DECISIONS.md` 记录新Author Decision；
-   - 将旧Sheqi主研发状态改为ARCHIVED / SUPERSEDED AS MAIN DIRECTION；
-   - 启动C01 Authority Bootstrap；
-   - 更新 `handoffs/book_writer_v2/CURRENT.md`；
-   - 再新开Book Writer V2窗口。
-4. 若REJECT：
-   - 不改旧Authority；
-   - 重新决定C12 / C10 / Foundry路径。
-5. 若HOLD：
-   - 全部写作保持暂停，不继续消耗正文成本。
+1. 原 Market Scout窗口执行：
+   > `handoffs/market_scout/CURRENT.md`
+   > C01 Time-Market Analog & Novelty Bootstrap
+2. 原 Benchmark Deep Read窗口执行：
+   > `handoffs/benchmark_deepread/CURRENT.md`
+   > C12 Industrial Cultivation Scale Bootstrap
+3. 两个窗口完成：
+   - 正式报告；
+   - Selfcheck；
+   - CURRENT；
+   - history；
+   后停止。
+4. 总评审收到两份Bootstrap后重新合流：
+   - 长篇体量；
+   - 世界新鲜感；
+   - 主角纵向；
+   - 横向社会；
+   - 技术/规则硬度；
+   - 幽默/人物；
+   - 重复风险；
+   - 与头部热门实际阅读体验的距离。
+5. 双Bootstrap完成前：
+   - C01/C12都不写Ch4；
+   - Book Writer V2不启动；
+   - 不修改Canon/Outline；
+   - 不恢复C01 Full Reboot单向批准。
 
 ## REQUIRED READS
 1. `reviews/2026-09-22_event_first_execution_validation_final_review.md`
