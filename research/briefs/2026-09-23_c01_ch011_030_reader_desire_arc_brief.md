@@ -29,6 +29,7 @@ outline_effect: none
 1. `reviews/2026-09-23_dual_evidence_ten_chapter_total_editor_synthesis.md`
 2. `reviews/2026-09-23_ten_chapter_headtier_benchmark_parity.md`
 3. `reviews/2026-09-23_finalist_ten_chapter_fresh_blind_read.md`
+4. `meta/BENCHMARK_CAUSALITY_STANDARD.md`
 4. C01 Ch1—10正文包
 5. `meta/HEAD_TIER_READER_DESIRE_STANDARD.md`
 6. C01 Canopy仅查必要段落
@@ -106,3 +107,19 @@ Ch11—30禁止连续出现：
 - 不重开大Research；
 - 不改Canon；
 - 不宣布C01最终Primary。
+
+
+## ANTI-BENCHMARK / BREAKOUT PREMIUM CHECK
+本轮禁止为了“更像热门”而优化。
+
+每个Medium Arc必须额外回答：
+
+1. 这个Arc里有什么是Benchmark作品不能轻易替换进来的？
+2. 若把“时间交易”换成普通劳务/商品，这个Arc是否仍几乎成立？
+   - 若是：独特性不足，必须调整。
+3. 有没有一个只有“本人真实缺席 / 未来人格权利 / 时间价格与人生价值冲突”才能产出的场面？
+4. 当前设计是在补Retention Floor，还是在放大Breakout Premium？
+5. 是否为了补热门底盘，反而把C01最鲜、最怪、最有争议的部分磨平？
+
+硬原则：
+> **Benchmark只负责告诉我们什么不能太差；C01真正要爆，必须靠自己的Breakout Premium。**
