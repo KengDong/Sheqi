@@ -8,8 +8,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: D-0060 Internal Quality Kill Chain Orchestration
-- gate: Book Writer V2 DONE / QUALITY CHAIN NEXT
+- current_task: D-0061 Targeted Prose Patch Gate
+- gate: Writer V2 TARGETED PATCH ACTIVE
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -120,20 +120,16 @@
 - deliver_to: editor_in_chief
 
 ## book_writer_v2
-- status: DONE / PAUSED
-- execution_window: 六章正文任务已完成
+- status: ACTIVE
+- execution_window: 复用刚完成六章的全新Writer V2窗口
 - current: `handoffs/book_writer_v2/CURRENT.md`
-- completed_task: Dual Finalist Six-Chapter Prose Duel
-- brief: `research/briefs/2026-09-23_dual_six_chapter_prose_duel_brief.md`
-- outputs:
-  - `reviews/2026-09-23_dual_six_chapter_writer_selfcheck.md`
-  - `experiments/finalist_six_chapter_packages/2026-09-23_finalist_X2_ch001_006.md`
-  - `experiments/finalist_six_chapter_packages/2026-09-23_finalist_Y2_ch001_006.md`
+- current_task: Dual Six-Chapter Targeted Prose Patch
+- brief: `research/briefs/2026-09-23_dual_six_chapter_targeted_prose_patch_brief.md`
+- quality_gate: `reviews/2026-09-23_dual_six_chapter_internal_quality_gate.md`
 - mapping:
   - X2 = C01
   - Y2 = C12
-- deliver_to: editor_in_chief / Internal Quality Kill Chain
-- hard_rule: writer不得自行写Ch7、选赢家或启动Blind Read
+- hard_rule: no Ch7 / no blind / no winner / no new research
 - note: 原opening_writer已到对话上限，永久退休
 
 ## blind_reader
@@ -337,3 +333,16 @@
   > editor_in_chief / internal quality kill chain -> fresh six-chapter blind read -> total editor synthesis
 - hard_rule:
   > no new broad research; no Ch7; no Primary decision before independent prose proof
+
+
+## D-0061 Targeted Prose Patch｜ACTIVE
+- reason:
+  - C01 T1-R continuity hard fail
+  - C12 Ch5 failure fairness hard fail
+  - several minor AI-summary / explanation issues
+- audit:
+  `reviews/2026-09-23_dual_six_chapter_internal_quality_gate.md`
+- patch_brief:
+  `research/briefs/2026-09-23_dual_six_chapter_targeted_prose_patch_brief.md`
+- next:
+  > Writer patch -> Total Editor Diff Gate -> Fresh Six-Chapter Blind
