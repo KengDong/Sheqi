@@ -3,7 +3,50 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0079 C01 Early-20 Total-Editor Blocker Patch
+- current_gate: D-0080 First-Principles Story Forge / Phase 1
+
+
+## D-0080 FIRST-PRINCIPLES PROCESS RESET
+
+Author direction accepted:
+> stop the local-patch enumeration loop and rebuild the fiction R&D process from first principles.
+
+Highest current authority:
+> `meta/CURRENT_AUTHORITY.md`
+
+New process OS:
+> `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
+
+Evidence hierarchy:
+> `meta/READER_EVIDENCE_HIERARCHY.md`
+
+Experiment lanes:
+> `meta/EXPERIMENT_LANES_V1.md`
+
+Postmortem:
+> `reviews/2026-09-23_fiction_rnd_process_postmortem.md`
+
+Active phase:
+> **FIRST-PRINCIPLES STORY FORGE｜PHASE 1**
+
+Brief:
+> `research/briefs/2026-09-23_first_principles_story_forge_phase1_brief.md`
+
+D-0079:
+> **PAUSED / SUPERSEDED BY PROCESS RESET**
+
+Core change:
+- architecture/checklists = diagnostics, not generation;
+- behavioral reading evidence = highest authority;
+- C01/C12 compete with benchmark-function clones and wild concepts;
+- no prose until Desire Cut + Story Reservoir selection.
+
+Next editor action after Phase 1:
+> **Desire Cut: PULL / MAYBE / DROP.**
+
+No scoring grid.
+No Primary.
+No Ch21.
 
 
 ## D-0079 TOTAL-EDITOR EXPERIENCE GATE
