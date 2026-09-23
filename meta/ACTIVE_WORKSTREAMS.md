@@ -548,3 +548,18 @@
   `handoffs/author_first_read/CURRENT.md`
 - next:
   > author raw reading reaction -> editor_in_chief synthesis
+
+
+## D-0074 C01 NAME LOCK｜DONE
+- approved:
+  > 沈桥 -> 沈峥
+- applied_to:
+  - current C01 prose
+  - C01 Ch1—20 author package
+  - active C01 design assets
+- preserved:
+  > historical blind/review/history files
+- author_first_read:
+  > ACTIVE / RESUMED
+- other naming proposals:
+  > still pending separate approval
