@@ -2070,3 +2070,74 @@ C12从本阶段起：
 
 第一性原理：
 > **既然两本都已真实STRONG PASS，就让正文继续竞争；不要用设计表提前淘汰。**
+
+
+## D-0065 Ch7—10 Internal Quality PASS -> Fresh Ten-Chapter Blind
+**状态：总评审放行，2026-09-23生效**
+
+依据：
+- Writer Ch7—10：DONE
+- Internal Quality Gate：
+  `reviews/2026-09-23_dual_ch007_010_internal_quality_gate.md`
+
+结论：
+> **C01 PASS TO TEN-CHAPTER FRESH BLIND**
+>
+> **C12 PASS TO TEN-CHAPTER FRESH BLIND**
+
+本轮不做Targeted Patch。
+
+原因：
+> 当前剩余问题均为Reader Taste问题，不是核心规则冲突、因果硬伤、人物降智或明显白皮书。
+
+### C01
+已验证：
+- Ch7争议有真实结算；
+- Ch8方栀独立人物线成立；
+- Ch9陈美兰从“母亲功能”升级为未来时间独立主体；
+- Ch10第一次卖结果并获得正向复杂履约果实。
+
+待Fresh Reader判断：
+- Ch7规则/数字是否累；
+- Ch10是否有项目管理感；
+- 十章后人物黏性是否继续上升。
+
+### C12
+已验证：
+- Ch7—10不再四接口并排；
+- 袁晨一条人物链贯穿公司/家庭/报价；
+- Ch8周野自己的筑基正式成为中距离目标；
+- Ch10第一次判断费 + 报价组机会 + 老薛有条件信任 + 自己筑基储蓄。
+
+待Fresh Reader判断：
+- Ch8课堂感；
+- Ch9/10是否太整齐；
+- 是否真正摆脱“优秀职业案例”感；
+- “周野什么时候自己筑基”是否已经形成自然追读欲。
+
+### Next
+必须新开：
+> **ten_chapter_fresh_reader / Fresh Longform Shelf Reader**
+
+CURRENT：
+> `handoffs/ten_chapter_fresh_reader/CURRENT.md`
+
+Brief：
+> `research/briefs/2026-09-23_finalist_ten_chapter_fresh_blind_read_brief.md`
+
+Reader只读匿名X3 / Y3十章包。
+
+核心问题：
+> **读完十章，它们是否已经像成熟热门连载的新书，而不是高完成度Prototype？**
+
+并判断：
+> 是否愿意继续追到20—50章。
+
+Hard：
+- 不写Ch11；
+- 不选Primary前置；
+- 不重开Research；
+- 不让Writer继续自行润色。
+
+第一性原理：
+> **当硬伤已经消失，最重要的下一证据不是编辑继续修，而是陌生读者是否愿意长期追。**
