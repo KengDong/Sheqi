@@ -3,7 +3,7 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0057 Longform Canopy Architecture
+- current_gate: D-0059 Dual Canopy -> Prose Convergence
 
 ## LAST COMPLETED TASK
 - task: Event-First Execution Validation总评审
@@ -36,6 +36,21 @@
   - C12 First-10 Story Engine。
 - Book Writer V2仍BLOCKED。
 - 下一次真正正文验证将以同一个新Writer控制文笔变量，并做六章级clean-room对读。
+
+## D-0059 CONVERGENCE
+- C12 First-10已由总评审PASS：
+  `reviews/2026-09-23_c12_first10_total_editor_audit.md`
+- 当前两本对称进入：
+  > **Longform Canopy Architecture**
+- C01 owner: market_scout
+- C12 owner: benchmark_deepread
+- 正式收敛路线：
+  `meta/FINALIST_CONVERGENCE_ROADMAP.md`
+- 双Canopy之后默认：
+  > Total Editor Shelf-Parity Audit -> Book Writer V2六章正文对撞 -> 内部质量消杀 -> Fresh Blind -> 总编合流 -> 作者Taste。
+- 不再自动新增大范围研究。
+- 只有明确证据缺口直接伤害“好不好看”时才允许Targeted Research。
+- Primary未决定前，不给两本同时建完整正式Bible / Canon。
 
 ## AUTHOR FEEDBACK
 - 作者再次纠正上游遗漏：
