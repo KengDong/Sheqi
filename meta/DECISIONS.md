@@ -2631,3 +2631,36 @@ Not approved by this decision:
 
 Author First Read:
 > **RESUME.**
+
+
+## D-0075 Author Voluntary Drop-Off + Novelty Bandwidth Override
+**状态：作者首读触发，2026-09-23生效**
+
+依据：
+> `reviews/2026-09-23_dual_author_novelty_bandwidth_review.md`
+
+作者真实阅读证据：
+- C01 Ch7开始明显想弃读；
+- Ch8—9已不想继续；
+- 两本均有“视角窄 / 新东西不足 / 脑内冲击不足”的感觉；
+- C01尤为明显；
+- 文笔AI感已不是主问题。
+
+Decision：
+1. **Author voluntary stop overrides prior fixed-package STRONG PASS。**
+2. C01 current Ch4—20降为experiment/history，不再作为forward prose authority。
+3. C01下一步必须是Early-Arc Serial Reboot，不允许润色旧Ch7—20继续向前。
+4. C12暂不写Ch21；先做Novelty Bandwidth / Second Social Engine Audit。
+5. Reader测试新增：
+   > Voluntary Stop Shelf Test
+   允许读者随时弃书，弃书后不得强制继续。
+6. 对话问题按“功能”而非比例治理：
+   - 不设机械对白比例目标；
+   - 减少用对白解释流程；
+   - 增加场景实体、动作、感官和社会背景运动。
+7. “扩大视角”不等于随机加POV/地图。
+   目标：
+   > 每1—3章至少发生一种真实认知扩张。
+
+第一性原理：
+> **读者不想继续时，后面写得再完整也没有意义。**
