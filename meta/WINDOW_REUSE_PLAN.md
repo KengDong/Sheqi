@@ -110,3 +110,53 @@ outline_effect: none
   > 承担后续所有正文 / Book Bible / 续章写作任务。
 - handoff_rule:
   > 只按Git CURRENT与正式brief接棒，不依赖旧Writer聊天记忆。
+
+
+---
+
+# D-0080｜FIRST-PRINCIPLES STORY FORGE WINDOW PLAN
+
+旧窗口复用计划自本节起降级为历史参考；当前执行以D-0080为准。
+
+## 总编窗口
+- role: editor_in_chief
+- status: ACTIVE / JUDGE ONLY
+- current: `handoffs/editor_in_chief/CURRENT.md`
+- hard:
+  > 不在本窗口代写Lane A/B/C创意，避免“出题者=选手=裁判”。
+
+## 新窗口D｜Lane A Native Rebuild
+- must_be_new: YES
+- clean_room_level: targeted isolation
+- current: `handoffs/story_forge_native/CURRENT.md`
+- purpose:
+  > 只从C01/C12最小种子重新长出6个发动机版本。
+- forbidden:
+  > 旧正文 / 旧Early20 / 其它Lane。
+
+## 新窗口E｜Lane B Function Clone
+- must_be_new: YES
+- clean_room_level: causal-function isolation
+- current: `handoffs/story_forge_function_clone/CURRENT.md`
+- purpose:
+  > 只拿抽象Reader函数，产出≥15个原创Concept。
+- forbidden:
+  > C01/C12 / 具体热门正文 / 其它Lane。
+
+## 新窗口F｜Lane C Wild Concept
+- must_be_new: YES
+- clean_room_level: HARD
+- current: `handoffs/story_forge_wild/CURRENT.md`
+- purpose:
+  > 完全无项目背景产出≥10个Wild Concepts。
+- forbidden:
+  > 除CURRENT指向边界文件外的整个Sheqi项目。
+
+## Execution Order
+三Lane可并行。
+完成后均停止，不互读。
+
+总编只有在三份输出全部DONE后才执行：
+> **Phase-1 Desire Cut｜PULL / MAYBE / DROP**
+
+不允许在某Lane先完成后就提前“优化”它，避免先发优势。
