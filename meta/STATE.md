@@ -1,3 +1,35 @@
+# D-0072｜AUTHOR FIRST READ ACTIVE
+
+Both finalists now have complete 20-chapter prose samples.
+
+C01:
+`experiments/asymmetric_prose_validation/2026-09-23_c01_ch001_020_package.md`
+
+C12:
+`experiments/c12_equalization/2026-09-23_c12_ch001_020_package.md`
+
+C12 hard-error / continuity:
+PASS.
+
+Current:
+> AUTHOR FIRST READ
+
+Handoff:
+`handoffs/author_first_read/CURRENT.md`
+
+Freeze:
+- no Ch21
+- no new Reader
+- no Benchmark
+- no Primary
+- no Research
+- no Canon / Outline changes
+
+Next:
+> author reads both and gives raw reading reaction.
+
+---
+
 # D-0071｜C12 Equalization to Ch20 WRITER DONE / AUTHOR GATE NEXT
 
 Returning Reader completed:
