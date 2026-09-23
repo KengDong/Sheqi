@@ -8,8 +8,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: D-0061 Targeted Prose Patch Gate
-- gate: Writer V2 TARGETED PATCH ACTIVE
+- current_task: D-0061 Total Editor Quick Diff Gate
+- gate: Writer V2 PATCH DONE / DIFF GATE NEXT
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -120,15 +120,17 @@
 - deliver_to: editor_in_chief
 
 ## book_writer_v2
-- status: ACTIVE
-- execution_window: 复用刚完成六章的全新Writer V2窗口
+- status: DONE / PAUSED
+- execution_window: Targeted Prose Patch已完成
 - current: `handoffs/book_writer_v2/CURRENT.md`
-- current_task: Dual Six-Chapter Targeted Prose Patch
+- completed_task: Dual Six-Chapter Targeted Prose Patch
 - brief: `research/briefs/2026-09-23_dual_six_chapter_targeted_prose_patch_brief.md`
 - quality_gate: `reviews/2026-09-23_dual_six_chapter_internal_quality_gate.md`
+- patch_selfcheck: `reviews/2026-09-23_dual_six_chapter_targeted_patch_selfcheck.md`
 - mapping:
   - X2 = C01
   - Y2 = C12
+- deliver_to: editor_in_chief / Total Editor Quick Diff Gate
 - hard_rule: no Ch7 / no blind / no winner / no new research
 - note: 原opening_writer已到对话上限，永久退休
 
