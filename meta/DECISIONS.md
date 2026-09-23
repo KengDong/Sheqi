@@ -2664,3 +2664,41 @@ Decision：
 
 第一性原理：
 > **读者不想继续时，后面写得再完整也没有意义。**
+
+
+## D-0076 Dual Narrative Aperture Reframe｜场景生态 + 更大看点
+**状态：作者首读触发，2026-09-23生效**
+
+作者进一步明确：
+> 两本都像“一个画面里频繁对话的小型情景剧”；场景运动小、信息摄入低，而且正文没有让人看见未来会有更大的看点。
+
+正式Review：
+> `reviews/2026-09-23_dual_narrative_aperture_macro_promise_review.md`
+
+新增四个工作概念：
+- Narrative Aperture｜叙事镜头口径
+- Scene Ecology｜场景生态
+- Novelty Bandwidth｜新鲜感带宽
+- Macro Promise｜更大看点的可见远景
+
+核心判断：
+1. 问题不是对白比例本身；
+2. 问题是对白过多承担流程/权限/风险解释；
+3. 地点在换，但叙事模式经常仍是“2—3人 + 手机/UI + 说清本章问题”；
+4. Canopy里“后面会更大”不算Reader证据；
+5. 前10章正文必须真实让Reader看到更大的世界/身份/冲突天花板。
+
+Decision：
+- C01 Ch4—20继续降为experiment/history；
+- C12 Ch1—20保留有效资产，但禁止Ch21；
+- 两本共同进入Dual Narrative Aperture Reframe；
+- 不允许用“多加风景 / 随机换地图 / 多POV / 每章新设定”表面修复。
+
+正式Brief：
+> `research/briefs/2026-09-23_dual_narrative_aperture_reframe_brief.md`
+
+ACTIVE Role：
+> `handoffs/narrative_aperture/CURRENT.md`
+
+第一性原理：
+> **读者必须感觉自己正在进入一个越来越大的世界，而不是同一张舞台不断换道具。**
