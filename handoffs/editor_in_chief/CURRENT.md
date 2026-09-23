@@ -3,7 +3,7 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0067 Asymmetric Finalist Development
+- current_gate: D-0069 Asymmetric Prose Validation
 
 ## LAST COMPLETED TASK
 - task: Event-First Execution Validation总评审
@@ -419,3 +419,38 @@ C12 Life-First修正重点保护：
 > 工业渡劫荒诞 / 风险不会消失。
 
 两个active brief均已加入Anti-Benchmark检查。
+
+
+## D-0069 ASYMMETRIC PROSE VALIDATION
+Arc designs:
+- C01 Ch11—30 Reader-Desire Arc：PASS TO PROSE
+- C12 Ch11—15 Life-First Arc：PASS TO PROSE
+
+Total Editor Audit：
+> `reviews/2026-09-23_asymmetric_arc_total_editor_audit.md`
+
+Key guards：
+### C01
+- 罗晴可进入，但不能一上来变万能助理；
+- 顾经理复购要背景化，不能门店案例连发；
+- 18:00托管结束只作为Motif Candidate，不强制重复Ch10替补秀；
+- “罗晴买回自己的周日”批准为后续Long-Horizon First Landing，但本轮不写。
+
+### C12
+- Life-First方向PASS；
+- 早餐铺不能刚好为三晚高风险班量身定做；
+- 周野借钱只能桥接部分，不能圣父解决；
+- 老薛恢复异常只提供未知风险压力，不能写成与周野同病确证。
+
+ACTIVE Writer：
+> `handoffs/book_writer_v2/CURRENT.md`
+
+Brief：
+> `research/briefs/2026-09-23_asymmetric_prose_validation_brief.md`
+
+本轮：
+- C01 Ch11—20
+- C12 Ch11—15
+
+Next：
+> Writer DONE -> editor_in_chief Internal Quality Gate。
