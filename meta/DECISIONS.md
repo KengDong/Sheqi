@@ -2141,3 +2141,55 @@ Hard：
 
 第一性原理：
 > **当硬伤已经消失，最重要的下一证据不是编辑继续修，而是陌生读者是否愿意长期追。**
+
+
+## D-0066 Dual-Evidence Gate｜Fresh Reader先行，随后热门同架对比
+**状态：总编流程修正，2026-09-23生效**
+
+作者再次确认第一性原理：
+> 不能只做内部盲读，也必须持续与真实热门小说比较，避免“自己觉得好看”。
+
+正式执行顺序：
+
+1. **Fresh Ten-Chapter Blind**
+   - 完全clean-room；
+   - 不向Reader暴露Benchmark；
+   - 只测真实阅读欲。
+
+2. **Head-Tier Benchmark Parity**
+   - Fresh结果出来后再启动；
+   - 揭盲后将C01/C12与真实热门长篇的追读发动机同架比较；
+   - 不比设定数量，只比：
+     - 人物黏性；
+     - 中距离期待；
+     - 回报密度；
+     - 复利；
+     - Signature Engine；
+     - Long-Horizon；
+     - 普通生活耐看；
+     - 阅读摩擦；
+     - 第一阶段大果实。
+
+正式brief：
+> `research/briefs/2026-09-23_ten_chapter_headtier_benchmark_parity_brief.md`
+
+### Why Separate
+Fresh Blind负责：
+> “我自己想不想看？”
+
+Benchmark Parity负责：
+> “放到头部热门旁边，为什么还不够强？”
+
+两者混在一个Reader里会产生锚定与模仿偏差。
+
+### Next Decision
+只有：
+> Fresh Reader Evidence + Head-Tier Benchmark Evidence
+两者合流以后，
+才允许决定：
+- Ch11—30方向；
+- 是否需要Targeted Gap Patch；
+- 是否选择Primary。
+
+### First Principle
+> **热门小说是现实校准，不是模仿对象；真实读欲是最终证据，两者必须同时存在。**
