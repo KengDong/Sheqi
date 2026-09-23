@@ -8,8 +8,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: D-0065 Fresh Ten-Chapter Blind Orchestration
-- gate: INTERNAL QUALITY PASS / TEN-CHAPTER FRESH READER ACTIVE
+- current_task: D-0067 Asymmetric Finalist Development Orchestration
+- gate: C01 ARC DESIGN ACTIVE + C12 LIFE-FIRST ARC ACTIVE
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -31,10 +31,10 @@
 - hard_rule: no future tasks to this window
 
 ## benchmark_deepread
-- status: DONE / PAUSED
-- role: c12_longform_architect / Industrial Cultivation Canopy Architect
+- status: ACTIVE
+- role: c12_book_architect / Life-First Arc Architect
 - execution_window: 复用原 Benchmark Deep Read / C12 Book Architect窗口
-- current_task: C12 Longform Canopy Architecture｜DONE
+- current_task: C12 Ch11—15 Life-First De-Curricularization Arc
 - current: `handoffs/benchmark_deepread/CURRENT.md`
 - output:
   - `research/design/2026-09-23_c12_longform_canopy_architecture.md`
@@ -43,10 +43,10 @@
 - deliver_to: editor_in_chief
 
 ## market_scout
-- status: DONE / PAUSED
-- role: c01_longform_architect / Book Canopy Architect
+- status: ACTIVE
+- role: c01_book_architect / Reader-Desire Arc Architect
 - execution_window: 复用原 Market Scout / C01 Book Architect窗口
-- current_task: C01 Longform Canopy Architecture｜DONE
+- current_task: C01 Ch11—30 Reader-Desire Arc Development
 - current: `handoffs/market_scout/CURRENT.md`
 - brief: `research/briefs/2026-09-23_c01_longform_canopy_architecture_brief.md`
 - output:
@@ -405,7 +405,7 @@
 
 
 ## ten_chapter_fresh_reader
-- status: ACTIVE
+- status: DONE / PAUSED
 - role: ten_chapter_fresh_reader / Fresh Longform Shelf Reader
 - execution_window: **必须全新GPT窗口，且此前从未读过Sheqi/C01/C12/X/Y系列**
 - current: `handoffs/ten_chapter_fresh_reader/CURRENT.md`
@@ -447,3 +447,25 @@
   - Head-Tier Benchmark evidence
 - hard_rule:
   > neither internal taste nor benchmark alone can authorize Ch11—30 / Primary
+
+
+## D-0067 Asymmetric Finalist Development｜ACTIVE
+- fresh_ten_chapter:
+  `reviews/2026-09-23_finalist_ten_chapter_fresh_blind_read.md`
+- headtier_benchmark:
+  `reviews/2026-09-23_ten_chapter_headtier_benchmark_parity.md`
+- synthesis:
+  `reviews/2026-09-23_dual_evidence_ten_chapter_total_editor_synthesis.md`
+- C01:
+  - status: ACTIVE
+  - task: Ch11—30 Reader-Desire Arc Development
+  - owner: market_scout / c01_book_architect
+- C12:
+  - status: ACTIVE
+  - task: Ch11—15 Life-First De-Curricularization Arc
+  - owner: benchmark_deepread / c12_book_architect
+- Book Writer V2:
+  - status: PAUSED
+  - reason: next-arc designs must pass Total Editor first
+- no_primary_yet:
+  > C01 current front-runner; C12 retained because gap is targeted and repairable
