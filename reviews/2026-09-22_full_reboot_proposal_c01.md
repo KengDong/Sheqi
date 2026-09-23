@@ -1,6 +1,6 @@
 ---
-status: awaiting-author-approval
-version: 1.0
+status: hold-dual-bootstrap
+version: 1.1
 created_at: 2026-09-22
 proposal_type: full-reboot
 proposed_direction: C01
@@ -10,6 +10,20 @@ outline_effect: full-reboot-if-approved
 ---
 
 # Full Reboot Proposal｜从《舍弃》切换至 C01《明天已经卖掉》
+
+## 0. D-0056 HOLD
+
+作者于2026-09-23亲读C01 / C12后明确要求：
+> **两部都推进。**
+
+因此本Proposal：
+> **暂缓批准，不撤销。**
+
+当前先完成：
+- C01 Time-Market Analog & Novelty Bootstrap；
+- C12 Industrial Cultivation Scale Bootstrap。
+
+双Bootstrap合流后再决定是否恢复本Full Reboot Proposal。
 
 ## 1. Proposal
 
