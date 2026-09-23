@@ -1,3 +1,26 @@
+# D-0071｜C12 Equalization to Ch20 ACTIVE
+
+Returning Reader completed:
+- C01/X4: STRONG PASS continues
+- C12/Y4: upgraded to STRONG PASS
+
+Current:
+> Book Writer V2 writes only C12 Ch16—20.
+
+C01:
+> frozen at Ch20.
+
+After C12 Ch20:
+> Total Editor hard-error / continuity check only,
+> then AUTHOR FIRST READ of both Ch1—20 packages.
+
+No Ch21 before author read.
+No new Reader Test.
+No new Benchmark.
+No Primary selection.
+
+---
+
 # D-0070｜Returning Reader Continuation ACTIVE
 
 Asymmetric prose completed:
