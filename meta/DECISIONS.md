@@ -2797,3 +2797,40 @@ Decision：
 第一性原理：
 > **不是把旧小说拍得更像电影，而是让连续20章真的拥有越来越多、越来越贵、越来越不可替代的阅读理由。**
 
+
+
+## D-0079 D-0078 Total-Editor Experience Gate｜C12放行，C01定向打回
+**状态：2026-09-23生效**
+
+Formal review:
+> `reviews/2026-09-23_d0078_dual_early20_total_editor_experience_gate.md`
+
+Decision:
+1. D-0078整体记为 **PARTIAL PASS**，不接受selfcheck的双书自动放行。
+2. C12架构层：
+   > **PASS TO SHORT PROTOTYPE**
+   但不单独启动Writer，等待C01 patch后控制变量并跑。
+3. C01架构层：
+   > **TARGETED ARCHITECTURE REVISION REQUIRED**
+4. C01必须先修四个blocker：
+   - Ch4—5职业适配/救单连续化；
+   - Ch11—13普通创业语义三连；
+   - Ch20“大客户=大世界”；
+   - recurring characters只有设定独立欲望、缺自主因果证明。
+5. 新增后续判据：
+   > **Semantic Rolling-3 / Semantic Stage-Play Test**：场景模式、地点、人组不同，不代表故事发动机不同；若连续章节仍完成同一种职业成长任务，视为重复风险。
+6. C01 patch通过后，不直接恢复20章正文：
+   > 同一Writer仅生产两本新版 Ch4—10 short prototypes。
+7. 新Reader测试必须：
+   > **Voluntary Stop Fresh Read**；允许任意页/章弃读，后续内容不得反向补分。
+8. 若C01再次在Ch4—7出现明确自愿弃读，视为新版Early20第一阶段失败。
+
+Active brief:
+> `research/briefs/2026-09-23_c01_early20_total_editor_blocker_patch_brief.md`
+
+Hard:
+- no Ch21；
+- no full Early20 prose rewrite；
+- no Primary；
+- no Canon / Approved Outline authority edit；
+- no Writer before D-0079 quick gate。
