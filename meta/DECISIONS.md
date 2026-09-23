@@ -3010,3 +3010,44 @@ Hard:
 
 Next:
 > Reservoir Forge DONE -> editor_in_chief Reservoir Cut.
+
+
+## D-0082 Reservoir Cut -> Character Collision Stress Test
+**状态：ACTIVE，2026-09-23**
+
+Reservoir Cut:
+> `reviews/2026-09-23_d0081_story_reservoir_total_editor_cut.md`
+
+Promoted:
+- R1 Future Holdings — STRONG PASS
+- R2 Second Autobiography — STRONG PASS
+- R3 Borrowed Tribulations — PASS WITH STRESS FLAG
+- R5 This City I Have Routes — PASS WITH STRESS FLAG
+- R7 Dead People Still Work — STRONG PASS
+- R8 Missing Day List — STRONG PASS
+
+Stopped:
+- R4 Borrow a Relationship — natural exhaustion / high case-of-week dependency
+- R6 Monday Prophecy — natural exhaustion / severe case-of-week dependency
+
+Decision:
+> **Phase 3 = Character Collision Stress Test**
+
+Core rule:
+> no new cases, no new clients, no new rules, no new institutions.
+
+Each survivor must prove:
+> 4—6 core people can generate 10—15 compelling events from incompatible desires alone.
+
+Special hard stress:
+- R3: no new historical risk source;
+- R5: no new route-right acquisition.
+
+Brief:
+> `research/briefs/2026-09-23_d0082_character_collision_stress_test_brief.md`
+
+Executor:
+> `handoffs/character_collision_forge/CURRENT.md`
+
+Next:
+> Character Cut -> Minimal Horizon only for survivors.
