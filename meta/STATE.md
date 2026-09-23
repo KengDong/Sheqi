@@ -1,3 +1,28 @@
+# D-0061｜Targeted Prose Patch ACTIVE
+
+Writer V2六章已完成，但总评审未放行Fresh Blind。
+
+Internal Quality Gate：
+> `reviews/2026-09-23_dual_six_chapter_internal_quality_gate.md`
+
+HARD：
+- C01：T1-R本人离线规则被Ch4—6写穿；
+- C12：Ch5失败因果让周野显得为剧情突然变笨。
+
+因此：
+> **TARGETED PATCH ONLY**
+
+ACTIVE：
+> Book Writer V2 / Targeted Prose Patch Writer
+
+brief：
+> `research/briefs/2026-09-23_dual_six_chapter_targeted_prose_patch_brief.md`
+
+Patch后：
+> Total Editor快速Diff Gate -> Fresh Clean-Room Six-Chapter Blind。
+
+---
+
 # D-0060｜Controlled Six-Chapter Prose Duel ACTIVE
 
 双Canopy均已完成并通过总评审：
