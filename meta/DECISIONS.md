@@ -2834,3 +2834,122 @@ Hard:
 - no Primary；
 - no Canon / Approved Outline authority edit；
 - no Writer before D-0079 quick gate。
+
+
+## D-0080 First-Principles Fiction R&D Process Reset｜从Checklist施工改为真实阅读竞争
+**状态：作者批准方向，2026-09-23生效**
+
+触发原因：
+- D-0064六章Fresh Blind双STRONG PASS；
+- D-0065十章Internal Gate双PASS；
+- D-0067 C01被判STRONG PASS / HEAD-TIER READY；
+- D-0071 Returning Reader最终两本均STRONG PASS；
+- 但D-0075作者真实连续阅读时：
+  - C01 Ch7开始明显自愿弃读；
+  - Ch8—9已不想继续；
+  - 两本共同暴露情景剧化、认知扩张不足、未来更大看点不可见。
+
+正式Postmortem：
+> `reviews/2026-09-23_fiction_rnd_process_postmortem.md`
+
+### Decision 1｜证据层级重排
+正式采用：
+> `meta/READER_EVIDENCE_HIERARCHY.md`
+
+最高证据：
+> **真实自愿阅读行为。**
+
+低层Architecture / Checklist / Selfcheck不得覆盖高层弃读证据。
+
+### Decision 2｜生成逻辑重排
+正式采用：
+> `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
+
+主流程从：
+> Concept -> 大架构 -> 逐章施工 -> Writer -> 强制读完 -> 评分
+
+改为：
+> **Desire Thesis -> Story Reservoir -> Character Collision -> Minimal Horizon -> Short Prose -> Voluntary Stop -> Diagnostics。**
+
+### Decision 3｜旧工具降级
+以下继续保留，但统一降级为：
+> **Diagnostics / Failure Analysis**
+
+包括：
+- Canopy；
+- Five Growth Curves；
+- Macro Promise；
+- Scene Ecology；
+- Rolling-3 / Semantic Rolling-3；
+- Head-Tier Reader Desire；
+- Benchmark Parity。
+
+不得作为Writer逐项施工清单。
+
+### Decision 4｜多路线实验
+正式采用：
+> `meta/EXPERIMENT_LANES_V1.md`
+
+并行：
+- Lane A：C01/C12 Native Free Rebuild；
+- Lane B：Benchmark Function Clones；
+- Lane C：完全Wild Concepts。
+
+“仿热门”仅允许仿：
+> **reader-level causal function / story engine function**
+
+禁止复刻：
+- 人物；
+- 世界规则；
+- 标志性情节；
+- 事件顺序；
+- 可识别文风。
+
+### Decision 5｜Git Authority简化
+新增：
+> `meta/CURRENT_AUTHORITY.md`
+
+新窗口优先读它，再按其中指向读取当前authority。
+
+旧历史不删除、不搬迁、不重写。
+历史PASS保留为实验记录。
+
+### Decision 6｜D-0079暂停
+C01 targeted blocker patch：
+> **PAUSED / SUPERSEDED BY PROCESS RESET**
+
+原因：
+> 继续逐项修补会再次进入“作者指出一个 -> 项目加一个Gate”的遍历循环。
+
+C01/C12保留为高价值候选，但不再默认必须胜出。
+
+### Decision 7｜Prototype梯度改造
+以后：
+- P0 First Screen；
+- P1 Ch1；
+- P3 Ch1—3；
+- **P7 Ch1—7 critical gate**；
+- P10 Ch1—10；
+- P20+仅在P10行为通过后。
+
+禁止直接从设计PASS跳20章生产。
+
+### Decision 8｜Fresh Reader协议改造
+Fresh Reader：
+- 不知道目标章节数；
+- 不要求读完；
+- 任意时刻可停止；
+- stop前不分析；
+- exact stop是主证据；
+- 后文不得反向补分。
+
+### Active
+> **FIRST-PRINCIPLES STORY FORGE｜Phase 1**
+
+Brief：
+> `research/briefs/2026-09-23_first_principles_story_forge_phase1_brief.md`
+
+当前不写正文。
+
+第一性原理：
+> **先证明“有很多真的想看的故事”，再证明“这些人会自己制造故事”，最后才证明“它能写很长”。**
