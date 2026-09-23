@@ -2756,3 +2756,44 @@ Hard：
 - 不局部润色旧正文代替结构重构；
 - 不选Primary；
 - 不让作者继续承担基础QA。
+
+## D-0078 Narrative Aperture Absorption -> Early-20 Hit-Fiction Experience Rebuild
+**状态：Total Editor验收生效，2026-09-23**
+
+依据：
+> `reviews/2026-09-23_narrative_aperture_total_editor_absorption_audit.md`
+
+Decision：
+1. D-0076 的问题诊断正式保留：
+   - Narrative Aperture；
+   - Scene Ecology；
+   - Novelty Bandwidth；
+   - Macro Promise。
+2. 原 D-0076 narrow brief 未产出 design/selfcheck，不记 PASS。
+3. 由于 D-0077 在产出前合法覆盖，原窄任务也不记 FAIL：
+   > **SUPERSEDED / ABSORBED。**
+4. 不再单独做“多场景/大镜头”补丁。
+5. 正式启动：
+   > **Dual Early-20 Hit-Fiction Experience Rebuild**
+6. 新重构必须同时覆盖：
+   - Desire；
+   - Social Surface；
+   - Relationship；
+   - Resource / Power；
+   - Unknown / Scale；
+   - Scene Mode；
+   - Character Story Entrances；
+   - Macro Promise；
+   - Signature Experience。
+7. 新设计通过 Total Editor Experience Gate 前：
+   - no prose；
+   - no Ch21；
+   - no Primary；
+   - no Canon/Outline authority edit。
+
+新 brief：
+> `research/briefs/2026-09-23_dual_early20_hit_fiction_experience_rebuild_brief.md`
+
+第一性原理：
+> **不是把旧小说拍得更像电影，而是让连续20章真的拥有越来越多、越来越贵、越来越不可替代的阅读理由。**
+
