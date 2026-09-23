@@ -3,74 +3,114 @@
 ## ROLE
 - role: book_writer_v2 / Asymmetric Continuation Writer
 - execution_window: 复用Book Writer V2窗口
-- status: ACTIVE
-- current_task: Asymmetric Prose Validation
+- status: DONE / PAUSED
+- completed_task: Asymmetric Prose Validation
 - brief: `research/briefs/2026-09-23_asymmetric_prose_validation_brief.md`
+- completed_at: 2026-09-23 (Asia/Singapore)
 
-## TOTAL EDITOR
-- audit:
-  `reviews/2026-09-23_asymmetric_arc_total_editor_audit.md`
-- C01: PASS TO PROSE / WITH EXECUTION GUARDS
-- C12: PASS TO PROSE / WITH EXECUTION GUARDS
-
-## TASK
+## LAST COMPLETED TASK
 
 ### C01
-写：
+按D-0069完成：
 > **Ch11—20**
 
-目标：
-- 顾经理复购从承诺变稳定客户；
-- 罗晴从陌生人变第一长期协作人；
-- 陈美兰挂牌兑现；
-- 方栀轮岗兑现；
-- 一个真人承诺被漏掉导致真代价；
-- Ch20有稳定客户 / 协作人 / 一段时间不用卖自己。
+已兑现：
+- 顾经理真实复购，不再只是Ch10承诺；
+- 陈美兰Ch9挂牌真实完成一次交易；
+- 沈桥因消息过载漏掉杜师傅取消通知，造成白跑/关系损失；
+- 失败逼出第一协作人罗晴；
+- 罗晴先按晚合作，再进入一月试合作；
+- 罗晴明确拒绝免费救火；
+- 赵先生18:00时间边界再次以真人生活兑现；
+- 方栀轮岗成功，且业务回避更严格；
+- Ch20形成：
+  - 第一个稳定复购买方；
+  - 第一个长期协作人；
+  - 可覆盖一段固定生活支出的现金流；
+  - 至少一段时间不用再卖自己；
+  - “找个工作地方”成为新Mid。
 
-不写Ch21。
-不提前写罗晴赎回周日。
+严格未写：
+> 罗晴赎回自己的周日。
 
 ### C12
-写：
+按D-0069完成：
 > **Ch11—15**
 
-目标：
-- 周野自己的筑基真正预约；
-- 老薛家庭现金压力驱动高风险班；
-- 老薛自己取消；
-- 中秘密只推进半步；
-- 赵航进入私人生活；
-- Ch15锁定周野自己的筑基日期。
+已兑现：
+- 周野真的去选筑基机构；
+- 支付1000条件预约金；
+- 老薛家庭早餐铺进入，且不是精确为三晚高风险量身定做；
+- 周野/老薛第一次真实利益冲突；
+- Ch13两人身体结果不确诊同病；
+- 老薛最终自己在接驳车前取消高风险班；
+- 三晚约2400收入真实消失；
+- 周野只借1200，明确记账且压自己筑基资金；
+- 家庭自己继续凑钱，周野不是唯一解；
+- Ch1旧理赔阶段结算；
+- 周野支付正式首款；
+- 锁定自己的筑基日期：
+  > **10月18日 08:30**
+- 赵航成为恢复联系人/落脚处。
 
-不写Ch16。
+## OUTPUTS
 
-## HARD GUARDS
-完整执行：
-> `research/briefs/2026-09-23_asymmetric_prose_validation_brief.md`
+### C01
+- `experiments/asymmetric_prose_validation/2026-09-23_c01_ch011_020_v1.md`
+- `experiments/asymmetric_prose_validation/2026-09-23_c01_ch001_020_package.md`
 
-特别：
-- C01不要重复Ch10替补机制；
-- C01罗晴不能一上来变万能助理；
-- C12早餐铺不要设计感过强；
-- C12周野不能靠借钱一人解决老薛问题；
-- C12不要写成“周野老薛同病”。
+### C12
+- `experiments/asymmetric_prose_validation/2026-09-23_c12_ch011_015_v1.md`
+- `experiments/asymmetric_prose_validation/2026-09-23_c12_ch001_015_package.md`
 
-## OUTPUT
-- C01 Ch11—20
-- C01 Ch1—20连续包
-- C12 Ch11—15
-- C12 Ch1—15连续包
-- Writer Selfcheck
-- CURRENT + history
+### Shared
+- `reviews/2026-09-23_asymmetric_prose_writer_selfcheck.md`
+- history:
+  `handoffs/book_writer_v2/history/2026-09-23_asymmetric_prose_validation_done.md`
 
-## STOP
-- no C01 Ch21
-- no C12 Ch16
-- no Primary
-- no Reader Test
-- no Research
-- no Canon/Outline edit
+## QA
+- C01连续包 = 20章。
+- C12连续包 = 15章。
+- C01没有Ch21。
+- C12没有Ch16。
+- 未选Primary。
+- 未启动Reader。
+- 未扩Research。
+- 未改Canon / Outline。
 
-## NEXT
-完成后：
-> editor_in_chief / Internal Quality Gate
+## OPEN QUESTIONS
+
+### C01
+1. 罗晴是否像真实协作人，而不是“规模化助手”。
+2. Ch13失败是否比旧专业适配失败更新鲜。
+3. Ch16时间边界是否仍足够独特。
+4. Ch19—20稳定收入/复购是否真有Medium Fruit满足感。
+5. 门店业务是否已经背景化到不显案例连发。
+
+### C12
+1. Ch11—15是否真正不再像课程。
+2. 早餐铺是否自然。
+3. Ch13是否仍有医院说明味。
+4. 老薛“不上车”是否成为真实Signature Scene。
+5. 周野具体筑基日期是否形成强Mid-Horizon。
+
+## DO NOT CONTINUE
+- 不写C01 Ch21。
+- 不写C12 Ch16。
+- 不提前写罗晴赎回周日。
+- 不选Primary。
+- 不自行Reader Test。
+- 不改Canon / Outline。
+- 不扩Research。
+
+## NEXT EXPECTED ACTION
+本Writer停止。
+
+交：
+> **editor_in_chief / Internal Quality Gate**
+
+由总评审决定：
+- PASS；
+- TARGETED PATCH；
+- 下一非对称正文；
+- 下一Primary Gate。
