@@ -8,8 +8,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: D-0071 C12 Equalization Hard-Error / Continuity Check
-- gate: C12 Ch20 DONE / AUTHOR GATE NEXT
+- current_task: D-0072 AUTHOR FIRST READ
+- gate: BOTH 20-CHAPTER SAMPLES FROZEN
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -403,7 +403,7 @@
 
 
 ## ten_chapter_fresh_reader
-- status: ACTIVE / RETURNING
+- status: DONE / PAUSED
 - role: ten_chapter_fresh_reader / Fresh Longform Shelf Reader
 - execution_window: **必须全新GPT窗口，且此前从未读过Sheqi/C01/C12/X/Y系列**
 - current: `handoffs/ten_chapter_fresh_reader/CURRENT.md`
@@ -527,3 +527,24 @@
   > editor_in_chief hard-error / continuity check only -> AUTHOR FIRST READ
 - hard:
   > no Ch21 / no Reader / no Benchmark / no Primary / no Research
+
+
+## author_first_read
+- status: ACTIVE
+- role: author / direct prose read
+- current: `handoffs/author_first_read/CURRENT.md`
+- inputs:
+  - C01: `experiments/asymmetric_prose_validation/2026-09-23_c01_ch001_020_package.md`
+  - C12: `experiments/c12_equalization/2026-09-23_c12_ch001_020_package.md`
+- hard:
+  > no Ch21 / no Reader / no Benchmark / no Primary / no Research before author reaction
+
+
+## D-0072 AUTHOR FIRST READ｜ACTIVE
+- C01: frozen at Ch20
+- C12: frozen at Ch20
+- C12 hard-error continuity: PASS
+- author_handoff:
+  `handoffs/author_first_read/CURRENT.md`
+- next:
+  > author raw reading reaction -> editor_in_chief synthesis
