@@ -8,8 +8,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: Final Book Direction Authority Gate
-- gate: C01 Full Reboot Author Approval
+- current_task: Dual Finalist Bootstrap Orchestration
+- gate: C01 Novelty Bootstrap + C12 Scale Bootstrap
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -31,20 +31,21 @@
 - hard_rule: no future tasks to this window
 
 ## benchmark_deepread
-- status: DONE
-- role: hit_benchmark_comparator
+- status: ACTIVE
+- role: c12_scale_architect / Industrial Cultivation Long-Run Architect
 - execution_window: 复用旧“结构盲读 / Benchmark Deep Read”窗口
-- current_task: Hit Candidate Popular Benchmark Gate｜DONE
+- current_task: C12 Industrial Cultivation Scale Bootstrap
 - current: `handoffs/benchmark_deepread/CURRENT.md`
-- output: `reviews/2026-09-22_hit_candidate_popular_benchmark_gate.md`
+- brief: `research/briefs/2026-09-23_c12_industrial_cultivation_scale_bootstrap_brief.md`
 - deliver_to: editor_in_chief
 
 ## market_scout
-- status: DONE
+- status: ACTIVE
+- role: c01_analog_scout / Time-Commodity Benchmark & Novelty Architect
 - execution_window: 复用Market Scout窗口
-- current_task: Reader Obsession Market Scan｜DONE
+- current_task: C01 Time-Market Analog & Novelty Bootstrap
 - current: `handoffs/market_scout/CURRENT.md`
-- output: `research/reports/2026-09-22_reader_obsession_market_scan.md`
+- brief: `research/briefs/2026-09-23_c01_time_market_analog_novelty_bootstrap_brief.md`
 - deliver_to: editor_in_chief
 
 ## hit_concept_scout
@@ -112,13 +113,15 @@
 - deliver_to: editor_in_chief
 
 ## book_writer_v2
-- status: QUEUED / BLOCKED BY AUTHOR AUTHORITY
+- status: QUEUED / BLOCKED BY DUAL BOOTSTRAP
 - execution_window: 必须新开全新GPT窗口
 - current: `handoffs/book_writer_v2/CURRENT.md`
 - blocked_by:
-  - Full Reboot Author Approval
-- proposed_direction: C01《明天已经卖掉》
-- proposal: `reviews/2026-09-22_full_reboot_proposal_c01.md`
+  - C01 Novelty Bootstrap
+  - C12 Scale Bootstrap
+  - Total Editor synthesis
+  - Author final direction
+- proposal: `reviews/2026-09-22_full_reboot_proposal_c01.md` (HOLD)
 - note: 原opening_writer已到对话上限，永久退休
 
 ## blind_reader
@@ -233,3 +236,19 @@
 - full_reboot_proposal: `reviews/2026-09-22_full_reboot_proposal_c01.md`
 - authority_gate: **AUTHOR APPROVE / REJECT / HOLD**
 - no Canon / Outline changes before approval
+
+
+## D-0056 Dual Finalist Bootstrap｜ACTIVE
+- author_direction: **C01 / C12两部都推进**
+- C01:
+  - status: ACTIVE RESEARCH
+  - task: Time-Market Analog + Novelty + Technical Plausibility + Long-Run
+  - owner: market_scout
+- C12:
+  - status: ACTIVE RESEARCH
+  - task: Industrial Cultivation + 《没钱修什么仙》Scale Benchmark + Long-Run
+  - owner: benchmark_deepread
+- C01 Full Reboot Proposal: HOLD
+- Book Writer V2: BLOCKED
+- hard_rule:
+  > 两个Bootstrap完成前都不写Ch4。
