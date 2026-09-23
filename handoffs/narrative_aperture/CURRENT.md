@@ -13,9 +13,10 @@
 
 ## ROLE
 - role: narrative_aperture / Hit-Fiction Experience Architect
-- status: DONE / PAUSED
+- status: ACTIVE / D-0079 TARGETED PATCH
 - completed_gate: D-0078 Dual Early-20 Hit-Fiction Experience Rebuild
-- handoff_to: editor_in_chief / Total-Editor Experience Gate
+- current_task: C01 Early-20 Total-Editor Blocker Patch
+- handoff_to: editor_in_chief / D-0079 Quick Gate
 
 ## AUTHORITY
 
@@ -137,3 +138,36 @@ Total Editor需判断：
 - 不改Canon / Approved Outline；
 - 不启动Writer；
 - 不把设计层PASS宣称为小说已经好看。
+
+
+## TOTAL-EDITOR RESULT｜D-0078
+
+Formal review:
+> `reviews/2026-09-23_d0078_dual_early20_total_editor_experience_gate.md`
+
+Verdict:
+> **D-0078 PARTIAL PASS**
+>
+> **C12 PASS TO SHORT PROTOTYPE**
+>
+> **C01 TARGETED ARCHITECTURE REVISION REQUIRED**
+
+C01 blockers:
+1. Ch4—5不能连续职业适配 / 救单；
+2. Ch11—13不能继续“拒大单 -> 漏人 -> 招人”的普通创业语义三连；
+3. Ch20不能主要靠“大机构大客户”证明世界变大；
+4. 至少两位 recurring characters 必须用自主事件证明不围着沈峥事业活。
+
+New active brief:
+> `research/briefs/2026-09-23_c01_early20_total_editor_blocker_patch_brief.md`
+
+Required output:
+- `research/design/2026-09-23_c01_early20_total_editor_blocker_patch.md`
+- `reviews/2026-09-23_c01_early20_total_editor_blocker_patch_selfcheck.md`
+- CURRENT update;
+- history snapshot.
+
+Do not touch C12 design except as frozen comparison control.
+
+After completion:
+> hand back to editor_in_chief / D-0079 Quick Gate.
