@@ -120,15 +120,20 @@
 - deliver_to: editor_in_chief
 
 ## book_writer_v2
-- status: ACTIVE
-- execution_window: 必须新开全新GPT窗口
+- status: DONE / PAUSED
+- execution_window: 六章正文任务已完成
 - current: `handoffs/book_writer_v2/CURRENT.md`
-- current_task: Dual Finalist Six-Chapter Prose Duel
+- completed_task: Dual Finalist Six-Chapter Prose Duel
 - brief: `research/briefs/2026-09-23_dual_six_chapter_prose_duel_brief.md`
-- current: `handoffs/book_writer_v2/CURRENT.md`
+- outputs:
+  - `reviews/2026-09-23_dual_six_chapter_writer_selfcheck.md`
+  - `experiments/finalist_six_chapter_packages/2026-09-23_finalist_X2_ch001_006.md`
+  - `experiments/finalist_six_chapter_packages/2026-09-23_finalist_Y2_ch001_006.md`
 - mapping:
   - X2 = C01
   - Y2 = C12
+- deliver_to: editor_in_chief / Internal Quality Kill Chain
+- hard_rule: writer不得自行写Ch7、选赢家或启动Blind Read
 - note: 原opening_writer已到对话上限，永久退休
 
 ## blind_reader
@@ -315,22 +320,20 @@
   > writing/reading/prose proof becomes default after Canopy
 
 
-## D-0060 Controlled Six-Chapter Prose Duel｜ACTIVE
+## D-0060 Controlled Six-Chapter Prose Duel｜WRITER DONE / QUALITY CHAIN NEXT
 - dual_canopy_audit:
   `reviews/2026-09-23_dual_canopy_total_editor_shelf_parity_audit.md`
 - C01 Canopy: PASS TO PROSE
 - C12 Canopy: PASS TO PROSE
 - writer:
   `handoffs/book_writer_v2/CURRENT.md`
-- brief:
-  `research/briefs/2026-09-23_dual_six_chapter_prose_duel_brief.md`
-- C01:
-  - keep Ch1—3 provisional
-  - write Ch4—6
-- C12:
-  - rewrite Ch1—3 V2
-  - write Ch4—6
-- next_after_writer:
-  > internal quality kill chain -> fresh six-chapter blind read -> total editor synthesis
+- writer_status: DONE / PAUSED
+- prose_packages:
+  - `experiments/finalist_six_chapter_packages/2026-09-23_finalist_X2_ch001_006.md`
+  - `experiments/finalist_six_chapter_packages/2026-09-23_finalist_Y2_ch001_006.md`
+- writer_selfcheck:
+  `reviews/2026-09-23_dual_six_chapter_writer_selfcheck.md`
+- next:
+  > editor_in_chief / internal quality kill chain -> fresh six-chapter blind read -> total editor synthesis
 - hard_rule:
-  > no new broad research; no Ch7; no Primary decision before prose proof
+  > no new broad research; no Ch7; no Primary decision before independent prose proof
