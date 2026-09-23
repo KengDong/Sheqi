@@ -3,7 +3,7 @@
 ## ROLE
 - role: six_chapter_fresh_reader / Fresh Shelf Reader
 - execution_window: clean-room blind read
-- status: COMPLETE
+- status: DONE / PAUSED
 - completed_task: Fresh Six-Chapter Shelf Test
 - brief: `research/briefs/2026-09-23_finalist_six_chapter_fresh_blind_read_brief.md`
 
@@ -39,3 +39,14 @@
 ## NEXT
 交：
 > editor_in_chief / Total Editor
+
+
+## EDITOR REVEAL
+Fresh Reader本轮停止后，由总评审揭盲：
+- X2 = C01《明天已经卖掉》
+- Y2 = C12《替有钱人渡劫》
+
+总评审决定：
+> 两本均STRONG PASS，继续到Ch10。
+
+不要在本reader窗口继续读取项目背景，除非后续Total Editor明确重新激活为Returning Reader。
