@@ -8,9 +8,9 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: D-0079 C01 Early-20 Total-Editor Blocker Patch Oversight
-- gate: D-0078 PARTIAL PASS / C01 PATCH ACTIVE / C12 PROTOTYPE-READY FROZEN
-- review: `reviews/2026-09-23_d0078_dual_early20_total_editor_experience_gate.md`
+- current_task: D-0080 First-Principles Story Forge Orchestration
+- gate: PHASE-1 MULTI-LANE DESIRE GENERATION
+- authority: `meta/CURRENT_AUTHORITY.md`
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -567,22 +567,27 @@
 
 
 ## narrative_aperture
-- status: ACTIVE / D-0079 TARGETED PATCH
-- role: narrative_aperture / Hit-Fiction Experience Architect
+- status: PAUSED / SUPERSEDED BY D-0080
+- previous_task: D-0079 C01 blocker patch
 - current: `handoffs/narrative_aperture/CURRENT.md`
-- brief: `research/briefs/2026-09-23_c01_early20_total_editor_blocker_patch_brief.md`
-- input_review: `reviews/2026-09-23_d0078_dual_early20_total_editor_experience_gate.md`
-- scope:
-  - C01 Ch4—6 alternative spines
-  - C01 Ch11—13 semantic-engine rebuild
-  - C01 Ch20 event-engine rebuild
-  - recurring-character autonomous causality proof
-  - Semantic Rolling-3 audit
-- C12: PASS TO SHORT PROTOTYPE / FROZEN UNTIL C01 QUICK GATE
-- deliver_to: editor_in_chief / D-0079 Quick Gate
+- reason:
+  > local targeted patch loop is paused while the entire fiction R&D process is reset.
+- no_active_execution: true
+
+## first_principles_story_forge
+- status: ACTIVE / D-0080 PHASE 1
+- role: multi-lane concept forge
+- brief: `research/briefs/2026-09-23_first_principles_story_forge_phase1_brief.md`
+- authority:
+  - `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
+  - `meta/EXPERIMENT_LANES_V1.md`
+- lanes:
+  - A Native Rebuild: C01/C12 free variants
+  - B Benchmark Function Clones
+  - C Wild Concepts
+- deliver_to: editor_in_chief / Desire Cut
 - hard:
   - no prose
-  - no Ch21
+  - no Ch1—20 outline
+  - no Canon/Outline change
   - no Primary
-  - no Canon/Outline authority edit
-  - no new broad research
