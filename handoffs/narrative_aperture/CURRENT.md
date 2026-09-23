@@ -7,78 +7,133 @@
 第一步必须完整读取：
 > `handoffs/narrative_aperture/COLD_START.md`
 
-它包含：
-- D-0078为什么产生；
-- 作者真实弃读反馈；
-- 哪些旧STRONG PASS已失效；
-- 两本当前哪些资产保留/哪些降级；
-- Narrative Aperture / Scene Ecology / Novelty Bandwidth / Macro Promise的准确定义；
-- 本轮真正成功标准。
+然后读取本CURRENT。
 
-读取COLD_START之后，
-再读本CURRENT与ACTIVE BRIEF。
-
-不要从旧聊天猜项目历史。
-
+---
 
 ## ROLE
 - role: narrative_aperture / Hit-Fiction Experience Architect
-- status: ACTIVE
-- current_gate: D-0078 Dual Early-20 Hit-Fiction Experience Rebuild
+- status: DONE / PAUSED
+- completed_gate: D-0078 Dual Early-20 Hit-Fiction Experience Rebuild
+- handoff_to: editor_in_chief / Total-Editor Experience Gate
 
 ## AUTHORITY
 
-D-0076 narrow task is closed as:
+D-0076 narrow task remains closed as:
 > **diagnosis accepted / narrow deliverables superseded before production.**
 
-Do not create the old narrow outputs.
-
-Total Editor audit:
-> `reviews/2026-09-23_narrative_aperture_total_editor_absorption_audit.md`
+本轮没有补做旧窄任务。
 
 D-0077 upstream OS:
 > `research/reports/2026-09-23_fanqie_hit_fiction_operating_system_v2.md`
 
-## ACTIVE BRIEF
-
+D-0078 active brief executed:
 > `research/briefs/2026-09-23_dual_early20_hit_fiction_experience_rebuild_brief.md`
 
-## CORE TASK
+## COMPLETED OUTPUTS
 
-For BOTH C01 and C12, rebuild the first 20 chapters as a reader-experience system, not a prose patch.
+1. C01 Early20 rebuild:
+> `research/design/2026-09-23_c01_early20_hit_fiction_experience_rebuild.md`
 
-Required:
-1. current-prose salvage audit;
-2. engine mix;
-3. Early 20 Chapter Experience Map;
-4. Five Growth Curves;
-5. Character Story-Entrance Map;
-6. Macro Promise Ladder;
-7. Scene Mode Map + Rolling-3 Audit;
-8. 10—15 Signature Scene Seeds per book;
-9. Anti-Cargo-Cult Red Team.
+2. C12 Early20 rebuild:
+> `research/design/2026-09-23_c12_early20_hit_fiction_experience_rebuild.md`
 
-## OUTPUTS
+3. Dual selfcheck:
+> `reviews/2026-09-23_dual_early20_hit_fiction_rebuild_selfcheck.md`
 
-1. `research/design/2026-09-23_c01_early20_hit_fiction_experience_rebuild.md`
-2. `research/design/2026-09-23_c12_early20_hit_fiction_experience_rebuild.md`
-3. `reviews/2026-09-23_dual_early20_hit_fiction_rebuild_selfcheck.md`
-4. update CURRENT
-5. add history snapshot
+4. History snapshot:
+> `handoffs/narrative_aperture/history/2026-09-23_d0078_dual_early20_hit_fiction_experience_rebuild_done.md`
 
-## HARD
+## EXECUTION SUMMARY
 
-- no prose edits;
-- no new chapters;
-- no Ch21;
-- no Primary;
-- no Canon / Approved Outline authority edits;
-- do not preserve old chapters merely because they already exist;
-- do not solve stage-play feel with scenery padding / random POV / random locations / lore dumping.
+### C01
+旧Ch4—20不再按：
+> 又一单 -> 更复杂履约 -> 稳定客户 -> 团队
+
+继续。
+
+新版前20主发动机改为：
+> **时间产权不断侵入普通人生。**
+
+前10实体进入：
+- 企业施工；
+- 招聘；
+- 家庭/照护；
+- 社区工作；
+- 城市并发交割。
+
+Long-Horizon在前20第一次真正落地：
+> **过去的我同意过，未来的我还能不能重新说“不”？**
+
+Ch20远景反咬主角业务：
+> 机构级“百人未来时段池”要求沈峥真正面对长期未来执行权。
+
+### C12
+职业安全不再是世界本身。
+
+新版前20主发动机改为：
+> **现代修仙城市扩张 + 人生/关系复利 + 风险文明总账远景。**
+
+前10实体进入：
+- 城市公共渡劫服务；
+- 小商户；
+- 合租/城市生活；
+- 企业晋升与筑基福利；
+- 学校/同龄修士；
+- 家庭筑基消费；
+- 高阶突破对城市公共系统的影响。
+
+Ch19第一次给出：
+> 风险可能跨设备 / 场地 / 时间残留
+
+的实体线索，但不确认终极机制。
+
+Ch20兑现：
+> 周野从第一章玻璃房外的劫工，走到玻璃房内成为自己的筑基客户。
+
+## SELFCHECK VERDICT
+
+> **PASS WITH EXECUTION RISKS**
+
+设计层已满足：
+- 两本完整 Early20 map；
+- Five Growth Curves；
+- Character Story-Entrance Map；
+- Macro Promise Ladder；
+- Scene Mode + Rolling-3；
+- Signature Scene Bank（C01 12 / C12 14）；
+- Anti-Cargo-Cult red team；
+- Ch10 Macro Promise实体可见；
+- Ch20远景问题反咬主角现实；
+- no scenery padding / random POV / lore dump；
+- no prose / no Ch21 / no Primary / no Canon/Approved Outline authority edit。
+
+重点执行风险已在selfcheck列出：
+- C01 Ch7 / Ch10 / Ch15—16 / Ch20；
+- C12 Ch2 / Ch7—9 / Ch10 / Ch19。
+
+这些风险必须由后续 Total Editor 与 Prototype / Voluntary Fresh Read 继续验证。
 
 ## HAND BACK
 
-When all outputs are DONE:
-> editor_in_chief / Total-Editor Experience Gate.
+下一步唯一合法动作：
 
-Do not start Writer.
+> **editor_in_chief / Total-Editor Experience Gate**
+
+Total Editor需判断：
+1. 两本是否真的形成不同且可持续的20章阅读发动机；
+2. Ch4—10是否有足够“原来这本书还能这样”的体验；
+3. Macro Promise是否实体而非文档宣称；
+4. 核心人物是否真的值得脱离职业主线继续追；
+5. 哪些设计仍可能在Writer手里退化成说明书/小品；
+6. 是否放行新的 Prototypes。
+
+## HARD STOP
+
+本角色停止：
+- 不写正文；
+- 不写Ch21；
+- 不做Primary；
+- 不改Canon / Approved Outline；
+- 不启动Writer；
+- 不把设计层PASS宣称为小说已经好看。
