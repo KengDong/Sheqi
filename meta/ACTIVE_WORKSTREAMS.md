@@ -8,8 +8,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: D-0064 Dual Ch7—10 Prose Continuation Orchestration
-- gate: Writer V2 ACTIVE
+- current_task: D-0064 Ch7—10 Internal Quality Gate
+- gate: Writer V2 Ch7—10 DONE / QUALITY GATE NEXT
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
