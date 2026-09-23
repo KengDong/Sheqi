@@ -3,7 +3,7 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0072 AUTHOR FIRST READ
+- current_gate: D-0074 AUTHOR FIRST READ / C01 NAME LOCKED
 
 ## LAST COMPLETED TASK
 - task: Event-First Execution Validation总评审
@@ -512,3 +512,22 @@ Hard freeze until author response:
 Next:
 > Author gives raw reading reaction first.
 > Only then Total Editor synthesizes all evidence.
+
+
+## D-0074 C01 NAME LOCK
+Author approved:
+> **沈桥 -> 沈峥**
+
+Applied mechanically to:
+- current C01 prose;
+- C01 Ch1—20 author package;
+- active C01 design assets.
+
+Historical blind/review/history files intentionally preserve “沈桥” where that was the name read at the time.
+
+No plot/prose changes bundled.
+
+Author First Read:
+> **ACTIVE / RESUMED**
+
+Other Naming Bible proposals remain unapproved unless separately confirmed.
