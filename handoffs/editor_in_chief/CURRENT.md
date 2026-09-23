@@ -3,7 +3,36 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0080 First-Principles Story Forge / Phase 1
+- current_gate: D-0081 Story Reservoir Stress Test
+
+
+## D-0081 DESIRE CUT COMPLETE
+
+Phase-1 Total Editor review:
+> `reviews/2026-09-23_phase1_story_forge_desire_cut.md`
+
+33 concepts -> 8 PULL.
+
+Promoted:
+- R1 Future Holdings
+- R2 Second Autobiography
+- R3 Borrowed Tribulations
+- R4 Borrow a Relationship
+- R5 This City I Have Routes
+- R6 Monday Prophecy
+- R7 Dead People Still Work
+- R8 Missing Day List
+
+Active executor:
+> `handoffs/story_reservoir_forge/CURRENT.md`
+
+Total Editor waits for all eight reservoir outputs.
+No early repair.
+No Primary.
+No prose.
+
+Next gate:
+> **Reservoir Cut**
 
 
 ## D-0080 FIRST-PRINCIPLES PROCESS RESET
