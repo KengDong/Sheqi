@@ -2505,3 +2505,35 @@ C01若Continuation保持STRONG：
 
 第一性原理：
 > **不拿不等长样本硬选赢家；先判断每本是否真的沿正确方向变得更好。**
+
+
+## D-0071 Returning Reader PASS -> C12 Equalization to Ch20 -> Author First Read
+**状态：2026-09-23生效**
+
+Returning Reader：
+- C01/X4：STRONG PASS continues / 高位持平；
+- C12/Y4：由 PASS（偏强）升级为 STRONG PASS；
+- C12课程感显著下降；
+- Reader明确愿继续C12 Ch16—20。
+
+决策：
+1. C01冻结在Ch20；
+2. 只补C12 Ch16—20；
+3. 两本齐20章后停止所有正文推进；
+4. Total Editor只做硬伤/连续性检查；
+5. 随后进入 **AUTHOR FIRST READ**：
+   - C01 Ch1—20
+   - C12 Ch1—20
+6. 作者读完前：
+   - 不写任一本Ch21；
+   - 不做新Reader Test；
+   - 不做新Benchmark；
+   - 不选Primary。
+
+C12 Ch16—20核心：
+> 周野从替别人分担可外放劫荷的人，变成自己筑基的客户；当风险终于属于自己时，他要面对自己愿意把多少可转移风险交给过去的“自己那类人”。
+
+不得写成职业课或简单道德答案。
+
+第一性原理：
+> 现在最重要的新证据不是更多GPT判断，而是两本等长20章后作者本人连续阅读的真实感觉。
