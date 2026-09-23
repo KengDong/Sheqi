@@ -8,8 +8,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: Dual Longform Canopy Orchestration
-- gate: C01 Canopy DONE + C12 Canopy ACTIVE
+- current_task: D-0060 Controlled Six-Chapter Prose Duel Orchestration
+- gate: Book Writer V2 ACTIVE
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -31,13 +31,15 @@
 - hard_rule: no future tasks to this window
 
 ## benchmark_deepread
-- status: ACTIVE
+- status: DONE / PAUSED
 - role: c12_longform_architect / Industrial Cultivation Canopy Architect
 - execution_window: 复用原 Benchmark Deep Read / C12 Book Architect窗口
-- current_task: C12 Longform Canopy Architecture
+- current_task: C12 Longform Canopy Architecture｜DONE
 - current: `handoffs/benchmark_deepread/CURRENT.md`
-- brief: `research/briefs/2026-09-23_c12_longform_canopy_architecture_brief.md`
-- prior_first10_audit: `reviews/2026-09-23_c12_first10_total_editor_audit.md`
+- output:
+  - `research/design/2026-09-23_c12_longform_canopy_architecture.md`
+  - `reviews/2026-09-23_c12_longform_canopy_selfcheck.md`
+- verdict: PASS TO DUAL CANOPY TOTAL-EDITOR AUDIT
 - deliver_to: editor_in_chief
 
 ## market_scout
@@ -118,14 +120,15 @@
 - deliver_to: editor_in_chief
 
 ## book_writer_v2
-- status: QUEUED / BLOCKED BY DUAL CANOPY + TOTAL EDITOR AUDIT
+- status: ACTIVE
 - execution_window: 必须新开全新GPT窗口
 - current: `handoffs/book_writer_v2/CURRENT.md`
-- blocked_by:
-  - C12 Longform Canopy Architecture
-  - Total Editor canopy audit
-  - Author final direction
-- proposal: `reviews/2026-09-22_full_reboot_proposal_c01.md` (HOLD)
+- current_task: Dual Finalist Six-Chapter Prose Duel
+- brief: `research/briefs/2026-09-23_dual_six_chapter_prose_duel_brief.md`
+- current: `handoffs/book_writer_v2/CURRENT.md`
+- mapping:
+  - X2 = C01
+  - Y2 = C12
 - note: 原opening_writer已到对话上限，永久退休
 
 ## blind_reader
@@ -310,3 +313,24 @@
   > no new broad research unless a named evidence gap directly threatens real reading quality
 - hard_rule:
   > writing/reading/prose proof becomes default after Canopy
+
+
+## D-0060 Controlled Six-Chapter Prose Duel｜ACTIVE
+- dual_canopy_audit:
+  `reviews/2026-09-23_dual_canopy_total_editor_shelf_parity_audit.md`
+- C01 Canopy: PASS TO PROSE
+- C12 Canopy: PASS TO PROSE
+- writer:
+  `handoffs/book_writer_v2/CURRENT.md`
+- brief:
+  `research/briefs/2026-09-23_dual_six_chapter_prose_duel_brief.md`
+- C01:
+  - keep Ch1—3 provisional
+  - write Ch4—6
+- C12:
+  - rewrite Ch1—3 V2
+  - write Ch4—6
+- next_after_writer:
+  > internal quality kill chain -> fresh six-chapter blind read -> total editor synthesis
+- hard_rule:
+  > no new broad research; no Ch7; no Primary decision before prose proof
