@@ -3,7 +3,7 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0074 AUTHOR FIRST READ / C01 NAME LOCKED
+- current_gate: D-0076 Dual Narrative Aperture Reframe
 
 ## LAST COMPLETED TASK
 - task: Event-First Execution Validation总评审
@@ -531,3 +531,35 @@ Author First Read:
 > **ACTIVE / RESUMED**
 
 Other Naming Bible proposals remain unapproved unless separately confirmed.
+
+
+## D-0076 NARRATIVE APERTURE OVERRIDE
+Author feedback:
+> both finalists feel like small stage plays with frequent static dialogue, low scene motion / information intake, and no visible larger future promise.
+
+Formal review:
+> `reviews/2026-09-23_dual_narrative_aperture_macro_promise_review.md`
+
+Active:
+> `handoffs/narrative_aperture/CURRENT.md`
+
+Brief:
+> `research/briefs/2026-09-23_dual_narrative_aperture_reframe_brief.md`
+
+Hard:
+- no prose continuation;
+- no Ch21;
+- no random POV/location expansion;
+- no scenery-padding;
+- no Primary.
+
+Need:
+- scene inventory;
+- stage-play test;
+- cinema-intake test;
+- C01 Ch4—10 alternative spines;
+- C12 early reframe options;
+- macro-promise ladder by Ch3/6/10.
+
+Next:
+> reframe DONE -> Total Editor audit -> only then new prose prototypes.
