@@ -8,8 +8,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: D-0072 AUTHOR FIRST READ
-- gate: BOTH 20-CHAPTER SAMPLES FROZEN
+- current_task: D-0076 Dual Narrative Aperture Reframe Orchestration
+- gate: AUTHOR DROP-OFF OVERRIDE / REFRAME ACTIVE
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -563,3 +563,18 @@
   > ACTIVE / RESUMED
 - other naming proposals:
   > still pending separate approval
+
+
+## narrative_aperture
+- status: ACTIVE
+- role: narrative_aperture / Scene-Scale & Serial-Promise Architect
+- current: `handoffs/narrative_aperture/CURRENT.md`
+- brief: `research/briefs/2026-09-23_dual_narrative_aperture_reframe_brief.md`
+- scope:
+  - C01 early reframe
+  - C12 early reframe
+  - scene ecology
+  - narrative aperture
+  - novelty bandwidth
+  - macro promise
+- deliver_to: editor_in_chief
