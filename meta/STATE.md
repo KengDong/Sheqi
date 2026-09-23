@@ -1,3 +1,26 @@
+# D-0077｜HIT FICTION RESEARCH V2 COMPLETE
+
+Author required a research-first reset before any further prose.
+
+Formal OS:
+`research/reports/2026-09-23_fanqie_hit_fiction_operating_system_v2.md`
+
+Core:
+- no single Fanqie formula;
+- valid engines include World Expansion / Mystery Recontextualization / Fantasy Compounding;
+- current cross-book failure is over-professionalized detail without enough expansion/recontextualization/compounding.
+
+Unified standard:
+> 眼前一直有事，身后一直有积累，旁边一直有人，远处一直有东西。
+
+Current prose:
+> FROZEN.
+
+Next:
+> Total Editor rebuilds book/early-arc experience maps before any new prose.
+
+---
+
 # D-0076｜DUAL NARRATIVE APERTURE REFRAME ACTIVE
 
 Author First Read exposed a cross-book problem:
