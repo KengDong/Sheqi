@@ -3,7 +3,45 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0076 Dual Narrative Aperture Reframe
+- current_gate: D-0078 Dual Early-20 Hit-Fiction Experience Rebuild
+
+
+## D-0078 NARRATIVE APERTURE ABSORPTION
+
+Total Editor verdict:
+> **D-0076 diagnosis PASS; narrow task SUPERSEDED by D-0077 before outputs.**
+
+Do not fake-complete missing narrow deliverables.
+
+Formal audit:
+> `reviews/2026-09-23_narrative_aperture_total_editor_absorption_audit.md`
+
+New active brief:
+> `research/briefs/2026-09-23_dual_early20_hit_fiction_experience_rebuild_brief.md`
+
+Active:
+> `handoffs/narrative_aperture/CURRENT.md`
+
+The role is expanded from Scene-Scale patching to:
+> **Hit-Fiction Experience Architecture**
+
+Required before any new prose:
+- Early20 Experience Map;
+- Five Growth Curves;
+- Character Story-Entrance Map;
+- Macro Promise Ladder;
+- Scene Mode + Rolling-3 Audit;
+- Signature Scene Bank.
+
+Hard:
+- no Ch21;
+- no local prose patch;
+- no Primary;
+- no Canon/Outline authority change.
+
+Next:
+> rebuild DONE -> editor_in_chief Total-Editor Experience Gate -> only then new prose prototypes.
+
 
 ## LAST COMPLETED TASK
 - task: Event-First Execution Validation总评审
