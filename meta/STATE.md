@@ -1,3 +1,43 @@
+# D-0056｜Dual Finalist Bootstrap ACTIVE
+
+作者亲读C01 / C12后明确：
+> **两部都推进。**
+
+## C01《明天已经卖掉》
+ACTIVE：
+> Time-Market Analog & Novelty Bootstrap
+
+重点：
+- 反“低买高卖”重复；
+- 类似/相邻热门作品Benchmark；
+- 成熟时间市场为何仍有机会；
+- 记忆/身体托管技术合理性；
+- 每次扩域必须产生玩法质变、关系变化、世界认知翻转；
+- 建立100万—220万+长跑压力测试。
+
+## C12《替有钱人渡劫》
+ACTIVE：
+> Industrial Cultivation Scale Bootstrap
+
+重点：
+- 深拆《没钱修什么仙》如何撑大体量；
+- 现代社会+修仙是否正式作为世界底盘；
+- 传统境界 / 劫的来源 / 风险分包；
+- 周野背景Entry Duel；
+- 职业劫荷残留/劫债候选；
+- 200万—300万字级压力测试；
+- 幽默与社会荒诞长期发动机。
+
+## HOLD
+- C01 Full Reboot Proposal：HOLD
+- Book Writer V2：BLOCKED
+- 两本Ch4：禁止
+
+NEXT：
+> 两份Bootstrap报告完成 -> 总评审合流 -> 作者再决定主方向。
+
+---
+
 # Final Book Direction｜AWAITING AUTHOR APPROVAL
 
 ## TOTAL EDITOR RECOMMENDATION
@@ -167,7 +207,7 @@ NEXT：
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：** D-0055 Good Novel First -> C01 Full Reboot Author Approval Gate
+**阶段：** D-0056 Dual Finalist Bootstrap ACTIVE
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷AC-Hybrid权威化日期：**2026-09-22  
