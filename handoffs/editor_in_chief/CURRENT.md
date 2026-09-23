@@ -3,7 +3,45 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0078 Dual Early-20 Hit-Fiction Experience Rebuild
+- current_gate: D-0079 C01 Early-20 Total-Editor Blocker Patch
+
+
+## D-0079 TOTAL-EDITOR EXPERIENCE GATE
+
+Formal review:
+> `reviews/2026-09-23_d0078_dual_early20_total_editor_experience_gate.md`
+
+Verdict:
+> **D-0078 PARTIAL PASS**
+>
+> **C12 PASS TO SHORT PROTOTYPE**
+>
+> **C01 TARGETED ARCHITECTURE REVISION REQUIRED**
+
+C01 blockers:
+1. Ch4—5仍可能连续退回会展适配 / 救单；
+2. Ch11—13语义发动机仍像普通创业扩容三连；
+3. Ch20仍以“大机构大单”承载世界变大；
+4. recurring character的独立欲望尚需用自主因果证明。
+
+Active patch brief:
+> `research/briefs/2026-09-23_c01_early20_total_editor_blocker_patch_brief.md`
+
+Executor:
+> `handoffs/narrative_aperture/CURRENT.md`
+
+C12 status:
+> 架构层通过，等待C01 patch后一起进入 Short Dual Prototype；不单独启动Writer。
+
+Expected after C01 quick gate PASS:
+> same Writer -> C01/C12 新版 Ch4—10 short prototypes -> Voluntary Stop Fresh Read。
+
+Hard:
+- no Ch21;
+- no full Ch1—20 rewrite;
+- no Primary;
+- no Canon / Approved Outline authority change;
+- no Writer before C01 D-0079 quick gate.
 
 
 ## D-0078 NARRATIVE APERTURE ABSORPTION
