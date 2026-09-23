@@ -158,6 +158,32 @@ outline_effect: none
 
 不能只靠“发现更大的市场”。
 
+### L. Long-Horizon Engine
+必须读取：
+- `meta/LONG_HORIZON_ENGINE.md`
+
+至少比较3种C01远景方案，其中必须包括：
+1. 终极产权/未来人格冲突；
+2. 更强终极秘密方案；
+3. 无终极秘密、只靠商业成长/关系/规则权的方案。
+
+最终必须明确：
+- 是否需要真正的终极秘密；
+- Ultimate Horizon Card；
+- Secret / Question Ladder；
+- 至少8个Recontextualization Seeds；
+- Terminal Choice；
+- Mystery-to-Life Coupling Audit。
+
+重点压力测试当前推荐：
+> **“今天的我，有没有权把十年后的我卖掉？”**
+
+同时评估：
+> Ch1卖掉的第一天是否适合作为长期Personal Mystery Anchor。
+
+禁止为了制造悬疑复制：
+> 意识去了另一个世界 / 神秘组织买走沈桥第一天 / 世界其实是假的。
+
 ## OUTPUT
 1. `research/design/2026-09-23_c01_longform_canopy_architecture.md`
 2. `reviews/2026-09-23_c01_longform_canopy_selfcheck.md`
