@@ -1,4 +1,4 @@
-# D-0064｜Dual Ch7—10 Prose Continuation ACTIVE
+# D-0064｜Dual Ch7—10 Prose Continuation WRITER DONE / QUALITY GATE NEXT
 
 Fresh Six-Chapter Clean-Room结果：
 
@@ -12,23 +12,31 @@ Fresh Six-Chapter Clean-Room结果：
 总评审：
 > `reviews/2026-09-23_six_chapter_fresh_blind_total_editor_synthesis.md`
 
-决策：
-> **不选Primary。两本继续实写到Ch10。**
+D-0064 Writer输出已完成：
 
-ACTIVE：
-> Book Writer V2
+### C01
+- Ch7—10 DONE
+- 受托身份 / 方栀职业线 / 陈美兰主体性 / 第一次卖结果 已落正文
 
-brief：
-> `research/briefs/2026-09-23_dual_ch007_010_prose_continuation_brief.md`
+### C12
+- Ch7—10 DONE
+- 袁晨连续人物链 / 周野自己的筑基目标 / 第一次判断费 已落正文
 
-重点：
-- C01：人物增厚 + 中距离兑现 + Ch10卖结果；
-- C12：打破案例文感 + 周野自己的筑基目标进入 + Ch10判断第一次单独值钱。
+Ten-Chapter Packages：
+- `experiments/finalist_ten_chapter_packages/2026-09-23_finalist_X3_ch001_010.md`
+- `experiments/finalist_ten_chapter_packages/2026-09-23_finalist_Y3_ch001_010.md`
 
-下一Gate：
-> Ch7—10完成 -> Total Editor Internal Quality Gate。
+Writer Selfcheck：
+> `reviews/2026-09-23_dual_ch007_010_writer_selfcheck.md`
 
-不重开Research。
+NEXT：
+> **editor_in_chief / Internal Quality Gate**
+
+HARD：
+- 不写Ch11；
+- 不选Primary；
+- 不扩Research；
+- 不自行启动Reader Test。
 
 ---
 
