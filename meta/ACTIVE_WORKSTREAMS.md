@@ -8,8 +8,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: Longform Canopy Architecture Orchestration
-- gate: C01 Canopy ACTIVE + C12 First-10 ACTIVE -> C12 Canopy QUEUED
+- current_task: Dual Longform Canopy Orchestration
+- gate: C01 Canopy ACTIVE + C12 Canopy ACTIVE
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -32,11 +32,12 @@
 
 ## benchmark_deepread
 - status: ACTIVE
-- role: c12_book_architect / First-10 Industrial Cultivation Architect
-- execution_window: 复用旧 Benchmark Deep Read / C12 Scale Architect窗口
-- current_task: C12 First-10 Story Engine
+- role: c12_longform_architect / Industrial Cultivation Canopy Architect
+- execution_window: 复用原 Benchmark Deep Read / C12 Book Architect窗口
+- current_task: C12 Longform Canopy Architecture
 - current: `handoffs/benchmark_deepread/CURRENT.md`
-- brief: `research/briefs/2026-09-23_c12_first10_story_engine_brief.md`
+- brief: `research/briefs/2026-09-23_c12_longform_canopy_architecture_brief.md`
+- prior_first10_audit: `reviews/2026-09-23_c12_first10_total_editor_audit.md`
 - deliver_to: editor_in_chief
 
 ## market_scout
@@ -113,7 +114,7 @@
 - deliver_to: editor_in_chief
 
 ## book_writer_v2
-- status: QUEUED / BLOCKED BY LONGFORM CANOPY GATE
+- status: QUEUED / BLOCKED BY DUAL CANOPY + TOTAL EDITOR AUDIT
 - execution_window: 必须新开全新GPT窗口
 - current: `handoffs/book_writer_v2/CURRENT.md`
 - blocked_by:
@@ -288,3 +289,19 @@
   - BLOCKED
 - hard_gate:
   > 两本Canopy通过总评审前，不进入持续正文生产。
+
+
+## D-0059 Finalist Convergence Roadmap｜ACTIVE
+- roadmap:
+  `meta/FINALIST_CONVERGENCE_ROADMAP.md`
+- now:
+  - C01 Longform Canopy: ACTIVE
+  - C12 Longform Canopy: ACTIVE
+- next:
+  > Dual Canopy Total-Editor Shelf-Parity Audit
+- after_pass:
+  > single Book Writer V2 -> controlled six-chapter prose duel
+- research_policy:
+  > no new broad research unless a named evidence gap directly threatens real reading quality
+- hard_rule:
+  > writing/reading/prose proof becomes default after Canopy
