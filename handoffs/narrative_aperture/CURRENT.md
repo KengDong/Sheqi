@@ -2,7 +2,7 @@
 
 ## ROLE
 - role: narrative_aperture / Scene-Scale & Serial-Promise Architect
-- status: ACTIVE
+- status: PAUSED / ABSORBED INTO HIT-FICTION REBUILD
 - current_task: Dual Narrative Aperture Reframe
 - brief: `research/briefs/2026-09-23_dual_narrative_aperture_reframe_brief.md`
 
@@ -37,3 +37,23 @@ No Primary.
 No Canon/Outline changes.
 
 Hand back to editor_in_chief.
+
+
+## D-0077 OVERRIDE
+Do not execute this as a narrow scene-aperture patch.
+
+The author requested a full research-first reset.
+
+Required upstream standard:
+> `research/reports/2026-09-23_fanqie_hit_fiction_operating_system_v2.md`
+
+Narrative Aperture / Scene Ecology remain required dimensions,
+but must be redesigned together with:
+- desire;
+- compounding;
+- social surface;
+- relationships;
+- mystery/recontextualization;
+- macro promise.
+
+Wait for a new Total-Editor rebuild brief.
