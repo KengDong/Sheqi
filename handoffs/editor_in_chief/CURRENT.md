@@ -3,7 +3,7 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0056 Dual Finalist Bootstrap
+- current_gate: Dual First-10 Story Engine
 
 ## LAST COMPLETED TASK
 - task: Event-First Execution Validation总评审
@@ -14,31 +14,28 @@
   - `handoffs/editor_in_chief/history/2026-09-22_event_first_execution_validation_pass.md`
 
 ## WHAT ACTUALLY HAPPENED
-- Returning Reader Continuation Test：DONE。
-  - B：PASS / 读欲总体上升；
-  - D：PASS / 普通职业日仍成立；
-  - 两者到Ch3均开始追“人的人生”。
-- Second Fresh 3-Chapter Shelf Test：DONE。
-  - X：STRONG PASS；
-  - Y：PASS；
-  - 若只能追一本：X。
-- 揭盲：
-  - X = B = C01《明天已经卖掉》
-  - Y = D = C12《替有钱人渡劫》
-- 三层独立证据收敛：
-  1. Popular Benchmark：C01 / C12均PASS；
-  2. 第一轮Fresh Prototype Blind：B / D均STRONG PASS；
-  3. 第二Fresh 3-Chapter Shelf：C01明确领先。
-- 总评审最终推荐：
-  > **C01《明天已经卖掉》进入Full Reboot Authority Gate。**
+- D-0056双Bootstrap：**两边均DONE / PASS**。
+- C01：
+  - 长篇定义从“时间倒卖”升级为“非标准化未来人身执行权市场”；
+  - 沈桥edge=可靠交割 / 风险组织，不是发现明显错价；
+  - T1-R受限执行权托管为推荐技术候选；
+  - 140—170万为当前健康设计区间，220万+条件开放。
 - C12：
-  > **第一Reserve，不并行研发。**
-- 已创建：
-  - `reviews/2026-09-22_final_book_direction_synthesis.md`
-  - `reviews/2026-09-22_full_reboot_proposal_c01.md`
-- 原opening_writer继续RETIRED。
-- book_writer_v2保持QUEUED / BLOCKED BY AUTHOR AUTHORITY。
-- 在作者批准前不修改旧Sheqi Canon/Outline，不写C01正式Ch4，不做正式Book Bible。
+  - 正式研究底盘=现代工业社会+修仙完整嵌入；
+  - 传统境界优先，DELETE起劫境；
+  - 劫=破境气机结构失衡的天地回衡，可分流不可消灭；
+  - 周野P3土著职业安全/劫务工程背景为首选；
+  - “个人异常”优先改为职业劫债/劫荷残留；
+  - 180—220万闭环可信，280万+条件开放。
+- 总评审合流：
+  `reviews/2026-09-23_dual_finalist_bootstrap_synthesis.md`
+- 结论：
+  > **C01正文完成度领先；C12大体量潜力追上；当前继续双轨，不选赢家。**
+- 已启动：
+  - C01 First-10 Story Engine；
+  - C12 First-10 Story Engine。
+- Book Writer V2仍BLOCKED。
+- 下一次真正正文验证将以同一个新Writer控制文笔变量，并做六章级clean-room对读。
 
 ## AUTHOR FEEDBACK
 - 作者于2026-09-23进一步决定：
