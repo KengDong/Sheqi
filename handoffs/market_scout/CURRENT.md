@@ -1,76 +1,57 @@
-# Market Scout｜CURRENT HANDOFF
+# C01 Analog Scout｜CURRENT HANDOFF
 
 ## ROLE
-- role: market_scout / Reader Desire Analyst
-- status: PAUSED
-- current_task: Reader Obsession Market Scan DONE
-- brief: research/briefs/2026-09-22_reader_obsession_market_scan_brief.md
+- role: c01_analog_scout / Time-Commodity Benchmark & Novelty Architect
+- execution_window: 复用原 Market Scout 窗口
+- status: ACTIVE
+- current_task: C01 Time-Market Analog & Novelty Bootstrap
+- brief: `research/briefs/2026-09-23_c01_time_market_analog_novelty_bootstrap_brief.md`
 
-## LAST COMPLETED TASK
-- task: Reader Obsession Market Scan
-- status: DONE
-- report: research/reports/2026-09-22_reader_obsession_market_scan.md
-- completed_at: 2026-09-22 (Asia/Singapore)
+## WHY REACTIVATED
+作者亲读C01前三章：
+- 明确认可笔法明显上涨、像人写；
+- 核心设定抓人；
+- 三章后仍想继续；
+- 但明确担心：
+  > **如果只是反复低买高卖，很快会没意思。**
+- 还要求：
+  - 找相邻热门小说/作品做功能Benchmark；
+  - 解释成熟市场为什么仍有套利空间；
+  - 解释时间购买后记忆/身体控制技术；
+  - 每次扩社会领域必须产生更深的玩法质变；
+  - 需要“更多新的东西”。
 
-## WHAT ACTUALLY HAPPENED
-- 已将本轮Reader Obsession扫描正式归档到Git。
-- 本轮关注的不是“世界能产多少事”，而是“哪些欲望、人生、竞争、关系与幻想天然让普通读者想看”。
-- 最终提炼14类High-Desire Story Territories，并区分长篇主发动机与短期高刺激模块。
-- 明确8张Reader Mechanism Card：
-  1. Promise Delivery
-  2. Visible Progress
-  3. Familiar Desire, New Cost
-  4. Necessity-Driven Action
-  5. Relationship Attachment
-  6. Payoff Creates New Problem
-  7. Fair Reversal
-  8. Low Exposition Burden
-- 核心结论：读者不是在消费“设定本身”，而是在消费一种可理解、可比较、可幻想、可兑现、可持续升级的人生。
-- 同等信息量下，关系、竞争、钱、身份、稀缺机会、公开认可与秘密兑现通常比纯流程/维修/制度说明天然更有阅读吸力。
-- 起点与番茄不存在单一“快爽公式”：两者共同要求第一阶段尽快让读者看见未来生活体验，只是长期复利与早期承诺兑现的权重不同。
-- 本轮任务收尾阶段没有继续扩样本、没有新增外部研究、没有设计新书Concept。
+## EXTERNAL BENCHMARK DIRECTIONS
+### Direct premise
+- 《三日间的幸福》
+- In Time
+- 中文时间/寿命交易网文（含负面对照）
 
-## AUTHOR FEEDBACK
-- 作者明确要求本轮只做任务收尾，不继续扩研究。
-- 必须写入正式报告、更新CURRENT并新增history。
-- 完成Git提交后停止。
-- 不继续设计新书Concept，不替总评审做合流。
-
-## AUTHORITY / OUTPUTS
-- research/reports/2026-09-22_reader_obsession_market_scan.md
-- handoffs/market_scout/CURRENT.md
-- handoffs/market_scout/history/2026-09-22_reader_obsession_market_scan.md
-- authority: research only
-- canon_effect: none
-- outline_effect: none
-
-## DO NOT CONTINUE
-- 不继续扩Reader Obsession样本。
-- 不追加High-Desire Territory。
-- 不设计最终新书Concept。
-- 不替总评审把本报告与Hit Concept Foundry / World Reframe / Reader Obsession其它产物做合流。
-- 不修改Canon/Outline。
-- 不把“信息量高”重新当成“好看”的替代指标。
-- 无新brief前不继续market_scout研究。
-
-## OPEN QUESTIONS
-- 由总评审决定Reader Obsession结果如何与Hit Concept Foundry及其它独立研究合流。
-- 哪些High-Desire Territories进入后续Prototype，不由本窗口决定。
-
-## NEXT EXPECTED ACTION
-1. market_scout停止。
-2. 交总评审读取正式报告。
-3. 无新brief前保持PAUSED。
+### Functional popular-fiction benchmark
+- 《都重生了谁谈恋爱啊》
+- 《亏成首富从游戏开始》
+- 再补2—4本能证明“事业成长改变整个人生”的成熟长篇
 
 ## REQUIRED READS
-1. research/reports/2026-09-22_reader_obsession_market_scan.md
-2. research/briefs/2026-09-22_reader_obsession_market_scan_brief.md
+1. `research/briefs/2026-09-23_c01_time_market_analog_novelty_bootstrap_brief.md`
+2. C01三章整包
+3. `reviews/2026-09-22_final_book_direction_synthesis.md`
+4. `research/design/2026-09-22_hit_concept_foundry.md`（C01）
+5. `meta/COMMERCIAL_FIRST_PRINCIPLES.md`
+6. `meta/DECISIONS.md` D-0056
 
-## CONTEXT SNAPSHOT
-- Reader Obsession任务已DONE。
-- 正式报告已落库。
-- 14类High-Desire Story Territories已归档。
-- 8张Reader Mechanism Card已归档。
-- 不再扩研究。
-- 不做新书Concept。
-- 不做总评审合流。
+## OUTPUT
+- `research/design/2026-09-23_c01_time_market_analog_novelty_bootstrap.md`
+- `reviews/2026-09-23_c01_novelty_bootstrap_selfcheck.md`
+
+## NEXT EXPECTED ACTION
+- 完整执行active brief。
+- 完成CURRENT + history。
+- STOP，交总评审。
+
+## DO NOT CONTINUE
+- 不写Ch4；
+- 不把“新时间商品”数量当创新；
+- 不把金融术语复杂化当深度；
+- 不自行改Canon / Outline；
+- 不自行宣布C01胜过C12。
