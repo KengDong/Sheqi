@@ -3,7 +3,7 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0065 Fresh Ten-Chapter Blind
+- current_gate: D-0067 Asymmetric Finalist Development
 
 ## LAST COMPLETED TASK
 - task: Event-First Execution Validation总评审
@@ -362,3 +362,33 @@ Fresh Reader证据 + Benchmark证据必须同时合流，
 不得：
 - 因Fresh喜欢就跳过Benchmark；
 - 因Benchmark看起来强就压过真实读者反应。
+
+
+## D-0067 TEN-CHAPTER DUAL EVIDENCE
+Fresh Ten-Chapter:
+- X3/C01 = STRONG PASS
+- Y3/C12 = PASS（偏强）
+- subscription choice = C01
+- gap = 中
+- mature hot-shelf:
+  - C01 yes
+  - C12 close, not fully
+
+Head-Tier Benchmark:
+- C01 = HEAD-TIER READY FOR NEXT ARC
+- C12 = TARGETED GAP BEFORE Ch11—30
+
+Formal reports:
+- `reviews/2026-09-23_finalist_ten_chapter_fresh_blind_read.md`
+- `reviews/2026-09-23_ten_chapter_headtier_benchmark_parity.md`
+- `reviews/2026-09-23_dual_evidence_ten_chapter_total_editor_synthesis.md`
+
+Current:
+- C01 -> Ch11—30 Reader-Desire Arc Development
+- C12 -> Ch11—15 Life-First De-Curricularization Arc
+
+No Primary freeze yet.
+Book Writer V2 paused until both targeted designs return and pass Total Editor.
+
+First principle:
+> give each book the next step that most directly increases real reader desire; do not force symmetric workflow.
