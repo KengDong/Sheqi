@@ -159,3 +159,24 @@ Every new interface must be forced by the previous chapter's life problem and le
 
 ## STOP
 > C12 First-10 Story Engine complete. Hand to Total Editor.
+
+
+## D-0058 LONG-HORIZON NEXT GATE
+C12 Canopy阶段已新增Long-Horizon硬门。
+
+正式框架：
+- `meta/LONG_HORIZON_ENGINE.md`
+
+重点压力测试终极问题：
+> **替出去的劫，到底去了哪里？**
+
+首选结构性秘密候选：
+> 分劫没有消灭风险，而是将其分散 / 延迟 / 转嫁到工人、器材、地点、时间和更大的社会系统。
+
+Canopy必须比较至少3种终局方案，并给：
+- Secret Ladder；
+- Recontextualization Seeds；
+- 周野个人绑定；
+- Terminal Choice。
+
+当前First-10任务继续完成，不在本阶段提前解释终极真相。
