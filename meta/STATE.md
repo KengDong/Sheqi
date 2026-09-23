@@ -1,3 +1,30 @@
+# D-0074｜C01 NAME LOCKED / AUTHOR FIRST READ ACTIVE
+
+Author approved:
+> **沈桥 -> 沈峥**
+
+Rename applied mechanically to current C01 prose and active C01 design assets.
+
+Historical blind/review/history files remain unchanged for audit integrity.
+
+Current:
+> **AUTHOR FIRST READ ACTIVE**
+
+Read:
+- C01《明天已经卖掉》Ch1—20:
+  `experiments/asymmetric_prose_validation/2026-09-23_c01_ch001_020_package.md`
+- C12《替有钱人渡劫》Ch1—20:
+  `experiments/c12_equalization/2026-09-23_c12_ch001_020_package.md`
+
+Freeze remains:
+- no Ch21
+- no new Reader
+- no Benchmark
+- no Primary
+- no Research
+
+---
+
 # D-0073｜NAMING APPROVAL GATE
 
 Before AUTHOR FIRST READ, resolve high-frequency naming friction.
