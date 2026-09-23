@@ -1,3 +1,36 @@
+# D-0057｜Longform Canopy Architecture ACTIVE
+
+作者指出：
+> 当前纵向 / 横向设计仍像光秃树干；不接受写到中段才发现体量与爽点供给不足，再临时填充。
+
+正式新增：
+> `meta/LONGFORM_CANOPY_ARCHITECTURE.md`
+
+核心：
+- First-10只验证树苗；
+- 连续正文前必须证明整本书拥有：
+  - 大阶段；
+  - 大枝；
+  - 中小弧；
+  - 固定人物网；
+  - 高频Leaf Payoff；
+  - 周期性大兑现；
+  - Story Reservoir；
+  - Ch50/100/200/400/700追读问题；
+  - Anti-Repetition Death List。
+
+CURRENT：
+- C01 First-10：DONE
+- C01 Canopy：ACTIVE
+- C12 First-10：ACTIVE
+- C12 Canopy：QUEUED
+- Book Writer V2：BLOCKED
+
+第一性原理：
+> **提前证明“有很多值得写的好故事”，不是提前把700章写死。**
+
+---
+
 # Dual First-10 Story Engine｜ACTIVE
 
 C01 / C12作品级Bootstrap均已DONE / PASS。
@@ -236,7 +269,7 @@ NEXT：
 # 项目当前状态
 
 **项目：**《修仙先舍一件人间事》（暂名）  
-**阶段：** D-0056 Dual Finalist Bootstrap ACTIVE
+**阶段：** D-0057 Longform Canopy Architecture ACTIVE
 **正文：**未开始  
 **Bible冻结日期：**2026-09-20  
 **第一卷AC-Hybrid权威化日期：**2026-09-22  
