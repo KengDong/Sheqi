@@ -404,7 +404,7 @@
 
 
 ## ten_chapter_fresh_reader
-- status: DONE / PAUSED
+- status: ACTIVE / RETURNING
 - role: ten_chapter_fresh_reader / Fresh Longform Shelf Reader
 - execution_window: **必须全新GPT窗口，且此前从未读过Sheqi/C01/C12/X/Y系列**
 - current: `handoffs/ten_chapter_fresh_reader/CURRENT.md`
@@ -492,3 +492,19 @@
   > editor_in_chief Internal Quality Gate
 - hard:
   > no C01 Ch21 / no C12 Ch16 / no Primary / no Reader yet
+
+
+## D-0070 Returning Reader Continuation｜ACTIVE
+- internal_gate:
+  `reviews/2026-09-23_asymmetric_prose_internal_quality_gate.md`
+- brief:
+  `research/briefs/2026-09-23_asymmetric_returning_reader_continuation_brief.md`
+- reader:
+  `handoffs/ten_chapter_fresh_reader/CURRENT.md`
+- anonymous_inputs:
+  - X4: `experiments/asymmetric_prose_validation/2026-09-23_finalist_X4_ch011_020.md`
+  - Y4: `experiments/asymmetric_prose_validation/2026-09-23_finalist_Y4_ch011_015.md`
+- no_direct_winner:
+  > unequal continuation lengths; absolute trajectory only
+- next:
+  > Reader report -> Total Editor -> likely C12 Ch16—20 equalization if repair succeeds
