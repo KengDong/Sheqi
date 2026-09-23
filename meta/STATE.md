@@ -1,3 +1,38 @@
+# D-0081｜STORY RESERVOIR STRESS TEST ACTIVE
+
+Phase-1:
+> 33 concepts generated -> Total Editor Desire Cut -> 8 PULL.
+
+Review:
+> `reviews/2026-09-23_phase1_story_forge_desire_cut.md`
+
+Active:
+> **STORY RESERVOIR STRESS TEST**
+
+Brief:
+> `research/briefs/2026-09-23_d0081_story_reservoir_stress_test_brief.md`
+
+Executor:
+> `handoffs/story_reservoir_forge/CURRENT.md`
+
+Frozen candidates:
+- R1 Future Holdings
+- R2 Second Autobiography
+- R3 Borrowed Tribulations
+- R4 Borrow a Relationship
+- R5 This City I Have Routes
+- R6 Monday Prophecy
+- R7 Dead People Still Work
+- R8 Missing Day List
+
+Rule:
+> do not rescue an engine that naturally exhausts.
+
+Next:
+> Reservoir Cut -> Character Collision only for survivors.
+
+---
+
 # D-0080｜FIRST-PRINCIPLES STORY FORGE ACTIVE
 
 Highest authority:
