@@ -1714,3 +1714,80 @@ Primary确定后才做：
 
 当前收敛路径：
 > 双Canopy -> 总编同架审查 -> 同Writer六章实写 -> 内部质量消杀 -> Fresh Blind -> 总编合流 -> 作者Taste -> Primary正式化。
+
+## D-0060 Dual Canopy PASS -> Controlled Six-Chapter Prose Duel
+**状态：总评审通过，2026-09-23生效**
+
+依据：
+- C01 Longform Canopy：DONE / PASS SELF-CHECK
+- C12 Longform Canopy：DONE / PASS SELF-CHECK
+- 总评审：
+  `reviews/2026-09-23_dual_canopy_total_editor_shelf_parity_audit.md`
+
+正式结论：
+> **C01 PASS TO PROSE**
+>
+> **C12 PASS TO PROSE**
+
+不宣布最终赢家。
+
+### Why
+继续研究的边际收益已经低于正文验证。
+
+当前关键未知量已经全部变成：
+- 人物会不会活；
+- 小爽点会不会真爽；
+- 新版C12会不会像小说而非行业报告；
+- C01 Ch4以后会不会真摆脱倒卖；
+- 固定关系会不会产生追读；
+- 六章以后会不会更想点第7章。
+
+这些问题必须由正文回答。
+
+### Execution
+启用唯一新窗口：
+> **book_writer_v2 / Controlled Dual-Finalist Fiction Writer**
+
+正式brief：
+> `research/briefs/2026-09-23_dual_six_chapter_prose_duel_brief.md`
+
+### C01
+- 保留Ch1—3为Provisional Base；
+- 只允许最小必要微修；
+- 新写Ch4—6。
+
+### C12
+- 按新版世界/术语/周野背景重写Ch1—3 V2；
+- 新写Ch4—6。
+
+### Same Writer
+使用同一Writer控制文笔能力变量，但必须保持两本声线分离。
+
+### Anonymous Packages
+- X2 = C01
+- Y2 = C12
+映射只给Editor，不写进匿名正文包。
+
+### After Writer
+正文先经过内部质量消杀：
+- Writer Selfcheck；
+- Human Prose / AI-Smell；
+- Top-Tier Shelf-Parity；
+- Independent Red Team；
+- Fresh Clean-Room Six-Chapter Blind Read；
+- Total Editor synthesis。
+
+重复步骤可合并，禁止流程表演。
+
+### Final Reader Question
+> **如果完全不知道项目背景，读完第6章，哪一本更想立刻点第7章？**
+
+### Hard Stop
+- Writer不写Ch7；
+- 不改Canon / Outline；
+- 不建正式Book Bible；
+- 六章正文验证前不选Primary；
+- 不重新打开大范围研究。
+
+第一性原理：
+> **从这一刻起，正文读感比设计文档继续变厚更重要。**
