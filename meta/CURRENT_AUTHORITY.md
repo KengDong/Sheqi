@@ -30,24 +30,23 @@ Postmortem:
 
 # Active Phase
 
-> **FIRST-PRINCIPLES STORY FORGE｜Phase 2 / Story Reservoir Stress Test**
+> **FIRST-PRINCIPLES STORY FORGE｜Phase 3 / Character Collision Stress Test**
 
-Current review:
+Current reviews:
 - `reviews/2026-09-23_phase1_story_forge_desire_cut.md`
+- `reviews/2026-09-23_d0081_story_reservoir_total_editor_cut.md`
 
 Primary brief:
-- `research/briefs/2026-09-23_d0081_story_reservoir_stress_test_brief.md`
+- `research/briefs/2026-09-23_d0082_character_collision_stress_test_brief.md`
 
 # Active Execution Window
 
-Phase 1 lanes are DONE.
-
 Current isolated executor:
-- Story Reservoir Forge:
-  `handoffs/story_reservoir_forge/CURRENT.md`
+- Character Collision Forge:
+  `handoffs/character_collision_forge/CURRENT.md`
 
-The eight promoted concepts are frozen during stress test.
-No rescue / mutation before Reservoir Cut.
+Six survivors are frozen during this test.
+No new Cases / clients / rules / institutions.
 
 # Evidence Rule
 
