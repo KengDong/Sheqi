@@ -605,3 +605,23 @@
 - current: `handoffs/story_forge_wild/CURRENT.md`
 - brief: `research/briefs/2026-09-23_story_forge_lane_c_wild_brief.md`
 - output_target: `experiments/first_principles_forge/C_wild/2026-09-23_wild_concepts.md`
+
+## character_collision_forge
+- status: ACTIVE / D-0082
+- role: character_collision_forge
+- current: `handoffs/character_collision_forge/CURRENT.md`
+- brief: `research/briefs/2026-09-23_d0082_character_collision_stress_test_brief.md`
+- survivors:
+  - R1 Future Holdings
+  - R2 Second Autobiography
+  - R3 Borrowed Tribulations
+  - R5 This City I Have Routes
+  - R7 Dead People Still Work
+  - R8 Missing Day List
+- deliver_to: editor_in_chief / Character Cut
+- hard:
+  - no new cases
+  - no new clients
+  - no new rules
+  - no prose
+  - no Primary
