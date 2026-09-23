@@ -2537,3 +2537,35 @@ C12 Ch16—20核心：
 
 第一性原理：
 > 现在最重要的新证据不是更多GPT判断，而是两本等长20章后作者本人连续阅读的真实感觉。
+
+
+## D-0072 Equalized 20-Chapter Samples -> AUTHOR FIRST READ
+**状态：2026-09-23生效**
+
+C12 Ch16—20已完成并通过：
+> `reviews/2026-09-23_c12_equalization_hard_error_continuity_gate.md`
+
+两本当前均为完整20章：
+- C01：
+  `experiments/asymmetric_prose_validation/2026-09-23_c01_ch001_020_package.md`
+- C12：
+  `experiments/c12_equalization/2026-09-23_c12_ch001_020_package.md`
+
+正式进入：
+> **AUTHOR FIRST READ**
+
+Author CURRENT：
+> `handoffs/author_first_read/CURRENT.md`
+
+作者读完前：
+- 不写任一本Ch21；
+- 不启动新Reader；
+- 不做新Benchmark；
+- 不选Primary；
+- 不开Research；
+- 不修改Canon / Outline。
+
+作者应先给未经新总编结论锚定的原始读感。
+
+第一性原理：
+> **20章等长样本之后，最有价值的新证据是作者本人连续阅读是否真的觉得好看，而不是继续让GPT替作者判断。**
