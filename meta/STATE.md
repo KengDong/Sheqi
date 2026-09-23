@@ -1,3 +1,40 @@
+# D-0082｜CHARACTER COLLISION STRESS TEST ACTIVE
+
+Reservoir Cut complete:
+> 8 candidates -> 6 survivors.
+
+Review:
+> `reviews/2026-09-23_d0081_story_reservoir_total_editor_cut.md`
+
+Active:
+> **CHARACTER COLLISION STRESS TEST**
+
+Brief:
+> `research/briefs/2026-09-23_d0082_character_collision_stress_test_brief.md`
+
+Executor:
+> `handoffs/character_collision_forge/CURRENT.md`
+
+Survivors:
+- R1 Future Holdings
+- R2 Second Autobiography
+- R3 Borrowed Tribulations
+- R5 This City I Have Routes
+- R7 Dead People Still Work
+- R8 Missing Day List
+
+Stopped:
+- R4 Borrow a Relationship
+- R6 Monday Prophecy
+
+Rule:
+> if existing people cannot generate story without fresh Cases, drop the engine.
+
+Next:
+> Character Cut -> Minimal Horizon.
+
+---
+
 # D-0081｜STORY RESERVOIR STRESS TEST ACTIVE
 
 Phase-1:
