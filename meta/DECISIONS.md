@@ -1548,3 +1548,169 @@ Formal Ch1必须从当前Approved Scene Spine重新写，不得把Execution Vali
 
 第一性原理：
 > **终极秘密不是为了显得大，而是为了让整本小说更好看、更有远景、更值得一路追到底。**
+
+## D-0059 Convergence Roadmap｜Canopy之后默认进入正文验证，不再无限研究
+**状态：总评审流程收敛，2026-09-23生效**
+
+依据D-0055：
+> **唯一第一性原理仍是写出真正好看的小说。**
+
+作者要求后续任务不能继续偏离该目标。
+
+因此从当前阶段起，项目进入：
+> **Convergence -> Prose Proof**
+
+### 1. 当前唯一并行结构任务
+只保留：
+- C01 Longform Canopy Architecture；
+- C12 Longform Canopy Architecture。
+
+其它大范围研究默认关闭。
+
+### 2. Canopy之后不再自动新增研究层
+只有当总评审能够明确指出：
+> 某个具体证据缺口会直接伤害“好不好看”，
+才允许开Targeted Research。
+
+禁止：
+- 因为还能研究就继续研究；
+- 因为框架还能更完整就加Gate；
+- 用流程完整感替代正文验证。
+
+### 3. 双Canopy完成后的下一步
+执行：
+> **Dual Canopy Total-Editor Shelf-Parity Audit**
+
+只回答：
+- 这本书真的有足够厚的人生/人物/小弧/秘密/爽点吗；
+- Ch50/100/200/400/700的阅读欲是否发生质变；
+- 有没有明显靠填充、换皮或代理指标撑体量；
+- 与头部热门长篇相比，真正还缺什么。
+
+输出只能有：
+- PASS TO PROSE；
+- TARGETED PATCH；
+- FAIL / HOLD。
+
+不得用“继续研究看看”作为默认结论。
+
+### 4. 通过后立刻进入同Writer正文对撞
+启用一个全新：
+> **Book Writer V2**
+
+同一个Writer控制文笔变量。
+
+计划：
+- C01：
+  - Ch1—3保留为Provisional Base；
+  - 根据Canopy与First-10写Ch4—6；
+  - 只有必要时对Ch1—3做极小修订。
+- C12：
+  - 按新版世界/术语/周野背景重写Ch1—3 V2；
+  - 写Ch4—6；
+  - 不沿旧Prototype直接续写。
+
+得到：
+> **C01 Six-Chapter Package vs C12 Six-Chapter Package**
+
+### 5. Writer之后先AI内部消灭基础问题
+作者不是QA。
+
+六章包在交作者前必须经过：
+- Writer Selfcheck；
+- Human Prose / AI-Smell Pass；
+- Top-Tier Shelf Parity Comparator；
+- Independent Red Team；
+- Fresh Clean-Room Blind Read；
+- Total Editor synthesis。
+
+这些检查只服务：
+> **真实阅读体验。**
+
+如果某一步只是重复打勾、没有新增判断价值：
+> 合并，不机械执行。
+
+### 6. 六章真实阅读Gate
+真正决定下一阶段的证据是：
+- 是否越读越想读；
+- 人物是否想跟；
+- 小爽点是否连续；
+- 关系是否在长；
+- 世界是否自然；
+- Long-Horizon是否在远处拉；
+- 第6章后有没有“马上下一章”的欲望。
+
+设计表得分不具有否决真实读感的权力。
+
+### 7. 六章后方向选择
+可能结论：
+
+#### A. 一部明显领先
+> 升为Primary Book。
+另一部：
+> Reserve / Incubation，停止平行消耗。
+
+#### B. 两部都达到头部同架线
+允许继续双轨到：
+> 10章或第一Medium Arc结束，
+再决定是否两部都正式开发。
+
+#### C. 两部正文都明显掉档
+不因Canopy漂亮而放行。
+回到：
+> **最小故障层修复**
+而不是重启全套研究。
+
+### 8. Primary Book正式化
+Primary确定后才做：
+- Full Reboot / Project Authority Approval；
+- Book Bible；
+- Canon；
+- Volume / Stage Outline；
+- First 30详细Runway；
+- 第一卷或第一大Stage的章卡。
+
+禁止在Primary未确定前给两本都做完整正式Bible。
+
+### 9. 连续写作节律
+正式书进入生产后：
+- 按小批次写作；
+- 每批保持真实读感QA；
+- 只在关键Stage做大复盘。
+
+建议里程碑：
+- Ch10；
+- Ch30；
+- First Medium Arc；
+- Stage 1结束；
+- Ch100附近。
+
+不允许：
+> 每写3章就重开世界观研究。
+
+### 10. Research Reopen Rule
+以后只有三种情况允许重新研究市场：
+1. 真实读者稳定指出某种阅读问题；
+2. 长篇中段出现重复/掉速且内部无可靠解法；
+3. 新题材/新玩法需要真实外部样本验证。
+
+其它情况下：
+> **写、读、改 > 继续研究。**
+
+### 11. First Principle Check
+每个后续任务下发前，总评审必须问：
+
+> **这一步会不会直接提高“陌生读者觉得好看并持续想读”的概率？**
+
+如果答案只是：
+- 文件更完整；
+- 世界更严谨；
+- 指标更多；
+- 流程更漂亮；
+- 未来可能有用，
+
+则默认：
+> **不做。**
+
+当前收敛路径：
+> 双Canopy -> 总编同架审查 -> 同Writer六章实写 -> 内部质量消杀 -> Fresh Blind -> 总编合流 -> 作者Taste -> Primary正式化。
