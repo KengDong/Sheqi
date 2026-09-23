@@ -2,54 +2,76 @@
 
 ## ROLE
 - role: c12_scale_architect / Industrial Cultivation Long-Run Architect
-- execution_window: 复用原“结构盲读 / Benchmark Deep Read”窗口
-- status: ACTIVE
-- current_task: C12 Industrial Cultivation Scale Bootstrap
-- brief: `research/briefs/2026-09-23_c12_industrial_cultivation_scale_bootstrap_brief.md`
+- execution_window: reuse old benchmark_deepread window
+- status: DONE / HANDOFF READY
+- current_task: C12 Industrial Cultivation Scale Bootstrap｜COMPLETE
+- brief: research/briefs/2026-09-23_c12_industrial_cultivation_scale_bootstrap_brief.md
 
-## WHY REACTIVATED
-作者亲读《替有钱人渡劫》前三章后：
-- 认为Concept有成为大体量爆品的潜力；
-- 希望更多参考《没钱修什么仙》的世界融合与长篇扩张能力；
-- 但当前Prototype存在明显读者入门问题：
-  - 起劫境；
-  - 副测申请；
-  - 个人劫期；
-  - 量气机；
-  - 初评；
-  - 主角背景；
-  - 现代社会与修仙底盘未正式定义。
+## COMPLETED OUTPUTS
+- research/design/2026-09-23_c12_industrial_cultivation_scale_bootstrap.md
+  - commit: 849f2fa4a921ac5f9c6dce269196db2d408ed736
+- reviews/2026-09-23_c12_scale_bootstrap_selfcheck.md
+  - commit: f9ac891681bba65920118f3650bf69c3a822c7ad
+- handoffs/benchmark_deepread/history/2026-09-23_c12_scale_bootstrap_done.md
+  - commit: cecd08243274bba41d82b1156f8446fafd6be5d3
 
-## PRIMARY BENCHMARK
-- 用户提供《没钱修什么仙》Library全文研究源（只用clean区间）
-- 已有Deep Read：
-  `research/reports/2026-09-22_no_money_cultivation_deepread.md`
+## AUTHOR FEEDBACK CLOSED
+The bootstrap directly answers the author’s legibility concerns:
+- “副测申请是什么” -> remove jargon; use 见习安全员试岗.
+- “起劫境是什么” -> delete; use familiar realms.
+- traditional or custom realms -> recommend traditional 炼气/筑基/金丹/元婴/化神.
+- “个人劫期” -> show plain countdown / 应劫窗口.
+- “量气机 / 查旧劫记录 / 风险访谈 / 初评三百六” -> converted into familiar test + work-exposure record + medical/work history + clearly priced 360 basic assessment package.
+- modern cards/clinic/e-bike/apps -> explicitly native to a modern industrial cultivation society.
+- Zhou Ye background -> recommend native vocational/application-school cultivation-safety graduate + gig tribulation worker.
 
-本轮不重复总结开篇。
-重点研究：
-> **它为什么能从学生/学校扩成长篇社会，并让旧系统持续复利。**
+## CORE BOOTSTRAP
 
-## REQUIRED READS
-1. `reviews/2026-09-23_author_read_c12_world_legibility_feedback.md`
-2. `research/briefs/2026-09-23_c12_industrial_cultivation_scale_bootstrap_brief.md`
-3. C12 Ch1—3 Prototype
-4. `research/reports/2026-09-22_no_money_cultivation_deepread.md`
-5. 《没钱修什么仙》Library研究源
-6. `meta/COMMERCIAL_FIRST_PRINCIPLES.md`
-7. `meta/DECISIONS.md` D-0056
+### Reader Fantasy
+> 从拿命换钱的外包劫工，成长为给风险定价的人。
 
-## OUTPUT
-- `research/design/2026-09-23_c12_industrial_cultivation_scale_bootstrap.md`
-- `reviews/2026-09-23_c12_scale_bootstrap_selfcheck.md`
+### World
+> Modern industrial society with cultivation fully embedded.
+
+### Tribulation
+> Realm transition creates a qi-structure imbalance that must be settled. External load can be rerouted but not erased. Core transition stays with the cultivator.
+
+### Personal line
+> Zhou Ye’s abnormal early tribulation is occupational “劫债”: residual load from repeatedly carrying other people’s tribulations, compounded by the Ch1 line incident.
+
+### Scale
+- 120万: high confidence.
+- 200万: credible.
+- 280万+: conditional; requires shift from single-project risk to portfolio/system risk.
+- planning recommendation: build a complete 180—220万 core and preserve 280万+ as later expansion gate.
+
+## VERTICAL GROWTH
+> 卖身体 -> 卖判断 -> 卖报价 -> 卖团队 -> 卖交付 -> 卖资源网络 -> 管风险池 -> 参与规则定价 -> 自己面对不可外包的高阶劫。
+
+## HORIZONTAL GATE
+34 social interfaces were mapped.
+Every new interface must permanently change at least one of:
+money / qualifications / health / relationships / customers / team / data / tools / reputation / choice.
+
+## BENCHMARK SOURCE QUALITY UPDATE
+Important correction:
+- the 4.9MB user research source becomes visibly contaminated at Ch167, so this task uses Ch1—166 only from that file.
+- the user’s 12.3MB candidate remains globally contaminated.
+- locally verified Ch180—210 windows from the 12.3MB file were used only for late-stage compounding observations.
+- do not call either source clean beyond verified windows.
 
 ## NEXT EXPECTED ACTION
-- 完整执行active brief。
-- 完成CURRENT + history。
-- STOP，交总评审。
+- editor_in_chief consumes C12 Bootstrap together with the parallel C01 Bootstrap.
+- perform Dual Finalist Bootstrap synthesis.
+- only after synthesis should Book Writer V2 be unblocked.
 
 ## DO NOT CONTINUE
-- 不写C12 Ch4；
-- 不修改Prototype正文；
-- 不把临时术语升级Canon；
-- 不复制《没钱修什么仙》剧情/句法/笑话；
-- 不自行宣布C12胜过C01。
+- do not write Ch4.
+- do not edit Prototype Ch1—3 from this role.
+- do not modify old Sheqi Canon / Approved Outline.
+- do not canonize temporary C12 terminology.
+- do not declare C12 better than C01.
+- do not clone the benchmark’s school/debt/drug structure.
+
+## STOP
+> C12 Scale Bootstrap is complete. Stop and hand off to editor_in_chief.
