@@ -3,7 +3,7 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0069 Asymmetric Prose Validation
+- current_gate: D-0070 Returning Reader Continuation
 
 ## LAST COMPLETED TASK
 - task: Event-First Execution Validation总评审
@@ -454,3 +454,32 @@ Brief：
 
 Next：
 > Writer DONE -> editor_in_chief Internal Quality Gate。
+
+
+## D-0070 RETURNING CONTINUATION TEST
+Asymmetric prose Internal Quality Gate：
+> `reviews/2026-09-23_asymmetric_prose_internal_quality_gate.md`
+
+Verdict：
+- C01 Ch11—20 = PASS TO RETURNING READER
+- C12 Ch11—15 = PASS TO RETURNING READER
+- NO PATCH
+
+Anonymous continuation：
+- X4 = X3 continuation / Ch11—20
+- Y4 = Y3 continuation / Ch11—15
+
+Current Reader：
+> `handoffs/ten_chapter_fresh_reader/CURRENT.md`
+
+Brief：
+> `research/briefs/2026-09-23_asymmetric_returning_reader_continuation_brief.md`
+
+Important：
+> 样本不等长，本轮禁止直接二选一。
+> 只判断各自续读曲线与短板修复。
+
+Expected next：
+- 若C12明显修复 -> 补C12 Ch16—20 -> 等长20章Primary Gate；
+- 若C12仍有课程感 -> Targeted Repair；
+- 若C01保持STRONG -> 暂停在Ch20等C12追平。
