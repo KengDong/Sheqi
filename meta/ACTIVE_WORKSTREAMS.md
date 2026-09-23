@@ -8,8 +8,8 @@
 
 ## editor_in_chief
 - status: ACTIVE
-- current_task: D-0069 Asymmetric Prose Validation Orchestration
-- gate: ARC DESIGNS PASS / WRITER V2 ACTIVE
+- current_task: D-0069 Asymmetric Prose Internal Quality Gate
+- gate: WRITER V2 DONE / QUALITY GATE NEXT
 - current: `handoffs/editor_in_chief/CURRENT.md`
 
 ## mid_continuity
@@ -120,20 +120,19 @@
 - deliver_to: editor_in_chief
 
 ## book_writer_v2
-- status: ACTIVE
-- execution_window: 复用Book Writer V2窗口
+- status: DONE / PAUSED
+- execution_window: Asymmetric Prose Validation已完成
 - current: `handoffs/book_writer_v2/CURRENT.md`
-- completed_task: Dual Finalist Ch7—10 Prose Continuation
-- brief: `research/briefs/2026-09-23_dual_ch007_010_prose_continuation_brief.md`
-- selfcheck: `reviews/2026-09-23_dual_ch007_010_writer_selfcheck.md`
-- ten_chapter_packages:
-  - `experiments/finalist_ten_chapter_packages/2026-09-23_finalist_X3_ch001_010.md`
-  - `experiments/finalist_ten_chapter_packages/2026-09-23_finalist_Y3_ch001_010.md`
-- mapping:
-  - X3 = C01
-  - Y3 = C12
+- completed_task: Asymmetric Prose Validation
+- brief: `research/briefs/2026-09-23_asymmetric_prose_validation_brief.md`
+- selfcheck: `reviews/2026-09-23_asymmetric_prose_writer_selfcheck.md`
+- outputs:
+  - `experiments/asymmetric_prose_validation/2026-09-23_c01_ch011_020_v1.md`
+  - `experiments/asymmetric_prose_validation/2026-09-23_c01_ch001_020_package.md`
+  - `experiments/asymmetric_prose_validation/2026-09-23_c12_ch011_015_v1.md`
+  - `experiments/asymmetric_prose_validation/2026-09-23_c12_ch001_015_package.md`
 - deliver_to: editor_in_chief / Internal Quality Gate
-- hard_rule: no Ch11 / no Primary / no reader test / no new research
+- hard_rule: no C01 Ch21 / no C12 Ch16 / no Primary / no reader test / no new research
 - note: 原opening_writer已到对话上限，永久退休
 
 ## blind_reader
@@ -474,18 +473,22 @@
   > C01 current front-runner; C12 retained because gap is targeted and repairable
 
 
-## D-0069 Asymmetric Prose Validation｜ACTIVE
+## D-0069 Asymmetric Prose Validation｜WRITER DONE / QUALITY GATE NEXT
 - total_editor_audit:
   `reviews/2026-09-23_asymmetric_arc_total_editor_audit.md`
 - brief:
   `research/briefs/2026-09-23_asymmetric_prose_validation_brief.md`
 - writer:
   `handoffs/book_writer_v2/CURRENT.md`
+- writer_selfcheck:
+  `reviews/2026-09-23_asymmetric_prose_writer_selfcheck.md`
 - C01:
-  - write Ch11—20 only
+  - Ch11—20 DONE
+  - package: `experiments/asymmetric_prose_validation/2026-09-23_c01_ch001_020_package.md`
 - C12:
-  - write Ch11—15 only
+  - Ch11—15 DONE
+  - package: `experiments/asymmetric_prose_validation/2026-09-23_c12_ch001_015_package.md`
 - next:
-  > Writer DONE -> Total Editor Internal Quality Gate
+  > editor_in_chief Internal Quality Gate
 - hard:
   > no C01 Ch21 / no C12 Ch16 / no Primary / no Reader yet
