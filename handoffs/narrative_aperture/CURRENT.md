@@ -1,5 +1,26 @@
 # Narrative Aperture｜CURRENT HANDOFF
 
+## COLD START｜新窗口必须先读
+
+如果这是新窗口，不要只靠本CURRENT理解项目。
+
+第一步必须完整读取：
+> `handoffs/narrative_aperture/COLD_START.md`
+
+它包含：
+- D-0078为什么产生；
+- 作者真实弃读反馈；
+- 哪些旧STRONG PASS已失效；
+- 两本当前哪些资产保留/哪些降级；
+- Narrative Aperture / Scene Ecology / Novelty Bandwidth / Macro Promise的准确定义；
+- 本轮真正成功标准。
+
+读取COLD_START之后，
+再读本CURRENT与ACTIVE BRIEF。
+
+不要从旧聊天猜项目历史。
+
+
 ## ROLE
 - role: narrative_aperture / Hit-Fiction Experience Architect
 - status: ACTIVE
