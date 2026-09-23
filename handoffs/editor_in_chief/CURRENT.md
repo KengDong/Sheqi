@@ -38,6 +38,28 @@
 - 下一次真正正文验证将以同一个新Writer控制文笔变量，并做六章级clean-room对读。
 
 ## AUTHOR FEEDBACK
+- 作者再次纠正上游遗漏：
+  > 纵线 / 横线 / Canopy虽然必要，但两本都需要评估“终极秘密 / 终极目标 / 长线未知量”。
+- 作者举例：
+  - 《舍弃》的余世；
+  - 《十日终焉》多层秘密汇入大秘密。
+- 作者同时明确：
+  > 不接受每次由作者手工指出“什么会好看”；热门小说市场研究应主动覆盖这些长期牵引机制。
+- 总评审处理：
+  > **D-0058 Long-Horizon Engine生效。**
+- 正式框架：
+  `meta/LONG_HORIZON_ENGINE.md`
+- C01当前首选不是强塞“世界真相”，而是：
+  > **未来人格 / 时间产权终极结构冲突。**
+- C12当前首选：
+  > **替出去的劫到底去了哪里 -> 系统性劫债 / 风险外部化。**
+- 两本Canopy brief均已补：
+  - Ultimate Horizon；
+  - Secret/Question Ladder；
+  - Recontextualization Seeds；
+  - Terminal Choice；
+  - Mystery-to-Life Coupling Audit。
+
 - 作者新增关键反馈：
   > 当前纵线/横线仍像一根光秃秃的树，树还不够粗、枝叶不够茂盛。
 - 作者不接受：
