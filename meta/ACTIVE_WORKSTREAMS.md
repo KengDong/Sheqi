@@ -663,7 +663,7 @@
   - no Canon/Outline
 
 ## commercial_market_scout
-- status: ACTIVE / D-0084A
+- status: DONE / D-0084A
 - role: commercial_market_scout
 - current: `handoffs/commercial_market_scout/CURRENT.md`
 - authority: `meta/COMMERCIAL_HIT_FIRST_PRINCIPLES_V1.md`
@@ -678,3 +678,34 @@
   - no Concept mutation
   - no Primary
   - no Canon/Outline
+
+## commercial_mutation_forge
+- status: ACTIVE / D-0085
+- current: `handoffs/commercial_mutation_forge/CURRENT.md`
+- brief: `research/briefs/2026-09-24_d0085_commercial_mutation_forge_brief.md`
+- candidates:
+  - R1 Future Holdings
+  - R3 Borrowed Tribulations
+  - R8 Missing Day List
+- deliver_to: editor_in_chief / Commercial Desire Cut
+- hard:
+  - no prose
+  - no Primary
+  - preserve Premium
+
+## commercial_native_forge
+- status: ACTIVE / D-0085
+- current: `handoffs/commercial_native_forge/CURRENT.md`
+- brief: `research/briefs/2026-09-24_d0085_commercial_native_forge_brief.md`
+- clean_room: HARD
+- mother_markets:
+  - cultivation / eastern fantasy
+  - urban high-power / supernatural
+  - rule suspense / infinite survival
+  - apocalypse / game invasion / organization growth
+  - business / food / life management
+- deliver_to: editor_in_chief / Commercial Desire Cut
+- hard:
+  - no old R concepts
+  - no prose
+  - no Primary
