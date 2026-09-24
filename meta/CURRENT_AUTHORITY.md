@@ -30,7 +30,7 @@ Postmortem:
 
 # Active Phase
 
-> **D-0092｜Double-Elimination Opening Arc Round / Primary PAUSED**
+> **D-0093｜Opening Arc Absolute Read Batch A / High Reserve Qualifier Parallel / Primary PAUSED**
 
 Current reviews:
 - `reviews/2026-09-23_phase1_story_forge_desire_cut.md`
@@ -76,23 +76,21 @@ Revival pool:
 
 # Active Execution Windows
 
-Opening Arc winners:
-- `handoffs/opening_arc_w1_writer/CURRENT.md`
-- `handoffs/opening_arc_w2_writer/CURRENT.md`
-- `handoffs/opening_arc_w3_writer/CURRENT.md`
+Opening Arc Absolute Readers:
+- `handoffs/opening_arc_reader_a/CURRENT.md`
+- `handoffs/opening_arc_reader_b/CURRENT.md`
+- `handoffs/opening_arc_reader_c/CURRENT.md`
+- `handoffs/opening_arc_reader_d/CURRENT.md`
+- `handoffs/opening_arc_reader_e/CURRENT.md`
+- `handoffs/opening_arc_reader_f/CURRENT.md`
+- `handoffs/opening_arc_reader_g/CURRENT.md`
 
-Opening Arc revival:
-- `handoffs/opening_arc_r1_revival_writer/CURRENT.md`
-- `handoffs/opening_arc_r2_revival_writer/CURRENT.md`
-- `handoffs/opening_arc_r3_revival_writer/CURRENT.md`
-- `handoffs/opening_arc_r4_revival_writer/CURRENT.md`
-
-Reserve qualifier:
+Parallel:
 - `handoffs/revival_reservoir_qualifier/CURRENT.md`
 
+No comparative cut until absolute read returns.
 No fixed survivor count.
 No Primary.
-No broad market rescan.
 
 # Evidence Rule
 
