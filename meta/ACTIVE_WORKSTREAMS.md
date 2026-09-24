@@ -788,19 +788,44 @@
 - deliver_to: editor_in_chief / reveal + shelf cut
 
 ## direct_competitor_fnl1
-- status: ACTIVE / D-0089
+- status: DONE / D-0089
 - candidate: FNL1 养一条会跟我走的灵脉
 - current: `handoffs/direct_competitor_fnl1/CURRENT.md`
 - deliver_to: editor_in_chief / Prototype Readiness Gate
 
 ## direct_competitor_fnl2
-- status: ACTIVE / D-0089
+- status: DONE / D-0089
 - candidate: FNL2 把整座城市当成超能力
 - current: `handoffs/direct_competitor_fnl2/CURRENT.md`
 - deliver_to: editor_in_chief / Prototype Readiness Gate
 
 ## direct_competitor_fnl3
-- status: ACTIVE / D-0089
+- status: DONE / D-0089
 - candidate: FNL3 别人抢物资，我抢整栋楼
 - current: `handoffs/direct_competitor_fnl3/CURRENT.md`
 - deliver_to: editor_in_chief / Prototype Readiness Gate
+
+## p0_fnl1_writer
+- status: ACTIVE / D-0090
+- current: `handoffs/p0_fnl1_writer/CURRENT.md`
+- candidate: FNL1 养一条会跟我走的灵脉
+- hard: isolated input only
+
+## p0_fnl2_writer
+- status: ACTIVE / D-0090
+- current: `handoffs/p0_fnl2_writer/CURRENT.md`
+- candidate: FNL2 把整座城市当成超能力
+- hard: isolated input only
+
+## p0_fnl3_writer
+- status: ACTIVE / D-0090
+- current: `handoffs/p0_fnl3_writer/CURRENT.md`
+- candidate: FNL3 别人抢物资，我抢整栋楼
+- hard: isolated input only
+
+## d0090_next
+- after_all_p0_done:
+  - editor hard-error QA
+  - anonymize
+  - new clean-room P0 Fresh Reader
+- no full Ch1 before P0 behavioral evidence
