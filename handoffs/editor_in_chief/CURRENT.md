@@ -3,7 +3,36 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0083 Minimal Horizon Stress Test
+- current_gate: D-0084 P1 Isolated Prose Prototype
+
+
+## D-0084 HORIZON CUT COMPLETE
+
+Formal review:
+> `reviews/2026-09-24_d0083_minimal_horizon_total_editor_cut.md`
+
+PASS TO P1:
+- R1 Future Holdings
+- R2 Second Autobiography
+- R7 Dead People Still Work
+- R8 Missing Day List
+
+HOLD:
+- R3 Borrowed Tribulations / finite-runway library
+
+Active isolated writers:
+- `handoffs/p1_r1_writer/CURRENT.md`
+- `handoffs/p1_r2_writer/CURRENT.md`
+- `handoffs/p1_r7_writer/CURRENT.md`
+- `handoffs/p1_r8_writer/CURRENT.md`
+
+Total Editor must not coach any writer before all four are DONE.
+
+After all four:
+> boundary QA only -> anonymize -> Voluntary Stop P1 Fresh Read.
+
+No Primary.
+No Ch2.
 
 
 ## D-0083 CHARACTER CUT COMPLETE
