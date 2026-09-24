@@ -1,5 +1,21 @@
 
 
+## D-0091A AUTHOR PROCESS OVERRIDE
+
+Do not perform a normal P1 elimination cut.
+
+Formal override:
+> `reviews/2026-09-24_d0091_author_process_override_opening_arc_before_cut.md`
+
+P1 evidence becomes diagnostic only unless catastrophic failure occurs.
+
+First serious comparison:
+> Opening Arc / First Mini-Climax, expected around Ch3—Ch5.
+
+No forced survivor count.
+If all three remain strong, all three may continue to P7.
+
+
 ## D-0091 P0 CUT COMPLETE / P1 ACTIVE
 
 Formal cut:
