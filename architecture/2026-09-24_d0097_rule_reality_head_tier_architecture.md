@@ -698,3 +698,114 @@ Needs:
 - deeper old-rule compounding.
 
 Architecture intentionally supports both.
+
+
+# D-0098R-R1｜Red-Team Revision Addendum
+
+## A. Rule-Field Access Authority｜Sparse Personal Growth
+
+程野不获得战力面板。
+
+他的长期个人成长改为：
+> **从“只能被规则场拖进去的人”，逐步变成“能对进入、队友、选择和退出承担更多主动权的人”。**
+
+No numeric levels.
+
+### Stage 0｜Opening
+- forced entry;
+- no control.
+
+### Stage 1｜After second field
+- may enter before countdown reaches zero;
+- cannot delay.
+
+### Stage 2｜~Ch80–120
+- can sense when two nearby rule-field openings differ;
+- may choose which one to enter if both are available.
+
+### Stage 3｜~Ch150–220
+- can synchronize entry with ONE consenting survivor who has already shared a field with him.
+
+### Stage 4｜~Ch300+
+- can spend/forfeit a major hard-won return opportunity to close/reject one candidate rule path.
+
+This is not a second RPG system.
+It is:
+> **more agency over the exact core action of the book.**
+
+Every new authority must create a harder responsibility.
+
+## B. R2 / R3 Are PROTOTYPE RULES, Not Canon
+
+The architecture examples:
+
+- R2: closed door cannot be forced from outside without permission;
+- R3: posted price becomes binding if paid;
+
+are now classified:
+> **PROTOTYPE ONLY.**
+
+Before prose, each rule slot must generate 3–5 one-sentence candidates.
+
+Selection criteria:
+1. dungeon itself is fun;
+2. reality consequence is immediate;
+3. old rule interacts;
+4. a character has a reason to choose it;
+5. cognitive cost is low;
+6. it creates both benefit and damage.
+
+No rule is chosen merely because the architect wants a social-system chapter.
+
+## C. Human-Anchor Rule for Reality Arcs
+
+Every reality arc must be built around 2–4 recurring people BEFORE broad systems.
+
+Required anchors for early book:
+- 周芸;
+- 小满;
+- 方岑;
+- one recurring survivor;
+- one recurring opponent/returner.
+
+Example:
+> do not write “hospitals changed procedures.”
+
+Write:
+> 方岑 needs to get into one specific locked room to save one person, under the same public rule.
+
+Only after Reader feels that:
+> show broader adaptation.
+
+## D. Zone Scope Exposure
+
+Local rule-zone anchoring remains the preferred scale-control mechanic.
+
+But prose rule:
+> **never explain radius first.**
+
+Reader learns by:
+- one district affected;
+- a phone call from outside;
+- a boundary incident;
+- two zones overlapping.
+
+No minimap.
+No “30km radius” exposition unless a later practical problem requires measurement.
+
+## E. Revised Personal Growth Ladder
+
+By Ch100 程野 has visibly gained:
+- early-entry control;
+- first choice between rule-field openings;
+- recurring team;
+- preparation base;
+- official access;
+- reputation;
+- ability to influence which public rule is selected.
+
+Reader can therefore answer:
+> “Ch1的程野只能活着回来；Ch100的程野已经能决定自己什么时候进去、和谁进去、在两个坏选项里选哪一个。”
+
+This clears the “world grows but protagonist stays soft” blocker.
+
