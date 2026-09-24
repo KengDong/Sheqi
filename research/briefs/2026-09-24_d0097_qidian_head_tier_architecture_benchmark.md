@@ -61,3 +61,19 @@ Output:
 > `research/reports/2026-09-24_d0097_qidian_head_tier_architecture_benchmark.md`
 
 Then CURRENT DONE + history + Git commit + STOP.
+
+
+## D-0097A Mandatory Add-On｜Book Contract / Visible Runway
+
+Also analyze:
+1. how the benchmark exposes Near / Mid / Far Horizon without lore dump;
+2. what concrete post-climax target/asset keeps the reader moving;
+3. how the first 10k–20k words reveal the book-scale promise;
+4. how local mini-climaxes avoid sitcom closure;
+5. what public artifact / institution / score / rank / job / map / countdown makes future scale tangible.
+
+Use:
+> `reviews/2026-09-24_d0097a_book_contract_visible_runway_audit.md`
+
+Your final requirements document must include:
+> **Book Contract Gate + Anti-Sitcom Climax Handoff.**
