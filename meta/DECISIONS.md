@@ -3592,3 +3592,43 @@ Core evidence:
 No edits before behavioral evidence.
 No full Ch1.
 No Primary.
+
+
+## D-0091 P0 Cut -> Three-Way Isolated P1
+**状态：ACTIVE，2026-09-24**
+
+P0 Fresh Reader:
+- X YES
+- Y YES
+- Z YES
+
+Reveal:
+- X = FNL2 把整座城市当成超能力
+- Y = FNL1 养一条会跟我走的灵脉
+- Z = FNL3 别人抢物资，我抢整栋楼
+
+Forced relative evidence:
+- one next screen: Z
+- two: Z + Y
+- strongest commercial promise: Z
+- strongest protagonist interest: Y
+- strongest delayed visual recall: X
+- clearest first-screen-trick risk: X
+
+Editor verdict:
+> **ALL THREE PASS TO ISOLATED P1.**
+
+Reason:
+> forced scarcity comparison does not override three absolute YES continuation judgments.
+
+Formal cut:
+> `reviews/2026-09-24_d0090_p0_total_editor_cut.md`
+
+Active P1:
+- `handoffs/p1_fnl1_writer/CURRENT.md`
+- `handoffs/p1_fnl2_writer/CURRENT.md`
+- `handoffs/p1_fnl3_writer/CURRENT.md`
+
+No Ch2.
+No Primary.
+No broad research.
