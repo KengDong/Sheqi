@@ -4,7 +4,7 @@ updated: 2026-09-24
 
 # Highest Decision
 
-> **D-0098｜Unified Hit-Fiction R&D Master Pipeline V2 / Benchmark Triplet ACTIVE / Primary PAUSED**
+> **D-0098M｜Priority Architectures PASS / D-0099 Voice Lab READY / Primary PAUSED**
 
 Authority:
 - `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
@@ -34,46 +34,32 @@ Postmortem:
 
 # Active Phase
 
-> **D-0098｜Unified Hit-Fiction R&D Master Pipeline V2**
+> **D-0098M architecture campaign COMPLETE.**
 
-## ACTIVE NOW
+Completed:
+- 3 benchmark reports;
+- `meta/HEAD_TIER_COMMERCIAL_FICTION_OS_V2.md`;
+- Scar architecture + Red Team + Quick Gate;
+- Rule-Reality architecture + Red Team + Quick Gate;
+- Total Editor merge.
 
-### Core commercial benchmark triplet
-- `handoffs/qidian_head_tier_architecture_reader/CURRENT.md`
-- `handoffs/fanqie_head_tier_architecture_reader/CURRENT.md`
-- `handoffs/cold_start_conversion_scout/CURRENT.md`
+Current priority status:
+- 《劫痕道途》 ARCHITECTURE PASS
+- 《把一条副本规则带回现实》 ARCHITECTURE PASS / HIGH WATCH
 
-### Parallel reader-evidence lane
+Next core task:
+> **D-0099 Controlled Voice Lab — READY, NOT STARTED.**
+
+Prepared:
+- `handoffs/scar_voice_lab/CURRENT.md`
+- `handoffs/rule_reality_voice_lab/CURRENT.md`
+
+Parallel evidence:
 - Batch B absolute readers H–O
 - Author Batch B personal read
 
-## BLOCKED NEXT
-
-1. `handoffs/head_tier_standard_synthesizer/CURRENT.md`
-   - waits for all 3 benchmark reports
-   - outputs `meta/HEAD_TIER_COMMERCIAL_FICTION_OS_V2.md`
-
-2. Priority architecture pair, parallel after integrated standard:
-   - `handoffs/scar_hit_scale_architect/CURRENT.md`
-   - `handoffs/rule_reality_hit_scale_architect/CURRENT.md`
-
-3. Independent red teams after each architecture:
-   - `handoffs/scar_hit_scale_redteam/CURRENT.md`
-   - `handoffs/rule_reality_hit_scale_redteam/CURRENT.md`
-
-4. Total Editor merge.
-
-5. Only after architecture PASS:
-   - Voice Lab
-   - cold-start blind
-   - P3
-   - rebuilt/full Opening Arc
-   - P7
-   - P20
-   - P50 serialization simulation
-
-Historical Batch A readers and Batch B writers are DONE and are no longer active execution windows.
-
+No Ch5 continuation.
+No full Opening rewrite.
 No Primary.
 
 # Evidence Rule
