@@ -3917,3 +3917,35 @@ No forced ranking.
 
 Core architecture thesis:
 > scale is not more maps/lore/cases; scale is one Premium activating multiple autonomous systems with permanent state and later collision.
+
+
+## D-0097B/C Cold-Start Conversion Correction
+**状态：ACTIVE，2026-09-24**
+
+Author commercial correction:
+> unknown authors cannot rely only on long-run depth; first 1–3 chapters must earn patience through personality, tone, humor/attitude, chemistry or immediate memorable reward.
+
+Author read:
+> 顾明川 / 《天道赊境》 = **90/100**.
+
+Interpretation:
+> professional commercial execution is strong, but protagonist/voice remains comparatively "正规"; preserve strengths, later test stronger human signature rather than forcing comedy.
+
+Formal audit:
+> `reviews/2026-09-24_d0097b_cold_start_conversion_voice_audit.md`
+
+New active benchmark lane:
+> `handoffs/cold_start_conversion_scout/CURRENT.md`
+
+Brief:
+> `research/briefs/2026-09-24_d0097c_cold_start_conversion_benchmark.md`
+
+D-0097 Architecture Forges now wait for THREE benchmarks:
+1. Qidian Head-Tier Architecture
+2. Fanqie Head-Tier Architecture
+3. Cold-Start Conversion / Personality-Tone
+
+Principle:
+> architecture makes a book worth staying for; personality/tone makes an unknown book earn the chance to be stayed with.
+
+No requirement that every book be humorous.
