@@ -4,7 +4,7 @@ updated: 2026-09-24
 
 # Highest Decision
 
-> **D-0080 First-Principles Fiction R&D Process Reset**
+> **D-0098｜Unified Hit-Fiction R&D Master Pipeline V2 / Benchmark Triplet ACTIVE / Primary PAUSED**
 
 Authority:
 - `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
@@ -13,6 +13,10 @@ Authority:
 
 Postmortem:
 - `reviews/2026-09-23_fiction_rnd_process_postmortem.md`
+
+# D-0098 Master Process
+- `meta/HIT_FICTION_RND_MASTER_PIPELINE_V2.md`
+- `meta/D0098_EXECUTION_BOARD.md`
 
 # Current Project Goal
 
