@@ -1,8 +1,8 @@
-# 《劫痕道途》 Voice Lab｜CURRENT
+# 《劫痕道途》 Breakout Surface Lab｜CURRENT
 
 role: scar_voice_lab
 status: READY_NOT_STARTED
-decision: D-0099
+decision: D-0100
 
 Start only when explicitly executing the next prose experiment.
 
@@ -12,11 +12,12 @@ First read:
 > corresponding D-0098 architecture + total-editor merge.
 
 Mission:
-> create controlled short voice prototypes only.
+> create controlled unknown-author breakout surface packs: title direction + synopsis + first-screen + Ch1–3 promise + terminal-spine shadow.
 
 Do NOT:
 - continue Ch5;
 - write full Opening;
-- change causal spine.
+- change causal spine;
+- test voice without packaging/future-scale signal.
 
 Stop after prototype pack.
