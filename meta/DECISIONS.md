@@ -4186,3 +4186,43 @@ Next:
 
 Scar:
 > PAUSED, architecture preserved, no active resource spend.
+
+
+## D-0101–D-0104 Rule-Reality Full Focus Campaign
+**状态：ACTIVE，2026-09-24**
+
+Author priority override:
+> pause further Scar investment; full-force optimize 《把一条副本规则带回现实》.
+
+Completed:
+- D-0101 Full Competitive Battlefield
+  - `research/reports/2026-09-24_d0101_rule_reality_full_competitive_battlefield.md`
+- D-0102 Head-Tier Framework V2
+  - `architecture/2026-09-24_d0102_rule_reality_head_tier_framework_v2.md`
+- D-0103 V2 Red Team
+  - `reviews/2026-09-24_d0103_rule_reality_v2_head_tier_redteam.md`
+- D-0104 Rule Field Engine + Supply Reservoir
+  - `architecture/2026-09-24_d0104_rule_field_engine_and_supply_reservoir.md`
+
+Current benchmark target:
+> compete across the intersection of infinite survival, rule/reality horror, visible growth, recurring ensemble and terminal-mystery fiction — not only the narrow “rule怪谈” category.
+
+Current strongest differentiated promise:
+> clearing a Field permanently imports one public law into ordinary reality.
+
+Terminal spine:
+> Fields are failed-future fragments; importing laws increases similarity; reality approaches convergence / 归一日.
+
+Core mechanism addition:
+> one Anchor Returner per Field; one public Returned Rule per clear; anchor death causes uncontrolled dominant-rule export.
+
+Current largest unproven dimension:
+> actual on-page Rule Field quality.
+
+Next:
+> create 3 competing Field #2 Cards from different motherboards, then choose/prototype the strongest.
+
+Scar:
+> HOLD at architecture-PASS state; no new work until Rule-Reality campaign reaches next major gate.
+
+No Primary launch decision yet.
