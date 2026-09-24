@@ -711,7 +711,7 @@
   - no Primary
 
 ## commercial_reservoir_forge
-- status: ACTIVE / D-0086
+- status: DONE / D-0086
 - current: `handoffs/commercial_reservoir_forge/CURRENT.md`
 - brief: `research/briefs/2026-09-24_d0086_commercial_reservoir_reward_stress_test_brief.md`
 - candidates:
@@ -729,3 +729,20 @@
   - no prose
   - no Primary
   - no Concept mutation
+
+## hit_gap_gate
+- status: ACTIVE / D-0087
+- owner: editor_in_chief
+- brief: `research/briefs/2026-09-24_d0087_hit_gap_gate_brief.md`
+- candidates:
+  - HG1 劫痕道途
+  - HG2 万人炼我一法
+  - HG3 养一条会跟我走的灵脉
+  - HG4 把整座城市当成超能力
+  - HG5 别人抢物资，我抢整栋楼
+- deliver_to: Platform-Native Shelf Test
+- hard:
+  - no prose
+  - no Primary
+  - no broad market re-scan
+  - no giant Character Bible
