@@ -1,3 +1,46 @@
+# D-0086｜COMMERCIAL RESERVOIR & REWARD STRESS TEST ACTIVE
+
+D-0085 Commercial Desire Cut complete:
+> 21 candidates -> 8 active commercial survivors.
+
+Review:
+> `reviews/2026-09-24_d0085_commercial_desire_cut.md`
+
+Active:
+> **COMMERCIAL RESERVOIR & REWARD STRESS TEST**
+
+Brief:
+> `research/briefs/2026-09-24_d0086_commercial_reservoir_reward_stress_test_brief.md`
+
+Executor:
+> `handoffs/commercial_reservoir_forge/CURRENT.md`
+
+Candidates:
+- CR1 劫痕道途
+- CR2 无身份资产
+- CR3 万人炼我一法
+- CR4 养一条会跟我走的灵脉
+- CR5 把整座城市当成超能力
+- CR6 把一条副本规则带回现实
+- CR7 通关奖励是删掉一条世界规则
+- CR8 别人抢物资，我抢整栋楼
+
+Tests:
+- story supply
+- reward variety
+- permanent residue
+- Premium survival
+- commercial compounding
+- case-supply dependency
+
+P1:
+> PAUSED.
+
+Next:
+> editor_in_chief / Commercial Reservoir Cut.
+
+---
+
 # D-0085｜COMMERCIAL REFORGE ACTIVE
 
 Commercial recalibration complete.
