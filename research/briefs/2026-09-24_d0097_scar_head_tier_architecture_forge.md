@@ -9,6 +9,7 @@ role: scar_hit_scale_architect
 Do not begin until BOTH exist:
 - D-0097 Qidian Head-Tier Architecture Benchmark
 - D-0097 Fanqie Head-Tier Architecture Benchmark
+- D-0097C Cold-Start Conversion Benchmark
 
 # Inputs
 
