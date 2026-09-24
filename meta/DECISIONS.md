@@ -3145,3 +3145,61 @@ After all four:
 > hard-boundary QA -> anonymous A/B/C/D -> Voluntary Stop Fresh Reader.
 
 No Primary before reader evidence.
+
+
+## D-0084A Qidian + Fanqie Commercial Hit Market Recalibration
+**状态：ACTIVE，2026-09-24**
+
+Author commercial objective explicitly clarified:
+> **目标是起点 / 番茄大热门与商业收益，不是文学奖导向。**
+
+Trigger:
+- D-0080 solved story-engine / reader-continuation design problems;
+- D-0081—D-0083 found several strong engines;
+- but current process did not sufficiently separate:
+  > high-quality / high-concept fiction
+  from
+  > mass-market commercial web-fiction hits.
+
+External preflight evidence confirms:
+- topic/category itself materially affects discovery and demand;
+- Qidian current commercial leaders still concentrate heavily in mature chassis such as cultivation/fantasy/supernatural/growth/life-management;
+- Fanqie head works still commonly combine strong familiar type promise with mystery/power/survival/infinite/apocalypse/high-conflict engines.
+
+New authority:
+> `meta/COMMERCIAL_HIT_FIRST_PRINCIPLES_V1.md`
+
+Preflight:
+> `research/reports/2026-09-24_d0084a_commercial_market_preflight.md`
+
+Formal brief:
+> `research/briefs/2026-09-24_d0084a_qidian_fanqie_commercial_hit_market_recalibration_brief.md`
+
+Executor:
+> `handoffs/commercial_market_scout/CURRENT.md`
+
+Core commercial model:
+> **Commercial Hit Potential = Audience Pool × Packaging CTR × Early Retention × Reward Loop × Long-form Compounding × Distinctive Premium × Execution**
+
+New Q0:
+> **Why This Market?**
+
+D-0084 P1:
+> **PAUSED / NOT CANCELLED**
+
+All current R candidates must pass Commercial Market Fit before prose.
+
+Commercial Gate outputs:
+- KEEP ORIGINAL FOR P1
+- COMMERCIAL MUTATION REQUIRED
+- HOLD / NICHE
+- DROP FROM COMMERCIAL TRACK
+
+If current candidates are commercially weak:
+> open Commercial-Native Concept Forge based on 3—5 evidence-backed mother markets.
+
+Hard:
+- no P1 prose;
+- no Concept mutation during research;
+- no Primary;
+- no Canon/Outline changes.
