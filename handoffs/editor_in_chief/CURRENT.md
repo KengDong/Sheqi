@@ -1,5 +1,29 @@
 
 
+## D-0088 HIT GAP GATE COMPLETE
+
+Formal review:
+> `reviews/2026-09-24_d0087_hit_gap_gate.md`
+
+PASS TO SHELF:
+- ST1 劫痕道途
+- ST2 养一条会跟我走的灵脉
+- ST3 把整座城市当成超能力
+- ST4 别人抢物资，我抢整栋楼
+
+TARGETED GAP / HOLD:
+- 万人炼我一法
+
+Active forge:
+> `handoffs/platform_shelf_forge/CURRENT.md`
+
+Total Editor must not judge shelf click before the anonymous package + fresh reader pass.
+
+No prose.
+No Primary.
+No broad market re-scan.
+
+
 ## D-0087 COMMERCIAL RESERVOIR CUT COMPLETE
 
 Formal review:
@@ -122,7 +146,7 @@ No Primary.
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0087 Hit Gap Gate
+- current_gate: D-0088 Platform-Native Shelf Test
 
 
 ## D-0084 HORIZON CUT COMPLETE
