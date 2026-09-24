@@ -1,3 +1,32 @@
+# D-0091｜THREE-WAY ISOLATED P1 ACTIVE
+
+D-0090 P0 Fresh Reader complete.
+
+Formal cut:
+> `reviews/2026-09-24_d0090_p0_total_editor_cut.md`
+
+P1 candidates:
+- FNL1 养一条会跟我走的灵脉
+- FNL2 把整座城市当成超能力
+- FNL3 别人抢物资，我抢整栋楼
+
+Active writers:
+- `handoffs/p1_fnl1_writer/CURRENT.md`
+- `handoffs/p1_fnl2_writer/CURRENT.md`
+- `handoffs/p1_fnl3_writer/CURRENT.md`
+
+Goal:
+> one complete Chapter 1 each.
+
+Next:
+> all three DONE -> editor QA -> anonymize -> clean-room P1 voluntary-stop read.
+
+No Ch2.
+No Primary.
+No broad research.
+
+---
+
 # D-0090｜P0 FRESH READER ACTIVE
 
 Three isolated P0 First Screens:
