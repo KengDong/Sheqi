@@ -644,3 +644,20 @@
   - no chapter map
   - no prose
   - no Primary
+
+## p1_isolated_prototype
+- status: ACTIVE / D-0084
+- shared_brief: `research/briefs/2026-09-24_d0084_p1_isolated_prototype_brief.md`
+- writers:
+  - R1: `handoffs/p1_r1_writer/CURRENT.md`
+  - R2: `handoffs/p1_r2_writer/CURRENT.md`
+  - R7: `handoffs/p1_r7_writer/CURRENT.md`
+  - R8: `handoffs/p1_r8_writer/CURRENT.md`
+- isolation: HARD
+- deliver_to: editor_in_chief / boundary QA
+- next: anonymous voluntary-stop P1 reader
+- hard:
+  - no Ch2
+  - no cross-candidate reading
+  - no Primary
+  - no Canon/Outline
