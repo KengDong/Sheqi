@@ -1042,3 +1042,18 @@ Reason:
 
 The no-new-rule stress test remains mandatory, but moves AFTER Field #2 has earned reader trust.
 
+
+
+# D-0104 Integration｜Anchor Returner + Field Supply
+
+Canonical architecture addition:
+- each Rule Field has ONE Anchor Returner / 锚返者;
+- one Field normally exports ONE Returned Rule;
+- ordinary participants do not each export rules;
+- if Anchor Returner dies before selection, the Field automatically exports its dominant/harsher rule;
+- exit candidate rules are embodied by black rule plaques, preserving Opening imagery;
+- future Fields draw from semantic motherboards, not a prewritten rule encyclopedia.
+
+Reference:
+> `architecture/2026-09-24_d0104_rule_field_engine_and_supply_reservoir.md`
+
