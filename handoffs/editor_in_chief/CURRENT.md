@@ -1,5 +1,36 @@
 
 
+## D-0087 COMMERCIAL RESERVOIR CUT COMPLETE
+
+Formal review:
+> `reviews/2026-09-24_d0086_commercial_reservoir_cut.md`
+
+Advance 5:
+- HG1 劫痕道途
+- HG2 万人炼我一法
+- HG3 养一条会跟我走的灵脉
+- HG4 把整座城市当成超能力
+- HG5 别人抢物资，我抢整栋楼
+
+High reserve:
+- 无身份资产
+- 把一条副本规则带回现实
+
+Stop:
+- 通关奖励是删掉一条世界规则
+
+Active brief:
+> `research/briefs/2026-09-24_d0087_hit_gap_gate_brief.md`
+
+Market research:
+> evidence-frozen for this cycle unless formal reopen trigger fires.
+
+This editor window owns the Hit Gap Gate.
+No new execution window required.
+No prose.
+No Primary.
+
+
 ## D-0086 COMMERCIAL DESIRE CUT COMPLETE
 
 Formal review:
@@ -91,7 +122,7 @@ No Primary.
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0086 Commercial Reservoir & Reward Stress Test
+- current_gate: D-0087 Hit Gap Gate
 
 
 ## D-0084 HORIZON CUT COMPLETE
