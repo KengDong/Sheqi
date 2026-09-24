@@ -3335,3 +3335,55 @@ P1:
 
 Next:
 > Commercial Reservoir Cut -> only survivors continue.
+
+
+## D-0087 Commercial Reservoir Cut -> Hit Gap Gate
+**状态：ACTIVE，2026-09-24**
+
+Formal cut:
+> `reviews/2026-09-24_d0086_commercial_reservoir_cut.md`
+
+D-0086:
+> 8 commercial survivors -> 5 Hit Gap candidates.
+
+ADVANCE:
+- HG1 劫痕道途
+- HG2 万人炼我一法
+- HG3 养一条会跟我走的灵脉
+- HG4 把整座城市当成超能力
+- HG5 别人抢物资，我抢整栋楼
+
+HIGH RESERVE:
+- 无身份资产
+- 把一条副本规则带回现实
+
+STOP:
+- 通关奖励是删掉一条世界规则
+
+New active gate:
+> **D-0087 Hit Gap Gate**
+
+Brief:
+> `research/briefs/2026-09-24_d0087_hit_gap_gate_brief.md`
+
+Focus:
+- protagonist magnetism
+- character pull
+- opponent compounding
+- emotional engine
+- scene ecology / aperture
+- signature memory
+- commentability / social spread
+- tone / relief
+- production risk
+
+Market research rule:
+> D-0084A mother-market evidence is frozen for this cycle.
+
+Authority:
+> `meta/MARKET_EVIDENCE_FREEZE_AND_REOPEN_TRIGGERS.md`
+
+No broad market re-scan unless a formal reopen trigger fires.
+
+No prose.
+No Primary.
