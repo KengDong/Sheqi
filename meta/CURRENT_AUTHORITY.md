@@ -4,7 +4,7 @@ updated: 2026-09-24
 
 # Highest Decision
 
-> **D-0101G｜Rule-Reality Framework PASS / D-0102 Second Field Tournament READY / Scar PAUSED**
+> **D-0104｜Rule-Reality Full Focus / Field Engine Validation NEXT / Primary PAUSED**
 
 Authority:
 - `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
