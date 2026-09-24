@@ -1,3 +1,30 @@
+# D-0105｜RULE-REALITY FRAMEWORK V2 + FIELD SUPPLY COMPLETE
+
+Only active core candidate:
+> 《把一条副本规则带回现实》
+
+Framework status:
+> comprehensive V2 built + red-teamed.
+
+Competitive battlefield:
+> complete.
+
+Rule Field supply:
+> 12 motherboards PASS concept-level supply.
+
+Field #2 architecture candidates:
+1. 《封门楼》 — current prototype pick
+2. 《夜班急诊》 — reserve
+3. 《一口价商场》 — reserve
+
+Next:
+> isolated 3–5 chapter 《封门楼》 Field prototype, then clean-room behavioral read.
+
+No continuous manuscript.
+Scar HOLD.
+
+---
+
 # D-0104｜RULE-REALITY FULL FOCUS ACTIVE
 
 Only current core development target:
