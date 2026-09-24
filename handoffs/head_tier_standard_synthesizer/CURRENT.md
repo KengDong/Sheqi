@@ -1,7 +1,7 @@
 # Head-Tier Standard Synthesizer｜CURRENT
 
 role: head_tier_standard_synthesizer
-status: BLOCKED_ON_D0097_THREE_BENCHMARKS
+status: DONE
 decision: D-0098
 
 Do NOT start until all three D-0097 benchmark reports exist.
