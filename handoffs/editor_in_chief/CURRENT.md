@@ -1,5 +1,21 @@
 
 
+## D-0094 BATCH B REVIVAL OPENING ARCS ACTIVE
+
+High Reserve qualifier result:
+> 8 / 8 eligible.
+
+Formal approval:
+> `reviews/2026-09-24_d0094_high_reserve_revival_approval.md`
+
+Eight isolated Batch B Opening Arc writers are active.
+
+Batch A absolute-reader process continues in parallel.
+
+No quota.
+No Primary.
+
+
 ## D-0093 BATCH A ABSOLUTE READ ACTIVE
 
 Seven D-0092 Opening Arcs are complete and anonymized.
@@ -339,7 +355,7 @@ No Primary.
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0093 Opening Arc Absolute Read Batch A
+- current_gate: D-0094 Batch A Absolute Read + Batch B Revival Opening Arcs
 
 
 ## D-0084 HORIZON CUT COMPLETE
