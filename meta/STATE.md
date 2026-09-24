@@ -1,3 +1,43 @@
+# D-0087｜HIT GAP GATE ACTIVE
+
+D-0086 Commercial Reservoir Cut complete:
+> 8 -> 5.
+
+Review:
+> `reviews/2026-09-24_d0086_commercial_reservoir_cut.md`
+
+Active candidates:
+- HG1 劫痕道途
+- HG2 万人炼我一法
+- HG3 养一条会跟我走的灵脉
+- HG4 把整座城市当成超能力
+- HG5 别人抢物资，我抢整栋楼
+
+High reserve:
+- 无身份资产
+- 把一条副本规则带回现实
+
+Stopped:
+- 通关奖励是删掉一条世界规则
+
+Active:
+> **HIT GAP GATE**
+
+Brief:
+> `research/briefs/2026-09-24_d0087_hit_gap_gate_brief.md`
+
+Owner:
+> editor_in_chief
+
+No broad market re-scan.
+No prose.
+No Primary.
+
+Next:
+> Hit Gap Gate -> Platform-Native Shelf Test for survivors.
+
+---
+
 # D-0086｜COMMERCIAL RESERVOIR & REWARD STRESS TEST ACTIVE
 
 D-0085 Commercial Desire Cut complete:
