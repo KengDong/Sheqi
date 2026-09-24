@@ -1,3 +1,24 @@
+# D-0101M｜RULE-REALITY EXCLUSIVE ARCHITECTURE V2 FROZEN
+
+Exclusive priority:
+> 《把一条副本规则带回现实》
+
+Completed:
+> competitor ladder -> full-stack gap -> V2 architecture -> red team -> field supply -> revision.
+
+Architecture:
+> broad enough; freeze additional engines.
+
+Scar:
+> HOLD.
+
+Next execution:
+> Rule-Reality breakout surface / P3 / second-field prose validation.
+
+No continuous long manuscript yet.
+
+---
+
 # D-0100｜UNKNOWN-AUTHOR BREAKOUT LAYER ACTIVE
 
 Priority long-run architectures remain PASS.
