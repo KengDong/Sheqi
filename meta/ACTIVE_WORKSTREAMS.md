@@ -625,3 +625,22 @@
   - no new rules
   - no prose
   - no Primary
+
+## minimal_horizon_forge
+- status: ACTIVE / D-0083
+- role: minimal_horizon_forge
+- current: `handoffs/minimal_horizon_forge/CURRENT.md`
+- brief: `research/briefs/2026-09-24_d0083_minimal_horizon_stress_test_brief.md`
+- survivors:
+  - R1 Future Holdings
+  - R2 Second Autobiography
+  - R3 Borrowed Tribulations
+  - R7 Dead People Still Work
+  - R8 Missing Day List
+- deliver_to: editor_in_chief / Horizon Cut
+- hard:
+  - Near/Mid/Far only
+  - no Canopy
+  - no chapter map
+  - no prose
+  - no Primary
