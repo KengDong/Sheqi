@@ -3559,3 +3559,36 @@ After all three DONE:
 
 Broad research:
 > CLOSED.
+
+
+## D-0090A P0 Writer Complete -> Clean-Room Fresh Reader
+**状态：ACTIVE，2026-09-24**
+
+All three isolated P0 writers:
+> DONE.
+
+Editor hard-error / contamination QA:
+> `reviews/2026-09-24_d0090_p0_editor_qa.md`
+
+Verdict:
+> ALL THREE PASS TO ANONYMOUS FRESH READ.
+
+Anonymous package:
+> `experiments/p0_finalists/anonymous/2026-09-24_d0090_p0_anonymous_package.md`
+
+Private source key:
+> `experiments/p0_finalists/anonymous/2026-09-24_d0090_p0_private_source_key.md`
+> FORBIDDEN to Fresh Reader.
+
+Fresh Reader:
+> `handoffs/p0_fresh_reader/CURRENT.md`
+
+Brief:
+> `research/briefs/2026-09-24_d0090_p0_fresh_reader_brief.md`
+
+Core evidence:
+> voluntary next-screen continuation after actual prose.
+
+No edits before behavioral evidence.
+No full Ch1.
+No Primary.
