@@ -3968,3 +3968,50 @@ Hard:
 
 Target:
 > **high cold-start conversion + strong long-run engine**, not stylistic respectability.
+
+
+## D-0098 Unified Hit-Fiction R&D Master Pipeline V2
+**状态：ACTIVE，2026-09-24**
+
+Author correction:
+> stop adding one rule per newly discovered problem; define the full downstream commercial R&D process once.
+
+New authority:
+> `meta/HIT_FICTION_RND_MASTER_PIPELINE_V2.md`
+
+Execution board:
+> `meta/D0098_EXECUTION_BOARD.md`
+
+Key correction:
+> every serious candidate must pass BOTH cold-start conversion and long-run compounding.
+
+Full coverage now includes:
+- market desire / shelf;
+- unknown-author cold start;
+- protagonist voice/personality/comedy;
+- Book Contract;
+- visible post-climax runway;
+- Opening Arc;
+- tangible growth;
+- long-run scale/mode changes;
+- character/relationship engine;
+- prose naturalness;
+- behavioral evidence.
+
+Immediate active work:
+1. Qidian head-tier benchmark;
+2. Fanqie head-tier benchmark;
+3. Cold-start conversion benchmark;
+4. Batch B absolute reading in parallel.
+
+After 1–3:
+> integrated Head-Tier Standard Synthesizer -> one neutral OS.
+
+Only after integrated standard:
+> 《劫痕道途》 / 《把一条副本规则带回现实》 architecture forges.
+
+Then:
+> independent red teams -> total-editor merge -> voice labs -> P3 -> Opening Arc -> P7 -> P20.
+
+No prose continuation before architecture PASS.
+No Primary.
