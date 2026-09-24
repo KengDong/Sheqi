@@ -1,7 +1,7 @@
 # Rule-Reality Hit-Scale Architect｜CURRENT
 
 role: rule_reality_hit_scale_architect
-status: BLOCKED_ON_D0097_BENCHMARKS
+status: BLOCKED_ON_D0098_INTEGRATED_STANDARD
 decision: D-0097
 candidate: 《把一条副本规则带回现实》
 
@@ -20,3 +20,7 @@ Output:
 > `architecture/2026-09-24_d0097_rule_reality_head_tier_architecture.md`
 
 Then CURRENT DONE + history + Git commit + STOP.
+
+
+Mandatory standard:
+> `meta/HEAD_TIER_COMMERCIAL_FICTION_OS_V2.md`
