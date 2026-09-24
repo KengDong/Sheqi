@@ -1,94 +1,136 @@
-# D-0099｜Controlled Voice Lab Brief
+# D-0100｜Unknown-Author Breakout Surface Lab
 ## 《劫痕道途》 + 《把一条副本规则带回现实》
 
 status: READY
 date: 2026-09-24
-purpose: unknown-author cold-start optimization after architecture PASS
+supersedes: D-0099 voice-only lab
+purpose: maximize discovery + first-3-ch continuation before full prose rebuild
 
-# Mission
+# Why This Replaces Voice-Only Testing
 
-For each candidate, create small controlled prototypes using the SAME causal spine.
+For an unknown author, voice alone is not the entry product.
 
-Do NOT continue Ch5.
-Do NOT rewrite the full Opening Arc yet.
+The real entry product is:
+> **title/synopsis promise + first-screen signature + protagonist identity + first payoff + terminal-spine shadow.**
 
-Test only:
-> which surface voice/personality/dialogue/comedic density creates the strongest voluntary continuation without damaging stakes or Book Contract.
+Therefore test the whole breakout surface in a controlled way.
 
-# Prototype Length
+# Shared Long-Run Constraint
 
-Per candidate:
-- 3 lanes maximum;
-- 800–1500 Chinese characters per lane;
-- same opening event/facts/outcome window.
+Read:
+- `meta/HEAD_TIER_COMMERCIAL_FICTION_OS_V2.md`
+- `meta/UNKNOWN_AUTHOR_BREAKOUT_LAYER_V1.md`
+- corresponding revised architecture
+- D-0098 total-editor merge
+
+Do NOT change the approved long-run causal engine.
+
+# Candidate Pack
+
+For EACH candidate produce maximum 3 commercial surface lanes.
+
+Each lane contains:
+
+1. **Title direction**
+   - not necessarily final title;
+   - optimize click clarity.
+
+2. **100–200 Chinese character synopsis**
+   - premise + protagonist + future shadow;
+   - no lore dump.
+
+3. **800–1500 Chinese character first-screen prototype**
+   - same core first incident;
+   - different surface intensity/personality/comedy allowed.
+
+4. **Ch1–3 promise card**
+   - first tangible fruit;
+   - recurring relationship;
+   - first larger-world shadow.
+
+5. **Ch10–20 terminal-spine shadow**
+   - one physical clue/event only;
+   - no exposition reveal.
 
 # Lanes
 
-## A｜Natural Serious-Commercial
-Closest to current strongest readable version.
+## Lane A｜Strong Natural Commercial
+Best polished form of the current tone.
 
-## B｜Personality / Relationship Forward
-Stronger protagonist behavioral signature and recurring-character chemistry.
+## Lane B｜Sharper Personality / Chemistry
+More behavioral identity and relationship energy.
 
-## C｜Comedy / Mania Forward
-Only if organic to candidate.
-Can be much bolder.
-Must preserve real consequences.
+## Lane C｜Bold Breakout
+Can be:
+- comedy/mania;
+- stronger contrast;
+- more blunt packaging;
+- more aggressive first-screen reversal.
 
-# Candidate Guidance
+It may win.
 
-## 《劫痕道途》
-Most promising differentiation:
-> dry pain humor + 周野/阮青禾 medical banter + absurd-but-serious cultivation-cost industry.
+# Scar Candidate Requirement
 
-Do NOT turn Zhou Ye into a clown.
+Must test a surface built around:
+> “别人花钱洗掉劫痕，周野拿它修仙.”
 
-## 《规则带回现实》
-Most promising differentiation:
-> black comedy from ordinary people seriously adapting to impossible public rules.
+Must expose:
+- clean-cultivator vs discarded-cost contrast;
+- Zhou Ye's body-as-ledger personality;
+- Ruan Qinghe chemistry early;
+- `万劫回流` only as a physical shadow, not explained.
 
-Cheng Ye should become more personally recognizable.
-Do NOT joke through death.
+If all 3 lanes still feel like:
+> “稳扎稳打的大牌修仙文”
+then HOLD Scar despite architecture PASS.
 
-# Hard Controls
+# Rule-Reality Candidate Requirement
 
-Across A/B/C:
-- same core premise;
-- same major incident;
-- same information order as much as possible;
-- same permanent cost/reward;
-- no extra power;
-- no easier villain;
-- no different ending.
+Must test:
+> current direct opening + stronger personality/black-comedy variants.
 
-Only vary:
-- narrative voice;
-- protagonist reaction style;
-- dialogue;
-- humor density;
-- relationship chemistry;
-- sentence texture.
+Must include:
+- next-entry countdown by early arc;
+- one outside rule source;
+- one future-fragment clue by Ch10–20;
+- no explanation that dungeons are future fragments yet.
 
-# Evaluation
+Terminal-spine promise:
+> “这些副本可能是现实自己的失败未来.”
 
-Clean-room cold-start readers stop voluntarily.
+If this addition makes the book feel over-designed:
+> remove the explicit explanation, keep only physical clues.
 
-Ask only after stop/finish:
+# Clean-Room Evaluation
+
+Readers receive ONE anonymous lane, not all variants.
+
+Behavioral questions:
 1. Would you click next?
-2. Who is the protagonist without mentioning the power?
-3. What line/action/person do you remember?
-4. What is the tone?
-5. Who else do you want to see?
-6. Did humor/personality strengthen or weaken stakes?
-7. Which version feels most like a book you would binge?
+2. What is this book about in one sentence?
+3. Describe protagonist without power.
+4. What specific thing do you expect by Ch10?
+5. What do you think the larger book might become?
+6. What scene/person/line remains?
+7. Does it feel like an unknown new book worth gambling time on?
+8. If abandon, exact point.
 
-No architecture scoring during read.
+No architecture scoring.
 
-# Output
+# Selection
 
-- candidate prototype packs;
-- isolated reader reports;
-- one selected voice per candidate or “no winner / current voice better”.
+Choose the lane with:
+> strongest voluntary continuation + clearest identity + strongest future-scale perception
 
-Then:
-> selected voice -> P3 rebuild.
+provided:
+> no stakes collapse and no root-story change.
+
+Then selected lane -> P3 rebuild.
+
+# Hard
+
+- no full Opening yet;
+- no Ch5 continuation;
+- no 3 full novels;
+- no architecture re-litigating during reader test;
+- no “serious lane wins by default”.
