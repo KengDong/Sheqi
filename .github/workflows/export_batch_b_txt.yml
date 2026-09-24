@@ -1,0 +1,34 @@
+name: Export Batch B TXT
+
+on:
+  push:
+    paths:
+      - 'exports/TRIGGER_BATCH_B.txt'
+
+permissions:
+  contents: read
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build TXT package
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/batch_b_txt
+          cp "experiments/opening_arcs/batch_b/b1_可缺席帝国/2026-09-24_d0094_opening_arc.md" "/tmp/batch_b_txt/01_可缺席帝国.txt"
+          cp "experiments/opening_arcs/batch_b/b2_劫债杠杆/2026-09-24_d0094_b2_opening_arc.md" "/tmp/batch_b_txt/02_劫债杠杆.txt"
+          cp "experiments/opening_arcs/batch_b/b3_天道赊境/2026-09-24_d0094_b3_opening_arc.md" "/tmp/batch_b_txt/03_天道赊境.txt"
+          cp "experiments/opening_arcs/batch_b/b4_限制越多异能越强/opening_arc.md" "/tmp/batch_b_txt/04_限制越多异能越强.txt"
+          cp "experiments/opening_arcs/batch_b/b5_岗位就是异能/2026-09-24_d0094_b5_opening_arc.md" "/tmp/batch_b_txt/05_岗位就是异能.txt"
+          cp "experiments/opening_arcs/batch_b/b6_幸存者立法/OPENING_ARC.md" "/tmp/batch_b_txt/06_幸存者必须给下一轮立法.txt"
+          cat "experiments/opening_arcs/batch_b/b7_组织才能升级/ch01.md"               "experiments/opening_arcs/batch_b/b7_组织才能升级/ch02.md"               "experiments/opening_arcs/batch_b/b7_组织才能升级/ch03.md"               "experiments/opening_arcs/batch_b/b7_组织才能升级/ch04.md"               > "/tmp/batch_b_txt/07_个人十级封顶_组织才能继续升级.txt"
+          cp "experiments/opening_arcs/batch_b/b8_修旧设备收租/2026-09-24_opening_arc.md" "/tmp/batch_b_txt/08_修旧设备不卖拿去收租.txt"
+      - name: Upload TXT package
+        uses: actions/upload-artifact@v4
+        with:
+          name: batch-b-revival-opening-arcs-txt
+          path: /tmp/batch_b_txt/*.txt
+          compression-level: 9
