@@ -680,7 +680,7 @@
   - no Canon/Outline
 
 ## commercial_mutation_forge
-- status: ACTIVE / D-0085
+- status: DONE / D-0085
 - current: `handoffs/commercial_mutation_forge/CURRENT.md`
 - brief: `research/briefs/2026-09-24_d0085_commercial_mutation_forge_brief.md`
 - candidates:
@@ -694,7 +694,7 @@
   - preserve Premium
 
 ## commercial_native_forge
-- status: ACTIVE / D-0085
+- status: DONE / D-0085
 - current: `handoffs/commercial_native_forge/CURRENT.md`
 - brief: `research/briefs/2026-09-24_d0085_commercial_native_forge_brief.md`
 - clean_room: HARD
@@ -709,3 +709,23 @@
   - no old R concepts
   - no prose
   - no Primary
+
+## commercial_reservoir_forge
+- status: ACTIVE / D-0086
+- current: `handoffs/commercial_reservoir_forge/CURRENT.md`
+- brief: `research/briefs/2026-09-24_d0086_commercial_reservoir_reward_stress_test_brief.md`
+- candidates:
+  - CR1 劫痕道途
+  - CR2 无身份资产
+  - CR3 万人炼我一法
+  - CR4 养一条会跟我走的灵脉
+  - CR5 把整座城市当成超能力
+  - CR6 把一条副本规则带回现实
+  - CR7 通关奖励是删掉一条世界规则
+  - CR8 别人抢物资，我抢整栋楼
+- deliver_to: editor_in_chief / Commercial Reservoir Cut
+- hard:
+  - no rescue
+  - no prose
+  - no Primary
+  - no Concept mutation
