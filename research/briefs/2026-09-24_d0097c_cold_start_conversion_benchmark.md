@@ -154,3 +154,21 @@ Therefore this benchmark must identify:
 - when an intentionally outrageous opening is commercially superior to a restrained one.
 
 Do not downgrade a route for being “不够高级” if reader pull is stronger.
+
+## D-0097D Add-On｜Mania-Comedy as Full Commercial Route
+
+Read:
+> `meta/COMMERCIAL_TONE_FREEDOM_V1.md`
+
+Mandatory:
+- include at least 3 commercially successful personality/comedy-forward works where humor/persona remains useful beyond the opening;
+- distinguish “cheap gag density” from “character/world-generated comedy”;
+- extract how comedic protagonists still sustain:
+  - power growth;
+  - emotional stakes;
+  - relationships;
+  - world expansion;
+  - Ch50/100 continuation;
+- identify when a manic/funny voice increases conversion MORE than a restrained prestigious voice.
+
+Do NOT assume serious prose is superior.
