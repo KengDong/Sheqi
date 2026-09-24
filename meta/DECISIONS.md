@@ -3098,3 +3098,50 @@ Executor:
 
 Next:
 > Horizon Cut -> select P1 prose candidates.
+
+
+## D-0084 Horizon Cut -> Four-Way Isolated P1 Prose Prototype
+**状态：ACTIVE，2026-09-24**
+
+Horizon Cut:
+> `reviews/2026-09-24_d0083_minimal_horizon_total_editor_cut.md`
+
+PASS TO P1:
+- R1 Future Holdings
+- R2 Second Autobiography
+- R7 Dead People Still Work
+- R8 Missing Day List
+
+HOLD:
+- R3 Borrowed Tribulations
+  - strong finite-runway candidate;
+  - current engine naturally approaches settlement near Far;
+  - do not fake longform runway with new source tribulations / new strong-person old debts / new bearers.
+
+Decision:
+> **P1 = four isolated first-chapter writes.**
+
+Shared brief:
+> `research/briefs/2026-09-24_d0084_p1_isolated_prototype_brief.md`
+
+Writer isolation:
+- R1: `handoffs/p1_r1_writer/CURRENT.md`
+- R2: `handoffs/p1_r2_writer/CURRENT.md`
+- R7: `handoffs/p1_r7_writer/CURRENT.md`
+- R8: `handoffs/p1_r8_writer/CURRENT.md`
+
+Each window may read only:
+> shared P1 brief + its own writer pack.
+
+No Writer sees:
+- other candidates;
+- Reservoir;
+- Character Collision full outputs;
+- Total Editor ranking/judgment;
+- Benchmark;
+- old prose.
+
+After all four:
+> hard-boundary QA -> anonymous A/B/C/D -> Voluntary Stop Fresh Reader.
+
+No Primary before reader evidence.
