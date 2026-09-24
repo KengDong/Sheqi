@@ -756,10 +756,12 @@
   - ST2 养一条会跟我走的灵脉
   - ST3 把整座城市当成超能力
   - ST4 别人抢物资，我抢整栋楼
+  - ST5 万人炼我一法
 - output:
   - direct shelf snapshot
   - platform-native candidate packs
   - anonymous shelf strips
+- ST5 condition: HUMAN-LAYER GAP NOT CLEARED
 - deliver_to:
   - separate clean-room Fresh Shelf Reader
 - hard:
