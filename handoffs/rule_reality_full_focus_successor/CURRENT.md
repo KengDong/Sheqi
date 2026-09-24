@@ -1,7 +1,7 @@
 # Rule-Reality Full-Focus Successor｜CURRENT
 
 role: rule_reality_full_focus_successor
-status: ACTIVE
+status: ACTIVE / FIELD2_WRITER_READY
 decision: D-0106
 candidate: 《把一条副本规则带回现实》
 
@@ -46,16 +46,47 @@ Architecture pick is NOT canon.
 
 > Can an actual second Rule Field be as readable as top infinite/survival fiction, while creating a magnetic recurring person and preserving our unique reality-return engine?
 
-# Next Critical Path
+# D-0106 Execution Closure Update｜2026-09-25
 
-## Step 1
-Verify D-0106 execution-gap closure is reflected in the prototype brief.
+Controller verified the Field #2 Prototype Brief against the D-0106 execution-gap audit.
 
-## Step 2
-Use/launch:
+A real gap was found and patched before prose:
+- explicit multi-axis difference from R1;
+- visible Cheng Ye competence-fantasy proof + another character's recognition/resistance;
+- explicit dual continuation appetite: reality aftermath + next Field;
+- stronger co-lead independence criteria;
+- expanded fair-play evidence requirements;
+- selfcheck now records these items.
+
+Patch commit:
+> `db16d4e65712a940eeddb11b6c3af5f9a60a03f1`
+
+Current truth:
+> D-0106 execution-gap closure IS now reflected in the Field #2 Prototype Brief.
+
+Writer remains isolated and READY:
 > `handoffs/rule_field2_fengmenlou_writer/CURRENT.md`
 
-The successor/controller itself should NOT write the isolated prose if clean separation can be preserved.
+No Field #2 prose has been generated in this controller window.
+This is intentional: the controller must not contaminate the isolated writer experiment.
+
+# Next Critical Path
+
+## Step 1｜DONE
+Verified and patched.
+D-0106 execution-gap closure is now reflected in the prototype brief.
+
+## Step 2｜READY / NEXT EXTERNAL ISOLATED WINDOW
+Use:
+> `handoffs/rule_field2_fengmenlou_writer/CURRENT.md`
+
+The successor/controller itself must NOT write the isolated prose in this window.
+
+Required outputs before returning here:
+- `experiments/rule_reality/d0106_fengmenlou_field2_prototype.md`
+- `experiments/rule_reality/d0106_fengmenlou_selfcheck.md`
+- writer CURRENT -> DONE
+- writer history + Git commit
 
 ## Step 3
 After writer DONE:
