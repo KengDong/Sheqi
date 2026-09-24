@@ -30,7 +30,7 @@ Postmortem:
 
 # Active Phase
 
-> **D-0084A｜Commercial Hit Market Recalibration / P1 PAUSED**
+> **D-0085｜Commercial Reforge / P1 PAUSED**
 
 Current reviews:
 - `reviews/2026-09-23_phase1_story_forge_desire_cut.md`
@@ -41,17 +41,26 @@ Current reviews:
 Commercial authority:
 - `meta/COMMERCIAL_HIT_FIRST_PRINCIPLES_V1.md`
 
-Primary brief:
-- `research/briefs/2026-09-24_d0084a_qidian_fanqie_commercial_hit_market_recalibration_brief.md`
+Commercial Gate:
+- `reviews/2026-09-24_d0084a_total_editor_commercial_gate.md`
 
-# Active Execution Window
+Active briefs:
+- `research/briefs/2026-09-24_d0085_commercial_mutation_forge_brief.md`
+- `research/briefs/2026-09-24_d0085_commercial_native_forge_brief.md`
 
-Current executor:
-- Commercial Market Scout:
-  `handoffs/commercial_market_scout/CURRENT.md`
+# Active Execution Windows
 
-D-0084 P1 writers are paused.
-No prose until Commercial Gate.
+Lane M:
+- Commercial Mutation Forge:
+  `handoffs/commercial_mutation_forge/CURRENT.md`
+
+Lane N:
+- Commercial Native Forge:
+  `handoffs/commercial_native_forge/CURRENT.md`
+
+Both are isolated.
+No cross-reading.
+No prose.
 
 # Evidence Rule
 
