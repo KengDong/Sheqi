@@ -3735,3 +3735,31 @@ High Reserve Reservoir Qualifier:
 
 No fixed survivor count.
 No Primary.
+
+
+## D-0094 High Reserve Revival -> Batch B Opening Arc
+**状态：ACTIVE，2026-09-24**
+
+Reserve Revival Qualifier:
+> 8 / 8 REVIVAL OPENING-ARC ELIGIBLE.
+
+Formal approval:
+> `reviews/2026-09-24_d0094_high_reserve_revival_approval.md`
+
+Batch B:
+- 可缺席帝国
+- 劫债杠杆
+- 天道赊境
+- 限制越多，异能越强
+- 岗位就是异能
+- 幸存者必须给下一轮立法
+- 个人十级封顶，组织才能继续升级
+- 修旧设备，不卖，拿去收租
+
+All eight receive isolated 3—5 chapter Opening Arc chances.
+
+Parallel:
+> D-0093 Batch A absolute readers remain active.
+
+No quota.
+No Primary.
