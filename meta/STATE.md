@@ -1,3 +1,19 @@
+# D-0095｜BATCH B ABSOLUTE READ ACTIVE
+
+Batch B:
+> 8 / 8 Opening Arcs completed and passed editor hard QA.
+
+Active clean-room absolute readers:
+H / I / J / K / L / M / N / O.
+
+Batch A:
+> 7 / 7 absolute survivors; author personal read in progress.
+
+No fixed survivor count.
+No Primary.
+
+---
+
 # D-0093A｜BATCH A AUTHOR OPENING READ READY
 
 Batch A absolute-reader result:
