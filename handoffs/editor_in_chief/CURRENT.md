@@ -1,5 +1,23 @@
 
 
+## D-0091 P0 CUT COMPLETE / P1 ACTIVE
+
+Formal cut:
+> `reviews/2026-09-24_d0090_p0_total_editor_cut.md`
+
+All three finalists PASS to full P1.
+
+Active isolated writers:
+- `handoffs/p1_fnl1_writer/CURRENT.md`
+- `handoffs/p1_fnl2_writer/CURRENT.md`
+- `handoffs/p1_fnl3_writer/CURRENT.md`
+
+Total Editor must not coach writers before all three are DONE.
+
+After all three:
+> hard-error QA -> anonymize -> clean-room P1 Fresh Reader with voluntary stop.
+
+
 ## D-0090 P0 WRITERS DONE / FRESH READER ACTIVE
 
 Three P0 First Screens are complete.
@@ -258,7 +276,7 @@ No Primary.
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0090 Anonymous P0 Fresh Reader
+- current_gate: D-0091 Three-Way Isolated P1 Full Chapter
 
 
 ## D-0084 HORIZON CUT COMPLETE
