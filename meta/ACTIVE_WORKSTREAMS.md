@@ -806,19 +806,19 @@
 - deliver_to: editor_in_chief / Prototype Readiness Gate
 
 ## p0_fnl1_writer
-- status: ACTIVE / D-0090
+- status: DONE / D-0090
 - current: `handoffs/p0_fnl1_writer/CURRENT.md`
 - candidate: FNL1 养一条会跟我走的灵脉
 - hard: isolated input only
 
 ## p0_fnl2_writer
-- status: ACTIVE / D-0090
+- status: DONE / D-0090
 - current: `handoffs/p0_fnl2_writer/CURRENT.md`
 - candidate: FNL2 把整座城市当成超能力
 - hard: isolated input only
 
 ## p0_fnl3_writer
-- status: ACTIVE / D-0090
+- status: DONE / D-0090
 - current: `handoffs/p0_fnl3_writer/CURRENT.md`
 - candidate: FNL3 别人抢物资，我抢整栋楼
 - hard: isolated input only
@@ -829,3 +829,17 @@
   - anonymize
   - new clean-room P0 Fresh Reader
 - no full Ch1 before P0 behavioral evidence
+
+## p0_fresh_reader
+- status: ACTIVE / D-0090
+- current: `handoffs/p0_fresh_reader/CURRENT.md`
+- input:
+  - anonymous X/Y/Z P0 prose only
+- deliver_to:
+  - editor_in_chief / P0 Cut
+- hard:
+  - no mapping
+  - no project context
+  - no web
+  - no editing
+  - no repair suggestions
