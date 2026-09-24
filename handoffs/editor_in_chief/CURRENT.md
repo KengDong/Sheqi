@@ -1,5 +1,35 @@
 
 
+## D-0092 DOUBLE-ELIMINATION REVIVAL ACTIVE
+
+System:
+> `meta/DOUBLE_ELIMINATION_FICTION_RND_V1.md`
+
+Revival audit:
+> `reviews/2026-09-24_d0091b_revival_pool_audit.md`
+
+Serious-development pool = 7.
+
+Winners:
+- 灵脉
+- 城市
+- 整栋楼
+
+Revival:
+- 劫痕道途
+- 万人炼我一法
+- 无身份资产
+- 把一条副本规则带回现实
+
+All seven must receive a fair Opening Arc / first mini-climax chance unless catastrophic failure occurs.
+
+Parallel:
+> 8 high reserves run Reservoir Qualifier.
+
+No forced cut count.
+Author personal opening read is expected before later narrowing.
+
+
 ## D-0091A AUTHOR PROCESS OVERRIDE
 
 Do not perform a normal P1 elimination cut.
@@ -292,7 +322,7 @@ No Primary.
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0091 Three-Way Isolated P1 Full Chapter
+- current_gate: D-0092 Double-Elimination Opening Arc Round
 
 
 ## D-0084 HORIZON CUT COMPLETE
