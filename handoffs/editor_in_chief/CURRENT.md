@@ -1,5 +1,26 @@
 
 
+## D-0088A AUTHOR SCOPE OVERRIDE｜FIVE-BOOK SHELF TEST
+
+Author explicitly requested:
+> compare all five; do not exclude 万人炼我一法 at Shelf Test.
+
+Formal override:
+> `reviews/2026-09-24_d0088_author_scope_override_include_hg2.md`
+
+Shelf candidates:
+- ST1 劫痕道途
+- ST2 养一条会跟我走的灵脉
+- ST3 把整座城市当成超能力
+- ST4 别人抢物资，我抢整栋楼
+- ST5 万人炼我一法
+
+Important:
+> ST5 carries HUMAN-LAYER GAP NOT CLEARED from D-0087.
+
+A strong shelf result does not automatically clear that gap.
+
+
 ## D-0088 HIT GAP GATE COMPLETE
 
 Formal review:
