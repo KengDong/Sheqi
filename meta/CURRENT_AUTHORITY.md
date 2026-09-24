@@ -4,7 +4,7 @@ updated: 2026-09-24
 
 # Highest Decision
 
-> **D-0101M｜Rule-Reality Exclusive Priority / Full-Stack V2 FROZEN / Breakout Prose NEXT**
+> **D-0101G｜Rule-Reality Framework PASS / D-0102 Second Field Tournament READY / Scar PAUSED**
 
 Authority:
 - `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
@@ -31,6 +31,23 @@ Postmortem:
 - D-0079 C01 targeted patch：**PAUSED / SUPERSEDED BY PROCESS RESET**
 - existing Ch1—20 prose：research evidence / experiment history
 - Canon / Approved Outline：frozen; no new authority promotion
+
+# D-0101 Rule-Only Focus
+
+Primary development focus:
+> 《把一条副本规则带回现实》
+
+Completed:
+- D-0101 competitor battlefield
+- D-0101 V2/V2.1 architecture
+- comprehensive Red Team
+- final framework gate
+
+Next:
+> `handoffs/rule_second_field_tournament/CURRENT.md`
+
+Scar:
+> PAUSED.
 
 # Active Phase
 
