@@ -3515,3 +3515,47 @@ No Primary.
 
 After all three DONE:
 > editor_in_chief / Prototype Readiness Gate.
+
+
+## D-0090 Prototype Readiness Gate -> Three-Way Isolated P0
+**状态：ACTIVE，2026-09-24**
+
+Formal gate:
+> `reviews/2026-09-24_d0089_prototype_readiness_gate.md`
+
+D-0089 direct competitor lanes:
+- FNL1 DONE
+- FNL2 DONE
+- FNL3 DONE
+
+Verdict:
+> **ALL THREE PASS TO ISOLATED P0 FIRST SCREEN**
+
+Candidates:
+- FNL1 养一条会跟我走的灵脉
+- FNL2 把整座城市当成超能力
+- FNL3 别人抢物资，我抢整栋楼
+
+Reason:
+> no root Concept blocker found; highest remaining uncertainty is actual first-screen execution and promise fulfillment.
+
+Shared brief:
+> `research/briefs/2026-09-24_d0090_p0_first_screen_isolated_prototype_brief.md`
+
+Isolated writers:
+- `handoffs/p0_fnl1_writer/CURRENT.md`
+- `handoffs/p0_fnl2_writer/CURRENT.md`
+- `handoffs/p0_fnl3_writer/CURRENT.md`
+
+Hard:
+- each writer sees only shared P0 brief + own input card;
+- no competitor report reading;
+- no cross-finalist reading;
+- no full Ch1;
+- no Primary.
+
+After all three DONE:
+> editor hard-error QA only -> anonymize -> brand-new clean-room P0 Fresh Reader -> voluntary continuation test.
+
+Broad research:
+> CLOSED.
