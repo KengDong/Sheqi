@@ -1,37 +1,31 @@
 # Batch B Opening Arc B3 Writer｜CURRENT
 
 role: opening_arc_b3_revival_writer
-status: ACTIVE
+status: DONE
 decision: D-0094
 candidate: 《天道赊境》
 
-HARD INPUT BOUNDARY:
-1. `research/briefs/2026-09-24_d0094_batch_b_opening_arc_brief.md`
-2. `research/briefs/2026-09-24_d0094_b3_heavenly_credit_arc_card.md`
+Completed:
+- complete Opening Arc from Ch1 through first natural mini-climax;
+- 4 chapters;
+- temporary borrowed 开脉境 fully returned;
+- permanent first true meridian retained;
+- 姜禾 entered persistent guarantor / shared-liability relation;
+- 韩阙 used expiry and consumption as explicit counterplay;
+- 赤砂七洞 seven-day守脉权 retained as durable resource fruit;
+- selfcheck written;
+- history snapshot written;
+- Git commits completed.
 
-Do not read:
-- Batch A prose;
-- winner/revival prior prose;
-- other Batch B candidate cards/prose;
-- shelf results;
-- comparative reports;
-- competitor prose;
-- STATE / DECISIONS / history.
+Primary prose:
+- `experiments/opening_arcs/batch_b/b3_天道赊境/2026-09-24_d0094_b3_opening_arc.md`
 
-Mission:
-> write a complete Opening Arc from Ch1 through the first natural mini-climax, expected 3—5 chapters / 8k—15k Chinese chars.
+Selfcheck:
+- `experiments/opening_arcs/batch_b/b3_天道赊境/2026-09-24_d0094_b3_selfcheck.md`
 
-Do not write beyond the first mini-climax.
+History snapshot:
+- `handoffs/opening_arc_b3_revival_writer/history/2026-09-24_d0094_done.md`
 
-Output folder:
-> `experiments/opening_arcs/batch_b/b3_天道赊境/`
-
-Also produce:
-- selfcheck;
-- CURRENT DONE;
-- history snapshot;
-- Git commit;
-then STOP.
-
+STOP.
 No ranking.
 No Primary.
