@@ -4085,3 +4085,26 @@ Next:
 
 No Ch5 continuation.
 No full Opening rewrite yet.
+
+
+## D-0100 Unknown-Author Breakout Reassessment
+**状态：ACTIVE，2026-09-24**
+
+Author correction:
+> architecture PASS is insufficient for a no-name newcomer if the book still reads “稳、正规、慢慢变好”.
+
+New standard:
+> `meta/UNKNOWN_AUTHOR_BREAKOUT_LAYER_V1.md`
+
+Reassessment:
+> `reviews/2026-09-24_d0100_unknown_author_breakout_reassessment.md`
+
+Candidate changes:
+- Rule-Reality adds terminal spine: failed-future fragments -> reality overlap -> eventual overwrite risk.
+- Scar adds front-end reforge + terminal crisis: “别人洗掉劫痕，我拿它修仙” surface + 万劫回流 shadow.
+
+D-0099 voice-only lab is superseded in purpose by:
+> D-0100 Unknown-Author Breakout Surface Lab.
+
+No full prose continuation.
+No Primary.
