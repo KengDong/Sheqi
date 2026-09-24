@@ -1,5 +1,30 @@
 
 
+## D-0098A TASK GRAPH NORMALIZED
+
+Authority:
+> `meta/HIT_FICTION_RND_MASTER_PIPELINE_V2.md`
+> `meta/D0098_EXECUTION_BOARD.md`
+
+Core ACTIVE now:
+1. Qidian Head-Tier Benchmark
+2. Fanqie Head-Tier Benchmark
+3. Cold-Start Conversion Benchmark
+
+Parallel evidence:
+- Batch B readers H-O
+- Author Batch B read
+
+Next only after all 3 benchmark reports:
+> Head-Tier Standard Synthesizer
+
+Then:
+> Scar + Rule-Reality architecture in parallel -> independent red teams -> Total Editor merge.
+
+No candidate prose before architecture PASS.
+No Primary.
+
+
 ## D-0095 BATCH B ABSOLUTE READ ACTIVE
 
 D-0094 Batch B writers:
@@ -390,7 +415,7 @@ No Primary.
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0095 Batch A Author Read + Batch B Absolute Read
+- current_gate: D-0098A Task Graph Normalized / Benchmark Triplet ACTIVE
 
 
 ## D-0084 HORIZON CUT COMPLETE
