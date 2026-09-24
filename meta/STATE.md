@@ -1,3 +1,43 @@
+# D-0084｜P1 ISOLATED PROSE PROTOTYPE ACTIVE
+
+Horizon Cut complete:
+> 5 candidates -> 4 P1 candidates + 1 finite-runway HOLD.
+
+Review:
+> `reviews/2026-09-24_d0083_minimal_horizon_total_editor_cut.md`
+
+P1 candidates:
+- R1 Future Holdings
+- R2 Second Autobiography
+- R7 Dead People Still Work
+- R8 Missing Day List
+
+Hold:
+- R3 Borrowed Tribulations
+
+Active:
+> **FOUR-WAY ISOLATED CH1 WRITE**
+
+Shared brief:
+> `research/briefs/2026-09-24_d0084_p1_isolated_prototype_brief.md`
+
+Execution windows:
+- `handoffs/p1_r1_writer/CURRENT.md`
+- `handoffs/p1_r2_writer/CURRENT.md`
+- `handoffs/p1_r7_writer/CURRENT.md`
+- `handoffs/p1_r8_writer/CURRENT.md`
+
+Next:
+> all four DONE -> editor boundary QA -> anonymize -> Voluntary Stop P1 Fresh Read.
+
+Hard:
+- no Ch2;
+- no Primary;
+- no Canon/Outline change;
+- no cross-candidate Writer reading.
+
+---
+
 # D-0083｜MINIMAL HORIZON STRESS TEST ACTIVE
 
 Character Cut complete:
