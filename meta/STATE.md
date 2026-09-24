@@ -1,3 +1,27 @@
+# D-0093A｜BATCH A AUTHOR OPENING READ READY
+
+Batch A absolute-reader result:
+> 7 / 7 natural finish
+> 7 / 7 next chapter YES
+> 7 / 7 post-payoff desire RISE
+> 0 abandonment
+
+Formal synthesis:
+> `reviews/2026-09-24_d0093a_batch_a_absolute_survival_synthesis.md`
+
+No Batch A cut.
+
+Next human gate:
+> author reads all seven Opening Arcs.
+
+Parallel:
+> D-0094 Batch B Revival Opening Arc writing remains active.
+
+No ranking.
+No Primary.
+
+---
+
 # D-0094｜BATCH B REVIVAL OPENING ARCS ACTIVE
 
 High Reserve qualifier complete:
