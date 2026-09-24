@@ -4015,3 +4015,41 @@ Then:
 
 No prose continuation before architecture PASS.
 No Primary.
+
+
+## D-0098A Task Graph Normalization
+**状态：ACTIVE，2026-09-24**
+
+Author request:
+> stop reactive task growth; inspect and adjust the actual task graph.
+
+Execution authority:
+> `meta/D0098_EXECUTION_BOARD.md`
+
+Critical path is now strictly:
+1. 3 benchmark lanes in parallel;
+2. integrated standard synthesis;
+3. 2 candidate architecture forges in parallel;
+4. 2 independent red teams;
+5. total-editor merge;
+6. architecture PASS only -> voice lab -> P3 -> full Opening -> P7 -> P20 -> P50.
+
+Parallel evidence lane:
+- Batch B absolute readers H–O;
+- author Batch B personal read.
+
+Important:
+> Batch B evidence does NOT block Priority A/B architecture research.
+
+WIP limits:
+- now max 3 core benchmark tasks;
+- after synthesis max 2 architecture tasks;
+- then max 2 red teams.
+
+Anti-sprawl rule:
+> before creating a new task, ask which existing Gate cannot answer it.
+> if an existing Gate can answer it, update that Gate instead of creating a new lane.
+
+Historical Batch A readers / Batch B writers are no longer ACTIVE.
+No prose.
+No Primary.
