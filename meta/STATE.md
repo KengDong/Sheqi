@@ -1,3 +1,26 @@
+# D-0094｜BATCH B REVIVAL OPENING ARCS ACTIVE
+
+High Reserve qualifier complete:
+> 8 / 8 eligible.
+
+Active Batch B writers:
+- opening_arc_b1_revival_writer
+- opening_arc_b2_revival_writer
+- opening_arc_b3_revival_writer
+- opening_arc_b4_revival_writer
+- opening_arc_b5_revival_writer
+- opening_arc_b6_revival_writer
+- opening_arc_b7_revival_writer
+- opening_arc_b8_revival_writer
+
+Parallel:
+> D-0093 Batch A absolute readers remain active.
+
+No fixed survivor count.
+No Primary.
+
+---
+
 # D-0093｜OPENING ARC ABSOLUTE READ BATCH A ACTIVE
 
 Seven complete Opening Arcs are now under isolated clean-room absolute reading.
