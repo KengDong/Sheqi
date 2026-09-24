@@ -1,3 +1,34 @@
+# D-0090｜THREE-WAY ISOLATED P0 FIRST SCREEN ACTIVE
+
+D-0089 Direct Competitor Deep Read:
+> ALL THREE DONE.
+
+Prototype Readiness Gate:
+> `reviews/2026-09-24_d0089_prototype_readiness_gate.md`
+
+Verdict:
+> FNL1 / FNL2 / FNL3 all PASS to P0.
+
+Active writers:
+- `handoffs/p0_fnl1_writer/CURRENT.md`
+- `handoffs/p0_fnl2_writer/CURRENT.md`
+- `handoffs/p0_fnl3_writer/CURRENT.md`
+
+P0 length:
+> 800—1200 Chinese characters.
+
+Goal:
+> package promise -> actual first-screen continuation.
+
+Next:
+> all three DONE -> editor hard-error QA -> anonymize -> fresh P0 voluntary-continuation reader.
+
+No full Ch1.
+No Primary.
+No broad research.
+
+---
+
 # D-0089｜DIRECT COMPETITOR DEEP READ ACTIVE
 
 D-0088 Platform Shelf Cut complete.
