@@ -30,7 +30,7 @@ Postmortem:
 
 # Active Phase
 
-> **D-0091｜Three-Way Isolated P1 Full Chapter / Ch2 PAUSED**
+> **D-0092｜Double-Elimination Opening Arc Round / Primary PAUSED**
 
 Current reviews:
 - `reviews/2026-09-23_phase1_story_forge_desire_cut.md`
@@ -68,19 +68,29 @@ D-0088 author scope override:
 Market evidence freeze:
 - `meta/MARKET_EVIDENCE_FREEZE_AND_REOPEN_TRIGGERS.md`
 
+Double-elimination system:
+- `meta/DOUBLE_ELIMINATION_FICTION_RND_V1.md`
+
+Revival pool:
+- `reviews/2026-09-24_d0091b_revival_pool_audit.md`
+
 # Active Execution Windows
 
-P1 isolated writers:
-- `handoffs/p1_fnl1_writer/CURRENT.md`
-- `handoffs/p1_fnl2_writer/CURRENT.md`
-- `handoffs/p1_fnl3_writer/CURRENT.md`
+Opening Arc winners:
+- `handoffs/opening_arc_w1_writer/CURRENT.md`
+- `handoffs/opening_arc_w2_writer/CURRENT.md`
+- `handoffs/opening_arc_w3_writer/CURRENT.md`
 
-Candidates:
-- FNL1 养一条会跟我走的灵脉
-- FNL2 把整座城市当成超能力
-- FNL3 别人抢物资，我抢整栋楼
+Opening Arc revival:
+- `handoffs/opening_arc_r1_revival_writer/CURRENT.md`
+- `handoffs/opening_arc_r2_revival_writer/CURRENT.md`
+- `handoffs/opening_arc_r3_revival_writer/CURRENT.md`
+- `handoffs/opening_arc_r4_revival_writer/CURRENT.md`
 
-No Ch2.
+Reserve qualifier:
+- `handoffs/revival_reservoir_qualifier/CURRENT.md`
+
+No fixed survivor count.
 No Primary.
 No broad market rescan.
 
