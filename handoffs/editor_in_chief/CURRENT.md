@@ -1,5 +1,34 @@
 
 
+## D-0086 COMMERCIAL DESIRE CUT COMPLETE
+
+Formal review:
+> `reviews/2026-09-24_d0085_commercial_desire_cut.md`
+
+21 candidates -> 8 ADVANCE.
+
+Active:
+> `handoffs/commercial_reservoir_forge/CURRENT.md`
+
+Survivors:
+- CR1 劫痕道途
+- CR2 无身份资产
+- CR3 万人炼我一法
+- CR4 养一条会跟我走的灵脉
+- CR5 把整座城市当成超能力
+- CR6 把一条副本规则带回现实
+- CR7 通关奖励是删掉一条世界规则
+- CR8 别人抢物资，我抢整栋楼
+
+Core test:
+> not just whether rewards exist, but whether 30—50 situations remain varied, compounding and Premium-specific.
+
+Total Editor waits for all eight outputs.
+No early repair.
+No prose.
+No Primary.
+
+
 ## D-0085 COMMERCIAL GATE COMPLETE
 
 Formal gate:
@@ -62,7 +91,7 @@ No Primary.
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0085 Commercial Reforge
+- current_gate: D-0086 Commercial Reservoir & Reward Stress Test
 
 
 ## D-0084 HORIZON CUT COMPLETE
