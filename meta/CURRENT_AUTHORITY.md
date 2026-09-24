@@ -30,7 +30,7 @@ Postmortem:
 
 # Active Phase
 
-> **D-0093｜Opening Arc Absolute Read Batch A / High Reserve Qualifier Parallel / Primary PAUSED**
+> **D-0094｜Batch A Absolute Read + Batch B Revival Opening Arcs / Primary PAUSED**
 
 Current reviews:
 - `reviews/2026-09-23_phase1_story_forge_desire_cut.md`
@@ -76,7 +76,7 @@ Revival pool:
 
 # Active Execution Windows
 
-Opening Arc Absolute Readers:
+Batch A Opening Arc Absolute Readers:
 - `handoffs/opening_arc_reader_a/CURRENT.md`
 - `handoffs/opening_arc_reader_b/CURRENT.md`
 - `handoffs/opening_arc_reader_c/CURRENT.md`
@@ -85,10 +85,16 @@ Opening Arc Absolute Readers:
 - `handoffs/opening_arc_reader_f/CURRENT.md`
 - `handoffs/opening_arc_reader_g/CURRENT.md`
 
-Parallel:
-- `handoffs/revival_reservoir_qualifier/CURRENT.md`
+Batch B Revival Opening Arc Writers:
+- `handoffs/opening_arc_b1_revival_writer/CURRENT.md`
+- `handoffs/opening_arc_b2_revival_writer/CURRENT.md`
+- `handoffs/opening_arc_b3_revival_writer/CURRENT.md`
+- `handoffs/opening_arc_b4_revival_writer/CURRENT.md`
+- `handoffs/opening_arc_b5_revival_writer/CURRENT.md`
+- `handoffs/opening_arc_b6_revival_writer/CURRENT.md`
+- `handoffs/opening_arc_b7_revival_writer/CURRENT.md`
+- `handoffs/opening_arc_b8_revival_writer/CURRENT.md`
 
-No comparative cut until absolute read returns.
 No fixed survivor count.
 No Primary.
 
