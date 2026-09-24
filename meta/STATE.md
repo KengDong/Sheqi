@@ -1,3 +1,37 @@
+# D-0089｜DIRECT COMPETITOR DEEP READ ACTIVE
+
+D-0088 Platform Shelf Cut complete.
+
+Finalists:
+- FNL1 养一条会跟我走的灵脉
+- FNL2 把整座城市当成超能力
+- FNL3 别人抢物资，我抢整栋楼
+
+Formal review:
+> `reviews/2026-09-24_d0088_platform_shelf_cut.md`
+
+Active:
+> **three isolated Direct Competitor Deep Read lanes**
+
+Brief:
+> `research/briefs/2026-09-24_d0089_direct_competitor_deepread_brief.md`
+
+Lanes:
+- `handoffs/direct_competitor_fnl1/CURRENT.md`
+- `handoffs/direct_competitor_fnl2/CURRENT.md`
+- `handoffs/direct_competitor_fnl3/CURRENT.md`
+
+Mother-market research:
+> FROZEN.
+
+Prose:
+> PAUSED.
+
+Next:
+> all three DONE -> editor_in_chief Prototype Readiness Gate -> P0/P1 isolated prose.
+
+---
+
 # D-0088｜FRESH SHELF READER ACTIVE
 
 Platform Shelf Forge:
