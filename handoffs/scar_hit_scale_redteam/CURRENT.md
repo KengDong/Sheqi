@@ -1,7 +1,7 @@
 # Scar Hit-Scale Red Team｜CURRENT
 
 role: scar_hit_scale_redteam
-status: BLOCKED_ON_SCAR_ARCHITECTURE
+status: DONE
 decision: D-0097
 
 Do not start until:
