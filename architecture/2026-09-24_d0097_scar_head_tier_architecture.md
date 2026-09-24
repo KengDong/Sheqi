@@ -593,3 +593,111 @@ Need stronger cold-start voice:
 - earlier visible qualification/payoff.
 
 Do NOT make it pure comedy.
+
+
+# D-0098S-R1｜Red-Team Revision Addendum
+
+## A. First-50-Ch Personal-Life Ledger
+
+周野不新增家庭苦情线。
+
+他的具体生活目标锁为：
+> **从“今天伤了就没工钱、治一次就掏空”的临工状态，变成能靠自己的专业和修为稳定养活自己，并拥有“可以拒绝危险班”的选择权。**
+
+Visible changes:
+
+### Ch10
+- first paid observer/assistant income;
+- still cannot afford full clean treatment without wiping savings.
+
+### Ch20
+- qualification changes day-rate/job access;
+- he no longer takes every dangerous odd job;
+- can pay for one piece of better recovery/cultivation resource without borrowing.
+
+### Ch35
+- first client asks for him by name;
+- first time he refuses a badly structured dangerous job because he can afford to say no.
+
+### Ch50
+- stable enough income/status to choose:
+  - clean treatment path;
+  - or fund scar-integrated cultivation.
+
+He chooses the latter knowingly.
+
+This makes money/status change actual life.
+
+## B. Zhou Ye's Own Cultivation Becomes Central
+
+Ch21–50 central desire is now:
+> **周野要完成自己的下一次境界突破。**
+
+Not “while doing work he also gets stronger.”
+
+The work/medicine/industry systems become obstacles/resources around his own breakthrough.
+
+Mid-arc tension:
+- standard breakthrough requires cleaning/stabilizing the scar;
+- scar-integrated path requires keeping a measured part of the damage;
+- Ruan Qinghe can medically veto unsafe thresholds;
+- the institutional system can refuse to certify a nonstandard body.
+
+Ch50 climax:
+> Zhou Ye personally breaks through using the first stable scar-circulation structure.
+
+This is the emotional/genre payoff.
+Qualification is secondary.
+
+## C. Ruan Qinghe Independent Causal Win
+
+Before Ch40:
+> a non-Zhou-Ye patient/cultivator is scheduled for routine scar cleaning.
+
+Ruan Qinghe notices that removing one scar would destroy a compensating body adaptation.
+She refuses the standard sequence, takes professional risk, and the patient survives/recovers better.
+
+Consequences:
+- earns one mentor/supporter;
+- gains one institutional critic;
+- proves her career question exists independently of Zhou Ye.
+
+No Zhou Ye rescue.
+
+## D. Ch70–100 Major Arc Rebuilt
+
+The regional qualification/contract event remains as **entry frame**, not climax.
+
+True central event:
+> a high-value sect/group breakthrough creates an escalating real tribulation failure in public view.
+
+The system's standard plan begins to fail because:
+- multiple cultivators' costs interact;
+- standardized routing assumes independent burdens.
+
+Zhou Ye must choose:
+- use his nonstandard path publicly and risk permanent damage/reputation;
+- or remain within certification limits and watch the system fail.
+
+The climax pays:
+- cultivation/combat spectacle;
+- bodily cost;
+- team trust;
+- public status;
+- industry consequence.
+
+The qualification/contract arrives AFTER the survival/cultivation proof.
+
+## E. Revised Ch100 Book State
+
+By Ch100 Reader should say:
+
+> 周野已经不只是“懂劫务的人”；
+> 他已经靠自己的身体走出一小段新修行路，
+> 有钱到能拒绝部分危险工作，
+> 有人会点名请他，
+> 阮青禾也有自己的专业名声，
+> 而整个区域开始认真争论/竞争这条路值不值得采用。
+
+This revision clears the red-team concern that profession replaces cultivation.
+
