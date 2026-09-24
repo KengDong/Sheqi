@@ -3949,3 +3949,22 @@ Principle:
 > architecture makes a book worth staying for; personality/tone makes an unknown book earn the chance to be stayed with.
 
 No requirement that every book be humorous.
+
+
+## D-0097D Commercial Taste Principle｜Addictive > Respectable
+**状态：ACTIVE，2026-09-24**
+
+Author clarifies:
+> highest objective remains breakout-scale commercial success and sustained revenue.
+
+Therefore:
+- comedy / 发癫 / exaggerated protagonist voice are fully valid mainline strategies;
+- do not privilege “正规、克制、像大作家” over stronger voluntary continuation;
+- if a funny/deranged version makes the author genuinely want to binge-read and also passes long-run architecture, it may be preferred;
+- author personal binge impulse is important human evidence, though not sufficient alone.
+
+Hard:
+> do not confuse humor with random memes, noise, or everyone speaking the same voice.
+
+Target:
+> **high cold-start conversion + strong long-run engine**, not stylistic respectability.
