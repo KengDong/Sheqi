@@ -809,3 +809,213 @@ Reader can therefore answer:
 
 This clears the “world grows but protagonist stays soft” blocker.
 
+
+
+# D-0100R｜Breakout Add-On + Terminal Spine
+
+## 1. Strategic Position
+
+This candidate already has:
+> stronger unknown-author discovery surface than Scar.
+
+Reason:
+- title/premise is instantly legible;
+- first rule is easy to explain;
+- modern surface language;
+- reader naturally asks about next dungeon/rule.
+
+But current architecture still risks feeling:
+> “很好看的连续规则事件.”
+
+It needs a terminal spine whose shadow is visible early.
+
+## 2. Breakout Promise Upgrade
+
+Current:
+> survive rule fields and bring one rule back.
+
+Upgrade:
+> **survive rule fields, choose what enters reality, and slowly discover that the fields are versions of reality's own future.**
+
+The reader's three-sentence retell should become:
+
+1. 男主通关副本后必须带一条规则回现实。
+2. 别的幸存者也在带，现实越来越离谱。
+3. 最可怕的是——副本里的城市，好像就是现实未来某个已经失败的版本。
+
+## 3. Terminal Spine｜“失败未来正在覆盖现实”
+
+Preferred macro secret:
+
+> **规则场不是异世界，也不是人为搭建的密室。它们是现实在不同规则组合下走向崩坏后的“未来碎片”。**
+
+A returner choosing a rule does two things:
+1. imports that rule into current reality;
+2. increases the weight/proximity of the corresponding future branch.
+
+As rules accumulate:
+- zones overlap;
+- buildings briefly become future versions;
+- people remember incompatible events;
+- infrastructure appears with dates that have not happened;
+- some people/objects are “recognized” differently by two overlapping realities.
+
+Long-run crisis:
+> **归一日** — one coherent rule-future will eventually overwrite the present unless the mechanism is changed.
+
+Do NOT expose this terminology early.
+
+## 4. Early Physical Clues
+
+### Ch1–4
+Keep current rule/family story.
+
+At the end:
+- next-entry countdown;
+- an outside abnormality caused by another rule.
+
+### Ch5–20
+Add ONE impossible clue:
+> a mundane object/location from another anomaly contains a future date, future renovation, or a version of the city that has not happened.
+
+Example function:
+> Cheng Ye sees a station/store/block in a rule field whose real-world counterpart does not yet exist in that form.
+
+Do not explain it.
+
+### Ch21–50
+Second field contains a second mismatch:
+> same city bones, different future consequence.
+
+### Ch50–100
+Two returners compare evidence:
+> rule fields share impossible continuity with real places/people.
+
+Now macro question evolves from:
+> “who made the dungeons?”
+to:
+> **“are we entering places that haven't happened yet?”**
+
+### Ch100–200
+First short reality-overlap event:
+> one block becomes its rule-field future for minutes/hours.
+
+This is the first concrete crisis proof.
+
+### Ch200+
+Returners understand:
+> their chosen rules are not rewards; they are votes/weights pushing reality toward particular futures.
+
+## 5. Why Secret + Crisis Must Be Linked
+
+Pure mystery:
+> “副本是谁造的？”
+is too passive.
+
+Pure apocalypse:
+> “世界要毁灭了”
+is too generic.
+
+Combined:
+> **每次通关选择，既是下一次爽点，也是把某个失败未来拉近现实的一票。**
+
+Therefore every local choice feeds terminal line.
+
+## 6. Additional Commercial “添头”
+
+Without adding a second full system:
+
+### A. Visible Countdown
+Next field entry.
+
+### B. Sparse Access Authority
+Already approved:
+> forced -> early entry -> choose opening -> synchronized entry -> costly rejection.
+
+### C. Returner Social Identity
+Other returners can recognize subtle “door marks”/entry residue ONLY if needed in prose.
+Do not turn into numeric badge system.
+
+### D. Reality Assets
+- prep base;
+- official contact;
+- team protocols;
+- information network;
+- safe routes;
+- reputation.
+
+### E. Black-Comedy Surface
+Normal institutions adapt seriously to absurd rules.
+
+### F. Future-Fragment Clues
+Every major arc may leave ONE piece, not a lore dump.
+
+This gives:
+> survival food + social food + mystery food + growth food.
+
+## 7. Macro Antagonism
+
+Do NOT use a single final villain early.
+
+Three escalating antagonist types:
+
+1. **Exploiters**
+   - criminals/platform opportunists using current rules.
+
+2. **Other returners**
+   - sincerely want different public rules.
+
+3. **Future pressure**
+   - reality itself starts favoring incompatible versions.
+
+Later factions may form around rule-choice philosophy, but people come first.
+
+## 8. Family Must Matter to Terminal Spine
+
+The world-scale line stays emotionally legible because:
+
+> when reality overlap begins, family members may remember different histories or belong to futures where another person died/lived.
+
+This turns macro mystery into personal fear.
+
+Do not overuse memory rewrite early.
+
+## 9. First-20-Ch Breakout Requirement
+
+By Ch20 reader should have all four:
+
+1. first rule consequences;
+2. countdown to next field;
+3. proof another rule source exists;
+4. one future-fragment clue that cannot yet be explained.
+
+Then the book is no longer merely:
+> “等下一条规则.”
+
+It becomes:
+> “下一副本 + 现实怎么变 + 还有谁 + 这些副本到底是什么.”
+
+## 10. Hard Watch
+
+If the terminal spine requires long lore explanations to feel important:
+> FAIL.
+
+It must arrive as:
+- place;
+- date;
+- person;
+- photo;
+- building;
+- memory;
+- physical overlap.
+
+## 11. Launch Position
+
+For an unknown author, this candidate currently has the stronger natural breakout surface.
+
+However:
+> it remains HIGH WATCH for formula fatigue.
+
+Its advantage is discovery.
+Its burden is proving that discovery can compound.
+
