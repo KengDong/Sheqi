@@ -30,7 +30,7 @@ Postmortem:
 
 # Active Phase
 
-> **D-0088｜Platform-Native Shelf Test / P1 PAUSED**
+> **D-0089｜Direct Competitor Deep Read / P1 PAUSED**
 
 Current reviews:
 - `reviews/2026-09-23_phase1_story_forge_desire_cut.md`
@@ -53,8 +53,11 @@ Commercial Reservoir Cut:
 Hit Gap:
 - `reviews/2026-09-24_d0087_hit_gap_gate.md`
 
+Platform Shelf Cut:
+- `reviews/2026-09-24_d0088_platform_shelf_cut.md`
+
 Primary brief:
-- `research/briefs/2026-09-24_d0088_platform_native_shelf_test_brief.md`
+- `research/briefs/2026-09-24_d0089_direct_competitor_deepread_brief.md`
 
 D-0088 author scope override:
 - `reviews/2026-09-24_d0088_author_scope_override_include_hg2.md`
@@ -62,21 +65,21 @@ D-0088 author scope override:
 Market evidence freeze:
 - `meta/MARKET_EVIDENCE_FREEZE_AND_REOPEN_TRIGGERS.md`
 
-# Active Execution Window
+# Active Execution Windows
 
-Platform Shelf Forge:
-- `handoffs/platform_shelf_forge/CURRENT.md`
+Direct Competitor Deep Read:
+- `handoffs/direct_competitor_fnl1/CURRENT.md`
+- `handoffs/direct_competitor_fnl2/CURRENT.md`
+- `handoffs/direct_competitor_fnl3/CURRENT.md`
 
-Candidates:
-- ST1 劫痕道途
-- ST2 养一条会跟我走的灵脉
-- ST3 把整座城市当成超能力
-- ST4 别人抢物资，我抢整栋楼
-- ST5 万人炼我一法
+Finalists:
+- FNL1 养一条会跟我走的灵脉
+- FNL2 把整座城市当成超能力
+- FNL3 别人抢物资，我抢整栋楼
 
 No prose.
-No broad market re-scan.
-After forge, a separate fresh Shelf Reader must judge spontaneous click choice.
+No Primary.
+No broad market rescan.
 
 # Evidence Rule
 
