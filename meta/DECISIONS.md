@@ -3801,3 +3801,34 @@ Next:
 
 Parallel:
 > D-0094 Batch B Opening Arc continues.
+
+
+## D-0095 Batch B Opening Arc Absolute Read
+**状态：ACTIVE，2026-09-24**
+
+D-0094 Batch B Opening Arcs:
+> 8 / 8 DONE.
+
+Editor intake QA:
+> `reviews/2026-09-24_d0095_batch_b_opening_arc_intake_qa.md`
+
+All eight PASS hard gate to clean-room absolute reading.
+
+Anonymous readers:
+- H
+- I
+- J
+- K
+- L
+- M
+- N
+- O
+
+Protocol:
+> `research/briefs/2026-09-24_d0095_batch_b_absolute_reader_protocol.md`
+
+Rule:
+> genuine voluntary stop; one book per reader; no ranking; no forced cut.
+
+No fixed survivor count.
+No Primary.
