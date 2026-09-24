@@ -1,5 +1,32 @@
 
 
+## D-0085 COMMERCIAL GATE COMPLETE
+
+Formal gate:
+> `reviews/2026-09-24_d0084a_total_editor_commercial_gate.md`
+
+Commercial dispositions:
+- R1 -> COMMERCIAL MUTATION REQUIRED
+- R2 -> DROP FROM COMMERCIAL TRACK
+- R3 -> COMMERCIAL MUTATION REQUIRED / HIGH PRIORITY
+- R7 -> HOLD / NICHE
+- R8 -> COMMERCIAL MUTATION REQUIRED / HIGH PRIORITY
+
+No current candidate resumes P1 unchanged.
+
+Active isolated lanes:
+- Mutation: `handoffs/commercial_mutation_forge/CURRENT.md`
+- Native: `handoffs/commercial_native_forge/CURRENT.md`
+
+Total Editor must not coach either lane before both are DONE.
+
+After both:
+> **Commercial Desire Cut**
+
+No prose.
+No Primary.
+
+
 ## D-0084A COMMERCIAL RECALIBRATION ACTIVE
 
 Author clarified highest business objective:
@@ -35,7 +62,7 @@ No Primary.
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0084A Qidian + Fanqie Commercial Hit Market Recalibration
+- current_gate: D-0085 Commercial Reforge
 
 
 ## D-0084 HORIZON CUT COMPLETE
