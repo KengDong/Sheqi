@@ -3270,3 +3270,68 @@ Hard:
 - no Primary;
 - no Canon/Outline;
 - no sunk-cost preference for old candidates.
+
+
+## D-0086 Commercial Desire Cut -> Commercial Reservoir & Reward Stress Test
+**状态：ACTIVE，2026-09-24**
+
+Commercial Desire Cut:
+> `reviews/2026-09-24_d0085_commercial_desire_cut.md`
+
+D-0085:
+- 6 Commercial Mutations
+- 15 Commercial-Native Concepts
+- total 21
+
+ADVANCE 8:
+- CR1 R3-M1｜劫痕道途
+- CR2 R8-M1｜无身份资产
+- CR3 A02｜万人炼我一法
+- CR4 A03｜养一条会跟我走的灵脉
+- CR5 B02｜把整座城市当成超能力
+- CR6 C01｜把一条副本规则带回现实
+- CR7 C03｜通关奖励是删掉一条世界规则
+- CR8 D02｜别人抢物资，我抢整栋楼
+
+HIGH RESERVE:
+- R1-M1
+- R3-M2
+- A01
+- B01
+- B03
+- C02
+- D01
+- E02
+
+STOP:
+- R1-M2
+- R8-M2
+- D03
+- E01
+- E03
+
+Decision:
+> **D-0086 Commercial Reservoir & Reward Stress Test**
+
+Each survivor:
+> 30—50 Situation Seeds OR honest natural exhaustion.
+
+New hard stresses:
+- REWARD SAMENESS
+- PREMIUM SURVIVAL
+- COMMERCIAL COMPOUNDING
+- CASE-SUPPLY DEPENDENCY
+
+No rescue.
+
+Brief:
+> `research/briefs/2026-09-24_d0086_commercial_reservoir_reward_stress_test_brief.md`
+
+Executor:
+> `handoffs/commercial_reservoir_forge/CURRENT.md`
+
+P1:
+> PAUSED.
+
+Next:
+> Commercial Reservoir Cut -> only survivors continue.
