@@ -5,14 +5,15 @@ D-0087 Hit Gap Gate complete.
 Formal review:
 > `reviews/2026-09-24_d0087_hit_gap_gate.md`
 
-PASS:
+SHELF TEST SCOPE:
 - ST1 劫痕道途
 - ST2 养一条会跟我走的灵脉
 - ST3 把整座城市当成超能力
 - ST4 别人抢物资，我抢整栋楼
+- ST5 万人炼我一法
 
-HOLD:
-- 万人炼我一法
+D-0087 carry-forward condition:
+- ST5 万人炼我一法 -> HUMAN-LAYER GAP NOT CLEARED
 
 Active:
 > **Platform Shelf Forge**
@@ -24,7 +25,7 @@ CURRENT:
 > `handoffs/platform_shelf_forge/CURRENT.md`
 
 Goal:
-> real current competitor shelf -> platform-native packages -> anonymous shelf strips -> separate fresh-reader spontaneous click test.
+> five-book real current competitor shelf -> platform-native packages -> anonymous shelf strips -> separate fresh-reader spontaneous click test.
 
 Broad market research:
 > FROZEN.
