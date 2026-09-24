@@ -1,3 +1,42 @@
+# D-0085｜COMMERCIAL REFORGE ACTIVE
+
+Commercial recalibration complete.
+
+Commercial Gate:
+> `reviews/2026-09-24_d0084a_total_editor_commercial_gate.md`
+
+Current commercial status:
+- R1 -> mutation lane
+- R2 -> dropped from commercial track
+- R3 -> mutation lane / high priority
+- R7 -> hold / niche
+- R8 -> mutation lane / high priority
+
+Active dual track:
+
+## Lane M
+> `handoffs/commercial_mutation_forge/CURRENT.md`
+
+## Lane N
+> `handoffs/commercial_native_forge/CURRENT.md`
+
+Goal:
+> old Premium-preserving mutations compete directly with new concepts born inside proven mass-demand mother markets.
+
+P1 prose:
+> **PAUSED**
+
+Next:
+> both lanes DONE -> editor_in_chief Commercial Desire Cut.
+
+Hard:
+- no prose
+- no Primary
+- no Canon/Outline
+- no sunk-cost privilege
+
+---
+
 # D-0084A｜QIDIAN + FANQIE COMMERCIAL HIT MARKET RECALIBRATION ACTIVE
 
 Author objective:
