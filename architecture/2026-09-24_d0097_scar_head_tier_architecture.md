@@ -701,3 +701,159 @@ By Ch100 Reader should say:
 
 This revision clears the red-team concern that profession replaces cultivation.
 
+
+
+# D-0100S｜Unknown-Author Breakout Reforge
+
+## 1. Strategic Reclassification
+
+Current architecture:
+> long-run PASS.
+
+Current cold-start risk:
+> HIGH for an unknown author.
+
+The present version is too easy to market as:
+> “一部稳健、专业、慢慢展开的修仙职业文.”
+
+A known author can borrow patience.
+A new author cannot.
+
+Therefore:
+> preserve backend architecture, reforge the FRONT-END COMMERCIAL SURFACE.
+
+## 2. New Front-End One-Line Pitch
+
+Do not lead with:
+> “成长代价由谁承担”.
+
+Lead with:
+> **“修士渡劫后都花钱把劫痕洗掉，周野却发现——别人不要的伤，正好能拿来修仙。”**
+
+This is not new-scar collection.
+The first 50 chapters still rely primarily on the SAME old scar.
+
+Function:
+- familiar cultivation;
+- immediate reversal;
+- visible class/resource contrast;
+- easier retelling.
+
+## 3. Shelf / Title Direction
+
+《劫痕道途》 is elegant but relatively low-conversion for an unknown author.
+
+Do NOT rename canon yet.
+
+Voice/Shelf test should include stronger commercial shells such as functions like:
+- 《别人洗劫痕，我拿它修仙》
+- 《劫痕不洗，我拿它当经脉》
+- 《修仙界都在洗伤，我偏靠旧伤成道》
+
+These are TEST DIRECTIONS, not final titles.
+
+Qidian may tolerate a shorter/less blunt version.
+Fanqie may benefit from maximum legibility.
+
+## 4. First-Screen Signature
+
+Preferred opening surface:
+
+> 修仙界的体面人渡完劫，第一件事是去净痕。
+> 周野这种底层临工，在净痕院/劫灰场的后端，负责处理这些“被洗掉的代价”。
+
+This immediately exposes:
+- cultivation;
+- class;
+- money;
+- medicine;
+- “clean” vs “discarded cost”.
+
+His own old lightning scar reacts to a live problem.
+He does NOT absorb a new scar.
+He realizes:
+> what is thrown away still has a route.
+
+Ruan Qinghe should enter within the first ~2k words through a concrete medical dispute.
+
+## 5. Personality Signature
+
+Zhou Ye's repeatable scene-engine:
+
+> **把身体当账本算得很清，但不允许别人替他糊里糊涂买单。**
+
+Cold-start expressions:
+- he asks what a treatment costs before asking if it hurts;
+- he can joke about his own damaged finger but becomes serious if another worker is exposed;
+- Ruan Qinghe calls out his “账本身体” behavior.
+
+Humor:
+> dry, bodily, relational.
+Not meme spam.
+
+## 6. First-3-Chapter Reward
+
+By Ch3 the reader should get:
+- one impossible scar-path use;
+- one tangible payment/status opportunity;
+- one Zhou Ye / Ruan Qinghe chemistry scene;
+- one proof the scar is useful for his OWN cultivation;
+- one larger-world shadow.
+
+No three chapters of diagnostic explanation.
+
+## 7. Terminal Spine｜万劫回流
+
+The current far theme “where did civilization's costs go?” is too abstract for an unknown-author hook.
+
+Upgrade it to a visible secret + crisis:
+
+> **修仙文明几百年都在把渡劫代价转走、净掉、封存。那些代价没有消失，只是被推到城市下游、旧设施、荒区乃至更大的“承劫层”里。现在这些地方正在到达极限。**
+
+Long-run catastrophe:
+> **万劫回流** — discarded/deferred tribulation costs begin returning to the world.
+
+This is NOT revealed as exposition in Ch1.
+
+### Early shadow
+- one “clean” district has unexplained black lightning striking no person;
+- old scars across several workers ache at the same hour;
+- East Dike was one historical sink;
+- a task map shows “nobody is undergoing tribulation” yet a route is active.
+
+### Ch50 partial answer
+> East Dike was a lawful cost-transfer system.
+
+### Ch100 larger answer
+> similar sinks exist across the region and some are waking.
+
+### Ch200
+> “clean cultivation” has been borrowing against future carrying capacity.
+
+### Ch400+
+> large-scale return begins.
+
+This ties endgame crisis directly to the Premium:
+> Zhou Ye's path may matter because he learns to integrate cost instead of pretending it disappeared.
+
+## 8. Why This Helps a New Author
+
+The reader can now retell:
+
+1. 这书讲别人都洗掉劫痕，男主反拿劫痕修仙。
+2. 男主是个把自己身体当账本、跟女医修天天抬杠的人。
+3. 后面好像整个修仙界洗掉的天劫都要“回来了”。
+
+This is materially stronger discovery packaging than:
+> “一个临工研究成长代价的修仙职业文.”
+
+## 9. New Hard Gate
+
+Before P3:
+- first-screen prototype must prove the “洗掉 vs 留下” reversal;
+- terminal-spine shadow must appear by Ch10–20;
+- author must report stronger visceral pull than current 90-point “正规” version.
+
+If not:
+> hold Scar despite long-run architecture PASS.
+
