@@ -5,7 +5,10 @@ status: BLOCKED_ON_D0098_INTEGRATED_STANDARD
 decision: D-0097
 candidate: 《把一条副本规则带回现实》
 
-DO NOT START until all THREE D-0097 benchmark reports exist.
+DO NOT START until:
+> `meta/HEAD_TIER_COMMERCIAL_FICTION_OS_V2.md` exists.
+
+The integrated standard itself is blocked on all three D-0097 benchmark lanes.
 
 When unblocked, first read:
 > `research/briefs/2026-09-24_d0097_rule_reality_head_tier_architecture_forge.md`
