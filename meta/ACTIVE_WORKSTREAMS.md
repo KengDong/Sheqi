@@ -731,7 +731,7 @@
   - no Concept mutation
 
 ## hit_gap_gate
-- status: ACTIVE / D-0087
+- status: DONE / D-0087
 - owner: editor_in_chief
 - brief: `research/briefs/2026-09-24_d0087_hit_gap_gate_brief.md`
 - candidates:
@@ -746,3 +746,24 @@
   - no Primary
   - no broad market re-scan
   - no giant Character Bible
+
+## platform_shelf_forge
+- status: ACTIVE / D-0088
+- current: `handoffs/platform_shelf_forge/CURRENT.md`
+- brief: `research/briefs/2026-09-24_d0088_platform_native_shelf_test_brief.md`
+- candidates:
+  - ST1 劫痕道途
+  - ST2 养一条会跟我走的灵脉
+  - ST3 把整座城市当成超能力
+  - ST4 别人抢物资，我抢整栋楼
+- output:
+  - direct shelf snapshot
+  - platform-native candidate packs
+  - anonymous shelf strips
+- deliver_to:
+  - separate clean-room Fresh Shelf Reader
+- hard:
+  - no prose
+  - no broad market re-scan
+  - no Primary
+  - no Concept mutation
