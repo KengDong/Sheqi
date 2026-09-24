@@ -1,5 +1,23 @@
 
 
+## D-0088 SHELF FORGE DONE / FRESH SHELF READER ACTIVE
+
+Platform Shelf Forge:
+> DONE / PAUSED
+
+Anonymous packages ready:
+- Qidian 12-book copy shelf
+- Fanqie 14-book copy shelf
+
+Fresh Reader:
+> `handoffs/fresh_shelf_reader/CURRENT.md`
+
+Total Editor must not reveal source mapping or judge shelf winners before reader output returns.
+
+After reader DONE:
+> reveal privately -> map project candidates -> Shelf Cut -> decide 2—3 finalists / platform direction.
+
+
 ## D-0088A AUTHOR SCOPE OVERRIDE｜FIVE-BOOK SHELF TEST
 
 Author explicitly requested:
