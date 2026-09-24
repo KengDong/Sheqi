@@ -286,3 +286,45 @@ The desired result is NOT:
 
 It is:
 > **no protagonist should feel replaceable by a generic competent male lead.**
+
+
+# 10. Author Commercial-Taste Override｜Comedy / Madness Is Fully Allowed
+
+Author states:
+
+> 如果真的能做到热门小说那种发癫搞笑，并且我自己都会想猛追，那完全可以接受。最高目标仍是写出能大爆、持续赚钱的小说。
+
+Therefore:
+
+> **Do not treat comedy / craziness / exaggerated personality as a lesser or secondary route.**
+
+They are valid PRIMARY commercial surfaces when they improve:
+- cold-start conversion;
+- character memorability;
+- scene-generation;
+- dialogue chemistry;
+- shareability;
+- chapter-to-chapter pull.
+
+The project must not optimize for:
+> tasteful / respectable / restrained prose
+
+at the expense of:
+> addictive / funny / vivid / commercially sticky prose.
+
+However, the success condition is NOT merely:
+> “有梗 / 发癫 / 很吵.”
+
+The route only passes if:
+1. humor comes from stable character/world logic;
+2. protagonist remains memorable outside the joke itself;
+3. stakes can still become serious when needed;
+4. jokes do not flatten every character into the same voice;
+5. comedy can survive past Ch20 without meme exhaustion;
+6. the long-run architecture still compounds.
+
+New principle:
+> **If a deliberately funny/deranged version creates materially stronger voluntary continuation and still clears the long-run architecture gate, prefer it over a more elegant but less addictive version.**
+
+Author taste is now an explicit calibration source:
+> if the author—who personally reads this commercial lane—develops a strong “我想猛追” response, treat that as important human behavioral evidence, not as an aesthetic bias to suppress.
