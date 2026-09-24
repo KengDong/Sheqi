@@ -3888,3 +3888,32 @@ First-principles correction:
 > scale is not bigger maps/lore; scale is a Premium activating multiple autonomous systems, with visible power/resource/status/life state compounding.
 
 No Primary.
+
+
+## D-0097 Dual Head-Tier Architecture Campaign
+**状态：ACTIVE，2026-09-24**
+
+Author correction:
+> 《劫痕道途》《把一条副本规则带回现实》Opening好看，但摊开体量仍显“小家子气”；先把架构提升到起点/番茄热门大书尺度，再写正文。
+
+Campaign:
+> `research/briefs/2026-09-24_d0097_dual_head_tier_architecture_campaign.md`
+
+Stage 1 ACTIVE:
+- Qidian Head-Tier Architecture Reader
+- Fanqie Head-Tier Architecture Reader
+
+Stage 2 BLOCKED:
+- Scar Hit-Scale Architect
+- Rule-Reality Hit-Scale Architect
+
+Stage 3 BLOCKED:
+- Scar Scale Red Team
+- Rule-Reality Scale Red Team
+
+No prose.
+No Primary.
+No forced ranking.
+
+Core architecture thesis:
+> scale is not more maps/lore/cases; scale is one Premium activating multiple autonomous systems with permanent state and later collision.
