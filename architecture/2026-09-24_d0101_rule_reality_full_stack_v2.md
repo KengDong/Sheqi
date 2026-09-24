@@ -1103,3 +1103,117 @@ Target edge:
 # Final Architecture Sentence
 
 > **每一个副本，都是一个已经把某条生存规则活到极端、最终仍然失败的未来；程野活着回来时必须把其中一条规则带回现在，而他真正成长的，不是拥有更多规则，而是越来越有资格决定——什么样的现实值得所有人一起活下去。**
+
+
+# 40. D-0101RT Revision｜Complexity Budget
+
+## First ~100 Chapters: only FOUR supernatural concepts may be explicitly named
+
+1. **带回现实的规则**
+2. **下一次进入的倒计时**
+3. **黑木牌 / 通关后必须选一条带回**
+4. **还有别的返还者 + 副本里出现现实未来痕迹**
+
+Everything else must remain observed, not taught.
+
+Do NOT name before earned:
+- 镜像锚点
+- 规则生态
+- 分支权重
+- 归一
+- 现实缺法
+- 编纂权
+
+Architecture terminology is NOT prose terminology.
+
+# 41. D-0101RT Revision｜Second Field Timing
+
+The previous Ch14–20 preparation band is too slow for the strongest existing author desire:
+> “我已经期待下一个副本.”
+
+Revised early cadence:
+
+## Ch1–4
+Current strong reality arc.
+
+## Ch5–8
+R1 fallout:
+- family;
+- Fang Cen;
+- material/job consequences;
+- one known-person use/abuse;
+- countdown appears.
+
+## Ch9–11
+Preparation:
+- backpack;
+- one outside anomaly;
+- first future-object/place clue;
+- family shop / alias custom seed.
+
+## Ch12–15
+**SECOND FIELD STARTS.**
+
+By Ch20:
+> reader is already deep inside the second field.
+
+Reality remains equal engine because:
+> the next reality arc will be longer after the field changes state.
+
+# 42. D-0101RT Revision｜Broken Present Status
+
+Hard canon now:
+> returned rules pull failed future fragments closer; excessive overlap can overwrite present reality.
+
+Late-canon HYPOTHESIS only:
+> present reality may itself be losing causal stability and require patches.
+
+Do NOT commit this until Ch150–300 evidence demands it.
+
+Reason:
+> terminal spine is already strong without a second metaphysical explanation.
+
+# 43. D-0101RT Revision｜Black Plaque Ownership
+
+Simple rule only:
+
+> **any survivor can take the plaque; only one rule-line can cross; the return door does not fully open until someone accepts the consequence and carries it out.**
+
+No holder-classification system.
+
+This creates:
+- persuasion;
+- bargaining;
+- theft;
+- sacrifice;
+- alliance;
+- physical struggle.
+
+The protagonist is NOT guaranteed to make every rule choice.
+
+# 44. D-0101F｜Field Supply Result
+
+Formal stress:
+> `experiments/rule_reality/2026-09-24_d0101_field_supply_stress_v1.md`
+
+12 premises / 6+ solving modes:
+> PASS at architecture level.
+
+Key field-generation rule:
+> **start from an ordinary human system pushed into an extreme survival law, not from a clever sentence-rule looking for a setting.**
+
+Second-field prose remains the first real proof.
+
+# 45. Freeze
+
+No more new architecture engine is allowed before prose.
+
+Remaining unknowns are execution questions:
+- Cheng Ye voice;
+- ensemble chemistry;
+- second-field quality;
+- horror/action texture;
+- hub naturalness.
+
+These must be answered by prototype/prose, not more design.
+
