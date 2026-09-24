@@ -1,3 +1,42 @@
+# D-0088｜PLATFORM-NATIVE SHELF TEST ACTIVE
+
+D-0087 Hit Gap Gate complete.
+
+Formal review:
+> `reviews/2026-09-24_d0087_hit_gap_gate.md`
+
+PASS:
+- ST1 劫痕道途
+- ST2 养一条会跟我走的灵脉
+- ST3 把整座城市当成超能力
+- ST4 别人抢物资，我抢整栋楼
+
+HOLD:
+- 万人炼我一法
+
+Active:
+> **Platform Shelf Forge**
+
+Brief:
+> `research/briefs/2026-09-24_d0088_platform_native_shelf_test_brief.md`
+
+CURRENT:
+> `handoffs/platform_shelf_forge/CURRENT.md`
+
+Goal:
+> real current competitor shelf -> platform-native packages -> anonymous shelf strips -> separate fresh-reader spontaneous click test.
+
+Broad market research:
+> FROZEN.
+
+P1 prose:
+> PAUSED.
+
+Next:
+> Shelf Reader -> 2—3 finalists -> direct competitor deep read -> P0/P1.
+
+---
+
 # D-0087｜HIT GAP GATE ACTIVE
 
 D-0086 Commercial Reservoir Cut complete:
