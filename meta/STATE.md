@@ -1,3 +1,24 @@
+# D-0104｜RULE-REALITY FULL FOCUS ACTIVE
+
+Only current core development target:
+> 《把一条副本规则带回现实》
+
+Completed:
+- competitor battlefield
+- comprehensive V2 architecture
+- head-tier red team
+- Rule Field supply system
+
+Next evidence:
+> 3 competing Field #2 Cards -> select strongest -> prototype / clean-room read.
+
+Scar:
+> HOLD / architecture PASS, no active resource spend.
+
+Batch B evidence may continue independently.
+
+---
+
 # D-0101G｜RULE-REALITY FRAMEWORK PASS / RULE-ONLY PRIORITY
 
 Primary development focus:
