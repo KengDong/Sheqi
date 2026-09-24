@@ -771,7 +771,7 @@
   - no Concept mutation
 
 ## fresh_shelf_reader
-- status: ACTIVE / D-0088
+- status: DONE / PAUSED / D-0088
 - role: Clean-Room Platform Shelf Click Reader
 - current: `handoffs/fresh_shelf_reader/CURRENT.md`
 - brief: `research/briefs/2026-09-24_d0088_fresh_shelf_reader_click_test_brief.md`
@@ -786,3 +786,21 @@
   - no repair suggestions
   - no Primary
 - deliver_to: editor_in_chief / reveal + shelf cut
+
+## direct_competitor_fnl1
+- status: ACTIVE / D-0089
+- candidate: FNL1 养一条会跟我走的灵脉
+- current: `handoffs/direct_competitor_fnl1/CURRENT.md`
+- deliver_to: editor_in_chief / Prototype Readiness Gate
+
+## direct_competitor_fnl2
+- status: ACTIVE / D-0089
+- candidate: FNL2 把整座城市当成超能力
+- current: `handoffs/direct_competitor_fnl2/CURRENT.md`
+- deliver_to: editor_in_chief / Prototype Readiness Gate
+
+## direct_competitor_fnl3
+- status: ACTIVE / D-0089
+- candidate: FNL3 别人抢物资，我抢整栋楼
+- current: `handoffs/direct_competitor_fnl3/CURRENT.md`
+- deliver_to: editor_in_chief / Prototype Readiness Gate
