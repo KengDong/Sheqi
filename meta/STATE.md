@@ -1,3 +1,21 @@
+# D-0098M｜PRIORITY ARCHITECTURE CAMPAIGN COMPLETE
+
+Priority candidates:
+- 《把一条副本规则带回现实》: architecture PASS / HIGH WATCH
+- 《劫痕道途》: architecture PASS
+
+Completed chain:
+> 3 benchmarks -> integrated OS -> 2 architectures -> 2 red teams -> revisions -> quick gates -> total editor.
+
+Next:
+> D-0099 Controlled Voice Lab READY.
+
+Continuous prose remains blocked.
+Batch B reader evidence continues independently.
+No Primary.
+
+---
+
 # D-0098A｜TASK GRAPH NORMALIZED
 
 Critical path:
