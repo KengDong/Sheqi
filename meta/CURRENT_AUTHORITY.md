@@ -30,23 +30,24 @@ Postmortem:
 
 # Active Phase
 
-> **FIRST-PRINCIPLES STORY FORGE｜Phase 3 / Character Collision Stress Test**
+> **FIRST-PRINCIPLES STORY FORGE｜Phase 4 / Minimal Horizon Stress Test**
 
 Current reviews:
 - `reviews/2026-09-23_phase1_story_forge_desire_cut.md`
 - `reviews/2026-09-23_d0081_story_reservoir_total_editor_cut.md`
+- `reviews/2026-09-24_d0082_character_collision_total_editor_cut.md`
 
 Primary brief:
-- `research/briefs/2026-09-23_d0082_character_collision_stress_test_brief.md`
+- `research/briefs/2026-09-24_d0083_minimal_horizon_stress_test_brief.md`
 
 # Active Execution Window
 
 Current isolated executor:
-- Character Collision Forge:
-  `handoffs/character_collision_forge/CURRENT.md`
+- Minimal Horizon Forge:
+  `handoffs/minimal_horizon_forge/CURRENT.md`
 
-Six survivors are frozen during this test.
-No new Cases / clients / rules / institutions.
+Five survivors are frozen.
+Only Near / Mid / Far may be defined.
 
 # Evidence Rule
 
