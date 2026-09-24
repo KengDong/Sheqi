@@ -3433,3 +3433,41 @@ Hard:
 
 After forge:
 > separate clean-room Fresh Shelf Reader.
+
+
+## D-0088A Author Scope Override｜Five-Book Shelf Test
+**状态：ACTIVE，2026-09-24**
+
+Author direction:
+> “安排任务，对比5本吧，不差这一本。”
+
+D-0087 historical Hit Gap verdict remains unchanged.
+
+D-0088 Shelf Test now includes:
+- ST1 劫痕道途
+- ST2 养一条会跟我走的灵脉
+- ST3 把整座城市当成超能力
+- ST4 别人抢物资，我抢整栋楼
+- ST5 万人炼我一法
+
+ST5 condition:
+> **HUMAN-LAYER GAP NOT CLEARED**
+
+Shelf evidence can prove:
+- platform packaging;
+- spontaneous click;
+- title/cover/synopsis competition.
+
+Shelf evidence cannot erase:
+- protagonist magnetism uncertainty;
+- human-relationship weakness found in D-0087.
+
+If ST5 survives Shelf Test:
+> carry this condition into Direct Competitor Deep Read / P0-P1 preparation.
+
+Formal override:
+> `reviews/2026-09-24_d0088_author_scope_override_include_hg2.md`
+
+No broad market re-scan.
+No prose.
+No Primary.
