@@ -1,7 +1,7 @@
 # Opening Arc Absolute Reader D｜CURRENT
 
 role: opening_arc_absolute_reader_d
-status: ACTIVE
+status: DONE
 decision: D-0093
 reader_mode: CLEAN-ROOM / ABSOLUTE / VOLUNTARY-STOP
 
@@ -13,20 +13,21 @@ Do not read anything else in Sheqi.
 Do not web-search names or phrases.
 
 Mission:
-> read this one unknown novel exactly like a real platform reader.
+> COMPLETED — read this one unknown novel exactly like a real platform reader.
 
-Critical:
-> if you genuinely would leave, stop immediately and do not inspect later chapters.
+Behavioral result:
+> NATURAL FINISH / no abandonment point.
 
-If you naturally finish the mini-climax:
-> judge whether you voluntarily want the next chapter.
+Continuation:
+> YES — voluntarily click next chapter.
 
 Output:
 > `reviews/opening_arc_readers/2026-09-24_d0093_reader_D.md`
 
-Then CURRENT DONE + history + Git commit + STOP.
+History snapshot:
+> `handoffs/opening_arc_reader_d/history/2026-09-24_1433_d0093_done.md`
 
-No ranking.
-No comparison.
-No fixes.
-No mapping.
+Handoff:
+> return to editor_in_chief.
+
+STOP.
