@@ -1,23 +1,40 @@
 # Character Collision Forge｜CURRENT
 role: character_collision_forge
-status: ACTIVE
+status: DONE / PAUSED
 decision: D-0082
+completed_at: 2026-09-24
 
-First read:
-> `research/briefs/2026-09-23_d0082_character_collision_stress_test_brief.md`
+Completed:
+- froze 4—6 core characters for all six D-0081 survivors;
+- produced 10—15 Character Collision Events per survivor;
+- R3 added zero new historical-source tribulations;
+- R5 added zero new route rights;
+- no new Case / client / rule / institution rescue;
+- all events leave irreversible relationship / debt / secret / promise / identity / shared-history residue;
+- completed selfcheck.
 
-Then read only:
-- `reviews/2026-09-23_d0081_story_reservoir_total_editor_cut.md`
-- the six surviving reservoir files.
+Outputs:
+- experiments/first_principles_forge/character_collision/R1_future_holdings.md
+- experiments/first_principles_forge/character_collision/R2_second_autobiography.md
+- experiments/first_principles_forge/character_collision/R3_borrowed_tribulations.md
+- experiments/first_principles_forge/character_collision/R5_city_routes.md
+- experiments/first_principles_forge/character_collision/R7_dead_people_work.md
+- experiments/first_principles_forge/character_collision/R8_missing_day_list.md
+- reviews/2026-09-23_d0082_character_collision_selfcheck.md
 
-Do not read old prose / Canon / Outline.
-Do not read stopped R4/R6 for inspiration.
-Do not mutate Concepts.
+Result:
+- R1: 13 events
+- R2: 15 events
+- R3: 12 events, special stress survived without new tribulation source
+- R5: 12 events, special stress survived without new route right
+- R7: 13 events
+- R8: 13 events
 
-Mission:
-> freeze 4—6 core characters per survivor and prove they can generate 10—15 compelling events without new Cases/rules.
-
-Deliver:
+Handoff:
 > editor_in_chief / Character Cut
 
-Stop after outputs + selfcheck + CURRENT/history update.
+Hard stop remains active:
+- do not enter Minimal Horizon;
+- do not write prose;
+- do not select Primary;
+- do not mutate Canon / Outline.
