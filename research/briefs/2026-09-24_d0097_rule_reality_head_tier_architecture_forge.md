@@ -6,7 +6,7 @@ role: rule_reality_hit_scale_architect
 
 # Start Condition
 
-Do not begin until BOTH D-0097 benchmark reports exist.
+Do not begin until all THREE D-0097 benchmark reports exist.
 
 # Inputs
 
