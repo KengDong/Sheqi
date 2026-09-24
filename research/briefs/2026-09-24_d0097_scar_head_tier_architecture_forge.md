@@ -103,3 +103,22 @@ Output:
 > `architecture/2026-09-24_d0097_scar_head_tier_architecture.md`
 
 Then CURRENT DONE + history + Git commit + STOP.
+
+
+## D-0097A Mandatory Architecture Add-On｜Book Contract
+
+Read:
+> `reviews/2026-09-24_d0097a_book_contract_visible_runway_audit.md`
+
+Architecture MUST explicitly provide:
+1. one-sentence Book Contract;
+2. Near Horizon after Opening Arc;
+3. Mid Horizon visible ladder for Ch20–100;
+4. Far Horizon / book-scale shadow;
+5. exact tangible object/state/target handed to reader at first mini-climax;
+6. proof that Ch20 opens a larger social layer than Ch4;
+7. Anti-Sitcom audit:
+   > does each major settlement open more desire than it closes?
+
+An architecture cannot PASS with only:
+> “there is a larger mystery.”
