@@ -3655,3 +3655,49 @@ Current three P1 chapters:
 
 Next:
 > P1 Fresh Reader may still run for diagnostic friction, but must not automatically cut.
+
+
+## D-0091B / D-0092 Double-Elimination Revival System
+**状态：ACTIVE，2026-09-24**
+
+Author direction:
+> 把其他被淘汰候选捞回来；比较性失败不应过早判死。保留30—50个自然故事、旧资产复利等硬筛选，但正文比较后移到Opening Arc小高潮。最终不设本数上限。
+
+System:
+> `meta/DOUBLE_ELIMINATION_FICTION_RND_V1.md`
+
+Revival audit:
+> `reviews/2026-09-24_d0091b_revival_pool_audit.md`
+
+Current serious-development pool = 7:
+Winners:
+- W1 养一条会跟我走的灵脉
+- W2 把整座城市当成超能力
+- W3 别人抢物资，我抢整栋楼
+
+Revival:
+- R1 劫痕道途
+- R2 万人炼我一法
+- R3 无身份资产
+- R4 把一条副本规则带回现实
+
+All 7:
+> run to first natural mini-climax / Opening Arc before serious comparison.
+
+No fixed survivor count.
+
+Parallel reserve qualifier:
+> all 8 D-0085 high-reserve candidates receive D-0086-equivalent 30—50 seed Reservoir chance.
+
+Any reserve that passes naturally:
+> becomes revival-opening-arc eligible.
+
+Hard-stop current Concepts:
+- 通关奖励是删掉一条世界规则
+- 安全区每七天续租一次
+- 今天市场剩什么，我今晚就卖什么
+
+Soft-stop wildcards may re-enter only after Reservoir qualification.
+
+No Primary.
+No broad market rescan.
