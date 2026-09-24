@@ -1,5 +1,20 @@
 
 
+## D-0095 BATCH B ABSOLUTE READ ACTIVE
+
+D-0094 Batch B writers:
+> 8 / 8 DONE.
+
+Intake QA:
+> `reviews/2026-09-24_d0095_batch_b_opening_arc_intake_qa.md`
+
+All eight accepted to isolated absolute reading H—O.
+
+Batch A author read remains in progress.
+No forced cut.
+No Primary.
+
+
 ## D-0093A BATCH A ABSOLUTE SURVIVAL COMPLETE
 
 Result:
@@ -375,7 +390,7 @@ No Primary.
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0093A Batch A Author Read Ready + D-0094 Batch B Opening Arcs
+- current_gate: D-0095 Batch A Author Read + Batch B Absolute Read
 
 
 ## D-0084 HORIZON CUT COMPLETE
