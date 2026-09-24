@@ -1,3 +1,38 @@
+# D-0090｜P0 FRESH READER ACTIVE
+
+Three isolated P0 First Screens:
+> DONE.
+
+Editor QA:
+> PASS ALL THREE.
+
+Anonymous package:
+> `experiments/p0_finalists/anonymous/2026-09-24_d0090_p0_anonymous_package.md`
+
+Active:
+> **p0_fresh_reader / Clean-Room First-Screen Reader**
+
+CURRENT:
+> `handoffs/p0_fresh_reader/CURRENT.md`
+
+Goal:
+> voluntary next-screen continuation.
+
+Hard:
+- Reader sees only anonymous X / Y / Z prose;
+- no titles;
+- no mapping;
+- no project context;
+- no edits;
+- no repair suggestions;
+- no full Ch1;
+- no Primary.
+
+Next:
+> Fresh Reader DONE -> editor reveal + P0 Cut -> only survivors enter full P1.
+
+---
+
 # D-0090｜THREE-WAY ISOLATED P0 FIRST SCREEN ACTIVE
 
 D-0089 Direct Competitor Deep Read:
