@@ -25,3 +25,16 @@ No outline.
 No comparison with other candidates.
 
 STOP.
+
+
+## D-0084A PAUSE
+
+Do not write Ch1 yet.
+
+Reason:
+> author clarified commercial objective; current candidate must pass Qidian/Fanqie Commercial Market Fit before prose.
+
+Current authority:
+> `handoffs/commercial_market_scout/CURRENT.md`
+
+Resume only if editor_in_chief explicitly reactivates this candidate after Commercial Gate.
