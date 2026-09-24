@@ -1,9 +1,41 @@
+
+
+## D-0084A COMMERCIAL RECALIBRATION ACTIVE
+
+Author clarified highest business objective:
+> **Qidian / Fanqie mass commercial hit and revenue.**
+
+Correction:
+> strong story engine does not automatically imply strong commercial mother-market fit.
+
+New authority:
+> `meta/COMMERCIAL_HIT_FIRST_PRINCIPLES_V1.md`
+
+Formal brief:
+> `research/briefs/2026-09-24_d0084a_qidian_fanqie_commercial_hit_market_recalibration_brief.md`
+
+Active executor:
+> `handoffs/commercial_market_scout/CURRENT.md`
+
+D-0084 P1 writers:
+> **PAUSED**
+
+Commercial Gate will re-audit:
+- R1 Future Holdings
+- R2 Second Autobiography
+- R3 Borrowed Tribulations
+- R7 Dead People Still Work
+- R8 Missing Day List
+
+No prose before report returns.
+No Concept mutation inside research.
+No Primary.
 # 总评审 / 总编｜CURRENT HANDOFF
 
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0084 P1 Isolated Prose Prototype
+- current_gate: D-0084A Qidian + Fanqie Commercial Hit Market Recalibration
 
 
 ## D-0084 HORIZON CUT COMPLETE
