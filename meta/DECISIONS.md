@@ -3203,3 +3203,70 @@ Hard:
 - no Concept mutation during research;
 - no Primary;
 - no Canon/Outline changes.
+
+
+## D-0085 Commercial Reforge｜Commercial-Native + Commercial Mutation Dual Track
+**状态：ACTIVE，2026-09-24**
+
+Commercial Gate:
+> `reviews/2026-09-24_d0084a_total_editor_commercial_gate.md`
+
+D-0084A final candidate dispositions:
+- R1 Future Holdings -> COMMERCIAL MUTATION REQUIRED
+- R2 Second Autobiography -> DROP FROM COMMERCIAL TRACK
+- R3 Borrowed Tribulations -> COMMERCIAL MUTATION REQUIRED / HIGH PRIORITY
+- R7 Dead People Still Work -> HOLD / NICHE
+- R8 Missing Day List -> COMMERCIAL MUTATION REQUIRED / HIGH PRIORITY
+
+Decision:
+> **No current R candidate resumes P1 unchanged.**
+
+Next phase:
+> **D-0085 Commercial Reforge**
+
+Two isolated lanes:
+
+### Lane M｜Commercial Mutation
+- R1 / R3 / R8 only
+- each >=2 distinct commercial mutations
+- preserve original Premium
+- rebuild repeatable reward / visible growth / longform compounding
+
+CURRENT:
+> `handoffs/commercial_mutation_forge/CURRENT.md`
+
+### Lane N｜Commercial Native
+HARD CLEAN-ROOM.
+
+Mother markets:
+- cultivation / eastern fantasy
+- urban high-power / supernatural
+- rule suspense / infinite survival
+- apocalypse / game invasion / organization growth
+- business / food / life management
+
+At least 3 original concepts per mother market, >=15 total.
+
+CURRENT:
+> `handoffs/commercial_native_forge/CURRENT.md`
+
+Shared Commercial Concept Card:
+- Mother Market
+- One-Line Hook
+- Protagonist Fantasy
+- 5–15 Chapter Fruit
+- 20-Chapter Ledger
+- 100-Chapter Escalator
+- 2M-Character Runway
+- Three Must-See Scenes
+- Replacement Test
+- Commercial Kill Risk
+
+After both lanes DONE:
+> editor_in_chief / Commercial Desire Cut.
+
+Hard:
+- no prose;
+- no Primary;
+- no Canon/Outline;
+- no sunk-cost preference for old candidates.
