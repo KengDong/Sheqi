@@ -30,7 +30,7 @@ Postmortem:
 
 # Active Phase
 
-> **D-0089｜Direct Competitor Deep Read / P1 PAUSED**
+> **D-0090｜Three-Way Isolated P0 First Screen / P1 PAUSED**
 
 Current reviews:
 - `reviews/2026-09-23_phase1_story_forge_desire_cut.md`
@@ -56,8 +56,11 @@ Hit Gap:
 Platform Shelf Cut:
 - `reviews/2026-09-24_d0088_platform_shelf_cut.md`
 
+Prototype Readiness Gate:
+- `reviews/2026-09-24_d0089_prototype_readiness_gate.md`
+
 Primary brief:
-- `research/briefs/2026-09-24_d0089_direct_competitor_deepread_brief.md`
+- `research/briefs/2026-09-24_d0090_p0_first_screen_isolated_prototype_brief.md`
 
 D-0088 author scope override:
 - `reviews/2026-09-24_d0088_author_scope_override_include_hg2.md`
@@ -67,19 +70,20 @@ Market evidence freeze:
 
 # Active Execution Windows
 
-Direct Competitor Deep Read:
-- `handoffs/direct_competitor_fnl1/CURRENT.md`
-- `handoffs/direct_competitor_fnl2/CURRENT.md`
-- `handoffs/direct_competitor_fnl3/CURRENT.md`
+P0 isolated writers:
+- `handoffs/p0_fnl1_writer/CURRENT.md`
+- `handoffs/p0_fnl2_writer/CURRENT.md`
+- `handoffs/p0_fnl3_writer/CURRENT.md`
 
 Finalists:
 - FNL1 养一条会跟我走的灵脉
 - FNL2 把整座城市当成超能力
 - FNL3 别人抢物资，我抢整栋楼
 
-No prose.
+No full Ch1.
 No Primary.
 No broad market rescan.
+Writers are mutually isolated.
 
 # Evidence Rule
 
