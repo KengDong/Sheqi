@@ -1,3 +1,25 @@
+# D-0093B/C｜BATCH A HUMAN READ RECORDED
+
+Author first read now provides meaningful separation inside the 7/7 AI survival set.
+
+Strong human pull:
+> E / C / A
+
+Medium:
+> B / G
+
+Serious human-interest warning:
+> D / F
+
+No automatic cut yet.
+
+Project-level micro-prose friction confirmed; formal audit recorded.
+
+Parallel:
+> D-0095 Batch B absolute read active.
+
+---
+
 # D-0095｜BATCH B ABSOLUTE READ ACTIVE
 
 Batch B:
