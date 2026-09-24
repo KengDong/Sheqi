@@ -748,7 +748,7 @@
   - no giant Character Bible
 
 ## platform_shelf_forge
-- status: ACTIVE / D-0088
+- status: DONE / PAUSED / D-0088
 - current: `handoffs/platform_shelf_forge/CURRENT.md`
 - brief: `research/briefs/2026-09-24_d0088_platform_native_shelf_test_brief.md`
 - candidates:
@@ -769,3 +769,20 @@
   - no broad market re-scan
   - no Primary
   - no Concept mutation
+
+## fresh_shelf_reader
+- status: ACTIVE / D-0088
+- role: Clean-Room Platform Shelf Click Reader
+- current: `handoffs/fresh_shelf_reader/CURRENT.md`
+- brief: `research/briefs/2026-09-24_d0088_fresh_shelf_reader_click_test_brief.md`
+- inputs:
+  - `experiments/platform_shelf/anonymous/2026-09-24_d0088_qidian_anonymous_copy_shelf.md`
+  - `experiments/platform_shelf/anonymous/2026-09-24_d0088_fanqie_anonymous_copy_shelf.md`
+- hard:
+  - no private source key
+  - no mapping
+  - no Reservoir / Hit Gap
+  - no web lookup
+  - no repair suggestions
+  - no Primary
+- deliver_to: editor_in_chief / reveal + shelf cut
