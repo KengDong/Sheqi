@@ -1,3 +1,19 @@
+# D-0097C｜COLD-START CONVERSION BENCHMARK ACTIVE
+
+Three benchmark lanes now precede the two priority architecture forges:
+- Qidian head-tier architecture;
+- Fanqie head-tier architecture;
+- unknown-author cold-start conversion / personality / tone.
+
+Author score update:
+> 《天道赊境》顾明川 = 90.
+
+No automatic comedy conversion.
+Goal:
+> protagonist / tone should be non-replaceable before deep architecture becomes visible.
+
+---
+
 # D-0097｜DUAL HEAD-TIER ARCHITECTURE CAMPAIGN ACTIVE
 
 Targets:
