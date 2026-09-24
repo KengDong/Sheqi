@@ -1,7 +1,7 @@
 # Rule-Reality Hit-Scale Architect｜CURRENT
 
 role: rule_reality_hit_scale_architect
-status: BLOCKED_ON_D0098_INTEGRATED_STANDARD
+status: DONE
 decision: D-0097
 candidate: 《把一条副本规则带回现实》
 
