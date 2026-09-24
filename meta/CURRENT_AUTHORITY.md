@@ -30,7 +30,7 @@ Postmortem:
 
 # Active Phase
 
-> **D-0094｜Batch A Absolute Read + Batch B Revival Opening Arcs / Primary PAUSED**
+> **D-0093A/D-0094｜Batch A Author Read Ready + Batch B Revival Opening Arcs / Primary PAUSED**
 
 Current reviews:
 - `reviews/2026-09-23_phase1_story_forge_desire_cut.md`
