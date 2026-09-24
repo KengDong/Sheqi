@@ -1,3 +1,44 @@
+# D-0084A｜QIDIAN + FANQIE COMMERCIAL HIT MARKET RECALIBRATION ACTIVE
+
+Author objective:
+> maximize probability of a large commercial hit on Qidian / Fanqie.
+
+Correction:
+> story quality / novelty alone is insufficient; mature audience demand and repeatable commercial reward must be validated before prose.
+
+Authority:
+> `meta/COMMERCIAL_HIT_FIRST_PRINCIPLES_V1.md`
+
+Preflight:
+> `research/reports/2026-09-24_d0084a_commercial_market_preflight.md`
+
+Brief:
+> `research/briefs/2026-09-24_d0084a_qidian_fanqie_commercial_hit_market_recalibration_brief.md`
+
+Executor:
+> `handoffs/commercial_market_scout/CURRENT.md`
+
+D-0084 P1:
+> **PAUSED / pending Commercial Gate**
+
+Candidates under commercial re-audit:
+- R1 Future Holdings
+- R2 Second Autobiography
+- R3 Borrowed Tribulations
+- R7 Dead People Still Work
+- R8 Missing Day List
+
+Next:
+> market report + mother-market matrix + candidate commercial audit -> editor_in_chief Commercial Gate.
+
+Hard:
+- no P1 prose;
+- no Primary;
+- no Canon/Outline;
+- no Concept mutation inside market research.
+
+---
+
 # D-0084｜P1 ISOLATED PROSE PROTOTYPE ACTIVE
 
 Horizon Cut complete:
