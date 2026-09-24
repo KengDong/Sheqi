@@ -1,5 +1,22 @@
 
 
+## D-0093 BATCH A ABSOLUTE READ ACTIVE
+
+Seven D-0092 Opening Arcs are complete and anonymized.
+
+Protocol:
+> `research/briefs/2026-09-24_d0093_opening_arc_absolute_reader_protocol.md`
+
+Do not reveal mapping or compare before all reader reports return.
+
+High Reserve qualifier continues in parallel.
+
+After readers DONE:
+> reveal mapping -> absolute survival synthesis -> author read -> comparison only among still-live candidates.
+
+No fixed survivor count.
+
+
 ## D-0092 DOUBLE-ELIMINATION REVIVAL ACTIVE
 
 System:
@@ -322,7 +339,7 @@ No Primary.
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0092 Double-Elimination Opening Arc Round
+- current_gate: D-0093 Opening Arc Absolute Read Batch A
 
 
 ## D-0084 HORIZON CUT COMPLETE
