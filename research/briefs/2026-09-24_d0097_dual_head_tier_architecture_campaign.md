@@ -33,8 +33,8 @@ A head-tier long-form should be able to change story mode while preserving the s
 
 # Campaign Stages
 
-## Stage 1｜Head-Tier Architecture Benchmarks
-Two isolated lanes.
+## Stage 1｜Head-Tier Architecture + Cold-Start Benchmarks
+Three isolated lanes.
 
 ### Qidian Lane
 Main benchmark:
@@ -55,10 +55,21 @@ Benchmarks:
 Question:
 > how do rule/infinite/high-concept hits rotate modes, rewards, relationships and scale without becoming Case-of-Week?
 
+### Cold-Start Lane
+Benchmarks:
+> personality/comedy/intensity/chemistry-forward commercially proven works across Qidian/Fanqie.
+
+Question:
+> why does an unknown author earn Ch2/Ch3 before long-run depth is visible?
+
 No candidate-specific fixing in benchmark lanes.
 
+## Stage 1.5｜Integrated Standard Synthesis
+After ALL THREE benchmark lanes are DONE:
+> Head-Tier Standard Synthesizer merges them into `meta/HEAD_TIER_COMMERCIAL_FICTION_OS_V2.md`.
+
 ## Stage 2｜Independent Architecture Forge
-After BOTH benchmark lanes are DONE:
+After the integrated standard is DONE:
 
 - Scar Hit-Scale Architect
 - Rule-Reality Hit-Scale Architect
@@ -90,7 +101,8 @@ Test:
 
 ## Stage 4｜Total Editor Merge
 Only after:
-- two benchmark reports;
+- three benchmark reports;
+- integrated standard;
 - two architectures;
 - two red-team reports.
 
