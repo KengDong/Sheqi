@@ -3387,3 +3387,49 @@ No broad market re-scan unless a formal reopen trigger fires.
 
 No prose.
 No Primary.
+
+
+## D-0088 Hit Gap Gate -> Platform-Native Shelf Test
+**状态：ACTIVE，2026-09-24**
+
+Hit Gap review:
+> `reviews/2026-09-24_d0087_hit_gap_gate.md`
+
+PASS TO PLATFORM-NATIVE SHELF TEST:
+- ST1 劫痕道途
+- ST2 养一条会跟我走的灵脉
+- ST3 把整座城市当成超能力
+- ST4 别人抢物资，我抢整栋楼
+
+TARGETED GAP / HOLD:
+- 万人炼我一法
+
+Hit Gap findings:
+- all four pass protagonist magnetism;
+- all four can support 2+ non-protagonist pulls;
+- all four have opponent-compounding path;
+- emotional engine is not single-color;
+- scene ecology expands naturally;
+- signature scenes and commentability are present;
+- production risk is identifiable/manageable.
+
+Why four instead of forced three:
+> cutting one more would mostly be editor taste; next available evidence is real shelf competition.
+
+Next:
+> **D-0088 Platform-Native Shelf Test**
+
+Brief:
+> `research/briefs/2026-09-24_d0088_platform_native_shelf_test_brief.md`
+
+Forge:
+> `handoffs/platform_shelf_forge/CURRENT.md`
+
+Hard:
+- no chapter prose;
+- no broad mother-market re-scan;
+- no Primary;
+- no Concept mutation.
+
+After forge:
+> separate clean-room Fresh Shelf Reader.
