@@ -3832,3 +3832,35 @@ Rule:
 
 No fixed survivor count.
 No Primary.
+
+
+## D-0093B/C Author First Read + Micro-Prose Audit
+**状态：COMPLETED，2026-09-24**
+
+Author first-read report:
+> `reviews/2026-09-24_d0093b_batch_a_author_first_read.md`
+
+Author human-pull tiers:
+- strong: E规则带回现实 92 / C劫痕道途 90 / A无身份资产 80
+- medium: B灵脉 70 / G万人炼我一法 70
+- serious warning: D整栋楼 65 / F城市 65
+
+This is NOT a kill list.
+
+Micro-prose audit:
+> `reviews/2026-09-24_d0093c_batch_a_micro_prose_naturalness_audit.md`
+
+Confirmed:
+- A warehouse numbering inconsistency: 七码仓 / 八码仓 / 六码仓;
+- A first-use jargon friction: 箱变;
+- B nickname anchor failure: 阿满 appears before explicit anchor;
+- B semantic half-beat: “从前不算现在”;
+- B higher density of constructed naming friction.
+
+Project rule:
+> all survivors require a reader-friction / naturalness pass before sustained P7+ prose.
+
+Name collision:
+> reserve 程野 for E for now; if B7 survives later, rename B7 protagonist before deeper development.
+
+No Primary.
