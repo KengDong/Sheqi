@@ -1,3 +1,38 @@
+# D-0088｜FRESH SHELF READER ACTIVE
+
+Platform Shelf Forge:
+> DONE / PAUSED
+
+Anonymous Copy Shelf packages:
+- Qidian 12-book strip
+- Fanqie 14-book strip
+
+Active:
+> **fresh_shelf_reader / Clean-Room Platform Shelf Click Reader**
+
+CURRENT:
+> `handoffs/fresh_shelf_reader/CURRENT.md`
+
+Brief:
+> `research/briefs/2026-09-24_d0088_fresh_shelf_reader_click_test_brief.md`
+
+Reader must not access:
+- private source key;
+- candidate packs;
+- direct shelf snapshot;
+- D-0086 / D-0087;
+- editor_in_chief;
+- mapping/history.
+
+Goal:
+> spontaneous click evidence only.
+
+No prose.
+No Primary.
+No repair suggestions.
+
+---
+
 # D-0088｜PLATFORM-NATIVE SHELF TEST ACTIVE
 
 D-0087 Hit Gap Gate complete.
