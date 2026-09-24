@@ -30,7 +30,7 @@ Postmortem:
 
 # Active Phase
 
-> **D-0095｜Batch A Author Read + Batch B Absolute Read / Primary PAUSED**
+> **D-0097｜Dual Head-Tier Architecture Campaign + Batch B Absolute Read Parallel / Primary PAUSED**
 
 Current reviews:
 - `reviews/2026-09-23_phase1_story_forge_desire_cut.md`
