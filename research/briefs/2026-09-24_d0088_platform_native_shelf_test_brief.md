@@ -13,8 +13,17 @@ prose_status: PAUSED
 - ST2《养一条会跟我走的灵脉》
 - ST3《把整座城市当成超能力》
 - ST4《别人抢物资，我抢整栋楼》
+- ST5《万人炼我一法》
 
 # Mission
+
+Author scope override:
+> `reviews/2026-09-24_d0088_author_scope_override_include_hg2.md`
+
+ST5 enters with:
+> **HUMAN-LAYER GAP NOT CLEARED**
+
+Its Shelf result may prove click/packaging strength, but may not erase the D-0087 character-risk finding.
 
 为每本寻找最自然的平台版本，并在真实当前竞争环境中测试：
 
@@ -147,4 +156,4 @@ After packages:
 
 # Expected Result
 
-> 4 -> 2—3 candidates for Direct Competitor Deep Read + P0/P1.
+> 5 -> 2—3 candidates for Direct Competitor Deep Read + P0/P1. If ST5 survives, its unresolved human-layer gap must carry forward.
