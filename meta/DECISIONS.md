@@ -3471,3 +3471,47 @@ Formal override:
 No broad market re-scan.
 No prose.
 No Primary.
+
+
+## D-0089 Platform Shelf Cut -> Direct Competitor Deep Read
+**状态：ACTIVE，2026-09-24**
+
+Formal Shelf Cut:
+> `reviews/2026-09-24_d0088_platform_shelf_cut.md`
+
+Finalists:
+- FNL1《养一条会跟我走的灵脉》
+- FNL2《把整座城市当成超能力》
+- FNL3《别人抢物资，我抢整栋楼》
+
+Shelf evidence:
+- FNL1: Qidian #1 overall; Fanqie final 3
+- FNL2: Qidian final 3; Fanqie #2 overall
+- FNL3: Fanqie #1 overall
+
+High Reserve:
+- ST5《万人炼我一法》 -> shelf competitive, HUMAN-LAYER GAP OPEN
+
+Hold:
+- ST1《劫痕道途》 -> distinctive, but current shelf-conversion friction
+
+Important:
+> D-0088 was a cover-blind Copy Shelf Pass, not full visual CTR prediction.
+
+Next:
+> **D-0089 Direct Competitor Deep Read**
+
+Brief:
+> `research/briefs/2026-09-24_d0089_direct_competitor_deepread_brief.md`
+
+Three isolated lanes:
+- `handoffs/direct_competitor_fnl1/CURRENT.md`
+- `handoffs/direct_competitor_fnl2/CURRENT.md`
+- `handoffs/direct_competitor_fnl3/CURRENT.md`
+
+No broad market rescan.
+No prose.
+No Primary.
+
+After all three DONE:
+> editor_in_chief / Prototype Readiness Gate.
