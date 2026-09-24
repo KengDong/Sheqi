@@ -1,6 +1,6 @@
 # CURRENT AUTHORITY｜Sheqi Fiction R&D
 
-updated: 2026-09-23
+updated: 2026-09-24
 
 # Highest Decision
 
@@ -30,7 +30,7 @@ Postmortem:
 
 # Active Phase
 
-> **FIRST-PRINCIPLES STORY FORGE｜Phase 5 / P1 Isolated Prose Prototype**
+> **D-0084A｜Commercial Hit Market Recalibration / P1 PAUSED**
 
 Current reviews:
 - `reviews/2026-09-23_phase1_story_forge_desire_cut.md`
@@ -38,19 +38,20 @@ Current reviews:
 - `reviews/2026-09-24_d0082_character_collision_total_editor_cut.md`
 - `reviews/2026-09-24_d0083_minimal_horizon_total_editor_cut.md`
 
+Commercial authority:
+- `meta/COMMERCIAL_HIT_FIRST_PRINCIPLES_V1.md`
+
 Primary brief:
-- `research/briefs/2026-09-24_d0084_p1_isolated_prototype_brief.md`
+- `research/briefs/2026-09-24_d0084a_qidian_fanqie_commercial_hit_market_recalibration_brief.md`
 
-# Active Execution Windows
+# Active Execution Window
 
-Four isolated P1 writers:
-- `handoffs/p1_r1_writer/CURRENT.md`
-- `handoffs/p1_r2_writer/CURRENT.md`
-- `handoffs/p1_r7_writer/CURRENT.md`
-- `handoffs/p1_r8_writer/CURRENT.md`
+Current executor:
+- Commercial Market Scout:
+  `handoffs/commercial_market_scout/CURRENT.md`
 
-Each reads only its own pack + shared P1 brief.
-No cross-candidate knowledge.
+D-0084 P1 writers are paused.
+No prose until Commercial Gate.
 
 # Evidence Rule
 
@@ -73,4 +74,4 @@ Then:
 - no full Early20 rewrite;
 - no Primary;
 - no Canon / Approved Outline change;
-- no Writer until Phase-1/2 candidates are selected.
+- no P1 Writer execution until D-0084A Commercial Gate.
