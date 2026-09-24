@@ -4108,3 +4108,32 @@ D-0099 voice-only lab is superseded in purpose by:
 
 No full prose continuation.
 No Primary.
+
+
+## D-0101 Rule-Reality Exclusive Full-Stack Reforge
+**状态：COMPLETED / ARCHITECTURE FROZEN，2026-09-24**
+
+Author directive:
+> 全力攻《把一条副本规则带回现实》；先收集同池热门梯队，再做全面对标，把框架设定做宽做大。
+
+Completed:
+- direct/adjacent competitor ladder;
+- 30+ dimension gap matrix;
+- Full-Stack V2 architecture;
+- Red Team;
+- 12-field / 6+ mode field-supply stress;
+- post-Red-Team revision.
+
+Formal merge:
+> `reviews/2026-09-24_d0101_rule_reality_exclusive_fullstack_merge.md`
+
+Scar:
+> HOLD / no core resource allocation.
+
+Rule-Reality:
+> architecture broad enough; no new engines before prose.
+
+Next:
+> breakout surface -> P3 -> second-field prose proof.
+
+No final Primary declaration; execution priority exclusive.
