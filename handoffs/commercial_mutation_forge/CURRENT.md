@@ -1,20 +1,30 @@
 # Commercial Mutation Forge｜CURRENT
 role: commercial_mutation_forge
-status: ACTIVE
+status: DONE
 decision: D-0085
 
-First read:
-1. `reviews/2026-09-24_d0084a_total_editor_commercial_gate.md`
-2. `research/briefs/2026-09-24_d0085_commercial_mutation_forge_brief.md`
-3. only frozen R1/R3/R8 concept-level assets required by the brief.
+Completed:
+1. Read D-0084A Total Editor Commercial Gate.
+2. Read D-0085 Lane M brief.
+3. Used only frozen R1 / R3 / R8 concept-level assets required for Mutation.
+4. Produced 2 clearly distinct Commercial Mutations per candidate.
+5. Completed hard-gate selfcheck.
 
-Do not read R2/R7 for rescue.
-Do not write prose.
+Output:
+> experiments/commercial_reforge/2026-09-24_r_mutation_candidates.md
+
+Selfcheck:
+> reviews/2026-09-24_d0085_commercial_mutation_selfcheck.md
 
 Deliver:
 > editor_in_chief / Commercial Desire Cut
 
-Output:
-> `experiments/commercial_reforge/2026-09-24_r_mutation_candidates.md`
+Boundary preserved:
+- no prose;
+- no chapter outline;
+- no Primary;
+- no Canon / Outline change;
+- no R2 / R7 rescue.
 
-Stop after output + selfcheck + CURRENT/history.
+Next:
+> STOP. Await editor_in_chief Commercial Desire Cut.
