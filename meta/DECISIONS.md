@@ -3701,3 +3701,37 @@ Soft-stop wildcards may re-enter only after Reservoir qualification.
 
 No Primary.
 No broad market rescan.
+
+
+## D-0093 Opening Arc Absolute Read｜Batch A
+**状态：ACTIVE，2026-09-24**
+
+D-0092 completed Opening Arcs:
+- W1 / W2 / W3
+- R1 / R2 / R3 / R4
+
+All seven accepted to clean-room absolute reading.
+
+Protocol:
+> `research/briefs/2026-09-24_d0093_opening_arc_absolute_reader_protocol.md`
+
+Intake QA:
+> `reviews/2026-09-24_d0093_batch_a_opening_arc_intake_qa.md`
+
+Reader rule:
+> one anonymous book per reader; genuine voluntary stop; no comparison; no forced completion.
+
+Active:
+- opening_arc_reader_a
+- opening_arc_reader_b
+- opening_arc_reader_c
+- opening_arc_reader_d
+- opening_arc_reader_e
+- opening_arc_reader_f
+- opening_arc_reader_g
+
+High Reserve Reservoir Qualifier:
+> remains ACTIVE in parallel.
+
+No fixed survivor count.
+No Primary.
