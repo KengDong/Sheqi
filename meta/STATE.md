@@ -1,3 +1,30 @@
+# D-0101G｜RULE-REALITY FRAMEWORK PASS / RULE-ONLY PRIORITY
+
+Primary development focus:
+> 《把一条副本规则带回现实》
+
+Completed:
+- direct/adjacent competitor battlefield;
+- comprehensive V2;
+- Red Team;
+- V2.1 causal closure;
+- final framework gate.
+
+Verdict:
+> FRAMEWORK PASS TO EXECUTION PROOF.
+
+Next:
+> D-0102 Second Rule Field + Co-Lead Tournament READY.
+
+《劫痕道途》:
+> PAUSED / no active spend.
+
+No claim of executed superiority.
+No long-form prose yet.
+No formal Primary launch decision.
+
+---
+
 # D-0101M｜RULE-REALITY EXCLUSIVE ARCHITECTURE V2 FROZEN
 
 Exclusive priority:
