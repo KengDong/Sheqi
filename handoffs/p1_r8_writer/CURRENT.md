@@ -18,3 +18,16 @@ Boundary honored:
 6. Did not compare candidates
 
 Stop here and return to editor_in_chief.
+
+
+## D-0084A PAUSE
+
+Do not write Ch1 yet.
+
+Reason:
+> author clarified commercial objective; current candidate must pass Qidian/Fanqie Commercial Market Fit before prose.
+
+Current authority:
+> `handoffs/commercial_market_scout/CURRENT.md`
+
+Resume only if editor_in_chief explicitly reactivates this candidate after Commercial Gate.
