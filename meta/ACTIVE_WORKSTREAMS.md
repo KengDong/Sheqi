@@ -843,3 +843,33 @@
   - no web
   - no editing
   - no repair suggestions
+
+## d0092_opening_arc_double_elimination
+- status: ACTIVE
+- pool_size: 7
+- winners:
+  - W1 养一条会跟我走的灵脉
+  - W2 把整座城市当成超能力
+  - W3 别人抢物资，我抢整栋楼
+- revival:
+  - R1 劫痕道途
+  - R2 万人炼我一法
+  - R3 无身份资产
+  - R4 把一条副本规则带回现实
+- target:
+  - first natural mini-climax
+  - approx Ch3—Ch5
+- no_forced_survivor_count: true
+
+## d0092_reserve_revival_qualifier
+- status: ACTIVE
+- candidates: 8 D-0085 high reserves
+- current: `handoffs/revival_reservoir_qualifier/CURRENT.md`
+- gate:
+  - 30—50 natural situations
+  - reward sameness
+  - Premium survival
+  - old-state compounding
+  - case-supply dependency
+- result:
+  - any natural pass becomes opening-arc revival eligible
