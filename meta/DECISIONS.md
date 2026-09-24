@@ -4137,3 +4137,52 @@ Next:
 > breakout surface -> P3 -> second-field prose proof.
 
 No final Primary declaration; execution priority exclusive.
+
+
+## D-0101 Rule-Reality Comprehensive Head-Tier Reforge
+**状态：COMPLETED，2026-09-24**
+
+Author priority override:
+> all core development resources now prioritize 《把一条副本规则带回现实》.
+
+Competitor battlefield:
+> `research/reports/2026-09-24_d0101_rule_competitor_battlefield.md`
+
+V2 architecture:
+> `architecture/2026-09-24_d0101_rule_reality_head_tier_v2.md`
+
+Independent comprehensive Red Team:
+> `reviews/2026-09-24_d0101_rule_v2_comprehensive_redteam.md`
+
+V2.1 closure:
+> `architecture/2026-09-24_d0101_rule_reality_v2_1_addendum.md`
+
+Final framework gate:
+> `reviews/2026-09-24_d0101_rule_comprehensive_framework_gate.md`
+
+Verdict:
+> FRAMEWORK PASS TO EXECUTION PROOF.
+
+Important:
+> this is NOT a claim that executed prose exceeds direct benchmarks.
+
+Architecture-level strongest differentiators:
+- victory permanently rewrites ordinary reality;
+- reality side generates stories instead of resetting between fields;
+- old rules compound across long spans;
+- reward choice is a public-world choice;
+- “every win makes home harder to return to.”
+
+Remaining execution proofs:
+- second Rule Field standalone quality;
+- Cheng Ye persona;
+- magnetic recurring co-lead;
+- reality-chapter desirability;
+- black-comedy voice;
+- failed-future physical mystery freshness.
+
+Next:
+> D-0102 Second Rule Field + Co-Lead Tournament.
+
+Scar:
+> PAUSED, architecture preserved, no active resource spend.
