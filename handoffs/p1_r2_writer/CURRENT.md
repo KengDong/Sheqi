@@ -1,6 +1,6 @@
 # P1 Writer R2｜CURRENT
 role: p1_prototype_writer
-status: ACTIVE
+status: DONE
 decision: D-0084
 candidate: R2 Second Autobiography
 isolation: HARD
@@ -11,14 +11,17 @@ Read only:
 
 Do not inspect any other Sheqi file.
 
-Write only:
+Completed output:
 > `experiments/first_principles_forge/prototypes/p1/R2_second_autobiography_ch01.md`
 
 Boundary selfcheck:
 > `reviews/2026-09-24_p1_r2_writer_boundary_selfcheck.md`
 
-Then update this CURRENT + history and stop.
+History:
+> `handoffs/p1_r2_writer/history/2026-09-24_d0084_p1_r2_ch01_done.md`
 
 No Ch2.
 No outline.
 No comparison with other candidates.
+
+STOP.
