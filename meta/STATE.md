@@ -1,3 +1,22 @@
+# D-0097｜DUAL HEAD-TIER ARCHITECTURE CAMPAIGN ACTIVE
+
+Targets:
+- 《劫痕道途》
+- 《把一条副本规则带回现实》
+
+Current:
+> Stage 1 benchmark architecture readers ACTIVE.
+
+Next:
+> both benchmarks DONE -> two architecture forges in parallel -> two red teams -> total editor merge.
+
+No prose.
+No Primary.
+
+Parallel D-0095 Batch B absolute reading may continue independently.
+
+---
+
 # D-0096｜HIT-SCALE ARCHITECTURE RECALIBRATION READY
 
 Author evidence has exposed a new root problem:
