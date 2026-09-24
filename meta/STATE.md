@@ -1,3 +1,24 @@
+# D-0100｜UNKNOWN-AUTHOR BREAKOUT LAYER ACTIVE
+
+Priority long-run architectures remain PASS.
+
+New blocker before P3:
+> unknown-author breakout surface.
+
+Rule-Reality:
+> stronger natural discovery fit; terminal future-fragment crisis added.
+
+Scar:
+> backend strong; front-end must be materially sharpened or HOLD.
+
+Next:
+> controlled breakout surface lab.
+
+No Ch5 continuation.
+No Primary.
+
+---
+
 # D-0098M｜PRIORITY ARCHITECTURE CAMPAIGN COMPLETE
 
 Priority candidates:
