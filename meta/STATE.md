@@ -1,3 +1,29 @@
+# D-0098A｜TASK GRAPH NORMALIZED
+
+Critical path:
+> 3 benchmarks -> 1 integrated standard -> 2 architectures -> 2 red teams -> total editor -> voice/prose gates.
+
+ACTIVE CORE:
+- Qidian benchmark
+- Fanqie benchmark
+- Cold-start/personality benchmark
+
+SIDE LANE:
+- Batch B absolute readers
+- author Batch B read
+
+BLOCKED:
+- integrated standard
+- scar/rule architecture
+- red teams
+- voice labs
+- new prose
+
+WIP limit enforced.
+No Primary.
+
+---
+
 # D-0098｜UNIFIED HIT-FICTION R&D MASTER PIPELINE ACTIVE
 
 Authority:
