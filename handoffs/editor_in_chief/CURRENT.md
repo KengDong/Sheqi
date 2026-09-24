@@ -1,5 +1,30 @@
 
 
+## D-0090 PROTOTYPE READINESS GATE COMPLETE
+
+Formal review:
+> `reviews/2026-09-24_d0089_prototype_readiness_gate.md`
+
+All three finalists PASS to isolated P0:
+- FNL1 养一条会跟我走的灵脉
+- FNL2 把整座城市当成超能力
+- FNL3 别人抢物资，我抢整栋楼
+
+Active writers:
+- `handoffs/p0_fnl1_writer/CURRENT.md`
+- `handoffs/p0_fnl2_writer/CURRENT.md`
+- `handoffs/p0_fnl3_writer/CURRENT.md`
+
+Total Editor must not coach writers before all three are DONE.
+
+After all three:
+> hard-error/contamination QA only -> anonymize -> clean-room P0 Fresh Reader.
+
+No full Ch1.
+No Primary.
+No broad research.
+
+
 ## D-0089 SHELF CUT COMPLETE / DIRECT COMPETITOR LANES ACTIVE
 
 Formal shelf cut:
@@ -214,7 +239,7 @@ No Primary.
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0089 Direct Competitor Deep Read
+- current_gate: D-0090 Three-Way Isolated P0 First Screen
 
 
 ## D-0084 HORIZON CUT COMPLETE
