@@ -30,7 +30,7 @@ Postmortem:
 
 # Active Phase
 
-> **D-0087｜Hit Gap Gate / P1 PAUSED**
+> **D-0088｜Platform-Native Shelf Test / P1 PAUSED**
 
 Current reviews:
 - `reviews/2026-09-23_phase1_story_forge_desire_cut.md`
@@ -50,29 +50,29 @@ Commercial Desire Cut:
 Commercial Reservoir Cut:
 - `reviews/2026-09-24_d0086_commercial_reservoir_cut.md`
 
+Hit Gap:
+- `reviews/2026-09-24_d0087_hit_gap_gate.md`
+
 Primary brief:
-- `research/briefs/2026-09-24_d0087_hit_gap_gate_brief.md`
+- `research/briefs/2026-09-24_d0088_platform_native_shelf_test_brief.md`
 
 Market evidence freeze:
 - `meta/MARKET_EVIDENCE_FREEZE_AND_REOPEN_TRIGGERS.md`
 
 # Active Execution Window
 
-Owner:
-- editor_in_chief
-
-Current task:
-> D-0087 Hit Gap Gate
+Platform Shelf Forge:
+- `handoffs/platform_shelf_forge/CURRENT.md`
 
 Candidates:
-- HG1 劫痕道途
-- HG2 万人炼我一法
-- HG3 养一条会跟我走的灵脉
-- HG4 把整座城市当成超能力
-- HG5 别人抢物资，我抢整栋楼
+- ST1 劫痕道途
+- ST2 养一条会跟我走的灵脉
+- ST3 把整座城市当成超能力
+- ST4 别人抢物资，我抢整栋楼
 
 No prose.
 No broad market re-scan.
+After forge, a separate fresh Shelf Reader must judge spontaneous click choice.
 
 # Evidence Rule
 
