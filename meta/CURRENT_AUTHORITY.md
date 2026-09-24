@@ -30,7 +30,7 @@ Postmortem:
 
 # Active Phase
 
-> **D-0090｜Three-Way Isolated P0 First Screen / P1 PAUSED**
+> **D-0090｜Anonymous P0 Fresh Reader / P1 PAUSED**
 
 Current reviews:
 - `reviews/2026-09-23_phase1_story_forge_desire_cut.md`
@@ -70,20 +70,26 @@ Market evidence freeze:
 
 # Active Execution Windows
 
-P0 isolated writers:
-- `handoffs/p0_fnl1_writer/CURRENT.md`
-- `handoffs/p0_fnl2_writer/CURRENT.md`
-- `handoffs/p0_fnl3_writer/CURRENT.md`
+P0 Writers:
+- FNL1 DONE
+- FNL2 DONE
+- FNL3 DONE
 
-Finalists:
-- FNL1 养一条会跟我走的灵脉
-- FNL2 把整座城市当成超能力
-- FNL3 别人抢物资，我抢整栋楼
+Editor QA:
+- `reviews/2026-09-24_d0090_p0_editor_qa.md`
+
+Active clean-room reader:
+- `handoffs/p0_fresh_reader/CURRENT.md`
+
+Anonymous input:
+- `experiments/p0_finalists/anonymous/2026-09-24_d0090_p0_anonymous_package.md`
+
+Private mapping:
+- forbidden to reader.
 
 No full Ch1.
 No Primary.
 No broad market rescan.
-Writers are mutually isolated.
 
 # Evidence Rule
 
