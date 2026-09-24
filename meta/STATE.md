@@ -1,3 +1,35 @@
+# D-0098｜UNIFIED HIT-FICTION R&D MASTER PIPELINE ACTIVE
+
+Authority:
+> `meta/HIT_FICTION_RND_MASTER_PIPELINE_V2.md`
+
+Execution:
+> `meta/D0098_EXECUTION_BOARD.md`
+
+ACTIVE:
+- Qidian benchmark;
+- Fanqie benchmark;
+- Cold-start/personality benchmark;
+- Batch B absolute readers.
+
+BLOCKED:
+- integrated head-tier synthesis;
+- scar/rule architecture;
+- red teams;
+- voice labs;
+- new prose.
+
+Priority:
+- 《把一条副本规则带回现实》
+- 《劫痕道途》
+
+Next candidate pending human evidence:
+- 《天道赊境》 / 顾明川 current author score 90.
+
+No Primary.
+
+---
+
 # D-0097C｜COLD-START CONVERSION BENCHMARK ACTIVE
 
 Three benchmark lanes now precede the two priority architecture forges:
