@@ -3632,3 +3632,26 @@ Active P1:
 No Ch2.
 No Primary.
 No broad research.
+
+
+## D-0091A Author Process Override｜Opening Arc Before Serious Cut
+**状态：ACTIVE，2026-09-24**
+
+Author correction:
+> “只对比到第一章不太行，起码得是一个开头到小高潮的对比。不用急于筛选掉那么多，大不了多做点，多给点机会。”
+
+Formal override:
+> `reviews/2026-09-24_d0091_author_process_override_opening_arc_before_cut.md`
+
+New rule:
+- P1 = diagnostic, not default elimination.
+- No forced 3->2 quota.
+- First serious comparative gate = each candidate reaches first natural mini-climax, expected around Ch3—Ch5.
+- If all three remain voluntarily readable, all three may continue to P7.
+- Only catastrophic P1 failure may stop a candidate early.
+
+Current three P1 chapters:
+> all three completed and remain eligible.
+
+Next:
+> P1 Fresh Reader may still run for diagnostic friction, but must not automatically cut.
