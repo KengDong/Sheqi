@@ -3864,3 +3864,27 @@ Name collision:
 > reserve 程野 for E for now; if B7 survives later, rename B7 protagonist before deeper development.
 
 No Primary.
+
+
+## D-0096 Hit-Scale Amplification Audit
+**状态：COMPLETED / NEXT ARCHITECTURE GATE，2026-09-24**
+
+Trigger:
+> Author reports current strongest prose still feels small compared with current Qidian/Fanqie hits, especially 《没钱修什么仙？》.
+
+Formal audit:
+> `reviews/2026-09-24_d0096_hit_scale_amplification_audit.md`
+
+Priority:
+1. 《劫痕道途》 -> Ch5–100 Hit-Scale Architecture Prototype.
+2. 《把一条副本规则带回现实》 -> Two-Engine (Dungeon + Reality) Architecture Prototype.
+3. 《养一条会跟我走的灵脉》 -> Root-preserved full Opening Arc rewrite, ONE salvage chance.
+
+Spirit Vein author override:
+> current Opening Arc = COMMERCIAL EXECUTION FAILURE.
+> 40-seed reservoir keeps Root Concept alive, but does not rescue current prose/arc.
+
+First-principles correction:
+> scale is not bigger maps/lore; scale is a Premium activating multiple autonomous systems, with visible power/resource/status/life state compounding.
+
+No Primary.
