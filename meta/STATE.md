@@ -1,3 +1,24 @@
+# D-0096｜HIT-SCALE ARCHITECTURE RECALIBRATION READY
+
+Author evidence has exposed a new root problem:
+> structurally viable Opening Arcs can still feel too small for Qidian/Fanqie top-hit scale.
+
+Formal audit:
+> `reviews/2026-09-24_d0096_hit_scale_amplification_audit.md`
+
+Priority architecture targets:
+- 劫痕道途
+- 把一条副本规则带回现实
+
+Spirit Vein:
+> current Opening Arc failed author commercial read; one Root-preserved rewrite may be tested.
+
+D-0095 Batch B absolute read may continue independently.
+
+No Primary.
+
+---
+
 # D-0093B/C｜BATCH A HUMAN READ RECORDED
 
 Author first read now provides meaningful separation inside the 7/7 AI survival set.
