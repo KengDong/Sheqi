@@ -30,24 +30,27 @@ Postmortem:
 
 # Active Phase
 
-> **FIRST-PRINCIPLES STORY FORGE｜Phase 4 / Minimal Horizon Stress Test**
+> **FIRST-PRINCIPLES STORY FORGE｜Phase 5 / P1 Isolated Prose Prototype**
 
 Current reviews:
 - `reviews/2026-09-23_phase1_story_forge_desire_cut.md`
 - `reviews/2026-09-23_d0081_story_reservoir_total_editor_cut.md`
 - `reviews/2026-09-24_d0082_character_collision_total_editor_cut.md`
+- `reviews/2026-09-24_d0083_minimal_horizon_total_editor_cut.md`
 
 Primary brief:
-- `research/briefs/2026-09-24_d0083_minimal_horizon_stress_test_brief.md`
+- `research/briefs/2026-09-24_d0084_p1_isolated_prototype_brief.md`
 
-# Active Execution Window
+# Active Execution Windows
 
-Current isolated executor:
-- Minimal Horizon Forge:
-  `handoffs/minimal_horizon_forge/CURRENT.md`
+Four isolated P1 writers:
+- `handoffs/p1_r1_writer/CURRENT.md`
+- `handoffs/p1_r2_writer/CURRENT.md`
+- `handoffs/p1_r7_writer/CURRENT.md`
+- `handoffs/p1_r8_writer/CURRENT.md`
 
-Five survivors are frozen.
-Only Near / Mid / Far may be defined.
+Each reads only its own pack + shared P1 brief.
+No cross-candidate knowledge.
 
 # Evidence Rule
 
