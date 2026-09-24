@@ -1,7 +1,7 @@
 # Scar Hit-Scale Architect｜CURRENT
 
 role: scar_hit_scale_architect
-status: BLOCKED_ON_D0098_INTEGRATED_STANDARD
+status: DONE
 decision: D-0097
 candidate: 《劫痕道途》
 
