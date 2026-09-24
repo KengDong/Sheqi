@@ -1,5 +1,25 @@
 
 
+## D-0093A BATCH A ABSOLUTE SURVIVAL COMPLETE
+
+Result:
+- 7 / 7 natural finish
+- 7 / 7 voluntary next chapter YES
+- 7 / 7 post-payoff desire RISE
+- no abandonment
+
+Formal synthesis:
+> `reviews/2026-09-24_d0093a_batch_a_absolute_survival_synthesis.md`
+
+No cut is authorized.
+
+Next:
+> author personally reads all seven Opening Arcs.
+
+Comparative ranking remains deferred.
+Batch B D-0094 continues in parallel.
+
+
 ## D-0094 BATCH B REVIVAL OPENING ARCS ACTIVE
 
 High Reserve qualifier result:
@@ -355,7 +375,7 @@ No Primary.
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0094 Batch A Absolute Read + Batch B Revival Opening Arcs
+- current_gate: D-0093A Batch A Author Read Ready + D-0094 Batch B Opening Arcs
 
 
 ## D-0084 HORIZON CUT COMPLETE
