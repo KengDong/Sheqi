@@ -136,3 +136,21 @@ Output:
 > `research/reports/2026-09-24_d0097c_cold_start_conversion_benchmark.md`
 
 Then CURRENT DONE + history + Git commit + STOP.
+
+
+## Author Direction｜Do Not Penalize Successful Comedy / Madness
+
+The author explicitly welcomes:
+> strong comedy / deranged energy / exaggerated personality
+
+IF it creates real addictive reading and still supports long-run compounding.
+
+Therefore this benchmark must identify:
+- which funny books are actually highly commercial rather than merely meme-heavy;
+- how jokes arise from character/world logic;
+- how serious stakes coexist with comedy;
+- how high-conversion comic protagonists avoid becoming one-note;
+- how humor survives 50/100+ chapters;
+- when an intentionally outrageous opening is commercially superior to a restrained one.
+
+Do not downgrade a route for being “不够高级” if reader pull is stronger.
