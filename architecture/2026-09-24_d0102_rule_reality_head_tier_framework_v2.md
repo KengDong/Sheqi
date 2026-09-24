@@ -1024,3 +1024,21 @@ If any one engine is absent for too long:
 > rotation must bring another forward.
 
 That is the intended full-spectrum head-tier shape.
+
+
+# D-0103R｜Early-Pacing Revision
+
+Supersede D-0102's early chapter timing:
+
+- Ch1–4: Opening / R1 reality impact / first mini-climax.
+- Ch5–8: preparation + family/Fang Cen + outside source + future-clue seed.
+- Ch9–28: SECOND RULE FIELD ON PAGE.
+- Ch29–55: reality consequence / no new Returned Rule.
+- Ch56–80: third Field / rival or multi-returner collision.
+- Ch81–120: reality city crisis + first physical future overlap.
+
+Reason:
+> because the book starts after an unseen Field, an unknown author cannot make the reader wait ~20 chapters to see the actual dungeon engine.
+
+The no-new-rule stress test remains mandatory, but moves AFTER Field #2 has earned reader trust.
+
