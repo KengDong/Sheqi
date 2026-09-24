@@ -1,3 +1,32 @@
+# D-0092｜DOUBLE-ELIMINATION OPENING ARC ROUND ACTIVE
+
+Current rule:
+> comparative loss != death.
+
+Hard screening remains:
+> 30—50 natural stories / reward variety / old-state compounding / Premium survival.
+
+Serious-development pool = 7:
+- W1 养一条会跟我走的灵脉
+- W2 把整座城市当成超能力
+- W3 别人抢物资，我抢整栋楼
+- R1 劫痕道途
+- R2 万人炼我一法
+- R3 无身份资产
+- R4 把一条副本规则带回现实
+
+Opening Arc target:
+> first natural mini-climax, approximately Ch3—Ch5, no forced equal chapter count.
+
+Parallel:
+> 8 D-0085 high reserves -> Revival Reservoir Qualifier.
+
+No forced survivor count.
+No Primary.
+Author will personally read surviving openings.
+
+---
+
 # D-0091｜THREE-WAY ISOLATED P1 ACTIVE
 
 D-0090 P0 Fresh Reader complete.
