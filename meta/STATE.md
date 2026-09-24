@@ -1,3 +1,22 @@
+# D-0093｜OPENING ARC ABSOLUTE READ BATCH A ACTIVE
+
+Seven complete Opening Arcs are now under isolated clean-room absolute reading.
+
+Reader rule:
+> stop immediately at genuine abandonment; only natural finishers judge next-chapter desire.
+
+No ranking.
+No forced cut.
+No fixed survivor count.
+
+Parallel:
+> High Reserve Revival Reservoir Qualifier remains active.
+
+After seven reports:
+> editor reveal -> absolute survival synthesis -> author opening read -> comparative read only among still-live candidates.
+
+---
+
 # D-0092｜DOUBLE-ELIMINATION OPENING ARC ROUND ACTIVE
 
 Current rule:
