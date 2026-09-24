@@ -3051,3 +3051,50 @@ Executor:
 
 Next:
 > Character Cut -> Minimal Horizon only for survivors.
+
+
+## D-0083 Character Cut -> Minimal Horizon Stress Test
+**状态：ACTIVE，2026-09-24**
+
+Character Cut:
+> `reviews/2026-09-24_d0082_character_collision_total_editor_cut.md`
+
+Promoted:
+- R1 Future Holdings
+- R2 Second Autobiography
+- R3 Borrowed Tribulations
+- R7 Dead People Still Work
+- R8 Missing Day List
+
+Stopped:
+- R5 This City I Have Routes
+
+Reason for R5 stop:
+> Character Collision structurally passed, but the surviving conflicts concentrate on maintenance / sharing / responsibility / network governance. Valid story, insufficient desire premium versus remaining five.
+
+Decision:
+> **Phase 4 = Minimal Horizon Stress Test**
+
+Each candidate may define only:
+- one Near;
+- one Mid;
+- one Far;
+- one three-step desire chain.
+
+Hard:
+- max one page per candidate;
+- no chapter map;
+- no Canopy;
+- no Macro Promise ladder;
+- no Five Curves;
+- no prose;
+- no Primary.
+
+Brief:
+> `research/briefs/2026-09-24_d0083_minimal_horizon_stress_test_brief.md`
+
+Executor:
+> `handoffs/minimal_horizon_forge/CURRENT.md`
+
+Next:
+> Horizon Cut -> select P1 prose candidates.
