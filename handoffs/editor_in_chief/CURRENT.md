@@ -1,5 +1,34 @@
 
 
+## D-0089 SHELF CUT COMPLETE / DIRECT COMPETITOR LANES ACTIVE
+
+Formal shelf cut:
+> `reviews/2026-09-24_d0088_platform_shelf_cut.md`
+
+Finalists:
+- FNL1 养一条会跟我走的灵脉
+- FNL2 把整座城市当成超能力
+- FNL3 别人抢物资，我抢整栋楼
+
+High Reserve:
+- 万人炼我一法 (HUMAN-LAYER GAP OPEN)
+
+Hold:
+- 劫痕道途 (SHELF-CONVERSION FRICTION)
+
+Active lanes:
+- `handoffs/direct_competitor_fnl1/CURRENT.md`
+- `handoffs/direct_competitor_fnl2/CURRENT.md`
+- `handoffs/direct_competitor_fnl3/CURRENT.md`
+
+Total Editor waits for all three reports.
+Then:
+> Prototype Readiness Gate.
+
+No prose.
+No Primary.
+
+
 ## D-0088 SHELF FORGE DONE / FRESH SHELF READER ACTIVE
 
 Platform Shelf Forge:
@@ -185,7 +214,7 @@ No Primary.
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0088 Platform-Native Shelf Test
+- current_gate: D-0089 Direct Competitor Deep Read
 
 
 ## D-0084 HORIZON CUT COMPLETE
