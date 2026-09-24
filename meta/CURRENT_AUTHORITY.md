@@ -30,7 +30,7 @@ Postmortem:
 
 # Active Phase
 
-> **D-0086｜Commercial Reservoir & Reward Stress Test / P1 PAUSED**
+> **D-0087｜Hit Gap Gate / P1 PAUSED**
 
 Current reviews:
 - `reviews/2026-09-23_phase1_story_forge_desire_cut.md`
@@ -47,17 +47,32 @@ Commercial Gate:
 Commercial Desire Cut:
 - `reviews/2026-09-24_d0085_commercial_desire_cut.md`
 
+Commercial Reservoir Cut:
+- `reviews/2026-09-24_d0086_commercial_reservoir_cut.md`
+
 Primary brief:
-- `research/briefs/2026-09-24_d0086_commercial_reservoir_reward_stress_test_brief.md`
+- `research/briefs/2026-09-24_d0087_hit_gap_gate_brief.md`
+
+Market evidence freeze:
+- `meta/MARKET_EVIDENCE_FREEZE_AND_REOPEN_TRIGGERS.md`
 
 # Active Execution Window
 
-Commercial Reservoir Forge:
-- `handoffs/commercial_reservoir_forge/CURRENT.md`
+Owner:
+- editor_in_chief
 
-Eight candidates are frozen.
-No Concept mutation / rescue.
+Current task:
+> D-0087 Hit Gap Gate
+
+Candidates:
+- HG1 劫痕道途
+- HG2 万人炼我一法
+- HG3 养一条会跟我走的灵脉
+- HG4 把整座城市当成超能力
+- HG5 别人抢物资，我抢整栋楼
+
 No prose.
+No broad market re-scan.
 
 # Evidence Rule
 
