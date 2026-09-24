@@ -4,7 +4,7 @@ updated: 2026-09-24
 
 # Highest Decision
 
-> **D-0105｜Rule-Reality Framework V2 Complete / Field #2 Prototype NEXT / Primary Focus: Rule-Reality**
+> **D-0106｜Rule-Reality Execution OS Complete / Full-Focus Successor ACTIVE / Field #2《封门楼》 Prototype NEXT**
 
 Authority:
 - `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
@@ -31,6 +31,26 @@ Postmortem:
 - D-0079 C01 targeted patch：**PAUSED / SUPERSEDED BY PROCESS RESET**
 - existing Ch1—20 prose：research evidence / experiment history
 - Canon / Approved Outline：frozen; no new authority promotion
+
+# D-0106 Execution Authority
+
+Primary successor:
+> `handoffs/rule_reality_full_focus_successor/CURRENT.md`
+
+Execution OS:
+> `meta/RULE_REALITY_EXECUTION_OS_V1.md`
+
+Gap audit:
+> `reviews/2026-09-25_d0106_rule_reality_execution_gap_audit.md`
+
+Next isolated prose executor:
+> `handoffs/rule_field2_fengmenlou_writer/CURRENT.md`
+
+Current prototype target:
+> Field #2 Card A《封门楼》
+
+Card A is NOT canon until behavioral reader proof.
+No continuous manuscript.
 
 # D-0101 Rule-Only Focus
 
