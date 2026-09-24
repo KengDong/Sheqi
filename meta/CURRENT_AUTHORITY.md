@@ -34,72 +34,46 @@ Postmortem:
 
 # Active Phase
 
-> **D-0097｜Dual Head-Tier Architecture Campaign + Batch B Absolute Read Parallel / Primary PAUSED**
+> **D-0098｜Unified Hit-Fiction R&D Master Pipeline V2**
 
-Current reviews:
-- `reviews/2026-09-23_phase1_story_forge_desire_cut.md`
-- `reviews/2026-09-23_d0081_story_reservoir_total_editor_cut.md`
-- `reviews/2026-09-24_d0082_character_collision_total_editor_cut.md`
-- `reviews/2026-09-24_d0083_minimal_horizon_total_editor_cut.md`
+## ACTIVE NOW
 
-Commercial authority:
-- `meta/COMMERCIAL_HIT_FIRST_PRINCIPLES_V1.md`
+### Core commercial benchmark triplet
+- `handoffs/qidian_head_tier_architecture_reader/CURRENT.md`
+- `handoffs/fanqie_head_tier_architecture_reader/CURRENT.md`
+- `handoffs/cold_start_conversion_scout/CURRENT.md`
 
-Commercial Gate:
-- `reviews/2026-09-24_d0084a_total_editor_commercial_gate.md`
+### Parallel reader-evidence lane
+- Batch B absolute readers H–O
+- Author Batch B personal read
 
-Commercial Desire Cut:
-- `reviews/2026-09-24_d0085_commercial_desire_cut.md`
+## BLOCKED NEXT
 
-Commercial Reservoir Cut:
-- `reviews/2026-09-24_d0086_commercial_reservoir_cut.md`
+1. `handoffs/head_tier_standard_synthesizer/CURRENT.md`
+   - waits for all 3 benchmark reports
+   - outputs `meta/HEAD_TIER_COMMERCIAL_FICTION_OS_V2.md`
 
-Hit Gap:
-- `reviews/2026-09-24_d0087_hit_gap_gate.md`
+2. Priority architecture pair, parallel after integrated standard:
+   - `handoffs/scar_hit_scale_architect/CURRENT.md`
+   - `handoffs/rule_reality_hit_scale_architect/CURRENT.md`
 
-Platform Shelf Cut:
-- `reviews/2026-09-24_d0088_platform_shelf_cut.md`
+3. Independent red teams after each architecture:
+   - `handoffs/scar_hit_scale_redteam/CURRENT.md`
+   - `handoffs/rule_reality_hit_scale_redteam/CURRENT.md`
 
-Prototype Readiness Gate:
-- `reviews/2026-09-24_d0089_prototype_readiness_gate.md`
+4. Total Editor merge.
 
-Primary brief:
-- `research/briefs/2026-09-24_d0090_p0_first_screen_isolated_prototype_brief.md`
+5. Only after architecture PASS:
+   - Voice Lab
+   - cold-start blind
+   - P3
+   - rebuilt/full Opening Arc
+   - P7
+   - P20
+   - P50 serialization simulation
 
-D-0088 author scope override:
-- `reviews/2026-09-24_d0088_author_scope_override_include_hg2.md`
+Historical Batch A readers and Batch B writers are DONE and are no longer active execution windows.
 
-Market evidence freeze:
-- `meta/MARKET_EVIDENCE_FREEZE_AND_REOPEN_TRIGGERS.md`
-
-Double-elimination system:
-- `meta/DOUBLE_ELIMINATION_FICTION_RND_V1.md`
-
-Revival pool:
-- `reviews/2026-09-24_d0091b_revival_pool_audit.md`
-
-# Active Execution Windows
-
-Batch A Opening Arc Absolute Readers:
-- `handoffs/opening_arc_reader_a/CURRENT.md`
-- `handoffs/opening_arc_reader_b/CURRENT.md`
-- `handoffs/opening_arc_reader_c/CURRENT.md`
-- `handoffs/opening_arc_reader_d/CURRENT.md`
-- `handoffs/opening_arc_reader_e/CURRENT.md`
-- `handoffs/opening_arc_reader_f/CURRENT.md`
-- `handoffs/opening_arc_reader_g/CURRENT.md`
-
-Batch B Revival Opening Arc Writers:
-- `handoffs/opening_arc_b1_revival_writer/CURRENT.md`
-- `handoffs/opening_arc_b2_revival_writer/CURRENT.md`
-- `handoffs/opening_arc_b3_revival_writer/CURRENT.md`
-- `handoffs/opening_arc_b4_revival_writer/CURRENT.md`
-- `handoffs/opening_arc_b5_revival_writer/CURRENT.md`
-- `handoffs/opening_arc_b6_revival_writer/CURRENT.md`
-- `handoffs/opening_arc_b7_revival_writer/CURRENT.md`
-- `handoffs/opening_arc_b8_revival_writer/CURRENT.md`
-
-No fixed survivor count.
 No Primary.
 
 # Evidence Rule
