@@ -30,7 +30,7 @@ Postmortem:
 
 # Active Phase
 
-> **D-0085｜Commercial Reforge / P1 PAUSED**
+> **D-0086｜Commercial Reservoir & Reward Stress Test / P1 PAUSED**
 
 Current reviews:
 - `reviews/2026-09-23_phase1_story_forge_desire_cut.md`
@@ -44,22 +44,19 @@ Commercial authority:
 Commercial Gate:
 - `reviews/2026-09-24_d0084a_total_editor_commercial_gate.md`
 
-Active briefs:
-- `research/briefs/2026-09-24_d0085_commercial_mutation_forge_brief.md`
-- `research/briefs/2026-09-24_d0085_commercial_native_forge_brief.md`
+Commercial Desire Cut:
+- `reviews/2026-09-24_d0085_commercial_desire_cut.md`
 
-# Active Execution Windows
+Primary brief:
+- `research/briefs/2026-09-24_d0086_commercial_reservoir_reward_stress_test_brief.md`
 
-Lane M:
-- Commercial Mutation Forge:
-  `handoffs/commercial_mutation_forge/CURRENT.md`
+# Active Execution Window
 
-Lane N:
-- Commercial Native Forge:
-  `handoffs/commercial_native_forge/CURRENT.md`
+Commercial Reservoir Forge:
+- `handoffs/commercial_reservoir_forge/CURRENT.md`
 
-Both are isolated.
-No cross-reading.
+Eight candidates are frozen.
+No Concept mutation / rescue.
 No prose.
 
 # Evidence Rule
