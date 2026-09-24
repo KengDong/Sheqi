@@ -3,7 +3,35 @@
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0082 Character Collision Stress Test
+- current_gate: D-0083 Minimal Horizon Stress Test
+
+
+## D-0083 CHARACTER CUT COMPLETE
+
+Formal review:
+> `reviews/2026-09-24_d0082_character_collision_total_editor_cut.md`
+
+Promoted:
+- R1 Future Holdings
+- R2 Second Autobiography
+- R3 Borrowed Tribulations
+- R7 Dead People Still Work
+- R8 Missing Day List
+
+Stopped:
+- R5 This City I Have Routes
+
+Active executor:
+> `handoffs/minimal_horizon_forge/CURRENT.md`
+
+Core test:
+> define exactly one Near, one Mid and one Far reader wait per candidate, without rebuilding Canopy.
+
+Next gate:
+> **Horizon Cut -> P1 prose candidate selection**
+
+No prose yet.
+No Primary.
 
 
 ## D-0082 RESERVOIR CUT COMPLETE
