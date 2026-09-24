@@ -1,118 +1,342 @@
-# D-0098｜Execution Board
+# D-0098A｜Execution Board
 
 updated: 2026-09-24
+authority:
+> `meta/HIT_FICTION_RND_MASTER_PIPELINE_V2.md`
 
-## ACTIVE NOW
+# 0. Rule
 
-### Benchmark Triplet
-1. Qidian Head-Tier Architecture Reader
-   - CURRENT: `handoffs/qidian_head_tier_architecture_reader/CURRENT.md`
-   - status: ACTIVE
+> **Do not let every useful idea become another parallel task.**
 
-2. Fanqie Head-Tier Architecture Reader
-   - CURRENT: `handoffs/fanqie_head_tier_architecture_reader/CURRENT.md`
-   - status: ACTIVE
+Current campaign has ONE critical path plus ONE evidence side lane.
 
-3. Cold-Start Conversion Scout
-   - CURRENT: `handoffs/cold_start_conversion_scout/CURRENT.md`
-   - status: ACTIVE
+---
 
-### Parallel Reader Evidence
-4. Batch B absolute readers H–O
-   - status: ACTIVE
+# 1. CRITICAL PATH｜Priority A/B
 
-5. Author Batch B personal read
-   - status: HUMAN / ASYNC OUTSIDE TOOL PIPELINE
+Targets:
+- Priority A: 《把一条副本规则带回现实》
+- Priority B: 《劫痕道途》
 
-## BLOCKED NEXT
+## Stage 1｜Benchmark Triplet｜ACTIVE NOW
 
-6. Head-Tier Standard Synthesizer
-   - CURRENT: `handoffs/head_tier_standard_synthesizer/CURRENT.md`
-   - waits for all 3 benchmark reports
-   - output: `meta/HEAD_TIER_COMMERCIAL_FICTION_OS_V2.md`
+Run exactly these 3 in parallel:
 
-7. Scar Hit-Scale Architect
-   - waits for integrated standard
-   - output: `architecture/2026-09-24_d0097_scar_head_tier_architecture.md`
+### T1 Qidian Long-Run
+CURRENT:
+> `handoffs/qidian_head_tier_architecture_reader/CURRENT.md`
 
-8. Rule-Reality Hit-Scale Architect
-   - waits for integrated standard
-   - output: `architecture/2026-09-24_d0097_rule_reality_head_tier_architecture.md`
+Output:
+> `research/reports/2026-09-24_d0097_qidian_head_tier_architecture_benchmark.md`
 
-9. Scar Scale Red Team
-   - waits for scar architecture
+Tests:
+- 100/300/700-ch scale;
+- multi-system world;
+- tangible compounding;
+- social-system expansion;
+- paid-value.
 
-10. Rule-Reality Scale Red Team
-   - waits for rule architecture
+### T2 Fanqie Long-Run / High-Concept
+CURRENT:
+> `handoffs/fanqie_head_tier_architecture_reader/CURRENT.md`
 
-11. Total Editor Architecture Merge
-   - waits for both red teams
-   - verdict per candidate: PASS / REVISION / ROOT SCALE FAILURE
+Output:
+> `research/reports/2026-09-24_d0097_fanqie_head_tier_architecture_benchmark.md`
 
-## AFTER ARCHITECTURE PASS
+Tests:
+- fast retention;
+- high-concept scaling;
+- mode rotation;
+- rule/infinite fatigue avoidance;
+- group/mystery/reward compounding.
 
-12. Candidate Voice Lab
-   - serious-commercial
-   - personality/chemistry-forward
-   - comedy/mania-forward only where natural
-   - same causal spine; limited first-screen/Ch1 prototypes
+### T3 Unknown-Author Cold Start
+CURRENT:
+> `handoffs/cold_start_conversion_scout/CURRENT.md`
 
-13. Clean-Room Cold-Start Read
-   - voluntary stop
-   - protagonist recall
-   - tonal recall
-   - next-click desire
+Output:
+> `research/reports/2026-09-24_d0097c_cold_start_conversion_benchmark.md`
 
-14. P3 Rewrite
-   - selected voice only
+Tests:
+- first 500/2k/5k/10k;
+- protagonist signature;
+- comedy/mania/personality;
+- relationship chemistry;
+- immediate fruit;
+- unknown-author conversion.
 
-15. Full Opening Arc
-   - with Book Contract + Climax Handoff
+Do NOT add candidate-specific work while these run.
 
-16. P7
-   - first major post-novelty retention gate
+---
 
-17. P20
-   - first real long-run execution gate
+## Stage 2｜Integrated Standard｜BLOCKED
 
-18. P50 / serialization simulation
-   - only if P20 behavior is strong
+Starts only when T1/T2/T3 all DONE.
 
-## CANDIDATE ORDER
+CURRENT:
+> `handoffs/head_tier_standard_synthesizer/CURRENT.md`
 
-### Priority A
+Output:
+> `meta/HEAD_TIER_COMMERCIAL_FICTION_OS_V2.md`
+
+Purpose:
+> merge all benchmark functions into ONE standard so candidate architects do not cherry-pick whichever benchmark flatters them.
+
+---
+
+## Stage 3｜Dual Architecture Forge｜BLOCKED
+
+Starts only after integrated standard exists.
+
+Run in parallel:
+
+### A. Rule-Reality Architect
+CURRENT:
+> `handoffs/rule_reality_hit_scale_architect/CURRENT.md`
+
+Must solve:
+- Dungeon × Reality equal engines;
+- entry/cadence;
+- other returners;
+- visible ladder;
+- Book Contract;
+- climax handoff;
+- Ch20/50/100/200/400/700;
+- no-new-rule stress test;
+- cold-start/voice opportunities.
+
+### B. Scar Architect
+CURRENT:
+> `handoffs/scar_hit_scale_architect/CURRENT.md`
+
+Must solve:
+- cultivation/medicine/work/money/industry as one system;
+- 周野 actual cultivation;
+- 阮青禾 independent career;
+- visible ladder;
+- Book Contract;
+- climax handoff;
+- Ch20/50/100/200/400/700;
+- no-new-scar stress test;
+- cold-start/relationship/comedy opportunities.
+
+NO PROSE.
+
+---
+
+## Stage 4｜Independent Red Team｜BLOCKED
+
+Each starts when its architecture is DONE.
+
+### Rule Red Team
+> `handoffs/rule_reality_hit_scale_redteam/CURRENT.md`
+
+Attack:
+- dungeon-of-week;
+- rule collection;
+- reality-as-montage;
+- fake scale;
+- cognitive overload.
+
+### Scar Red Team
+> `handoffs/scar_hit_scale_redteam/CURRENT.md`
+
+Attack:
+- scar-case-of-week;
+- investigation dominance;
+- fake industry;
+- hidden power growth;
+- 阮青禾 as accessory.
+
+Verdict:
+> PASS / REVISION REQUIRED / ROOT SCALE FAILURE.
+
+---
+
+## Stage 5｜Total Editor Merge｜BLOCKED
+
+Inputs:
+- 3 benchmark reports;
+- integrated standard;
+- 2 architectures;
+- 2 red-team reports.
+
+Output:
+- per-candidate PASS / targeted revision / stop;
+- no forced winner;
+- exact approved causal spine for voice experiments.
+
+---
+
+## Stage 6｜Voice Lab｜BLOCKED ON ARCHITECTURE PASS
+
+For EACH passing candidate, use same causal spine.
+
+Prototype lanes:
+1. natural strongest commercial voice;
+2. stronger personality/relationship voice;
+3. comedy/mania voice ONLY if naturally supported.
+
+Do not write 3 full openings.
+Use first screen / Ch1-size controlled prototypes.
+
+Fresh readers test:
+- immediate continuation;
+- protagonist recall;
+- tonal identity;
+- relationship pull;
+- memorable line/behavior;
+- no loss of stakes.
+
+---
+
+## Stage 7｜Selected-Voice P3
+
+Only winning voice per candidate continues.
+
+Test:
+- first-premise novelty survives 3 chapters;
+- protagonist becomes worth following;
+- first permanent fruit;
+- larger-world shadow;
+- no prose friction.
+
+---
+
+## Stage 8｜Full Opening Arc Rebuild
+
+Must end with:
+> payoff + tangible state + named next rung + larger social layer.
+
+Desire after payoff:
+> RISE.
+
+---
+
+## Stage 9｜P7
+
+Primary post-novelty gate.
+
+Must prove:
+- reader follows people, not only concept;
+- first old assets return;
+- book changes mode once;
+- world larger than Opening;
+- character chemistry persists.
+
+---
+
+## Stage 10｜P20
+
+Must prove:
+- architecture works in actual prose;
+- at least 3 growth channels visibly changed;
+- Opening's promised runway pays;
+- no first-arc repetition;
+- at least one old asset/relationship unexpectedly compounds.
+
+---
+
+## Stage 11｜P50 / Serialization Simulation
+
+Only if P20 behavior strong.
+
+Tests:
+- ordinary chapter retention;
+- update rhythm;
+- small/mid payoff supply;
+- returning cast;
+- Qidian paid-value / Fanqie consecutive-read value.
+
+---
+
+# 2. EVIDENCE SIDE LANE｜DOES NOT BLOCK A/B
+
+## Batch B Absolute Readers H–O
+Status:
+> ACTIVE / outputs not yet present.
+
+Purpose:
+> absolute behavioral survival only.
+
+## Author Batch B Read
+Status:
+> in progress.
+
+Current human evidence:
+- 《天道赊境》顾明川 = 90.
+
+When Batch B evidence is sufficient:
+> decide which candidates deserve entry into D-0098 pipeline.
+
+Do NOT interrupt Priority A/B critical path.
+
+---
+
+# 3. CANDIDATE QUEUE
+
+## Priority A
 《把一条副本规则带回现实》
+Human: 92.
 
-### Priority B
+## Priority B
 《劫痕道途》
+Human: 90.
 
-A/B run in parallel after integrated standard.
-No forced relative winner.
-
-### Priority C
+## Priority C
 《天道赊境》
-Wait for:
-- Batch B AI absolute read;
-- author personal read.
-Current author evidence: 顾明川 90.
+Human: 90.
+Wait for Batch B evidence before entering architecture campaign.
 
-### One-Chance Salvage
+## Salvage Queue
 《养一条会跟我走的灵脉》
-Do not rewrite before integrated standard exists.
-One root-preserved Opening rewrite only.
+Current Opening = commercial execution failure.
+One Root-preserved rewrite chance only.
+Do not execute before integrated standard.
 
-## HARD FREEZE
+## Hold / evidence pending
+Other Batch A/B candidates.
+No extra architecture work yet.
 
-Until architecture PASS for A/B:
-- no Ch5 continuation;
-- no 20-ch prose;
-- no title rebranding;
-- no full-character bibles;
-- no world encyclopedia;
-- no final Primary;
-- no "fix by adding more lore".
+---
 
-## CONTROL QUESTION
+# 4. CANCEL / SUPERSEDE
 
-At every handoff ask:
-> Are we increasing the reader's desire to continue, or merely increasing the design document?
+The following are historical, NOT active:
+- Batch A absolute readers A–G;
+- Batch B Opening Arc writers B1–B8;
+- D-0096 standalone architecture briefs as execution authority;
+- any old P1/P3/P7 route that bypasses D-0098 integrated standard.
+
+Their outputs remain evidence.
+
+---
+
+# 5. WIP LIMIT
+
+To avoid research sprawl:
+
+## Maximum simultaneous core tasks
+> **3 Benchmark tasks now.**
+
+After synthesis:
+> **2 Architecture tasks.**
+
+Then:
+> **2 Red Teams.**
+
+No other core commercial-research task opens until current stage closes.
+
+Side-lane readers do not count against WIP because they generate independent behavioral evidence.
+
+---
+
+# 6. Control Question
+
+Before creating any new task:
+> **Which existing Gate cannot answer this question?**
+
+If an existing Gate can answer it:
+> update that Gate; do NOT create a new lane.
+
+This is the anti-"user says one thing -> add one task" rule.
