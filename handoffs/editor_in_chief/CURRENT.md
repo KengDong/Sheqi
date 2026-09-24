@@ -1,3 +1,22 @@
+# D-0106 CURRENT TOP AUTHORITY
+
+Only active core development target:
+> 《把一条副本规则带回现实》
+
+Controller:
+> `handoffs/rule_reality_full_focus_successor/CURRENT.md`
+
+Next prose proof:
+> isolated Field #2《封门楼》 prototype via `handoffs/rule_field2_fengmenlou_writer/CURRENT.md`
+
+Execution OS:
+> `meta/RULE_REALITY_EXECUTION_OS_V1.md`
+
+Do not reopen macro architecture or Scar.
+No continuous manuscript.
+
+---
+
 
 
 ## D-0098A TASK GRAPH NORMALIZED
