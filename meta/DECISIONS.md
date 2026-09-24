@@ -4226,3 +4226,40 @@ Scar:
 > HOLD at architecture-PASS state; no new work until Rule-Reality campaign reaches next major gate.
 
 No Primary launch decision yet.
+
+
+## D-0105 Rule-Reality Field #2 Competitive Prototype
+**状态：READY FOR PROSE PROTOTYPE，2026-09-24**
+
+Full-focus chain completed:
+- D-0101 competitive battlefield
+- D-0102 comprehensive Head-Tier Framework V2
+- D-0103 head-tier red team + early pacing correction
+- D-0104 Rule Field engine / 12 motherboard supply stress
+- D-0105 three competing Field #2 architecture cards
+
+D-0105:
+> `experiments/rule_reality/2026-09-24_d0105_field2_three_way_cards.md`
+
+Current architecture pick:
+> CARD A《封门楼》 for first isolated prose prototype.
+
+Reasons:
+- physical/visual;
+- low rule cognition;
+- high survival pressure;
+- recurring-cast entry;
+- sharp difference from R1/name;
+- strong returned-rule reality consequences.
+
+Reserve:
+- 《夜班急诊》 = strongest character/emotional alternate;
+- 《一口价商场》 = strongest black-comedy/rival alternate, but higher over-design risk.
+
+Important:
+> architecture pick is not canon until behavioral prose evidence.
+
+Next most valuable evidence:
+> Field A first 3–5 chapters isolated prototype + clean-room voluntary read.
+
+No continuous manuscript yet.
