@@ -1,5 +1,24 @@
 
 
+## D-0090 P0 WRITERS DONE / FRESH READER ACTIVE
+
+Three P0 First Screens are complete.
+
+Editor hard-error QA:
+> PASS ALL THREE.
+
+QA:
+> `reviews/2026-09-24_d0090_p0_editor_qa.md`
+
+Active Reader:
+> `handoffs/p0_fresh_reader/CURRENT.md`
+
+The editor must not reveal mapping or coach the Reader before report commit.
+
+After Reader DONE:
+> reveal X/Y/Z -> P0 Cut -> decide which candidates deserve full P1.
+
+
 ## D-0090 PROTOTYPE READINESS GATE COMPLETE
 
 Formal review:
@@ -239,7 +258,7 @@ No Primary.
 ## ROLE
 - role: editor_in_chief / 总评审
 - status: ACTIVE
-- current_gate: D-0090 Three-Way Isolated P0 First Screen
+- current_gate: D-0090 Anonymous P0 Fresh Reader
 
 
 ## D-0084 HORIZON CUT COMPLETE
