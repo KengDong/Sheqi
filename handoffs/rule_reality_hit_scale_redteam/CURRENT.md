@@ -1,7 +1,7 @@
 # Rule-Reality Hit-Scale Red Team｜CURRENT
 
 role: rule_reality_hit_scale_redteam
-status: BLOCKED_ON_RULE_ARCHITECTURE
+status: DONE
 decision: D-0097
 
 Do not start until:
