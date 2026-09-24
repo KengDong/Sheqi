@@ -1,7 +1,7 @@
 # Qidian Head-Tier Architecture Reader｜CURRENT
 
 role: qidian_head_tier_architecture_reader
-status: ACTIVE
+status: DONE
 decision: D-0097
 
 First read:
