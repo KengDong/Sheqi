@@ -1,7 +1,7 @@
 # Cold-Start Conversion Scout｜CURRENT
 
 role: cold_start_conversion_scout
-status: ACTIVE
+status: DONE
 decision: D-0097C
 
 First read:
