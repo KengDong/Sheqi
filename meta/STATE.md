@@ -1,3 +1,38 @@
+# D-0083｜MINIMAL HORIZON STRESS TEST ACTIVE
+
+Character Cut complete:
+> 6 candidates -> 5 survivors.
+
+Review:
+> `reviews/2026-09-24_d0082_character_collision_total_editor_cut.md`
+
+Active:
+> **MINIMAL HORIZON STRESS TEST**
+
+Brief:
+> `research/briefs/2026-09-24_d0083_minimal_horizon_stress_test_brief.md`
+
+Executor:
+> `handoffs/minimal_horizon_forge/CURRENT.md`
+
+Survivors:
+- R1 Future Holdings
+- R2 Second Autobiography
+- R3 Borrowed Tribulations
+- R7 Dead People Still Work
+- R8 Missing Day List
+
+Stopped:
+- R5 This City I Have Routes
+
+Rule:
+> only Near / Mid / Far; do not rebuild architecture.
+
+Next:
+> Horizon Cut -> P1 prose candidates.
+
+---
+
 # D-0082｜CHARACTER COLLISION STRESS TEST ACTIVE
 
 Reservoir Cut complete:
