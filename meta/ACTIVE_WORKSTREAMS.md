@@ -646,7 +646,7 @@
   - no Primary
 
 ## p1_isolated_prototype
-- status: ACTIVE / D-0084
+- status: PAUSED / D-0084A COMMERCIAL RECALIBRATION
 - shared_brief: `research/briefs/2026-09-24_d0084_p1_isolated_prototype_brief.md`
 - writers:
   - R1: `handoffs/p1_r1_writer/CURRENT.md`
@@ -659,5 +659,22 @@
 - hard:
   - no Ch2
   - no cross-candidate reading
+  - no Primary
+  - no Canon/Outline
+
+## commercial_market_scout
+- status: ACTIVE / D-0084A
+- role: commercial_market_scout
+- current: `handoffs/commercial_market_scout/CURRENT.md`
+- authority: `meta/COMMERCIAL_HIT_FIRST_PRINCIPLES_V1.md`
+- brief: `research/briefs/2026-09-24_d0084a_qidian_fanqie_commercial_hit_market_recalibration_brief.md`
+- outputs:
+  - Qidian/Fanqie commercial hit recalibration
+  - commercial mother-market matrix
+  - R-candidate commercial market-fit audit
+- deliver_to: editor_in_chief / Commercial Gate
+- hard:
+  - no prose
+  - no Concept mutation
   - no Primary
   - no Canon/Outline
