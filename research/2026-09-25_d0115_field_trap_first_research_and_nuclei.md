@@ -1,5 +1,5 @@
 ---
-status: AUTHOR REVIEW / NON-CANON
+status: REJECTED AS TASTE MATCH / RESEARCH RETAINED
 date: 2026-09-25
 decision: D-0115
 candidate: 《把一条副本规则带回现实》
@@ -7,6 +7,11 @@ scope: Field design reset — trap-first, participant-driven
 ---
 
 # D-0115｜Field Design Reset
+
+> Author rejected the proposed nuclei as still mismatched in taste.
+>
+> Keep the benchmark observations only.
+> Do NOT expand Nucleus A/B/C into prose or Arc Cards.
 ## 从“环境堆叠”改成“陷境吞解法”
 
 # 0. Author Rejection
