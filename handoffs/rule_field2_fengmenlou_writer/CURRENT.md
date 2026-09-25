@@ -1,7 +1,7 @@
 # 《封门楼》Field #2 Prototype Writer｜CURRENT
 
 role: rule_field2_fengmenlou_writer
-status: DONE / STOP
+status: DONE / STOP / AUTHOR CONTINUITY PATCH APPLIED
 decision: D-0109
 candidate: 《把一条副本规则带回现实》
 prototype: Field #2 / Card A《封门楼》 internal codename only
@@ -70,3 +70,33 @@ This Writer MUST NOT:
 - redesign macro architecture.
 
 Task complete.
+
+
+# Author Continuity Patch｜2026-09-25
+
+Author identified a low-level continuity failure:
+> R1 Ch4 -> Field #2 opening jumped directly to Qingheli construction site without showing the already-locked next-entry countdown / destination bridge.
+
+Source prose was patched:
+- R1 Opening Arc Ch4 ending now shows:
+  - visible-only countdown;
+  - Qingheli Phase 1 / Building 2 destination;
+  - reality check that Building 2 is only at 9 floors;
+- Field #2 opening now shows:
+  - daylight site check;
+  - family night-name protocol active;
+  - ordinary preparation bag;
+  - countdown reaching zero at 19:47;
+  - unfinished site transforming only after zero.
+
+Also preserved:
+- name tracking requires identity binding;
+- no new macro entry mechanic;
+- no reality aftermath extension;
+- no Field solution extension.
+
+Ownership:
+> prose integration patch belongs to rule_field2_fengmenlou_writer.
+
+Next controller action:
+> rule_reality_full_focus_successor must re-run hard continuity QA and regenerate the anonymous reader package before any voluntary reader continues.
