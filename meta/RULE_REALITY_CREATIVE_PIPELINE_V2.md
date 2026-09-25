@@ -1,5 +1,5 @@
 ---
-status: ACTIVE PROCESS
+status: REFERENCE / CANDIDATE-SPECIFIC / SUPERSEDED BY REBOOT-V3
 version: 2.0
 date: 2026-09-25
 candidate: 《把一条副本规则带回现实》
@@ -7,6 +7,12 @@ scope: substantive creative changes
 ---
 
 # RULE-REALITY CREATIVE PIPELINE V2
+
+> **SUPERSEDED AS CURRENT PROCESS BY REBOOT-V3.**
+>
+> Keep as candidate-specific historical process evidence only.
+> Current universal pipeline:
+> `meta/HIT_FICTION_RND_MASTER_PIPELINE_V3.md`.
 ## 禁止“AI先想完，再让Reader验尸”
 
 # Gate 0｜Problem Freeze
