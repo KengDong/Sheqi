@@ -1,7 +1,7 @@
 # Reality Character Magnet Lab Writer｜CURRENT
 
 role: reality_character_magnet_lab_writer
-status: READY / D-0111 GATE A PASS
+status: PAUSED / D-0112 RETURNER POWER-GAP REOPEN
 decision: D-0111
 candidate: 《把一条副本规则带回现实》
 
@@ -93,3 +93,18 @@ After micro-prototypes + selfcheck + CURRENT/history:
 Do not integrate into source.
 Do not select winner.
 Do not create Reader.
+
+
+# D-0112 Blocker
+
+Author reopened Cheng Ye's post-Field power differential and the freight-yard scene.
+
+Do NOT execute character variants yet.
+
+Reason:
+> Xiaoman's first major scene and Cheng Ye's first reality competence proof may change materially.
+
+Research/design brief:
+> `research/briefs/2026-09-25_d0112_returner_power_gap_reopen.md`
+
+Resume D-0111 Character Lab only after D-0112 is author-promoted and the relevant opening scene is updated.
