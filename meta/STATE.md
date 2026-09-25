@@ -12,48 +12,52 @@ Active novel candidate:
 Primary objective:
 > unknown-author breakout + sustained long-run income.
 
+Creation model:
+> first serious long-form author + heavy AI assistance + human taste gate + behavioral readers.
+
+# Completed Gate
+
+> **2024–2026 NEWCOMER MARKET DOSSIER — PASS**
+
+Dossier:
+> `research/2026-09-25_b_lane_newcomer_breakout_dossier.md`
+
+Editor synthesis:
+> `reviews/2026-09-25_market_dossier_editor_synthesis.md`
+
+AI suitability:
+> `research/2026-09-25_newcomer_ai_assisted_webfiction_suitability.md`
+
 # Current Gate
 
-> **MARKET DOSSIER BEFORE FICTION DESIGN**
+> **DUAL-LANE CONCEPT FORGE**
 
-Brief:
-> `research/briefs/2026-09-25_b_lane_newcomer_breakout_dossier_brief.md`
+Lane A:
+> `handoffs/commercial_native_forge/CURRENT.md`
 
-# Current Process
+Lane B:
+> `handoffs/commercial_mutation_forge/CURRENT.md`
 
-Authority:
-- `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md` v2.0
-- `meta/HIT_FICTION_RND_MASTER_PIPELINE_V3.md`
-- `meta/EXPERIMENT_LANES_V2.md`
-- `meta/READER_EVIDENCE_HIERARCHY.md`
+Both may run in parallel.
 
-Audit:
-> `reviews/2026-09-25_full_reboot_git_audit.md`
+# After Forge
 
-# Legacy Status
+1. editor internal Desire Cut;
+2. retain ~4–6;
+3. packaging test;
+4. Story Reservoir + light production check;
+5. character collision;
+6. minimal horizon;
+7. P0 only for survivors.
 
-All previous prose/designs:
-> CONTROL / ASSET / EVIDENCE ONLY.
+# Hard
 
-No sunk-cost privilege.
-
-# Next
-
-1. Complete current-market newcomer breakout dossier.
-2. Synthesize commercial constraints.
-3. Launch Lane A + Lane B concept forge.
-4. Show author only internally surviving candidates.
-5. Proceed via short behavioral gates.
-
-# Do Not
-
-- no old candidate continuation;
-- no Field redesign;
-- no prose patching;
+- no prose yet;
+- no old-candidate patching;
+- no Primary;
 - no long architecture;
-- no clean reader spending;
-- no Canon promotion.
+- author should not review raw 20–30 nuclei.
 
 # One Sentence
 
-> **Reboot from market and behavior, not from old manuscripts.**
+> **市场Gate已过；现在让A/B两派各自产出商业核，再内部淘汰，AI负责扩大搜索空间，作者不再负责逐项修垃圾。**
