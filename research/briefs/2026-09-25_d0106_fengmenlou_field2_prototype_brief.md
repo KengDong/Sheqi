@@ -269,3 +269,18 @@ Then:
 
 Do NOT judge the book.
 Do NOT continue to reality aftermath.
+
+
+# Reader-Facing Naming Guardrail
+
+《封门楼》 is an internal prototype codename, not an automatic in-story name.
+
+In prose:
+- use a believable ordinary residential project/building name;
+- characters should normally say “这栋楼”“小区”“工地”“副本” when context allows;
+- nicknames should emerge naturally from people after events, not from author taxonomy;
+- internal labels such as Rule Field, Returned Rule, Second Reality, Future-Wanter and Anchor Echo stay backstage until the story organically earns a Chinese term;
+- avoid neat four-character phenomenon names appearing too early.
+
+For this prototype:
+> keep 《封门楼》 in filenames and internal notes only unless the story later gives characters a natural reason to use that nickname.
