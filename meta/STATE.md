@@ -18,6 +18,8 @@ Primary:
 - Shelf Cut: DONE
 - Story Reservoir: PASS
 - Reservoir Editor Verdict: COMPLETE
+- Character Engine Benchmark: PASS
+- Character Engine Editor Synthesis: COMPLETE
 
 # Current Portfolio
 
@@ -34,24 +36,24 @@ RESERVE:
 No Primary.
 
 # Current Gate
-> **CHARACTER ENGINE BENCHMARK**
+> **CHARACTER COLLISION**
 
 Next:
-> `handoffs/character_engine_benchmark_scout/CURRENT.md`
-
-# After
-Character Benchmark -> editor synthesis -> Character Collision -> Character Cut -> Minimal Horizon.
+> `handoffs/character_collision_forge/CURRENT.md`
 
 # Selection Rule
 > early high recall / later high precision.
 
 No forced cut.
 
+# After
+Character Collision -> editor Character Cut -> Minimal Horizon -> P0.
+
 # Hard
-- no character creation before benchmark;
-- no prose;
+- no prose yet;
 - no final winner;
-- no long architecture.
+- no long architecture;
+- no Reserve resurrection without trigger.
 
 # One Sentence
-> **4个发动机都能写长；下一步不猜人物，而是先研究热门作品的人物如何在“没新任务”时照样制造追读。**
+> **发动机和人物Benchmark都过关；现在验证四本的人物是否能在没有新任务时自己生戏。**
