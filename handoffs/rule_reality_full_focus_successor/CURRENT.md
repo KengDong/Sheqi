@@ -271,3 +271,50 @@ Current state remains:
 > RE-QA REQUIRED / READER BLOCKED
 
 Do not revive the stale anonymous package.
+
+
+# D-0111 Reality Character Magnet Gate｜2026-09-25
+
+New author direction:
+> Fang Cen and Cheng Xiaoman should become stronger reality-world attractions before final Ch1—8 reader evidence.
+
+Authority brief:
+> `research/briefs/2026-09-25_d0111_reality_character_magnet_lab_brief.md`
+
+Current order is LOCKED:
+
+## Gate A｜NEXT
+Re-run hard continuity / logic check on CURRENT Ch1—8 only.
+
+Scope:
+- R1 identity binding;
+- same-name test;
+- listener propagation;
+- Ch4→Ch5 countdown bridge;
+- chapter continuity;
+- no character-style verdict.
+
+If PASS:
+> unblock `handoffs/reality_character_magnet_lab_writer/CURRENT.md`.
+
+## Gate B
+Character micro-prototypes:
+- Fang Cen A/B/C;
+- Xiaoman A/B/C.
+
+## Gate C
+Two clean-room character-preference readers.
+
+## Gate D
+Controller synthesis and one character-layer integration pass.
+
+## Gate E
+Fresh hard QA + regenerate Ch1—8 anonymous package.
+
+## Gate F
+Main voluntary Ch1—8 reader.
+
+Reason:
+> do not spend the clean reader on a character version we already intend to alter.
+
+Current main reader remains BLOCKED.
