@@ -2,34 +2,49 @@
 
 ## ROLE
 - role: commercial_mutation_forge
-- status: READY
+- status: DONE
 - decision: REBOOT-V3
 - lane: B｜Commercial Mirror
 
-## CURRENT TASK
-Execute:
+## COMPLETED TASK
+Executed:
 > `research/briefs/2026-09-25_reboot_v3_lane_b_commercial_mirror_forge_brief.md`
 
-## GOAL
-Generate:
-> 10–15 original commercial nuclei by mirroring proven hit-level reader/commercial functions without copying proprietary expression.
+## BENCHMARK LOCK
+Primary:
+> 《大一实习，你跑去749收容怪物》
 
-## REQUIRED READS
-1. `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
-2. `research/2026-09-25_b_lane_newcomer_breakout_dossier.md`
-3. `reviews/2026-09-25_market_dossier_editor_synthesis.md`
-4. `research/2026-09-25_newcomer_ai_assisted_webfiction_suitability.md`
-5. current brief.
+Support:
+> 《国术：每日结算，从黄包车夫开始》
+> 《从斩妖除魔开始长生不死》
 
-## HARD
-- no names-changed rewriting of hit novels;
-- no same first-3-scene sequence;
-- no living-author voice imitation;
-- no prose;
-- no final winner;
-- no existing Sheqi preservation privilege.
+Mirroring is function-level only.
+Proprietary characters, settings, powers, scenes, event sequences, dialogue and living-author voice remain forbidden.
 
 ## OUTPUT
 > `experiments/reboot_v3/lane_b_commercial_mirror_nuclei.md`
 
-Then selfcheck / CURRENT / history / STOP.
+Produced:
+> 12 original commercial nuclei.
+
+## SELFCHECK
+> `reviews/2026-09-25_reboot_v3_lane_b_commercial_mirror_selfcheck.md`
+
+Result:
+> PASS
+
+## BOUNDARY
+- no prose;
+- no chapter outline;
+- no final winner;
+- no ranking;
+- no Canon / Outline change;
+- no existing Sheqi preservation privilege;
+- no names-changed rewrite;
+- no one-to-one first-three-scene mapping.
+
+## NEXT
+> editor_in_chief / Desire Cut under the same later gates as Lane A.
+
+## STOP
+This window is complete. Do not continue concept selection or prose here.
