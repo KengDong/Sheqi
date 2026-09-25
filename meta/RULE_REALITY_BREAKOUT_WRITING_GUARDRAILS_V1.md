@@ -7,6 +7,17 @@ scope: anti-bland / breakout execution
 
 # RULE-REALITY BREAKOUT WRITING GUARDRAILS V1
 
+# 0. Mandatory Benchmark-First Gate
+
+Before ANY substantive creative change in this project:
+> read and execute `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md` Section 2.
+
+Hard:
+> **search and break down directly comparable popular/head-tier fiction BEFORE designing the Sheqi change.**
+
+Do not use this file as permission to skip benchmark research.
+
+
 Purpose:
 > prevent future writers/controllers from protecting the framework so aggressively that the prose loses pleasure, danger, character contrast and breakout energy.
 
