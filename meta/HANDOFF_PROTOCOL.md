@@ -1,6 +1,6 @@
 ---
 status: approved-process
-version: 1.1
+version: 1.2
 created_at: 2026-09-21
 authority: author-approved-process
 canon_effect: none
@@ -92,6 +92,49 @@ handoffs/
 不要先把整个仓库从头扫一遍。
 
 ---
+
+# 2A. Benchmark-First Creative Change Gate｜创意窗口强制前置
+
+凡窗口任务涉及任何**实质性小说创意改动**，例如：
+- 改剧情；
+- 改人物；
+- 改副本；
+- 改开篇；
+- 改爽点；
+- 改恐怖；
+- 改伏笔；
+- 改关系；
+- 改世界观；
+- 改节奏；
+- 改成长/奖励；
+- 改长线主线；
+
+则该窗口在执行前必须确认：
+
+1. 已读取：
+   > `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md` 的 Benchmark-First Creative Change Gate；
+2. CURRENT / brief 已指向一份**本轮直接相关的热门/头部作品Benchmark研究**；
+3. Benchmark研究发生在方案设计之前，而不是事后背书；
+4. 研究中已经明确：
+   - 成品怎么做；
+   - Reader为什么买账；
+   - 哪些功能可借；
+   - 哪些外壳不可抄；
+   - Sheqi自身约束；
+5. 若是重大改动，存在独立research artifact。
+
+若以上条件不满足：
+
+> **窗口不得自行闭门原创重大方案。**
+
+只能：
+- 报告Benchmark Gate未完成；
+- 做机械修复；
+- 做已批准方案执行；
+- 做连续性QA。
+
+Clean-room Reader例外：
+> Reader不需要提前看Benchmark，以免污染。
 
 # 3. 正式盲读的 Clean-room 例外
 
