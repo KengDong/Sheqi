@@ -1,139 +1,290 @@
 # 程野｜Character File
 
-status: PROVISIONAL LOCK
+status: PROVISIONAL HIGH-PRIORITY LOCK
 date: 2026-09-25
 candidate: 《把一条副本规则带回现实》
 role: protagonist
-canon_effect: personality-direction provisional; age locked
+age: 27
+canon_effect: personality direction author-approved; exact prose expression still to be tested
 
-# Reader Contract
+# One-Line Reader Contract
 
-> **他不保证自己判断正确，但他会让错误变得没那么致命。**
+> **对敌人，他冷得像已经看过你怎么死；对自己人，他是那个最让人放心、也最会把紧张气氛搞松的人。**
 
-Reader target:
-> 程野不一定永远猜对，但有他在，不容易因为猜错一次就一起死。
+This duality is not decoration.
+It is the primary surface-character engine.
 
-# Core Engine
+# Core Appeal
 
-## 1. 容错型战略
-程野最强的不是“猜中答案”，而是：
-- 先看已经发生的结果；
-- 用低成本试错代替豪赌；
-- 在下注前准备 fallback；
-- 不把所有人押在同一个推断上。
+程野不能再写成：
+> “稳、负责、留后手的项目经理。”
 
-Stable behavior:
-> **Fallback Before Bet.**
+He needs TWO deliberately different social modes.
 
-## 2. 代价必须有名字
-他极度反感：
-> “总得有人牺牲。”
-> “应该没事。”
-> “差不多可以。”
+---
 
-他会追问：
-- 谁承担？
-- 哪一户？
-- 谁告诉他们？
-- 谁来负责最坏结果？
+# Mode A｜敌对 / 威胁模式
+## 冷酷、谨慎、果断、不浪费情绪
 
-Representative function:
-> “哪两户？说门牌。”
+Trigger:
+- confirmed hostile intent;
+- someone knowingly weaponizes a Returned Rule;
+- someone threatens family / teammates / civilians after being warned;
+- repeated predatory behavior.
 
-## 3. 风险自主权｜真正的人格矛盾
-他相信：
-> 不应该替别人偷偷签下风险。
+Behavior:
+- does not posture;
+- does not rant;
+- does not teach enemies moral lessons;
+- verifies threat first;
+- once threat is confirmed, acts decisively;
+- prefers removing the opponent's options rather than winning an argument;
+- does not give a second opening merely to appear merciful;
+- assumes hostile people will exploit any loophole he leaves;
+- always prepares for retaliation, hidden accomplices, evidence destruction, and rule counter-use.
 
-但他的缺陷是：
-> **他能接受自己的判断可能错，却很难接受别人主动选择风险。**
+Reader feeling:
+> **“他不是脾气大，他是真的会把敌人当危险源处理。”**
 
-因此他会在“保护别人”的名义下不自觉替别人做决定。
+Important:
+> cold ≠ reckless.
+> ruthless ≠ stupid violence.
 
-Long-term growth:
-> 从“我要把所有人的风险控制住”
-> 到“我的责任是让你真正知道风险，然后尊重你自己的选择”。
+He should be MOST cautious when he intends to be ruthless.
 
-这与全书终极问题同构：
-> 谁有资格替所有人选择一条永久规则？
-
-# Surface Personality
-
-Recommended blend:
-- 温和、低攻击性；
-- 平时并不争强；
-- 危机越大，话越少；
-- 少量干冷，不做段子手；
-- 对含糊措辞天然过敏；
-- 能快速认错，不把认错当失面子。
-
-Humor source ONLY:
-> 对风险、责任和模糊表达的职业性厌恶。
+Typical rhythm:
+1. confirm;
+2. isolate;
+3. cut exits / leverage / rule access;
+4. act;
+5. verify the threat cannot immediately return.
 
 Avoid:
-- omniscient mastermind;
-- every scene has a clever quote;
-- everyone else becomes dumb;
-- permanent cold face;
-- “一切都在我计划中” reveal.
+- sadistic torture;
+- macho yelling;
+- killing for coolness;
+- omniscient perfect traps;
+- moral speeches after victory.
 
-# Public vs Private Contrast
+---
 
-## Crisis Mode
-- 迅速切分任务；
-- 建立 fallback；
-- 让混乱变成可执行计划；
-- 给周围人稳定感。
+# Mode B｜家人 / 队友模式
+## 幽默、可靠、暖、轻松、会照顾人
 
-## Home Mode
-- 不擅长处理纯情绪；
-- 会下意识用“解决问题”代替回应情感；
-- 面对妹妹一句“你又要走？”可能比面对规则更难回答。
+With his own people, Cheng Ye should feel like a different man.
 
-This contrast is important for human texture.
+Behavior:
+- jokes to lower pressure, not to show off wit;
+- remembers small preferences and practical needs;
+- takes on annoying chores without announcing sacrifice;
+- lets teammates tease him;
+- can be the butt of the joke;
+- reassures through action;
+- checks food / sleep / injuries / transport / equipment;
+- does not turn every family scene into risk management;
+- can be childish or mildly shameless with Xiaoman;
+- can banter with trusted teammates after danger passes.
+
+Reader feeling:
+> **“跟着他很危险，但跟他待在一起不累。”**
+
+Warmth should be concrete:
+- brings the thing someone casually mentioned;
+- quietly replaces an exhausted teammate;
+- keeps a stupid family promise even after a brutal Field;
+- uses one joke to tell Xiaoman “我还在” without saying a speech.
+
+Avoid:
+- generic warm-boy dialogue;
+- endless comforting speeches;
+- paternalistic overprotection;
+- making every joke a polished one-liner.
+
+---
+
+# Mode Switch｜Most Important Character Pleasure
+
+The appeal comes from the SWITCH.
+
+Example structure:
+- one minute he is joking with Xiaoman over food;
+- an enemy crosses a hard line;
+- his tone changes;
+- no shouting;
+- the room immediately feels colder.
+
+Or:
+- inside a Field he has just made a brutal call;
+- five minutes later he is checking whether a teammate's shoelace is torn and making a stupid joke.
+
+Reader target:
+> **“还好我是他这边的。”**
+
+This should become one of the book's strongest recurring emotional rewards.
+
+---
+
+# Intelligence / Rule Experience
+
+Cheng Ye's superiority must NOT mainly come from combat.
+
+Primary intellectual advantage:
+> **Rule Experience Gap.**
+
+Reality encounters a Returned Rule for the first time.
+Cheng Ye has already survived a mature version of that rule ecology inside a Field.
+
+Therefore he can:
+- anticipate obvious exploit paths;
+- prepare strange but cheap countermeasures;
+- recognize what information is actually dangerous;
+- use ordinary reality tools in ways newcomers would not think of;
+- design low-cost tests;
+- build multiple failure paths;
+- know which “clever idea” already killed people in the Field.
+
+Reader pleasure:
+> reality is on version 0.1;
+> Cheng Ye has already lived through version 18.0.
+
+This is the preferred early “dimensional advantage.”
+
+---
+
+# Strategic Core
+
+## 1. Fallback Before Bet
+He does not need to be right.
+He tries to make being wrong survivable.
+
+## 2. Cheap Test Before Expensive Commitment
+If a rule boundary can be tested with one object / one person / one reversible action,
+he does not bet the group.
+
+## 3. Enemy Learns Too
+He never assumes the world will stay stupid.
+
+A major recurring pressure:
+> Cheng Ye starts with experience lead;
+> criminals, institutions, rivals and society rapidly learn.
+
+His advantage is a lead, not permanent omniscience.
+
+## 4. Cost Must Have a Name
+He dislikes anonymous sacrifice.
+
+But this is NOT his whole personality.
+It is a decision principle, not his surface voice.
+
+---
+
+# Flaws
+
+## Flaw 1｜Too Ruthless Once He Classifies Someone as a Real Threat
+Because Field hesitation kills people, Cheng Ye can overcorrect:
+> once he decides someone is dangerous, he may stop giving them room to change.
+
+This can create:
+- wrongful escalation;
+- conflict with Fang Cen;
+- guilt when his classification was incomplete;
+- long-term enemy cycles.
+
+## Flaw 2｜Humor as Concealment
+With family/team he often makes things lighter.
+
+The downside:
+> people may not realize how bad he is doing.
+
+He can hide:
+- fear;
+- exhaustion;
+- injury;
+- guilt;
+behind practical jokes or normal routines.
+
+## Flaw 3｜Protective Bias
+He respects informed choice in principle,
+but with family he may still try to quietly reduce their choices “for safety.”
+
+Xiaoman should directly challenge this.
+
+---
 
 # Relationship Geometry
 
-## 方岑
-程野：
-> 先说眼前具体的人承担什么。
-
-方岑：
-> 这东西如果让十万人使用，会发生什么。
-
-Conflict:
-> concrete-person responsibility vs public-scale responsibility.
-
 ## 程小满
-程野容易保护过度。
-小满需要逼他学会：
-> 家人也有权自己承担风险。
+Desired texture:
+> 兄妹很熟，能互损，能抢东西，能开很无聊的玩笑。
+
+He is NOT solemn around her by default.
+
+Important contrast:
+- outside threat: Cheng Ye can become terrifyingly cold;
+- back home: Xiaoman can still make him wash dishes or steal food from his bowl.
+
+This humanizes power.
+
+## 方岑
+Fang Cen should see both versions:
+- the unusually cold threat-handler;
+- the unexpectedly relaxed / funny man around his people.
+
+Their friction:
+> public procedure vs Cheng Ye's willingness to permanently remove a threat's options.
+
+No romance decision yet.
 
 ## 唐霁
-程野：
-> 先建立可撤回方案。
+Best chemistry:
+- in crisis: clash hard;
+- after crisis: banter easy.
 
-唐霁：
-> 人现在就要死，先动。
+She should be able to call out when Cheng Ye becomes too controlling or too ruthless.
 
-Both must sometimes be right.
+---
 
 # Age
 
-Author-locked age:
 > **27岁。**
 
-Reason:
-- gives enough adult work/life credibility for his calm operational style;
-- still young enough for long-form growth;
-- creates an 8-year elder-brother gap with 19-year-old Xiaoman;
-- does not require making Xiaoman a minor.
+Locked.
 
-Age is now author-locked. Future source integration should use 27 where an exact age is needed.
+Xiaoman:
+> **19岁。**
 
-# Hard
+Sibling gap:
+> **8 years.**
 
-- no chosen-one temperament;
-- no god-mode deductions;
-- no “responsibility” as pure virtue badge;
-- his competence must create conflict;
-- his flaw must cause real cost.
+---
+
+# Writing Test
+
+A Cheng Ye scene FAILS if after reading it the reader can only say:
+> “他很聪明、很稳、很负责。”
+
+A strong scene should let the reader feel at least one of:
+
+> “这人对敌人真狠。”
+>
+> “还好我是他队友。”
+>
+> “他居然挺好笑。”
+>
+> “这种局面交给他我放心。”
+>
+> “他已经见过这条规则最坏会变成什么样。”
+>
+> “他这次会不会把人判得太死？”
+
+# Hard Reject
+
+- generic calm male lead;
+- permanent cold face;
+- permanent warm nice-guy;
+- constant dry one-liners;
+- omniscient mastermind;
+- brute-force returner;
+- moral lecturer;
+- family scenes that are only exposition;
+- team scenes where everyone only admires him.
