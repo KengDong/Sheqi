@@ -2,43 +2,35 @@
 
 ## ROLE
 - role: commercial_native_forge
-- status: BLOCKED
+- status: READY
 - decision: REBOOT-V3
 - lane: A｜Native Breakout
 
-## PURPOSE
-After current-market evidence is frozen, generate:
-> **10–15 commercially viable original nuclei based on mature market chassis × distinctive original Premium.**
+## CURRENT TASK
+Execute:
+> `research/briefs/2026-09-25_reboot_v3_lane_a_native_forge_brief.md`
 
-This is NOT active yet.
+## GOAL
+Generate:
+> 10–15 original commercial nuclei for an unknown first-time serious long-form author using AI heavily.
 
-## BLOCKED BY
-1. `research/2026-09-25_b_lane_newcomer_breakout_dossier.md`
-2. editor_in_chief market synthesis / commercial constraints
-3. fresh REBOOT-V3 Lane A brief
-
-## CURRENT AUTHORITY
+## REQUIRED READS
 1. `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
-2. `meta/HIT_FICTION_RND_MASTER_PIPELINE_V3.md`
-3. `meta/EXPERIMENT_LANES_V2.md`
-4. `meta/BENCHMARK_CAUSALITY_STANDARD.md`
+2. `research/2026-09-25_b_lane_newcomer_breakout_dossier.md`
+3. `reviews/2026-09-25_market_dossier_editor_synthesis.md`
+4. `research/2026-09-25_newcomer_ai_assisted_webfiction_suitability.md`
+5. current brief.
 
-## DO NOT CONTINUE
-- do not reuse old D-0085 candidates as default seeds;
-- do not preserve Rule-Reality / Cheng Ye / C01 / C12;
-- do not generate concepts before market synthesis;
-- do not write prose;
-- do not create long architecture.
+## HARD
+- no old candidate privilege;
+- no prose;
+- no ranking winner;
+- no full outline;
+- no world bible;
+- no comedy default;
+- no Rule-Reality default.
 
-## NEXT EXPECTED ACTION
-Wait for editor_in_chief to:
-1. validate market dossier;
-2. issue Lane A REBOOT-V3 brief;
-3. change status to READY.
+## OUTPUT
+> `experiments/reboot_v3/lane_a_native_nuclei.md`
 
-## CONTEXT SNAPSHOT
-- old D-0085 task is historical only;
-- no active novel candidate;
-- market evidence first;
-- author should see only internal survivors;
-- Lane A competes against Lane B under identical later gates.
+Then selfcheck / CURRENT / history / STOP.
