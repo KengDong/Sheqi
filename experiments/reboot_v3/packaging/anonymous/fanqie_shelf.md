@@ -1,13 +1,13 @@
 ---
-status: READY_FOR_CLEAN_ROOM_AFTER_EDITOR_RELEASE
+status: REAL_TITLE_HUMAN_CONTROL_SHELF
 date: 2026-09-25
 stage: Packaging Micro-Gate / MICROFIX
 platform: Fanqie
-visibility: ANONYMOUS_MIXED_SHELF
+visibility: REAL_TITLE_HUMAN_ECOLOGICAL_SHELF_NOT_FOR_AI_CAUSAL_TEST
 items: 11
 ---
 
-# 番茄匿名混排书架｜只看书名 + 一句话 + 简介
+# 番茄真实书名混排书架｜真人生态测试专用｜NOT FOR AI CLEAN-ROOM
 
 把下面所有书都当成你第一次在推荐页刷到。
 不提供作者名、项目来源、榜单成绩、内部评价或正文。
