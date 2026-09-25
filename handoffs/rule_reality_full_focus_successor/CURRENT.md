@@ -1,8 +1,8 @@
 # Rule-Reality Full-Focus Successor｜CURRENT
 
 role: rule_reality_full_focus_successor
-status: ACTIVE / FIELD2_WRITER_READY
-decision: D-0106
+status: ACTIVE / D0107_INTEGRATED / FIELD2_WRITER_READY
+decision: D-0107
 candidate: 《把一条副本规则带回现实》
 
 # Author Direction
@@ -13,12 +13,13 @@ candidate: 《把一条副本规则带回现实》
 # First Read｜ONLY these authoritative files first
 
 1. `meta/CURRENT_AUTHORITY.md`
-2. `reviews/2026-09-25_d0106_rule_reality_execution_gap_audit.md`
-3. `meta/RULE_REALITY_EXECUTION_OS_V1.md`
-4. `architecture/2026-09-24_d0102_rule_reality_head_tier_framework_v2.md`
-5. `architecture/2026-09-24_d0104_rule_field_engine_and_supply_reservoir.md`
-6. `experiments/rule_reality/2026-09-24_d0105_field2_three_way_cards.md`
-7. `reviews/2026-09-24_d0101_rule_comprehensive_framework_gate.md`
+2. `architecture/2026-09-25_d0107_rule_reality_unknown_author_breakout_compression.md`
+3. `reviews/2026-09-25_d0106_rule_reality_execution_gap_audit.md`
+4. `meta/RULE_REALITY_EXECUTION_OS_V1.md`
+5. `architecture/2026-09-24_d0102_rule_reality_head_tier_framework_v2.md`
+6. `architecture/2026-09-24_d0104_rule_field_engine_and_supply_reservoir.md`
+7. `experiments/rule_reality/2026-09-24_d0105_field2_three_way_cards.md`
+8. `reviews/2026-09-24_d0101_rule_comprehensive_framework_gate.md`
 
 Do NOT begin by re-researching the whole market.
 Do NOT reopen Scar.
@@ -45,6 +46,36 @@ Architecture pick is NOT canon.
 # Current Biggest Unknown
 
 > Can an actual second Rule Field be as readable as top infinite/survival fiction, while creating a magnetic recurring person and preserving our unique reality-return engine?
+
+# D-0107 Unknown-Author Breakout Compression｜2026-09-25
+
+Author approved a more aggressive unknown-author standard before prose.
+
+Completed:
+- no macro-engine expansion;
+- Book Contract compressed around:
+  > “赢一次，现实输一点。”
+  > “想活着回家，就得让家坏一点。”
+- Field-Reality Anchor Echo introduced;
+- 《封门楼》 now binds to a present unfinished construction project / future completed tower;
+- Cheng Ye sharpened:
+  > not generic smartest solver;
+  > refuses anonymous sacrifice and forces costs onto names/door numbers/decision owners;
+- first recurring co-lead conflict geometry sharpened:
+  > responsibility-before-sacrifice vs act-before-certainty;
+- unknown-author early pacing revised:
+  > Field #2 default entry target = Ch4 end / Ch5 start, not Ch9;
+- early Terminal Spine Shadow:
+  > next Field address points to a building that does not exist yet.
+
+Authority:
+> `architecture/2026-09-25_d0107_rule_reality_unknown_author_breakout_compression.md`
+
+Integrated into Field #2 Prototype Brief:
+> commit `deb56d9391093b66eb4ab16e19633480e2110e83`
+
+Current next evidence remains:
+> isolated 《封门楼》 prose + voluntary reader behavior.
 
 # D-0106 Execution Closure Update｜2026-09-25
 
