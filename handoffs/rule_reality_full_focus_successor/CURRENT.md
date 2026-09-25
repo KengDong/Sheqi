@@ -1,8 +1,8 @@
 # Rule-Reality Full-Focus Successor｜CURRENT
 
 role: rule_reality_full_focus_successor
-status: ACTIVE / D0108_INTEGRATED / FIELD2_WRITER_READY
-decision: D-0108
+status: ACTIVE / D0109_FIRST_IMPACT_LOCKED / FIELD2_WRITER_READY
+decision: D-0109
 candidate: 《把一条副本规则带回现实》
 
 # Author Direction
@@ -47,6 +47,31 @@ Architecture pick is NOT canon.
 # Current Biggest Unknown
 
 > Can an actual second Rule Field be as readable as top infinite/survival fiction, while creating a magnetic recurring person and preserving our unique reality-return engine?
+
+# D-0109 Field #2 First-Impact Lock｜2026-09-25
+
+Before launching prose, the final narrow execution gate was added.
+
+Authority:
+> `research/briefs/2026-09-25_d0109_field2_first_impact_card.md`
+
+It freezes:
+- impossible normality first: present construction site -> already-lived-in future residential tower;
+- mass door closure as the first rule spectacle;
+- one specific human relationship split by an ordinary door;
+- co-lead enters through action, not introduction;
+- Cheng Ye must make one wrong/incomplete inference and survive it because of a prebuilt fallback;
+- one short command scene where chaos becomes executable;
+- “cost has a name” is a later pressure beat, not an opening slogan;
+- one macro-geography shadow only;
+- 《封门楼》 stays internal; prose uses an ordinary believable project/building name.
+
+Behavioral memory target:
+> Reader should remember the impossible inhabited tower and Cheng Ye's fallback style, not merely “the door rule.”
+
+Current state:
+> no more architecture before prose.
+> Field #2 isolated writer is READY.
 
 # D-0108 Scale + Protagonist Amplification｜2026-09-25
 
