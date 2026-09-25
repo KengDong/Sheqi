@@ -2,35 +2,49 @@
 
 ## ROLE
 - role: character_engine_benchmark_scout
-- status: READY
+- status: COMPLETE
 - decision: REBOOT-V3
 - stage: Character Engine Benchmark
 
-## CURRENT TASK
-Execute:
-> `research/briefs/2026-09-25_reboot_v3_character_engine_benchmark_brief.md`
+## COMPLETED
+Executed:
+> research/briefs/2026-09-25_reboot_v3_character_engine_benchmark_brief.md
 
-## INPUT
-ACTIVE only:
+Output:
+> research/2026-09-25_reboot_v3_character_engine_benchmark.md
+
+## RESULT
+Research-only benchmark complete for ACTIVE:
 - A01
 - A02
 - A04
 - B10
 
-## PURPOSE
-Study proven works to identify:
-> how recurring characters and relationships generate story after novelty fades.
+11 benchmark works were used:
+- 7 current/recent market-relevant works;
+- 4 established functional controls.
 
-## HARD
-- research only;
+Core finding:
+> recurring characters become a second story engine only when they have independent wants, offscreen agency, relationship memory, horizontal ties, and real leverage over the protagonist.
+
+Ordinary chapters can survive without new tasks / monsters / equipment / settings when:
+> routine action + old relationship state + conflicting small wants + a consequential choice
+creates a permanent relationship delta.
+
+## CANDIDATE WATCH
+- A01: prevent residents / tenants from becoming management units.
+- A02: prevent “smart professional vs stupid residents”.
+- A04: prevent mission-of-the-week and automatic grateful survivors.
+- B10: prevent scan / buy / sell + new-customer card collection.
+
+## HARD COMPLIANCE
 - no character creation;
-- no names;
-- no prose;
+- no project character names;
+- no prose samples;
 - no Concept mutation;
-- no winner;
-- no Reserve expansion.
+- no winner / ranking;
+- no Reserve expansion;
+- no borrowing of hit character combinations or living-author voice.
 
-## OUTPUT
-> `research/2026-09-25_reboot_v3_character_engine_benchmark.md`
-
-Then selfcheck if required by brief, CURRENT/history, Git commit, STOP.
+## STOP
+Task complete. Do not continue into Character Engine design / Character Collision in this window.
