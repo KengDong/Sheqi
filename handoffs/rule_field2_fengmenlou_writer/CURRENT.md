@@ -1,7 +1,7 @@
 # 《封门楼》Field #2 Prototype Writer｜CURRENT
 
 role: rule_field2_fengmenlou_writer
-status: DONE / STOP / AUTHOR CONTINUITY PATCH APPLIED
+status: DONE / STOP / AUTHOR FULL OPENING REWRITE APPLIED
 decision: D-0109
 candidate: 《把一条副本规则带回现实》
 prototype: Field #2 / Card A《封门楼》 internal codename only
@@ -100,3 +100,38 @@ Ownership:
 
 Next controller action:
 > rule_reality_full_focus_successor must re-run hard continuity QA and regenerate the anonymous reader package before any voluntary reader continues.
+
+
+# Author Full Opening Rewrite｜2026-09-25
+
+Author explicitly rejected incremental patching and required:
+> “完整的把开头改一次，不要小修补。”
+
+Completed:
+- R1 Opening Ch1—4 rewritten from first line to Ch4 ending;
+- old patch-layer prose replaced rather than layered;
+- identity-bound true-name semantics embedded from first trigger;
+- same-name ambiguity behaviorally demonstrated;
+- listener propagation behaviorally demonstrated;
+- old target-direction error removed;
+- Wei Pingzhou counter-use rebuilt around confirmed identity binding;
+- family settlement rewritten;
+- next-entry countdown + Qingheli impossible address integrated directly into Ch4;
+- continuous Ch1—8 package generated with Field #2 numbered Ch5—8.
+
+Authority:
+- `architecture/2026-09-25_r1_true_name_identity_binding_lock.md`
+
+Current Opening:
+- `experiments/opening_arcs/r4_把一条副本规则带回现实/opening_arc.md`
+
+Continuous package:
+- `experiments/rule_reality/2026-09-25_opening_field2_continuous_v2.md`
+
+Next owner:
+> `rule_reality_full_focus_successor`
+
+Next action:
+> fresh hard continuity QA on the rewritten Ch1—8 source, regenerate anonymous package, then unblock reader if QA passes.
+
+Writer must not perform Editor QA.
