@@ -14,6 +14,25 @@ canon_effect: personality direction author-approved; exact prose expression stil
 This duality is not decoration.
 It is the primary surface-character engine.
 
+# Pre-Field Baseline / Origin
+
+Author direction:
+> **Before his first Field, Cheng Ye is fundamentally optimistic, humorous, warm and relatively willing to believe people can cooperate.**
+
+The first Field does NOT create his warmth.
+It creates his second face.
+
+Required origin:
+- he gives a confirmed-dangerous person too much room / a second chance for understandable reasons;
+- the person exploits the Field's own trap/rules and causes a serious irreversible cost;
+- Cheng Ye learns that mercy toward a confirmed predator can be cruelty toward everyone else.
+
+After Field #1:
+- allies/family still receive his original warm, funny self;
+- confirmed enemies receive the new cold / cautious / ruthless mode.
+
+This split must have a concrete on-page origin.
+
 # Core Appeal
 
 程野不能再写成：
