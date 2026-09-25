@@ -4,7 +4,7 @@ updated: 2026-09-24
 
 # Highest Decision
 
-> **D-0111｜Reality Character Magnet Gate BEFORE Final Ch1—8 Reader**
+> **D-0112｜Returner Power-Gap Reopen BEFORE Character Magnet Lab**
 
 Authority:
 - `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
@@ -31,6 +31,29 @@ Postmortem:
 - D-0079 C01 targeted patch：**PAUSED / SUPERSEDED BY PROCESS RESET**
 - existing Ch1—20 prose：research evidence / experiment history
 - Canon / Approved Outline：frozen; no new authority promotion
+
+# D-0112 Returner Power-Gap Authority
+
+Author direction:
+> the current post-Field Cheng Ye is too restrained; Field horror and ordinary reality do not have enough power-distance.
+
+Design brief:
+> `research/briefs/2026-09-25_d0112_returner_power_gap_reopen.md`
+
+Current candidate hierarchy:
+> Rule Field / rule-level horror > Returner > ordinary reality human.
+
+Commercial target:
+> ordinary reality should briefly feel like easy mode to a proven Returner.
+
+Structural safeguard:
+> ordinary people can regain lethal leverage by exploiting a Returned Rule.
+
+Preferred candidate:
+> large one-time First-Return threshold jump + slow deepening Returner Adaptation.
+
+D-0111 Character Lab:
+> PAUSED until D-0112 is resolved and the freight-yard scene is updated.
 
 # D-0111 Reality Character Magnet Authority
 
