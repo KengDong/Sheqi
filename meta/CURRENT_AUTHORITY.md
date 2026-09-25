@@ -4,7 +4,7 @@ updated: 2026-09-24
 
 # Highest Decision
 
-> **D-0109｜Field #2 First-Impact Locked / Isolated Writer NEXT**
+> **D-0110｜Field #2 Hard QA PASS / Anonymous Voluntary Reader NEXT**
 
 Authority:
 - `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
@@ -31,6 +31,31 @@ Postmortem:
 - D-0079 C01 targeted patch：**PAUSED / SUPERSEDED BY PROCESS RESET**
 - existing Ch1—20 prose：research evidence / experiment history
 - Canon / Approved Outline：frozen; no new authority promotion
+
+# D-0110 Field #2 Voluntary Reader Authority
+
+Writer output:
+> `experiments/rule_reality/d0106_fengmenlou_field2_prototype.md`
+
+Writer closed:
+> commit `aa2296a518ae5214a723d9fdc33494a709d71346`
+
+Hard QA:
+> `reviews/2026-09-25_d0109_field2_hard_qa.md`
+
+Hard-QA microfix:
+> commit `656365ed724ca243e55dca7b51680e0ff80c37f1`
+
+Anonymous package:
+> `experiments/rule_reality/anonymous/2026-09-25_d0109_field2_anonymous_prose.md`
+
+Only allowed next reader:
+> `handoffs/rule_field2_voluntary_reader_a/CURRENT.md`
+
+Protocol:
+> `research/briefs/2026-09-25_d0110_field2_cleanroom_voluntary_reader_protocol.md`
+
+No subjective controller verdict before independent behavior evidence.
 
 # D-0109 Field #2 First-Impact Authority
 
