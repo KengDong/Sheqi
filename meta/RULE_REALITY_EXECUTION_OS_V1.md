@@ -8,6 +8,12 @@ scope: execution-os
 
 # RULE-REALITY EXECUTION OS V1
 
+Mandatory companion before prose:
+> `meta/RULE_REALITY_BREAKOUT_WRITING_GUARDRAILS_V1.md`
+
+This OS controls execution quality.
+The companion guardrail controls anti-bland / breakout behavior.
+
 This document does NOT add a new story engine.
 
 It converts:
