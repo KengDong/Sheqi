@@ -2,44 +2,40 @@
 
 ## ROLE
 - role: rule_reality_field_benchmark_calibrator
-- status: READY
-- current_issue: Field taste calibration after repeated author rejection
+- status: RETIRED / SUPERSEDED BY REBOOT-V3
+- current_issue: none
 
-## BENCHMARK GATE
-- creative_change: NO
-- benchmark_required: this task IS the benchmark
-- benchmark_status: READY
-- benchmark_artifact: `research/2026-09-25_rule_reality_field_benchmark_dossier.md`
-- hard: do not design Sheqi Fields.
+## WHAT ACTUALLY HAPPENED
+- This role was created while Rule-Reality was still the active candidate.
+- The project has since undergone REBOOT-V3.
+- There is now NO active novel candidate.
+- Rule-Reality is legacy control / asset reservoir only.
+- Therefore the dedicated Field benchmark task is no longer on the critical path.
 
 ## AUTHOR FEEDBACK
-- previous Fields felt AI-generated, mechanical, environment-first, low-level;
-- author wants popular-fiction evidence before any future novel modification;
-- Field should feel like a specific terrifying story/event, not a rule-system demonstration.
+- Do not preserve old concepts because of sunk cost.
+- Highest goal is newcomer breakout + sustained income.
+- Market and current hit evidence must precede fiction design.
+- Author should not be required to point-fix weak AI drafts.
 
-## CURRENT TASK
-Execute:
-> `research/briefs/2026-09-25_rule_reality_field_benchmark_calibration_brief.md`
+## CURRENT AUTHORITY
+1. `meta/CURRENT_AUTHORITY.md`
+2. `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
+3. `meta/HIT_FICTION_RND_MASTER_PIPELINE_V3.md`
 
-## REQUIRED READS
-1. `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
-2. `meta/RULE_REALITY_FIELD_TASTE_PROFILE_V0.md`
-3. `reviews/2026-09-25_rule_reality_failure_synthesis_and_process_v2.md`
-4. current brief only.
-
-## HARD INPUT / OUTPUT BOUNDARY
-May use web research extensively.
-
-Do NOT:
-- read old rejected Field candidate prose unless needed to understand an author rejection already summarized;
-- invent Field #1;
-- invent Field #2;
-- patch Opening;
-- patch characters;
-- select a Sheqi solution.
+## DO NOT CONTINUE
+- do not run the old Field-only benchmark now;
+- do not design Field #1 / #2;
+- do not revive Rule-Reality as active candidate;
+- do not create prose.
 
 ## NEXT EXPECTED ACTION
-1. Research 8–12 specific memorable arcs/events.
-2. Produce benchmark dossier.
-3. Update CURRENT/history.
-4. STOP.
+None.
+
+If Rule-Reality later survives the fresh commercial funnel and becomes a finalist,
+a new directly relevant benchmark task may be dispatched then.
+
+## CONTEXT SNAPSHOT
+- historical role only;
+- superseded by REBOOT-V3;
+- current next executor is newcomer_breakout_market_scout.
