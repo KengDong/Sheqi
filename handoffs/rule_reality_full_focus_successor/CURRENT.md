@@ -2,7 +2,7 @@
 
 role: rule_reality_full_focus_successor
 status: ACTIVE / D0112_POWER_GAP_REOPEN / CHARACTER_LAB_PAUSED / MAIN_READER_BLOCKED
-decision: D-0111
+decision: D-0112
 candidate: 《把一条副本规则带回现实》
 
 # Author Direction
@@ -375,3 +375,18 @@ Current preferred candidate:
 > large one-time First-Return threshold jump + slow deepening Returner Adaptation.
 
 Character Lab is PAUSED until this gate is resolved and the freight-yard scene is updated.
+
+
+# D-0112 Next Executor｜Cheng Ye Duality Micro Writer
+
+Next isolated writer:
+> `handoffs/rule_reality_chengye_duality_micro_writer/CURRENT.md`
+
+Purpose:
+- Prototype A: freight-yard enemy mode + Rule Experience Gap;
+- Prototype B: home-breakfast ally/family mode.
+
+Hard:
+> micro-prototypes only; no authoritative source integration.
+
+D-0111 Fang Cen / Xiaoman Character Lab remains PAUSED until this D-0112 character/progression proof is resolved.
