@@ -1,7 +1,7 @@
 # Rule-Reality Full-Focus Successor｜CURRENT
 
 role: rule_reality_full_focus_successor
-status: ACTIVE / D0111_GATE_A_PASS / CHARACTER_LAB_READY / MAIN_READER_BLOCKED
+status: ACTIVE / D0112_POWER_GAP_REOPEN / CHARACTER_LAB_PAUSED / MAIN_READER_BLOCKED
 decision: D-0111
 candidate: 《把一条副本规则带回现实》
 
@@ -353,3 +353,25 @@ Reason:
 > do not spend the clean reader on a character version we already intend to alter.
 
 Current main reader remains BLOCKED.
+
+
+# D-0112 Returner Power-Gap Reopen
+
+Author rejected the overly restrained post-Field version.
+
+Core issue:
+> Cheng Ye does not yet feel like someone who has survived an explosive Rule Field and returned to ordinary reality with a clear dimensional advantage.
+
+Design candidate:
+> `research/briefs/2026-09-25_d0112_returner_power_gap_reopen.md`
+
+Required hierarchy:
+> Rule Field / rule-level horror > Returner > ordinary reality human.
+
+But:
+> an ordinary human who successfully exploits a Returned Rule can borrow rule-level leverage and threaten the Returner again.
+
+Current preferred candidate:
+> large one-time First-Return threshold jump + slow deepening Returner Adaptation.
+
+Character Lab is PAUSED until this gate is resolved and the freight-yard scene is updated.
