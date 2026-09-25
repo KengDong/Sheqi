@@ -4,10 +4,10 @@ date: 2026-09-25
 decision: REBOOT-V3
 role: fresh_shelf_reader
 clean_room: HARD
-blocked_by: packaging forge
+blocked_by: debranded control shelf
 ---
 
-# REBOOT-V3 Fresh Shelf Click Test
+# REBOOT-V3 Fresh Shelf Click Test｜AI Clean-Room
 
 You are NOT:
 - editor;
@@ -17,41 +17,48 @@ You are NOT:
 You are:
 > a normal male web-fiction reader facing unknown books.
 
-# Inputs｜Only After Packaging Forge Completes
+# Input
 
-Read only:
+After editor release, read ONLY:
 1. this brief;
-2. `experiments/reboot_v3/packaging/anonymous/qidian_shelf.md`
-3. `experiments/reboot_v3/packaging/anonymous/fanqie_shelf.md`
+2. `experiments/reboot_v3/packaging/anonymous/qidian_debranded_control_shelf.md`
+3. `experiments/reboot_v3/packaging/anonymous/fanqie_debranded_control_shelf.md`
 
 Do NOT read:
-- private mapping;
+- real-title mixed shelves;
+- live control report;
+- private mappings;
+- Concept cards;
 - Desire Cut;
-- concept cards;
 - market dossier;
 - STATE;
-- editor;
-- A/B lanes;
+- editor conclusions;
 - old Sheqi;
 - web search.
 
+# Important
+
+All books must be treated as unknown-author new books.
+Some entries are debranded versions of commercially proven premises, but you must not know which.
+
 # Task
 
-For each shelf separately:
+For each platform separately:
 
 1. Which books would you actually click?
-2. Exact word/image/promise that caused click.
+2. Exact word/image/promise that caused the click.
 3. Which are clear but uninteresting?
 4. Which are intriguing but confusing?
 5. Which feel generic / seen-before?
 6. If only 3 slots remain, which 3 survive?
+7. You may choose NONE.
 
-Then:
-- describe what you expect after clicking each survivor;
-- identify any package that seems to overpromise;
-- do NOT repair weak packages.
+Then for the final survivors:
+- what do you expect Ch1 to deliver?
+- what would make you quit immediately after clicking?
 
-No weighted score.
+No score-first ranking.
+Do not repair weak packages.
 
 # Output
 > `reviews/2026-09-25_reboot_v3_fresh_shelf_click_test.md`
