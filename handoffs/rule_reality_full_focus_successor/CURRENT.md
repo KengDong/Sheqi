@@ -273,6 +273,35 @@ Current state remains:
 Do not revive the stale anonymous package.
 
 
+# D-0111 Gate A Result｜PASS
+
+Hard QA:
+> `reviews/2026-09-25_d0111_gate_a_ch1_8_hard_qa.md`
+
+Result:
+> PASS AFTER 3 MICROFIXES.
+
+Fixed only:
+- Field #2 2802 sole-resident / door-validity contradiction;
+- stale “你们四个” count;
+- malformed sentence “至少我们确认以前别”.
+
+Verified:
+- R1 identity binding;
+- same-name experiment;
+- listener re-trigger;
+- Wei Pingzhou counter-use;
+- Ch4 -> Ch5 countdown / Qingheli continuity;
+- Tang Ji self-name usage;
+- exact source -> Ch1—8 continuous-package synchronization.
+
+Next:
+> `handoffs/reality_character_magnet_lab_writer/CURRENT.md`
+
+Character Lab is now READY.
+
+Main Ch1—8 reader remains BLOCKED until character experiment + integration + fresh QA.
+
 # D-0111 Reality Character Magnet Gate｜2026-09-25
 
 New author direction:
