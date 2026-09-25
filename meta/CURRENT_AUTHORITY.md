@@ -16,94 +16,89 @@ decision: REBOOT-V3
 5. `meta/BENCHMARK_CAUSALITY_STANDARD.md`
 6. `meta/EXPERIMENT_LANES_V2.md`
 
-# Current Project State
+# Current Portfolio
 
-> **NO PRIMARY / NO ACTIVE NOVEL CANON.**
-
-Current portfolio is experimental only.
+No Primary.
+No active novel canon.
 
 ACTIVE:
-- A01 《怪物死了，地盘还在》
-- B10 《灵气复苏，我开二手装备店》
-- A02 《末日先修水电》
-- A04 《冒险者公会救援队》
+- A01 《怪物死了，地盘还在》 — ACTIVE STRONG
+- A02 《末日先修水电》 — ACTIVE STRONG
+- A04 《冒险者公会救援队》 — ACTIVE STRONG
+- B10 《灵气复苏，我开二手装备店》 — ACTIVE BUT WARNING
 
 RESERVE:
 - B04 《夜班公交》
 - A10 《没人要的主播，都被我签红了》
 
-Legacy Rule-Reality and all pre-REBOOT-V3 concepts/prose remain:
-> evidence / controls / historical assets only.
-
 # Completed Gates
 
-- 2024–2026 Market Dossier: PASS
-- AI-native newcomer suitability: PASS
+- Market Dossier: PASS
+- AI-native suitability: PASS
 - Lane A/B Concept Forge: DONE
 - Desire Cut: DONE
 - Packaging Micro-Gate: PASS
 - Debranded strong-control shelf: PASS
-- Two independent clean-room Shelf Readers: DONE
+- Dual clean-room Shelf Readers: DONE
 - Shelf Cut: DONE
+- Story Reservoir: PASS
+- Reservoir Editor Verdict: COMPLETE
 
-Shelf finding:
-> A01 is the strongest package-level project leader so far, but it has NOT won the novel.
-
-# Selection Rule
-
-> **Early high recall; later high precision.**
-
-No forced quota.
-
-Use:
-- ACTIVE
-- RESERVE
-- DROP
-
-Do not kill merely for rank position at a noisy/early Gate.
+Reservoir verdict:
+> no forced cut; no structural supply zero.
 
 # Current Single Next Action
 
-> **Run Story Reservoir stress test.**
+> **Run targeted Character Engine Benchmark.**
 
 Owner:
-> `handoffs/story_reservoir_forge/CURRENT.md`
+> `handoffs/character_engine_benchmark_scout/CURRENT.md`
 
 Brief:
-> `research/briefs/2026-09-25_reboot_v3_story_reservoir_brief.md`
+> `research/briefs/2026-09-25_reboot_v3_character_engine_benchmark_brief.md`
 
-Required output:
-> `experiments/reboot_v3/reservoir/2026-09-25_reboot_v3_story_reservoir.md`
+Output:
+> `research/2026-09-25_reboot_v3_character_engine_benchmark.md`
 
-Selfcheck:
-> `reviews/2026-09-25_reboot_v3_story_reservoir_selfcheck.md`
+# Why Benchmark Comes Before Character Design
 
-# Current Git Integrity Check
+Character Collision is a major creative change.
 
-As of this authority update:
-- `story_reservoir_forge/CURRENT.md` is still READY;
-- required REBOOT-V3 Reservoir output does not exist on main;
-- no alternate branch exists;
-- therefore Story Reservoir is NOT complete in authoritative Git state.
+Benchmark-First therefore requires:
+> proven character/relationship engines -> causal functions -> then original cast design.
+
+Do NOT allow AI to default into:
+- smart/calm protagonist;
+- funny sidekick;
+- warm support character;
+- cardboard rival;
+- grateful rescued NPCs;
+- customer-of-the-week cards.
+
+# Candidate-Specific Risks
+
+A01:
+> residents becoming management units.
+
+A02:
+> residents becoming engineering obstacles / meeting participants.
+
+A04:
+> saved people becoming automatic grateful allies; rescue team becoming role labels.
+
+B10:
+> customers becoming transaction cards; scenes collapsing to inspect -> price -> deal.
 
 # Hard
 
-Until Story Reservoir is committed:
-- no Character Collision;
-- no Minimal Horizon;
-- no P0;
+Until Character Engine Benchmark is committed and reviewed:
+- Character Collision BLOCKED;
+- Minimal Horizon BLOCKED;
+- P0 BLOCKED;
 - no prose;
 - no Primary;
-- no long-run architecture.
-
-# After Reservoir
-
-editor_in_chief must:
-1. read Reservoir + Selfcheck;
-2. classify each candidate ACTIVE / RESERVE / DROP;
-3. check false-negative risk;
-4. dispatch Character Collision only for justified survivors.
+- no long architecture.
 
 # One Sentence
 
-> **货架已经证明“有人会点谁”；下一关必须证明“这个发动机能不能持续长出不同好戏”，否则不能进入人物和正文。**
+> **结构供给已经过关；现在先从热门成品研究“人为什么能自己生戏”，再允许AI设计我们的人物。**
