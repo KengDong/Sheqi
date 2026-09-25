@@ -60,7 +60,7 @@ Second shock:
 The intended reader memory is:
 > a not-yet-built but fully inhabited forty-floor tower that seals its own ordinary doors.
 
-# 2. Fair-play evidence map
+# 3. Fair-play evidence map
 
 ## Early observable behavior
 Before any verbal rule explanation:
@@ -106,7 +106,7 @@ Because the interpretation is unproven:
 Reader sees:
 > Cheng Ye guessed wrong once, but only one node died instead of the entire route.
 
-# 3. Co-lead independence
+# 4. Co-lead independence
 
 Named co-lead:
 > 唐霁
@@ -158,7 +158,7 @@ Their instincts remain opposed:
 
 Both are proven right once.
 
-# 4. Cheng Ye non-replaceability
+# 5. Cheng Ye non-replaceability
 
 A generic smart protagonist could solve a door puzzle.
 
@@ -202,7 +202,7 @@ The decision then changes:
 
 This cannot be replaced by a generic moral speech without changing the scene.
 
-# 5. Cheng Ye flaw cost
+# 6. Cheng Ye flaw cost
 
 His insistence on making the sacrifice explicit is not free.
 
@@ -217,7 +217,7 @@ Cheng Ye admits:
 
 Therefore the signature is not a virtue badge.
 
-# 6. Command-scene proof
+# 7. Command-scene proof
 
 High-chaos condition:
 - people from below moving up;
@@ -247,7 +247,7 @@ Observable payoff:
 Target effect:
 > chaos becomes executable when he takes over.
 
-# 7. R1 use
+# 8. R1 use
 
 Old returned rule:
 > after dark, speaking a true name reveals that person's location to listeners.
@@ -262,7 +262,7 @@ It does NOT:
 - solve the Field;
 - replace the new boundary/permission engine.
 
-# 8. Midpoint reinterpretation
+# 9. Midpoint reinterpretation
 
 Initial survival instinct:
 > sealed apartments are safest.
@@ -283,7 +283,7 @@ into:
 
 No hidden last-minute clause is needed.
 
-# 9. Multi-axis difference from R1
+# 10. Multi-axis difference from R1
 
 Compared with the Opening/R1 experience, Field #2 changes at least:
 
@@ -329,7 +329,7 @@ R1:
 Field #2:
 > keep a mass of ordinary residents moving through a tower whose safest rooms sabotage collective escape.
 
-# 10. Human objective beyond survival
+# 11. Human objective beyond survival
 
 Concrete trapped relationship:
 - 302 father is outside;
@@ -342,7 +342,7 @@ Tang Ji additionally wants:
 
 2802 / 2808 / 2811 later create independent household choices rather than anonymous population math.
 
-# 11. Cost ledger
+# 12. Cost ledger
 
 Visible cost already paid before stop:
 
@@ -357,7 +357,7 @@ Visible cost already paid before stop:
 
 No clean perfect win.
 
-# 12. ONE future-fragment clue check
+# 13. ONE future-fragment clue check
 
 Only explicit physical future artifact:
 > lobby completion plaque:
@@ -376,7 +376,7 @@ No branch explanation.
 Target reaction:
 > this tower seems to belong to a larger real city that should not exist.
 
-# 13. Dual continuation appetite seeds
+# 14. Dual continuation appetite seeds
 
 ## A. Reality aftermath appetite
 Cheng Ye briefly connects the door effect to his family's ordinary anti-theft door.
@@ -396,7 +396,7 @@ The Field itself supplies:
 Target desire:
 > another Field could feel like a different kind of story, not just a new noun.
 
-# 14. Continuation hook
+# 15. Continuation hook
 
 Meaningful payoff lands before stop:
 - Cheng Ye/Tang Ji rescue the first trapped group;
@@ -422,7 +422,7 @@ Through the high-floor glass:
 
 Prototype stops before solving any of these.
 
-# 15. Prose-naturalness risks
+# 16. Prose-naturalness risks
 
 Items for later Editor/Reader evidence, NOT self-repair unless ordered:
 
@@ -433,7 +433,7 @@ Items for later Editor/Reader evidence, NOT self-repair unless ordered:
 5. The final impossible-road image must read as geography, not as a second lore clue.
 6. The prototype has no death; whether injury/property/moral cost is heavy enough is a behavioral-reader question, not a Writer assumption.
 
-# 16. Stop
+# 17. Stop
 
 Writer conclusion:
 > prototype complete.
