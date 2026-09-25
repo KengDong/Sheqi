@@ -64,8 +64,12 @@ Execution order:
 
 Main reader remains BLOCKED until this sequence reaches step 8.
 
+Gate A hard continuity QA: PASS
+> `reviews/2026-09-25_d0111_gate_a_ch1_8_hard_qa.md`
+
 Character Lab Writer:
 > `handoffs/reality_character_magnet_lab_writer/CURRENT.md`
+> status: READY / EXECUTE NEXT
 
 Hard:
 - no final character canon before evidence;
