@@ -1,10 +1,10 @@
 ---
-status: BLOCKED
+status: READY
 date: 2026-09-25
 decision: REBOOT-V3
 role: fresh_shelf_reader
 clean_room: HARD
-blocked_by: debranded control shelf
+blocked_by: none
 ---
 
 # REBOOT-V3 Fresh Shelf Click Test｜AI Clean-Room
@@ -38,8 +38,10 @@ Do NOT read:
 
 # Important
 
-All books must be treated as unknown-author new books.
-Some entries are debranded versions of commercially proven premises, but you must not know which.
+Treat every entry as:
+> a completely unknown-author new book.
+
+Do not infer hidden categories, sources or project identity.
 
 # Task
 
