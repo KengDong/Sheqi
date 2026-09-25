@@ -2,59 +2,41 @@
 
 updated: 2026-09-25
 
-# 1. editor_in_chief
+# editor_in_chief
 - status: ACTIVE / ORCHESTRATION ONLY
-- current_stage:
-  > Packaging PASS; clean-room click test released
+- current_stage: Shelf Cut complete
 
-# 2. Market Scout
-- status: DONE
+# completed
+- Market Scout
+- Lane A Native Forge
+- Lane B Commercial Mirror Forge
+- Packaging Forge
+- Fresh Shelf Reader A
+- Fresh Shelf Reader B
 
-# 3. Lane A Native Forge
-- status: DONE
-
-# 4. Lane B Commercial Mirror Forge
-- status: DONE
-
-# 5. platform_shelf_forge
-- status: DONE / STOP
-- result:
-  > project consumer copy PASS
-  > strong controls PASS
-  > debranded AI control shelves PASS
-  > real-title human shelves preserved
-
-# 6. fresh_shelf_reader_a
+# story_reservoir_forge
 - status: READY / RUN NOW
-- current:
-  > `handoffs/fresh_shelf_reader_a/CURRENT.md`
+- current: handoffs/story_reservoir_forge/CURRENT.md
+- brief: research/briefs/2026-09-25_reboot_v3_story_reservoir_brief.md
 
-# 7. fresh_shelf_reader_b
-- status: READY / RUN NOW
-- current:
-  > `handoffs/fresh_shelf_reader_b/CURRENT.md`
+# ACTIVE candidates
+- A01
+- B10
+- A02
+- A04
 
-# 8. story_reservoir_forge
-- status: BLOCKED
-- blocked_by:
-  > both shelf readers + editor Shelf Cut
+# RESERVE candidates
+- B04
+- A10
 
-# 9. Downstream
+# downstream
 - character_collision_forge: BLOCKED
 - minimal_horizon_forge: BLOCKED
 - P0 writers: NOT DISPATCHED
 - prose readers: BLOCKED
 
-# Legacy Rule-Reality
-- status: FROZEN / CONTROL ONLY
-
 # Current Single Next Action
+Run story_reservoir_forge.
 
-> Run fresh_shelf_reader_a and fresh_shelf_reader_b in parallel.
-
-After both:
-> return to editor_in_chief for mapping reveal and Shelf Cut.
-
-# WIP
-Independent evidence workers:
-> 2.
+# Selection Rule
+No forced quota. Eliminate only on structural or repeated evidence.
