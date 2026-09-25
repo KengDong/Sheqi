@@ -2,7 +2,7 @@
 
 role: rule_field2_fengmenlou_writer
 status: READY
-decision: D-0106
+decision: D-0107
 candidate: 《把一条副本规则带回现实》
 prototype: Field #2 / Card A《封门楼》
 
@@ -10,6 +10,8 @@ First read:
 > `research/briefs/2026-09-25_d0106_fengmenlou_field2_prototype_brief.md`
 
 Then strictly obey its input boundary.
+
+D-0107 unknown-author breakout compression has already been integrated into that Brief. Do not use the older Ch9 pacing assumption or generic-random-building version of 《封门楼》.
 
 Mission:
 > write isolated 3–5 chapter Field #2 prose prototype.
