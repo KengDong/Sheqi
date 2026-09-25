@@ -1,6 +1,6 @@
 ---
 status: active-authority
-version: 3.2
+version: 3.3
 date: 2026-09-25
 decision: REBOOT-V3
 goal: unknown-author-breakout-and-sustained-income
@@ -162,6 +162,26 @@ Expected:
 
 Hard:
 > no forced quota; preserve diversity reserve until prose evidence.
+
+# 4A. Stage D2｜Character Engine Benchmark
+
+Before original cast design for the surviving batch, study proven character/relationship engines:
+- protagonist repeatable behavior;
+- independent side-character wants;
+- offscreen agency;
+- relationship memory;
+- two-way leverage;
+- horizontal character networks;
+- ordinary-chapter relationship supply.
+
+Hard:
+- research causal functions only;
+- no project character creation;
+- no prose;
+- no copying specific character combinations or living-author voice.
+
+Purpose:
+> prevent AI-default casts from being designed first and justified later.
 
 # 5. Stage E｜Character Collision
 
