@@ -1,44 +1,39 @@
 # Story Reservoir Forge｜CURRENT
-role: story_reservoir_forge
-status: DONE / PAUSED
-decision: D-0081
-date: 2026-09-23
 
-Mission completed:
-> stress-test each frozen engine until it naturally reaches 30—50 seeds or honestly exhausts.
+## ROLE
+- role: story_reservoir_forge
+- status: READY
+- decision: REBOOT-V3
+- stage: Story Reservoir
 
-Completed outputs:
-- `experiments/first_principles_forge/reservoirs/R1_future_holdings.md`
-- `experiments/first_principles_forge/reservoirs/R2_second_autobiography.md`
-- `experiments/first_principles_forge/reservoirs/R3_borrowed_tribulations.md`
-- `experiments/first_principles_forge/reservoirs/R4_borrow_a_relationship.md`
-- `experiments/first_principles_forge/reservoirs/R5_city_routes.md`
-- `experiments/first_principles_forge/reservoirs/R6_monday_prophecy.md`
-- `experiments/first_principles_forge/reservoirs/R7_dead_people_work.md`
-- `experiments/first_principles_forge/reservoirs/R8_missing_day_list.md`
+## CURRENT TASK
+Execute:
+> `research/briefs/2026-09-25_reboot_v3_story_reservoir_brief.md`
 
-Selfcheck:
-- `reviews/2026-09-23_d0081_story_reservoir_selfcheck.md`
+## ACTIVE INPUTS
+- A01 《怪物死了，地盘还在》
+- B10 《灵气复苏，我开二手装备店》
+- A02 《末日先修水电》
+- A04 《冒险者公会救援队》
 
-History:
-- `handoffs/story_reservoir_forge/history/2026-09-23_D0081_story_reservoir_stress_test_done.md`
+## RESERVE｜DO NOT EXPAND
+- B04 《夜班公交》
+- A10 《没人要的主播，都被我签红了》
 
-Boundary result:
-- no Concept mutation;
-- no rescue after exhaustion;
-- no chapter ordering;
+## GOAL
+Stress-test whether each engine can naturally produce:
+> 30–50 genuinely different situations + 10 ordinary chapters + old-state compounding.
+
+## HARD
+- no winner;
+- no forced quota;
 - no prose;
-- no Character Collision design;
-- no Primary;
-- no Canon / Outline changes.
+- no chapter order;
+- no Concept mutation;
+- no character bible;
+- no reserve resurrection.
 
-Natural exhaustion evidence preserved:
-- R4 stopped at 27;
-- R6 stopped at 20;
-- R3 stopped at 34 as freshness materially declined.
+## OUTPUT
+> `experiments/reboot_v3/reservoir/2026-09-25_reboot_v3_story_reservoir.md`
 
-Deliver:
-> editor_in_chief / Reservoir Cut
-
-Hard stop:
-> story_reservoir_forge does not select the winner and does not continue into the next phase.
+Then selfcheck / CURRENT / history / STOP.
