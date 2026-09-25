@@ -10,115 +10,100 @@ decision: REBOOT-V3
 # Highest Process Authority
 
 1. `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md` v2.1
-2. `meta/HIT_FICTION_RND_MASTER_PIPELINE_V3.md`
-3. `meta/READER_EVIDENCE_HIERARCHY.md`
-4. `meta/BENCHMARK_CAUSALITY_STANDARD.md`
-5. `meta/EXPERIMENT_LANES_V2.md`
-
-Full reboot audit:
-> `reviews/2026-09-25_full_reboot_git_audit.md`
+2. `meta/HIT_FICTION_RND_MASTER_PIPELINE_V3.md` v3.2
+3. `meta/CANDIDATE_SELECTION_AND_FALSE_NEGATIVE_POLICY_V1.md`
+4. `meta/READER_EVIDENCE_HIERARCHY.md`
+5. `meta/BENCHMARK_CAUSALITY_STANDARD.md`
+6. `meta/EXPERIMENT_LANES_V2.md`
 
 # Current Project State
 
-> **NO ACTIVE NOVEL CANDIDATE.**
+> **NO PRIMARY / NO ACTIVE NOVEL CANON.**
 
-Existing concepts / prose / characters are:
-> **legacy assets / controls / evidence only.**
+Current portfolio is experimental only.
 
-This includes:
-- 《把一条副本规则带回现实》
-- 程野 / 程小满 / 方岑 / 唐霁
-- R1 true-name rule
-- 封门楼 / 青禾里 current Field #2
-- Second Reality / 归一日
-- C01 / C12
-- all D-010x / D-011x candidate designs
+ACTIVE:
+- A01 《怪物死了，地盘还在》
+- B10 《灵气复苏，我开二手装备店》
+- A02 《末日先修水电》
+- A04 《冒险者公会救援队》
 
-None has forward privilege.
+RESERVE:
+- B04 《夜班公交》
+- A10 《没人要的主播，都被我签红了》
 
-# Market Gate Result
+Legacy Rule-Reality and all pre-REBOOT-V3 concepts/prose remain:
+> evidence / controls / historical assets only.
 
-> **PASS.**
+# Completed Gates
 
-Dossier:
-> `research/2026-09-25_b_lane_newcomer_breakout_dossier.md`
+- 2024–2026 Market Dossier: PASS
+- AI-native newcomer suitability: PASS
+- Lane A/B Concept Forge: DONE
+- Desire Cut: DONE
+- Packaging Micro-Gate: PASS
+- Debranded strong-control shelf: PASS
+- Two independent clean-room Shelf Readers: DONE
+- Shelf Cut: DONE
 
-Editor synthesis:
-> `reviews/2026-09-25_market_dossier_editor_synthesis.md`
+Shelf finding:
+> A01 is the strongest package-level project leader so far, but it has NOT won the novel.
 
-AI-native suitability:
-> `research/2026-09-25_newcomer_ai_assisted_webfiction_suitability.md`
+# Selection Rule
+
+> **Early high recall; later high precision.**
+
+No forced quota.
+
+Use:
+- ACTIVE
+- RESERVE
+- DROP
+
+Do not kill merely for rank position at a noisy/early Gate.
 
 # Current Single Next Action
 
-> **Run Lane A + Lane B concept forges in parallel.**
+> **Run Story Reservoir stress test.**
 
-Lane A:
-> `handoffs/commercial_native_forge/CURRENT.md`
+Owner:
+> `handoffs/story_reservoir_forge/CURRENT.md`
 
-Lane B:
-> `handoffs/commercial_mutation_forge/CURRENT.md`
+Brief:
+> `research/briefs/2026-09-25_reboot_v3_story_reservoir_brief.md`
 
-Hard:
-- concept nuclei only;
+Required output:
+> `experiments/reboot_v3/reservoir/2026-09-25_reboot_v3_story_reservoir.md`
+
+Selfcheck:
+> `reviews/2026-09-25_reboot_v3_story_reservoir_selfcheck.md`
+
+# Current Git Integrity Check
+
+As of this authority update:
+- `story_reservoir_forge/CURRENT.md` is still READY;
+- required REBOOT-V3 Reservoir output does not exist on main;
+- no alternate branch exists;
+- therefore Story Reservoir is NOT complete in authoritative Git state.
+
+# Hard
+
+Until Story Reservoir is committed:
+- no Character Collision;
+- no Minimal Horizon;
+- no P0;
 - no prose;
-- no final winner;
-- author does not review raw 20–30 outputs.
-
-# After Market Dossier
-
-Run dual lanes:
-
-## Lane A｜Native Breakout
-> mature market chassis × original distinctive Premium.
-
-## Lane B｜Commercial Mirror
-> high-fidelity mirror of proven reader/commercial functions; no copying of characters, settings, scenes, dialogue, mysteries, event sequence or author voice.
-
-Authority:
-> `meta/EXPERIMENT_LANES_V2.md`
-
-# Shared Promotion Ladder
-
-> Market Dossier
-> -> 20–30 nuclei
-> -> Desire Cut
-> -> Story Reservoir
-> -> Character Collision
-> -> Minimal Horizon
-> -> P0
-> -> P1
-> -> P3
-> -> Full Opening Arc
-> -> P7
-> -> P20
-> -> P50 Serialization Simulation
-> -> Launch Candidate
-
-# Evidence Rule
-
-> **Real voluntary behavior > continuous prose > unprompted memory/desire > reservoir > market/benchmark > architecture > selfcheck.**
-
-# Hard Freeze
-
-Until the Market Dossier is complete:
-
-- no Rule-Reality rewrite;
-- no Field #1 / Field #2 design;
-- no Character Lab;
-- no old Opening patch;
-- no main reader package;
-- no long-run architecture;
 - no Primary;
-- no Canon/Approved Outline promotion.
+- no long-run architecture.
 
-# Historical Material
+# After Reservoir
 
-Old D-00xx / D-01xx material remains in Git as:
-> evidence / history / rejected alternatives.
-
-It must not be treated as CURRENT simply because the file still exists.
+editor_in_chief must:
+1. read Reservoir + Selfcheck;
+2. classify each candidate ACTIVE / RESERVE / DROP;
+3. check false-negative risk;
+4. dispatch Character Collision only for justified survivors.
 
 # One Sentence
 
-> **市场先告诉我们“什么值得写”，陌生Reader再告诉我们“什么真的好看”，架构只负责把已经证明的赢家写长。**
+> **货架已经证明“有人会点谁”；下一关必须证明“这个发动机能不能持续长出不同好戏”，否则不能进入人物和正文。**
