@@ -8,7 +8,7 @@ Window map:
 # 1. editor_in_chief
 - status: ACTIVE / ORCHESTRATION ONLY
 - current_stage:
-  > Desire Cut complete
+  > Packaging first pass reviewed; microfix required
 
 # 2. Market Scout
 - status: DONE
@@ -20,18 +20,18 @@ Window map:
 - status: DONE
 
 # 5. platform_shelf_forge
-- status: READY / NEXT / RUN NOW
+- status: READY / NEXT / MICROFIX NOW
 - current:
   > `handoffs/platform_shelf_forge/CURRENT.md`
 - brief:
-  > `research/briefs/2026-09-25_reboot_v3_packaging_forge_brief.md`
+  > `research/briefs/2026-09-25_reboot_v3_packaging_microfix_and_control_shelf_brief.md`
 - input:
   > six Desire Cut survivors
 
 # 6. fresh_shelf_reader
 - status: BLOCKED
 - blocked_by:
-  > packaging forge
+  > packaging microfix + real-market control shelves
 - future:
   > anonymous package-only click test
 
@@ -53,8 +53,8 @@ Window map:
 
 > Run `platform_shelf_forge`.
 
-After packaging:
-> editor unblocks `fresh_shelf_reader`.
+After packaging microfix:
+> editor validates mixed shelves, then unblocks `fresh_shelf_reader`.
 
 After click test:
 > editor Shelf Cut -> Story Reservoir.
