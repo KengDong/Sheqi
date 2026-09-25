@@ -1,537 +1,492 @@
 ---
 status: active-authority
-version: 1.1
-created_at: 2026-09-23
-authority: process
+version: 2.0
+updated_at: 2026-09-25
+authority: highest-process
 canon_effect: none
 outline_effect: none
-decision: D-0080
+decision: REBOOT-V3
 ---
 
-# FIRST-PRINCIPLES FICTION R&D OS
-## 从“设计正确”改成“读者真的不停”
+# FIRST-PRINCIPLES FICTION R&D OS V2
+## 新人第一本商业小说：最大化“大爆 + 长期追读 + 持续收入”的概率
 
-# 0. North Star
+# 0. 唯一最高目标
 
-唯一最高目标：
+> **为一个没有作者名气、第一次认真写长篇商业网文的人，最大化写出一部陌生读者愿意点开、主动持续读、喜欢人物、持续获得回报、能稳定连载，并最终形成显著长期收入与IP潜力的小说的概率。**
 
-> **写出陌生目标读者会自愿连续阅读、会喜欢人物、会主动等待下一件事、会不断发现新东西，并愿意追到很远的小说。**
+不优化：
+- 设计文档漂亮；
+- AI内部一致认可；
+- “看起来高级”；
+- 保住任何既有Concept / 人物 / 世界观；
+- 为沉没成本续命；
+- 文学奖式评价；
+- 单一平台指标。
 
-“比肩热门 / 超越热门”不是：
-- 表格更完整；
-- 设定更多；
-- 世界更大；
-- 更像某本热门。
+当前《把一条副本规则带回现实》、程野、R1、Field、Second Reality：
+> **全部降级为候选资产。**
 
-而是正文层同时做到：
+只有它们能提高最高目标时才保留。
 
-> **Retention Floor不掉档 + Breakout Premium明显更强 + Execution真实成立。**
+# 1. 爆款是乘法，不是Checklist加法
 
-# 1. Five First-Principle Questions
+工作模型：
 
-任何候选在进入正式写作前，只先回答五件事：
+> **Hit Probability**
+> =
+> Mass Demand
+> × Packaging CTR
+> × Cold-Start Retention
+> × Character / Relationship Pull
+> × Repeatable Reward Engine
+> × Long-Run Compounding
+> × Production Sustainability
+> × Platform Fit
+> × Distinctive Premium
+> × Execution
 
-## Q1｜Why click?
-一句话是否让我本能想点开？
+任何一项接近0：
+> 不靠其它项“平均补回来”。
 
-## Q2｜Why stay?
-第一页/第一章是否立刻兑现，而不是解释承诺？
+因此：
+- 一个很新颖但没人点的Concept，不行；
+- 一个前三章很炸但30万字枯竭的Concept，不行；
+- 一个架构能写300万字但首章无聊的Concept，不行；
+- 一个很好笑但没有剧情发动机的Concept，不行；
+- 一个AI认为完美、真人不想读的Concept，直接失败。
 
-## Q3｜Why care?
-除了Concept，我是否开始在乎某个人具体想得到/怕失去什么？
+# 2. Q0｜先进入真实需求，再创新
 
-## Q4｜Why grow?
-解决眼前问题后，是否自然制造更贵的新欲望、新关系、新问题或新世界？
+> **不要先发明一种读者还不知道自己想要的消费欲望。**
 
-## Q5｜Why this book?
-有没有一批场面/冲突，是换成普通都市/修仙/创业模板就整体失效的？
+优先：
+> **成熟母盘 × 秒懂新鲜Premium。**
 
-若五问中任何两项长期答不出来：
-> 不靠补Checklist抢救，优先淘汰/重启发动机。
+必须先回答：
+1. 哪个平台？
+2. 哪个成熟大盘读者已经在消费？
+3. Reader一眼知道会吃到什么？
+4. 我们提供什么只有这本稳定提供的新味道？
+5. 这个新味道能工作100万字还是只够3章？
 
+纯换皮：
+> 可替代性太高。
 
-# 2. Benchmark-First Creative Change Gate｜先看头部成品，再允许改小说
+纯新奇：
+> 获客成本太高。
 
-This is a UNIVERSAL first-principle rule.
+目标：
+> **熟悉到不用学习，新鲜到值得换书。**
 
-> **任何会改变小说读者体验的创意改动，在提出方案、改架构、改人物、改副本、改剧情、改爽点、改伏笔、改节奏、改关系、改世界观、改场景之前，必须先检索并拆解当前/经典热门小说中最接近的成熟成品。**
+# 3. Benchmark-First｜任何重大创意先看真实头部成品
+
+所有实质性改动前：
+> **先检索和拆解直接可比的当前/经典热门成品，再允许原创。**
+
+顺序固定：
+
+> 问题冻结
+> → 直接可比Benchmark
+> → 成品桥段/人物/节奏拆解
+> → Reader实际反应
+> → 提炼因果功能
+> → 作者Taste过滤
+> → 原创候选
+> → 原创性检查
+> → 微文本验证
 
 禁止：
-> 先凭AI直觉设计一个方案，再去找热门小说给它背书。
+> AI先设计，再搜索热门给自己背书。
 
-正确顺序必须是：
-
-> **明确当前问题**
-> → **搜索对应热门/头部作品**
-> → **拆实际成品怎么做**
-> → **提炼Reader-level causal function**
-> → **判断哪些适合Sheqi、哪些不适合**
-> → **再原创Sheqi方案**
-> → **最后做连续性/原创性检查**
-
-## 2.1 What Requires Search
-
-以下任一创意改动，默认必须先搜：
-
-- 开篇Hook / 首屏 / 第一章；
-- 主角或重要配角性格；
-- 人物关系与化学反应；
-- 副本 / 怪谈 / 生存场；
-- 战斗 / 智斗 / 降维爽；
-- 恐怖感 / 压迫感 / 濒死；
-- 反转；
-- 伏笔及回收；
-- 世界观扩大；
-- 长线主线；
-- Boss / 对手；
-- 能力 / 成长 / 奖励；
-- 团队 / 群像；
-- 日常 / 家庭戏；
-- 情绪高潮；
-- 节奏重构；
-- 商业爽点；
-- 章节结束钩子；
-- 任何作者明确说“平淡 / 不好看 / 太AI / 不够爽 / 不够可怕 / 人物没魅力”的重做。
-
-纯机械修正如：
-- typo；
-- 标点；
-- 已知连续性错误的无创意修复；
-可不为修复本身重新做市场检索。
-
-只要修复过程中需要**重新设计内容**：
-> 立即重新触发 Benchmark-First Gate。
-
-## 2.2 Search Must Match the Actual Problem
-
-禁止泛搜：
-> “热门无限流有哪些？”
-> “热门男主有哪些？”
-
-必须搜与当前问题直接同类的成品。
-
-Examples:
-
-如果问题是：
-> “第一副本不够恐怖、不够有故事性。”
-
-则应找：
-- 热门无限流/灵异文中公认记忆度高的具体副本/事件；
-- 读者为什么记住它；
-- 威胁怎么进入；
-- 人物怎么被逼选择；
-- 中段怎么重构理解；
-- 主角为什么差点死；
-- 结局怎么兑现。
-
-如果问题是：
-> “主角对敌人与家人反差不够。”
-
-则应找：
-- 热门作品里有明显关系模式切换的角色；
-- 具体场景与行为；
-- Reader喜欢的是哪种反差；
-- 哪些写法会变油腻/装逼/人设标签。
-
-Search target:
-> **具体桥段 / 具体人物行为 / 具体Reader反应。**
-
-不是只搜简介、榜单、标签。
-
-## 2.3 Evidence Minimum
-
-### Small targeted change
-至少：
-- 3个高相关成熟案例；
-- 尽量来自2部以上成功作品；
-- 至少1类Reader反馈 / 讨论用于验证实际接收。
-
-### Major architecture / protagonist / Field / opening reset
-至少：
+重大改动默认：
 - 5–8个直接可比案例；
-- 跨2–4部头部/热门作品；
-- 同时看：
-  - 成品正文/可靠剧情资料；
-  - 作者/编辑/创作访谈（若有）；
-  - Reader实际反馈。
+- 必要时8–12；
+- 尽量包含官方数据、正文/可靠剧情、作者访谈、Reader正负反馈。
 
-需要时扩大到：
-> 8–12个代表Arc / scene / character pattern。
+Benchmark必须有能力：
+> **推翻我们原来的想法。**
 
-Do NOT use popularity alone as proof.
-A popular book can contain weak arcs.
+# 4. 学热门：仿“因果和商业结构”，不仿独特表达
 
-## 2.4 Mandatory Benchmark Note
-
-重大创意改动前，必须先留下一个 research artifact，至少记录：
-
-1. 当前要解决什么问题；
-2. 搜了哪些成熟案例；
-3. 每个案例到底怎么做；
-4. Reader为什么爽 / 怕 / 继续读；
-5. 它的弱点是什么；
-6. 可借鉴的**功能**；
-7. 明确不能抄的：
-   - 人物；
-   - 世界观；
-   - 具体规则；
-   - 标志桥段；
-   - 文本；
-   - 连续事件顺序；
-8. Sheqi自身已有资产 / 约束；
-9. 基于这些证据，才提出原创方案。
-
-无这份证据：
-> **禁止把新创意提升为 Authority。**
-
-## 2.5 Borrow Function, Never Skin
-
-研究热门小说的目的不是：
-> 换名抄一遍。
-
-允许借鉴：
-- 情绪结构；
-- Reader reward cadence；
-- 威胁升级方式；
-- 人物关系功能；
-- 信息揭示节奏；
-- 伏笔回收机制；
-- 爽点因果；
-- 险境如何逼人物选择。
+允许高保真学习：
+- 一句话包装方式；
+- 第一屏密度；
+- 第一章承诺兑现速度；
+- 章节回报频率；
+- 关系出场节奏；
+- 人物功能配置；
+- 反转频率；
+- 悬念回收节奏；
+- 成长/资产/身份复利；
+- 单元长度；
+- 模式换挡；
+- 章尾功能；
+- 搞笑与严肃切换比例。
 
 禁止复制：
-- 标志性设定；
-- 独特怪物；
-- 具体规则；
-- 人物关系组合；
-- 知名桥段；
+- 原人物；
+- 原设定；
+- 原独特能力；
+- 标志怪物；
+- 著名桥段；
 - 谜底；
 - 台词；
-- 事件顺序。
+- 连续事件顺序；
+- 在世作者的具体文风。
 
-最终方案必须满足：
-> **能指出它从哪些成熟功能中学习，但没有任何一段能被概括成“把某热门桥段换皮”。**
+目标：
+> **像同一档顶级商业产品，不像同一本书换皮。**
 
-## 2.6 Search Is Not Decoration
+# 5. 未知作者冷启动是生存问题
 
-FAIL patterns:
+陌生读者不欠新人耐心。
 
-### FAIL A｜先想后搜
-先产出AI方案，
-再找三本热门说“类似作品也这么做”。
+## First ~500 words
+至少出现一种：
+- Premise正在发生；
+- 不可替代的人格行为；
+- 强关系化学；
+- 强危险；
+- 强社会反转；
+- 视觉奇观。
 
-### FAIL B｜只看简介
-只搜百科/简介，
-没有拆实际场景。
+## ~2k words
+Reader应知道：
+- 主角现在想要什么；
+- 语气是什么；
+- 主角和普通同类主角哪里不同；
+- 第一口实际回报/危险在哪里。
 
-### FAIL C｜只看作者意图
-作者说“这里很恐怖”不算。
-要看Reader是否真的记得 / 怕 / 想继续。
+## ~5k words
+至少留下：
+- 第一笔永久果实或代价；
+- 一个想再见的人；
+- 一个只有这本书成立的场面。
 
-### FAIL D｜机械取平均
-A作品学一点，B作品学一点，C作品学一点，
-最后拼成没有个性的AI混合物。
+## ~10k words
+应开始暴露：
+- Book Contract；
+- tangible next rung；
+- bigger-world shadow；
+- Premium第二次不同用法。
 
-### FAIL E｜为Checklist搜
-搜索只是为了填“已参考热门小说”，
-而实际方案在搜索前已经决定。
+禁止：
+> “真正好看从20章开始。”
 
-正确要求：
-> **Benchmark必须有能力推翻当前方案。**
+# 6. Concept不是发动机；Story Engine才是
 
-如果研究结果没有改变任何假设：
-> 要么原方案证据非常强，
-> 要么检索太浅。
+真正的长篇发动机必须能自动生成：
+- 新场景；
+- 新关系；
+- 新资源/能力/身份变化；
+- 更贵的欲望；
+- 对手学习；
+- 旧状态复利。
 
-## 2.7 Benchmark-to-Sheqi Synthesis Questions
+概念必须通过：
 
-研究完成后，正式设计前必须回答：
+## 30–50 Situation Reservoir
+不排章节。
+只问：
+> “这个场面我真的想看吗？”
 
-1. 热门成品真正有效的因果是什么？
-2. 哪个部分只是该书专属外壳？
-3. Sheqi已有哪个资产可以承担同样功能？
-4. 怎么让它只可能发生在Sheqi？
-5. 如果直接照热门方法写，会破坏Sheqi什么？
-6. Reader在Sheqi版本里会得到什么新的额外奖励？
-7. 这个方案是否比“AI凭空原创第一版”明显更具体、更有人、更有故事？
+若20个以后大量换皮：
+> DROP / MUTATE。
 
-第7问答不出：
-> **继续研究，不准写。**
+## No-Fresh-Gimmick Stress
+长时间不给：
+- 新副本；
+- 新技能；
+- 新客户；
+- 新规则；
+- 新地图；
 
-## 2.8 Author Taste Overrides Abstract Best Practice
+故事还能不能跑？
 
-热门不是命令。
+不能：
+> Case-of-the-week / gimmick-supply engine，商业风险高。
 
-最终过滤顺序：
+# 7. 人物不是加分项，是留存发动机
 
-> **成熟成品证据**
-> + **Reader实际反应**
-> + **作者明确审美**
-> + **Sheqi现有独特资产**
-> = **可执行原创方案**
+前三章后必须能描述主角而不提外挂。
 
-如果一个市场上常见的成功写法持续让作者觉得：
-> “AI / 机械 / 不合我意”
+主角至少有：
+- concrete desire；
+- behavioral bias；
+- flaw / oddity；
+- social style；
+- repeatable scene-generation source。
 
-则记录为作者taste constraint，
-禁止因为“热门也这么写”强行采用。
+“聪明、冷静、负责、善良”：
+> 不够。
 
-## 2.9 Stop Rule
-
-任何执行窗口若无法联网 / 无法完成必要Benchmark检索：
-
-> **不得擅自进行重大创意改写。**
-
-只能：
-- 做已批准方案的机械执行；
-- 做连续性QA；
-- 明确报告Benchmark Gate未完成。
-
-## 2.10 One Sentence
-
-> **先看真正好看的成品为什么好看，再结合Sheqi原创；禁止AI闭门造车以后拿读者当测试集。**
-
-
-# 3. Generative Story Design
-
-小说的主要因果必须来自：
-
-> **Person wants something**
-> + **another person/system wants something incompatible**
-> + **book-specific rule makes collision unique**
-> + **choice has irreversible cost**
-> = **story**
-
-禁止主要因果来自：
-> “这一章需要完成某个设计指标。”
-
-以后章前最重要的三个问题：
-
-1. 为什么这件事今天非发生不可？
-2. 发生后什么永远回不去了？
-3. 它自然制造了哪件我真的想看的下一件事？
-
-# 4. Story Possibility Reservoir Before Outline
-
-正式排20章/50章前，先证明：
-> **这本书天然有很多好戏。**
-
-流程：
-- 先产出30—50个一句话Situation / Scene Seeds；
-- 不要求均匀覆盖世界观；
-- 不允许为了数量加入“功能正确但不想看”的场面；
-- 每个Seed只问：
-  > **如果这是章节标题+一句预告，我真想点吗？**
-
-如果前15—20个以后明显开始重复：
-> 发动机续航不足，优先淘汰/变异Concept。
-
-Reservoir通过后，才允许做轻量阶段排序。
-
-# 5. Character Collision Web Before Character Bible
-
-只先保留4—6个核心人物。
-
-每个人必须有：
-- 当前最想得到的东西；
-- 不愿付的代价；
-- 一个与主角无关也会继续推进的生活；
-- 至少两个人天然利益冲突；
-- 至少一个选择会让关系永久变化。
+至少2–4个非主角需要：
+- 自己的欲望；
+- 主角不在场也会行动；
+- 关系会记旧账；
+- 能自然制造下一场戏。
 
 测试：
-> **主角今天消失，这些人明天还有没有事发生？**
+> **把主角删掉24小时，这些人明天还有没有事？**
 
-若没有：
-> 不是人物网，是功能接口表。
+# 8. 每章必须有Reader Reward，但不能机械打卡
 
-# 6. Minimal Horizon, Not Construction Blueprint
+常见回报：
+- 搞笑；
+- 情绪化学；
+- 爽点；
+- 能力/资源增长；
+- 身份重估；
+- 公开胜利；
+- 信息优势；
+- 恐惧释放；
+- 关系变化；
+- 反转；
+- 谜题结算；
+- 新选择。
 
-写前只锁三层：
+不是要求每章全部有。
 
-### Near
-眼前1—3章最想看什么？
+要求：
+> Reader不能连续多章只收到“以后会很精彩”的欠条。
 
-### Mid
-10—30章内一个具体、可盼、人物化的大果实是什么？
+# 9. 高潮必须改变未来，不得清零
 
-### Far
-如果这书真写到百万字，Reader最远在等什么？
+Major / Medium Arc结束后至少留下2项：
+- permanent asset；
+- changed relationship；
+- changed status；
+- new access；
+- irreversible cost；
+- visible next rung；
+- larger social layer；
+- recontextualized old clue。
 
-只锁方向，不锁施工顺序。
+至少一项必须可命名/可计数/可定位。
 
-禁止在正文前把20章写成逐项交付清单。
+坏结算：
+> “真正的秘密才刚刚开始。”
 
-# 7. Writer Information Diet
+好结算：
+> Reader清楚“我现在拥有什么，下一步具体想拿什么”。
 
-Writer默认只读取：
+# 10. 长篇规模来自“旧东西复利”，不是不断造新东西
 
-1. Book Desire Thesis（≤1页）
-2. Core Rule / Hard Continuity（必要规则）
-3. 4—6 Character Desire Cards
-4. Already Happened / Irreversible Ledger
-5. Story Reservoir中当前可用Seeds
-6. Near/Mid/Far Horizon
-7. Voice constraints
+Ch20：
+> 至少3个不同维度永久改变。
 
-Writer默认**不读取**：
-- Benchmark评分；
-- Five Curves；
-- Rolling-3检查表；
-- Total Editor预设答案；
-- “本章必须完成X指标”的逐章施工表。
+Ch50：
+> 至少一个Ch10前的人/物/规则/关系，在新场景里自动增值或反噬。
 
-原则：
-> **架构工具坐副驾驶，不坐方向盘。**
+Ch100：
+> 进入更大的社会系统，而不是只换更远地图。
 
-# 8. Prototype Ladder
+Ch300：
+> 至少两次真正故事模式变化。
+> 原Premium反而更重要。
 
-不再直接写20章。
+长篇核心：
+> **旧人、旧资产、旧债、旧规则、旧选择不断生新戏。**
 
-## P0｜First Screen
-只测：为什么不立刻退？
+# 11. 新人执行能力必须进入Concept评价
 
-## P1｜Ch1
-只测：承诺是否真正兑现？
+一个“理论上能爆”的Concept，如果新人稳定写不出来：
+> 商业上等于不存在。
 
-## P3｜Ch1—3
-只测：
-- Concept第二/第三次是否还能产生不同好戏；
-- 是否开始追人。
+必须评估：
+- 每日/每周产能；
+- 是否每2k字都需要新谜题；
+- 是否需要大量专业研究；
+- 是否需要持续完美伏笔；
+- 是否需要高难群像调度；
+- 是否容易卡文；
+- 是否存在可模板化但不重复的Scene Engine。
 
-## P7｜Ch1—7
-这是新关键Gate。
-原因：
-> C01真实弃读首次出现在Ch7附近。
+优先：
+> **高上限 + 低执行方差。**
 
-只测：
-> Concept新鲜感下降后，Reader是否仍主动继续。
+# 12. 平台适配后置但不能忽略
 
-## P10｜Ch1—10
-只有P7行为通过才写。
-测：
-> 第一阶段是否真正形成长期阅读发动机。
+## Qidian
+重点：
+- 付费章节价值；
+- 人物粉丝；
+- 成长/资产/身份复利；
+- 中长线期待；
+- 100万字+可持续。
 
-## P20+
-不自动继续。
-只有P10自愿阅读 + Total Editor确认后才进入。
+## Fanqie
+重点：
+- 标题简介秒懂；
+- 第一屏；
+- 前3章；
+- 快兑现；
+- 追更；
+- 连续读；
+- 低阅读摩擦。
 
-# 9. Voluntary Stop Is Primary Metric
+Root Concept先选强，
+再做平台原生包装/开篇密度版本。
 
-Reader protocol：
+若平台激励冲突：
+> 不强迫一稿通吃。
 
-> 从第一页开始。
-> 任何时刻如果在真实平台环境下会退出，立刻停止。
-> 不为完成任务继续。
-> 停止以前不分析、不评分。
+# 13. 商业上的“搞笑”只是工具，不是宗教
 
-Stop后才记录：
-- exact line/chapter；
-- 最后一个真正兴奋点；
-- 当时在追谁；
-- 当时在等什么；
-- 为什么下一页不值得时间；
-- 是否愿意主动索要未提供的下一章。
+搞笑可提高：
+- 点击后留存；
+- 人物黏性；
+- 低摩擦日更消费；
+- 分享传播；
+- 长期熟人感。
 
-**后文不得反向补分。**
+但搞笑必须来自：
+- 人格；
+- 关系；
+- 世界逻辑；
+- 稳定错位；
+- 荒诞但合理的制度/规则。
 
-# 10. Diagnostics Only After Behavior
-
-只有Reader发生：
-- 退出；
-- 明显掉速；
-- 人物不在乎；
-- 世界缩窄；
-- 重复；
-- 看得懂但没兴趣；
-
-才调用诊断库：
-- Scene Ecology；
-- Novelty Bandwidth；
-- Macro Promise；
-- Character Attachment；
-- Five Curves；
-- Semantic Rolling-3；
-- Benchmark Causality；
-- prose/humanization。
-
-诊断用于定位原因。
-禁止诊断项直接变成“下一版必须新增的素材”。
-
-# 11. Benchmark Function-Cloning
-
-允许主动“仿热门”，但只仿：
-
-> **Reader-level causal function。**
-
-禁止仿：
-- 原人物；
-- 原世界设定；
-- 原剧情链；
-- 标志性桥段；
-- 文本表达；
-- 连续事件顺序。
-
-合法实验例如：
-
-### World-Expansion Clone
-复制功能：
-> 稳定普通欲望不断撞进新社会系统，每次产生新的荒谬成本。
-
-必须换：
-> 世界规则、人物、冲突、场景、资产、社会想象。
-
-### Mystery-Recontextualization Clone
-复制功能：
-> 每个答案让旧信息升值，并打开更大问题。
-
-不得复制具体谜底/游戏/组织结构。
-
-### Asset/Fantasy-Compounding Clone
-复制功能：
-> 同一个动作重复，但每次留下更大的资产、控制力和未来兑现期待。
-
-### Relationship/Life-Interface Clone
-复制功能：
-> 核心关系稳定，但生活接口不断扩张，使人一直有事可追。
-
-### Hybrid Clone
-允许组合两个发动机，但必须形成新的Breakout Premium。
-
-# 12. Exceed Popular Fiction Gate
-
-不能保证“超越”，但只有同时出现以下证据才有资格谈：
-
-1. **Continuation**
-   - clean-room Reader自愿读到目标Gate，没有被要求完成。
-2. **Character Pull**
-   - 至少2名非主角被Reader主动提及、想再见。
-3. **Future Pull**
-   - Reader自己说出具体想等的Near/Mid/Far事件。
-4. **Distinctive Recall**
-   - Reader能不经提示说出至少2个“只有这本书像这样”的场面。
-5. **Expansion**
-   - Reader对“这书还能发生什么”的想象随章节增加，而不是缩窄。
-6. **Breakout Premium**
-   - 与热门Benchmark相比，不只是无短板，而有更鲜明的记忆点/情绪/人物化学/社会想象之一。
-7. **No Author Rescue**
-   - 作者不需要再指出一个基础维度，团队才第一次意识到它存在。
-
-# 13. Kill Rules
-
-以下任一触发，优先停，不继续加补丁：
-
-- P3就只剩Concept惯性；
-- P7出现多Reader同区间自愿弃读；
-- Story Reservoir到20个Seed开始大量换皮；
-- 核心人物必须靠主角职业才能出现；
-- 需要越来越多解释才能成立；
-- 每次修复一个维度都会削弱另一个维度；
-- 候选最独特的场面少于5个且难继续生成。
+禁止：
+- 热梗堆砌；
+- 全员段子手；
+- 为搞笑降智；
+- 笑话取消死亡/成本；
+- 一个梗吃100章。
 
 原则：
-> **杀掉弱发动机，比把弱发动机修成700章设计文档便宜得多。**
+> **人可以疯，世界必须认真。**
 
-# 14. One Sentence
+# 14. Reader Evidence Hierarchy
 
-> **先证明“我有很多真的想看的故事”，再证明“这些人会自己制造故事”，最后才证明“它能写很长”。**
+从高到低：
+
+1. 作者/真实目标读者自愿停读与续读；
+2. clean-room voluntary continuation / stop；
+3. 连续正文体验；
+4. 未提示人物/场景记忆与下一期待；
+5. Story Reservoir欲望；
+6. 当前市场/Benchmark证据；
+7. Architecture；
+8. Selfcheck。
+
+低层永远不能覆盖高层。
+
+Hard:
+> Reader允许随时停。
+> 停了就停。
+> 不要求“为了评审读完”。
+
+# 15. 作者负担最小化
+
+作者不再负责：
+> “我指出一个问题，你补一个问题。”
+
+内部团队应完成：
+- 市场扫描；
+- Benchmark；
+- 20–30个候选；
+- 内部淘汰；
+- Reservoir；
+- 微文本；
+- clean reader；
+- 连续性QA。
+
+作者只看：
+> **每一大Gate活下来的1–2个真正强候选。**
+
+如果需要作者连续指出基础维度：
+> 流程失败。
+
+# 16. Kill Fast｜禁止沉没成本救稿
+
+以下任一情况优先杀/重启：
+- 作者第一感觉不想看；
+- 标题/一句话要解释很久；
+- P0没有续屏欲；
+- P1没有兑现Premise；
+- P3只剩Concept新鲜感；
+- Reservoir明显换皮；
+- 主角可被普通聪明男主替代；
+- 多个Reader在同区间自愿停；
+- 修一个维度必然削弱另一个核心维度；
+- 需要越来越多新设定才能维持刺激；
+- 作者评价“AI、机械、正确但不好看”。
+
+原则：
+> **杀弱发动机，比修700章设计文档便宜。**
+
+# 17. Two-Lane Reboot
+
+同一个最高目标下保留两条实验路线：
+
+## Lane A｜Native Breakout
+> 市场母盘明确，但Premium和故事链尽量原创。
+
+## Lane B｜Commercial Mirror
+> 对选定头部作品做高保真“读者体验/商业结构镜像”，最大限度降低新人闭门造车风险。
+
+两条都不得抄独特表达/具体桥段。
+
+同一Gate、同一Reader规则竞争。
+
+Legacy Sheqi：
+> 作为候选资产/Control，不享有晋级特权。
+
+# 18. 最小创作漏斗
+
+重大候选按：
+
+> Market Dossier
+> → 20–30 Commercial Nuclei
+> → Desire Cut
+> → 30–50 Situation Reservoir
+> → Character Collision
+> → 1-page Near/Mid/Far
+> → P0 First Screen
+> → P1 Ch1
+> → P3 Ch1–3
+> → Full Opening Arc
+> → P7
+> → P20
+> → P50 Serialization Simulation
+> → Launch Candidate
+
+禁止：
+> P0之前做完整百万字架构。
+
+后台只需要知道：
+> 有足够长跑证据，不需要先画完长跑路线。
+
+# 19. 第一性原理五问升级为七问
+
+任何候选都必须回答：
+
+## Q0｜Why this market?
+为什么已有大量Reader会点这类书？
+
+## Q1｜Why click?
+一句话/标题为什么点？
+
+## Q2｜Why stay now?
+第一页/第一章为什么不退？
+
+## Q3｜Why care?
+为什么在乎某个人，不只是设定？
+
+## Q4｜Why get rewarded?
+连续读20章具体反复吃什么果子？
+
+## Q5｜Why grow?
+解决眼前问题后，什么东西永久变大/变贵？
+
+## Q6｜Why this book?
+什么体验只有这本能稳定提供？
+
+任何两问长期答不出：
+> DROP / ROOT REBUILD。
+
+# 20. One Sentence
+
+> **先进入真实大需求，用热门成品校准，再造一个秒懂但不可替代的发动机；用最短真实正文让陌生读者投票，只有读者舍不得停的东西才配获得架构和长篇资源。**
