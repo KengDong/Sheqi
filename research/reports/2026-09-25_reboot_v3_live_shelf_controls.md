@@ -117,10 +117,10 @@ Public factual premise:
 Opening an impossible door exposes the protagonist to spaces and truths outside ordinary reality.
 
 Reader-facing one-line:
-于生打开了一扇不该存在的门，从熟悉的日常跨进现实之外的异常世界，此后每次靠近那扇门，都可能撞见新的危险和真相。
+于生打开了一扇不该存在的门，熟悉的日常从此裂开，他开始接触现实之外的异常世界，以及藏在异常背后的更深真相。
 
 Reader-facing short premise:
-原本熟悉的世界忽然多出了一层无法用常识解释的空间。于生从第一次开门开始，被迫面对那些本不该出现在现实里的东西，也一步步发现，门后的异常并不是偶然，而是通向更大世界的一条入口。
+原本熟悉的世界忽然多出了一层无法用常识解释的部分。于生从第一次开门开始，被卷进现实之外的异常景象，也不得不重新认识自己一直生活的世界。越往前走，眼前的怪事越难再用“偶然”解释。
 
 Fresh public check / strength evidence:
 https://book.qidian.com/honor/1041604040
