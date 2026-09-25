@@ -14,12 +14,6 @@ Gate A verdict:
 
 Current Ch1—8 source and R1 mechanics are hard-stable for this character experiment.
 
-# Gate A PASS evidence
-
-> `reviews/2026-09-25_d0111_gate_a_ch1_8_hard_qa.md`
-
-Gate A is complete.
-You are now unblocked.
 
 # Mission
 
