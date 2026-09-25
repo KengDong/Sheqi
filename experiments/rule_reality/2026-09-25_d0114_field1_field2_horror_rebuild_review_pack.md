@@ -1,5 +1,5 @@
 ---
-status: AUTHOR REVIEW PACK / NON-CANON
+status: REJECTED / SUPERSEDED BY D-0115
 date: 2026-09-25
 decision: D-0114
 candidate: 《把一条副本规则带回现实》
@@ -7,6 +7,15 @@ scope: Field #1 + Field #2 high-intensity rebuild
 ---
 
 # D-0114｜Field #1 / Field #2 Horror Rebuild Review Pack
+
+> REJECTED by author.
+>
+> Failure reason:
+> - environment-first;
+> - threat stacking without a single distinctive trap;
+> - rules appeared as components rather than the engine;
+> - mechanically “large” but not memorable / character-specific;
+> - reads like low-level AI assembly.
 
 # Core Correction
 
