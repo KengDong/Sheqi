@@ -4,7 +4,7 @@ updated: 2026-09-25
 
 # editor_in_chief
 - status: ACTIVE / ORCHESTRATION ONLY
-- current_stage: Shelf Cut complete
+- current_stage: Reservoir PASS; Character Benchmark dispatched
 
 # completed
 - Market Scout
@@ -13,30 +13,38 @@ updated: 2026-09-25
 - Packaging Forge
 - Fresh Shelf Reader A
 - Fresh Shelf Reader B
+- Story Reservoir Forge
 
-# story_reservoir_forge
+# character_engine_benchmark_scout
 - status: READY / RUN NOW
-- current: handoffs/story_reservoir_forge/CURRENT.md
-- brief: research/briefs/2026-09-25_reboot_v3_story_reservoir_brief.md
+- current:
+  > `handoffs/character_engine_benchmark_scout/CURRENT.md`
+- brief:
+  > `research/briefs/2026-09-25_reboot_v3_character_engine_benchmark_brief.md`
+
+# character_collision_forge
+- status: BLOCKED
+- blocked_by:
+  > Character Engine Benchmark + editor synthesis
 
 # ACTIVE candidates
 - A01
-- B10
 - A02
 - A04
+- B10
 
 # RESERVE candidates
 - B04
 - A10
 
 # downstream
-- character_collision_forge: BLOCKED
 - minimal_horizon_forge: BLOCKED
 - P0 writers: NOT DISPATCHED
 - prose readers: BLOCKED
 
 # Current Single Next Action
-Run story_reservoir_forge.
+> Run character_engine_benchmark_scout.
 
-# Selection Rule
-No forced quota. Eliminate only on structural or repeated evidence.
+# WIP
+Core worker:
+> 1 research worker.
