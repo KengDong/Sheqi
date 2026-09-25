@@ -1,8 +1,8 @@
 # Rule-Reality Full-Focus Successor｜CURRENT
 
 role: rule_reality_full_focus_successor
-status: ACTIVE / D0109_FIRST_IMPACT_LOCKED / FIELD2_WRITER_READY
-decision: D-0109
+status: ACTIVE / FIELD2_QA_PASS / VOLUNTARY_READER_READY
+decision: D-0110
 candidate: 《把一条副本规则带回现实》
 
 # Author Direction
@@ -166,26 +166,34 @@ This is intentional: the controller must not contaminate the isolated writer exp
 Verified and patched.
 D-0106 execution-gap closure is now reflected in the prototype brief.
 
-## Step 2｜READY / NEXT EXTERNAL ISOLATED WINDOW
-Use:
-> `handoffs/rule_field2_fengmenlou_writer/CURRENT.md`
+## Step 2｜DONE
+Isolated Writer completed and stopped.
 
-The successor/controller itself must NOT write the isolated prose in this window.
-
-Required outputs before returning here:
+Outputs:
 - `experiments/rule_reality/d0106_fengmenlou_field2_prototype.md`
 - `experiments/rule_reality/d0106_fengmenlou_selfcheck.md`
 - writer CURRENT -> DONE
-- writer history + Git commit
+- writer history + Git commits
 
-## Step 3
-After writer DONE:
+## Step 3｜DONE / READER READY
+Completed:
 - hard-error/continuity QA only;
-- anonymize the prototype;
-- create ONE clean-room voluntary reader window;
-- reader must stop at genuine abandonment.
+- four microfixes only;
+- anonymous package created;
+- exactly ONE clean-room voluntary reader handoff created.
 
-## Step 4
+Hard QA:
+> `reviews/2026-09-25_d0109_field2_hard_qa.md`
+
+Anonymous prose:
+> `experiments/rule_reality/anonymous/2026-09-25_d0109_field2_anonymous_prose.md`
+
+Next isolated window:
+> `handoffs/rule_field2_voluntary_reader_a/CURRENT.md`
+
+Reader must stop at genuine abandonment.
+
+## Step 4｜NEXT AFTER READER DONE
 Behavioral synthesis:
 Ask:
 - did they voluntarily continue?
