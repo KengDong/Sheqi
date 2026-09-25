@@ -1,11 +1,14 @@
 ---
-status: PROVISIONAL / AUTHOR CALIBRATION REQUIRED
+status: HISTORICAL TASTE EVIDENCE / NOT CURRENT
 date: 2026-09-25
 candidate: 《把一条副本规则带回现实》
 scope: Field taste — what the author is actually asking for
 ---
 
 # RULE-REALITY FIELD TASTE PROFILE V0
+
+> Historical evidence from the Rule-Reality phase.
+> Do not treat this as a current requirement unless a future candidate specifically re-enters horror/Field development.
 
 This file is NOT a Field design.
 It exists because repeated concept generation missed the author's taste.
