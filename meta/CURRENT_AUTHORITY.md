@@ -10,7 +10,7 @@ decision: REBOOT-V3
 # Highest Process Authority
 
 1. `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md` v2.1
-2. `meta/HIT_FICTION_RND_MASTER_PIPELINE_V3.md` v3.2
+2. `meta/HIT_FICTION_RND_MASTER_PIPELINE_V3.md` v3.3
 3. `meta/CANDIDATE_SELECTION_AND_FALSE_NEGATIVE_POLICY_V1.md`
 4. `meta/READER_EVIDENCE_HIERARCHY.md`
 5. `meta/BENCHMARK_CAUSALITY_STANDARD.md`
@@ -38,61 +38,40 @@ RESERVE:
 - Lane A/B Concept Forge: DONE
 - Desire Cut: DONE
 - Packaging Micro-Gate: PASS
-- Debranded strong-control shelf: PASS
+- Debranded control shelf: PASS
 - Dual clean-room Shelf Readers: DONE
 - Shelf Cut: DONE
 - Story Reservoir: PASS
-- Reservoir Editor Verdict: COMPLETE
-
-Reservoir verdict:
-> no forced cut; no structural supply zero.
+- Character Engine Benchmark: PASS
+- Character Engine Editor Synthesis: COMPLETE
 
 # Current Single Next Action
 
-> **Run targeted Character Engine Benchmark.**
+> **Run Character Collision.**
 
 Owner:
-> `handoffs/character_engine_benchmark_scout/CURRENT.md`
+> `handoffs/character_collision_forge/CURRENT.md`
 
 Brief:
-> `research/briefs/2026-09-25_reboot_v3_character_engine_benchmark_brief.md`
+> `research/briefs/2026-09-25_reboot_v3_character_collision_brief.md`
 
 Output:
-> `research/2026-09-25_reboot_v3_character_engine_benchmark.md`
+> `experiments/reboot_v3/character_collision/2026-09-25_reboot_v3_character_collision.md`
 
-# Why Benchmark Comes Before Character Design
+# Character Design Hard
 
-Character Collision is a major creative change.
-
-Benchmark-First therefore requires:
-> proven character/relationship engines -> causal functions -> then original cast design.
-
-Do NOT allow AI to default into:
-- smart/calm protagonist;
-- funny sidekick;
-- warm support character;
-- cardboard rival;
-- grateful rescued NPCs;
-- customer-of-the-week cards.
-
-# Candidate-Specific Risks
-
-A01:
-> residents becoming management units.
-
-A02:
-> residents becoming engineering obstacles / meeting participants.
-
-A04:
-> saved people becoming automatic grateful allies; rescue team becoming role labels.
-
-B10:
-> customers becoming transaction cards; scenes collapsing to inspect -> price -> deal.
+Every ACTIVE candidate must prove:
+- independent wants;
+- offscreen agency;
+- relationship memory;
+- two-way leverage;
+- horizontal relationships;
+- ordinary-chapter survival;
+- protagonist-absence continuity.
 
 # Hard
 
-Until Character Engine Benchmark is committed and reviewed:
-- Character Collision BLOCKED;
+Until Character Collision is committed and reviewed:
 - Minimal Horizon BLOCKED;
 - P0 BLOCKED;
 - no prose;
@@ -101,4 +80,4 @@ Until Character Engine Benchmark is committed and reviewed:
 
 # One Sentence
 
-> **结构供给已经过关；现在先从热门成品研究“人为什么能自己生戏”，再允许AI设计我们的人物。**
+> **结构已经证明能写长；现在必须证明“人”本身也能成为第二发动机。**
