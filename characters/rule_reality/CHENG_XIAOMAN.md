@@ -4,7 +4,7 @@ status: PROVISIONAL LOCK
 date: 2026-09-25
 candidate: 《把一条副本规则带回现实》
 role: sister / ordinary-life adaptation engine
-canon_effect: personality-direction provisional; current source age = 19
+canon_effect: personality-direction provisional; age locked = 19
 
 # Reader Contract
 
@@ -89,8 +89,8 @@ Avoid:
 Current authoritative prose:
 > **19岁。**
 
-Recommendation:
-> **KEEP 19 for now.**
+Author-locked age:
+> **19岁。**
 
 Why:
 - young enough to retain strong “妹妹 / student / family” texture;
@@ -99,8 +99,8 @@ Why:
 - can refuse Cheng Ye's protection credibly;
 - avoids turning her into a minor whom the story naturally treats as a child.
 
-Preferred sibling gap:
-> Cheng Ye 26–27 / Xiaoman 19 = 7–8 years.
+Locked sibling gap:
+> **Cheng Ye 27 / Xiaoman 19 = 8 years.**
 
 Do NOT lower below 18 without a major story reason.
 
