@@ -14,12 +14,12 @@ They DO preserve current provisional personality decisions so future writers do 
 > `characters/rule_reality/CHENG_YE.md`
 
 Current core:
-- error-tolerant strategist;
-- fallback before bet;
-- cost must have a name;
-- flaw = respects informed risk in theory but struggles to let others voluntarily choose danger;
-- surface = low-aggression / calm / sparse dry edge;
-- exact age still pending author lock; recommended 26–27.
+- enemy mode = cold / cautious / ruthless / decisive;
+- family & teammate mode = humorous / reliable / warm / relaxed;
+- intelligence advantage = Rule Experience Gap;
+- strategic signature = cheap tests + fallback + mature rule counterplay;
+- age locked = 27;
+- sibling gap with Xiaoman = 8 years.
 
 ## 方岑
 > `characters/rule_reality/FANG_CEN.md`
@@ -57,14 +57,13 @@ Before writing or editing a scene centered on one of these characters:
 3. do not turn surface traits into repeated catchphrases;
 4. personality changes require an explicit character decision / experiment.
 
-# Pending Age Lock
+# Age Lock
 
-Recommended working configuration:
-> **程野 27 / 程小满 19** (8-year gap)
+> **程野 27 / 程小满 19 / 兄妹差8岁**
 
-Alternative:
-> **程野 26 / 程小满 19** (7-year gap)
+Locked by author.
 
-Do NOT lower Xiaoman below 18 unless the author explicitly reopens her role design.
+# Writing Guardrail
 
-Exact Cheng Ye age remains pending author confirmation.
+Before any major Rule-Reality prose rewrite, also read:
+> `meta/RULE_REALITY_BREAKOUT_WRITING_GUARDRAILS_V1.md`
