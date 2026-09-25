@@ -19,6 +19,8 @@ D-0108 scale + protagonist amplification is also binding:
 Purpose:
 > prove whether the Rule Field engine itself is bingeable at head-tier ambition.
 
+D-0109 First-Impact Card is binding for the opening impact sequence and reader-facing naming.
+
 This is NOT continuous manuscript canon.
 
 # Required Inputs
@@ -34,7 +36,8 @@ Read ONLY:
 7. `experiments/rule_reality/2026-09-24_d0105_field2_three_way_cards.md`
 8. `architecture/2026-09-25_d0107_rule_reality_unknown_author_breakout_compression.md`
 9. `architecture/2026-09-25_d0108_rule_reality_scale_and_protagonist_amplification.md`
-10. existing Rule-Reality Opening Arc ONLY for Cheng Ye/R1 continuity.
+10. `research/briefs/2026-09-25_d0109_field2_first_impact_card.md`
+11. existing Rule-Reality Opening Arc ONLY for Cheng Ye/R1 continuity.
 
 Do NOT read other candidate prose.
 
