@@ -1,8 +1,8 @@
 # Rule-Reality Full-Focus Successor｜CURRENT
 
 role: rule_reality_full_focus_successor
-status: ACTIVE / D0107_INTEGRATED / FIELD2_WRITER_READY
-decision: D-0107
+status: ACTIVE / D0108_INTEGRATED / FIELD2_WRITER_READY
+decision: D-0108
 candidate: 《把一条副本规则带回现实》
 
 # Author Direction
@@ -13,6 +13,7 @@ candidate: 《把一条副本规则带回现实》
 # First Read｜ONLY these authoritative files first
 
 1. `meta/CURRENT_AUTHORITY.md`
+2. `architecture/2026-09-25_d0108_rule_reality_scale_and_protagonist_amplification.md`
 2. `architecture/2026-09-25_d0107_rule_reality_unknown_author_breakout_compression.md`
 3. `reviews/2026-09-25_d0106_rule_reality_execution_gap_audit.md`
 4. `meta/RULE_REALITY_EXECUTION_OS_V1.md`
@@ -46,6 +47,39 @@ Architecture pick is NOT canon.
 # Current Biggest Unknown
 
 > Can an actual second Rule Field be as readable as top infinite/survival fiction, while creating a magnetic recurring person and preserving our unique reality-return engine?
+
+# D-0108 Scale + Protagonist Amplification｜2026-09-25
+
+Author identified two remaining head-tier gaps:
+- macro scale still felt smaller than top competitors;
+- Cheng Ye still lacked a strong reader-reassurance / command identity.
+
+Resolved by amplifying existing engines rather than adding a new one:
+
+> Returned Rules make disconnected failed-future fragments increasingly compatible until they assemble into a coherent Second Reality.
+
+Macro antagonist:
+> the Second Reality itself.
+
+Human face:
+> Future-Wanter / rival who intentionally strengthens a desired failed fragment.
+
+Cheng Ye target:
+> not omniscient; he designs plans that survive wrong assumptions.
+
+Signature:
+- result/evidence first;
+- minimum-cost tests;
+- cost must have a name;
+- fallback before bet.
+
+Target reader feeling:
+> “程野不一定永远猜对，但有他在，不会因为猜错一次就全灭。”
+
+Authority:
+> `architecture/2026-09-25_d0108_rule_reality_scale_and_protagonist_amplification.md`
+
+Field #2 Brief has absorbed these tests.
 
 # D-0107 Unknown-Author Breakout Compression｜2026-09-25
 
