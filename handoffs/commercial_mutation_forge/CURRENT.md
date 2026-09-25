@@ -1,30 +1,70 @@
 # Commercial Mutation Forge｜CURRENT
-role: commercial_mutation_forge
-status: DONE
-decision: D-0085
 
-Completed:
-1. Read D-0084A Total Editor Commercial Gate.
-2. Read D-0085 Lane M brief.
-3. Used only frozen R1 / R3 / R8 concept-level assets required for Mutation.
-4. Produced 2 clearly distinct Commercial Mutations per candidate.
-5. Completed hard-gate selfcheck.
+## ROLE
+- role: commercial_mutation_forge
+- status: BLOCKED
+- decision: REBOOT-V3
+- lane: B｜Commercial Mirror
 
-Output:
-> experiments/commercial_reforge/2026-09-24_r_mutation_candidates.md
+## PURPOSE
+After current-market evidence is frozen, select:
+> **1 primary current hit benchmark + at most 2 support benchmarks**
 
-Selfcheck:
-> reviews/2026-09-24_d0085_commercial_mutation_selfcheck.md
+then generate:
+> **10–15 original commercial nuclei that mirror proven reader/commercial functions without copying plot/characters/settings/scenes/voice.**
 
-Deliver:
-> editor_in_chief / Commercial Desire Cut
+This is NOT active yet.
 
-Boundary preserved:
-- no prose;
-- no chapter outline;
-- no Primary;
-- no Canon / Outline change;
-- no R2 / R7 rescue.
+## BLOCKED BY
+1. `research/2026-09-25_b_lane_newcomer_breakout_dossier.md`
+2. editor_in_chief market synthesis / commercial constraints
+3. fresh REBOOT-V3 Lane B brief
 
-Next:
-> STOP. Await editor_in_chief Commercial Desire Cut.
+## CURRENT AUTHORITY
+1. `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
+2. `meta/HIT_FICTION_RND_MASTER_PIPELINE_V3.md`
+3. `meta/EXPERIMENT_LANES_V2.md`
+4. `meta/BENCHMARK_CAUSALITY_STANDARD.md`
+
+## HARD ORIGINALITY BOUNDARY
+May mirror:
+- packaging function;
+- first-screen density;
+- chapter reward timing;
+- protagonist role;
+- relationship cadence;
+- progression cadence;
+- arc rhythm;
+- cliffhanger function;
+- comic/serious ratio.
+
+May NOT copy:
+- characters;
+- unique setting;
+- exact system/power;
+- iconic scenes;
+- jokes/dialogue;
+- mysteries/answers;
+- same event sequence;
+- living-author prose voice.
+
+## DO NOT CONTINUE
+- do not mutate old Sheqi concepts by default;
+- do not generate concepts before market synthesis;
+- do not select a benchmark because author previously mentioned it;
+- do not write prose;
+- do not make a thin names-changed derivative.
+
+## NEXT EXPECTED ACTION
+Wait for editor_in_chief to:
+1. validate market dossier;
+2. choose benchmark pool from current evidence;
+3. issue Lane B REBOOT-V3 brief;
+4. change status to READY.
+
+## CONTEXT SNAPSHOT
+- old D-0085 Mutation work is historical only;
+- B Lane serves breakout probability, not existing characters;
+- commercial mirroring is function-level only;
+- originality remains a hard gate;
+- Lane B competes against Lane A under identical later gates.
