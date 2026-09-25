@@ -9,7 +9,7 @@ decision: REBOOT-V3
 
 # Highest Process Authority
 
-1. `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md` v2.0
+1. `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md` v2.1
 2. `meta/HIT_FICTION_RND_MASTER_PIPELINE_V3.md`
 3. `meta/READER_EVIDENCE_HIERARCHY.md`
 4. `meta/BENCHMARK_CAUSALITY_STANDARD.md`
@@ -36,27 +36,34 @@ This includes:
 
 None has forward privilege.
 
+# Market Gate Result
+
+> **PASS.**
+
+Dossier:
+> `research/2026-09-25_b_lane_newcomer_breakout_dossier.md`
+
+Editor synthesis:
+> `reviews/2026-09-25_market_dossier_editor_synthesis.md`
+
+AI-native suitability:
+> `research/2026-09-25_newcomer_ai_assisted_webfiction_suitability.md`
+
 # Current Single Next Action
 
-> **Complete 2024–2026 Newcomer Commercial Breakout Dossier before generating new fiction concepts.**
+> **Run Lane A + Lane B concept forges in parallel.**
 
-Brief:
-> `research/briefs/2026-09-25_b_lane_newcomer_breakout_dossier_brief.md`
+Lane A:
+> `handoffs/commercial_native_forge/CURRENT.md`
 
-Scope:
-- Qidian;
-- Fanqie;
-- recent breakout/new-generation works;
-- comedy/light samples;
-- non-comedy controls;
-- title/blurb/first chapter;
-- repeatable engine;
-- long-run data;
-- production sustainability;
-- reader praise/complaints.
+Lane B:
+> `handoffs/commercial_mutation_forge/CURRENT.md`
 
 Hard:
-> NO new novel design until dossier is complete.
+- concept nuclei only;
+- no prose;
+- no final winner;
+- author does not review raw 20–30 outputs.
 
 # After Market Dossier
 
