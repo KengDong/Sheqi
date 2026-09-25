@@ -1,10 +1,46 @@
 # ACTIVE WORKSTREAMS｜Sheqi 当前窗口与任务总表
 
-- window_reuse_plan: `meta/WINDOW_REUSE_PLAN.md`
-- hit_fiction_workplan: `meta/HIT_FICTION_WORKPLAN.md`
-
 > 本文件只记录当前工作流状态，不创造Canon / Outline权威。
-> 总评审每次阶段切换必须同步。
+> **2026-09-25 Rule-Reality current override: below CURRENT OVERRIDE supersedes stale historical entries in this file.**
+
+# CURRENT OVERRIDE｜Rule-Reality
+
+## rule_reality_field_benchmark_calibrator
+- status: READY / NEXT
+- current_task: 8–12 memorable Field / horror-event benchmark taste calibration
+- current: `handoffs/rule_reality_field_benchmark_calibrator/CURRENT.md`
+- brief: `research/briefs/2026-09-25_rule_reality_field_benchmark_calibration_brief.md`
+- hard_rule:
+  > no Sheqi Field ideation during benchmark phase
+
+## rule_reality_full_focus_successor
+- status: PAUSED
+- reason:
+  > current Opening / Field #2 may be structurally invalidated by Field taste reset
+- hard_rule:
+  > no further source integration / QA / reader packaging until benchmark calibration + new Field direction
+
+## reality_character_magnet_lab_writer
+- status: PAUSED
+- reason:
+  > Field / Opening foundations reopened; do not spend character experiments on unstable scenes
+
+## rule_reality_chengye_duality_micro_writer
+- status: DONE
+- evidence_only:
+  > duality microprototypes retained; no source integration yet
+
+## rule_field2_fengmenlou_writer
+- status: PAUSED / CURRENT VERSION NON-AUTHORITATIVE
+- reason:
+  > author rejected current Field #2 as low-end / low-intensity / wrong design taste
+
+## main_rule_reality_reader
+- status: BLOCKED
+- reason:
+  > do not spend clean behavioral reader on prose already expected to be redesigned
+
+---
 
 ## rule_reality_full_focus_successor
 - status: ACTIVE
