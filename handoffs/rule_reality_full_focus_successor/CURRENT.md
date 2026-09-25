@@ -1,7 +1,7 @@
 # Rule-Reality Full-Focus Successor｜CURRENT
 
 role: rule_reality_full_focus_successor
-status: ACTIVE / FIELD2_QA_PASS / VOLUNTARY_READER_READY
+status: ACTIVE / SOURCE_PATCHED / RE-QA REQUIRED / READER BLOCKED
 decision: D-0110
 candidate: 《把一条副本规则带回现实》
 
@@ -175,23 +175,42 @@ Outputs:
 - writer CURRENT -> DONE
 - writer history + Git commits
 
-## Step 3｜DONE / READER READY
-Completed:
-- hard-error/continuity QA only;
-- four microfixes only;
-- anonymous package created;
-- exactly ONE clean-room voluntary reader handoff created.
+## Step 3｜SOURCE PATCHED / RE-QA REQUIRED
 
-Hard QA:
-> `reviews/2026-09-25_d0109_field2_hard_qa.md`
+Author found a continuity defect after the first QA package:
+> R1 Ch4 ended before the already-locked next-entry countdown / Qingheli destination bridge, so Field #2 opened as if Cheng Ye had teleported to the construction site.
 
-Anonymous prose:
-> `experiments/rule_reality/anonymous/2026-09-25_d0109_field2_anonymous_prose.md`
+Source prose has now been patched:
+- R1 Ch4 ending now includes:
+  - visible-only next-entry countdown;
+  - Qingheli Phase 1 / Building 2 destination;
+  - reality check that the 40-floor destination is only at 9 floors;
+- Field #2 opening now includes:
+  - daylight site verification;
+  - family night-name protocol already active;
+  - ordinary prep bag;
+  - countdown reaching zero at 19:47;
+  - transformation only after zero.
 
-Next isolated window:
-> `handoffs/rule_field2_voluntary_reader_a/CURRENT.md`
+Also source rule wording now locks:
+> name tracking requires identity binding; same-name strings alone do not trigger.
 
-Reader must stop at genuine abandonment.
+Therefore the previous artifacts are STALE:
+- `reviews/2026-09-25_d0109_field2_hard_qa.md`
+- `experiments/rule_reality/anonymous/2026-09-25_d0109_field2_anonymous_prose.md`
+
+Reader handoff is BLOCKED until:
+1. hard-error / continuity QA is re-run on current source;
+2. anonymous prose is regenerated from current source;
+3. reader handoff is refreshed to the new anonymous package.
+
+Current source:
+- `experiments/opening_arcs/r4_把一条副本规则带回现实/opening_arc.md`
+- `experiments/rule_reality/d0106_fengmenlou_field2_prototype.md`
+
+Ownership:
+> prose patch = rule_field2_fengmenlou_writer
+> re-QA / anonymous package refresh = rule_reality_full_focus_successor
 
 ## Step 4｜NEXT AFTER READER DONE
 Behavioral synthesis:
