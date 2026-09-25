@@ -4,7 +4,7 @@ status: PROVISIONAL LOCK
 date: 2026-09-25
 candidate: 《把一条副本规则带回现实》
 role: protagonist
-canon_effect: personality-direction provisional; age not yet canon-locked
+canon_effect: personality-direction provisional; age locked
 
 # Reader Contract
 
@@ -119,19 +119,16 @@ Both must sometimes be right.
 
 # Age
 
-Current prose:
-> age not explicitly locked.
-
-Provisional recommendation:
-> **26–27岁。**
+Author-locked age:
+> **27岁。**
 
 Reason:
 - gives enough adult work/life credibility for his calm operational style;
 - still young enough for long-form growth;
-- creates a natural 7–8 year elder-brother gap with 19-year-old Xiaoman;
+- creates an 8-year elder-brother gap with 19-year-old Xiaoman;
 - does not require making Xiaoman a minor.
 
-Do NOT change source age until author locks exact number.
+Age is now author-locked. Future source integration should use 27 where an exact age is needed.
 
 # Hard
 
