@@ -10,82 +10,59 @@
 
 ## CURRENT AUTHORITY
 1. `meta/CURRENT_AUTHORITY.md`
-2. `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md` v2.0
-3. `meta/HIT_FICTION_RND_MASTER_PIPELINE_V3.md`
-4. `meta/EXPERIMENT_LANES_V2.md`
-5. `meta/READER_EVIDENCE_HIERARCHY.md`
+2. `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md` v2.1
+3. `meta/HIT_FICTION_RND_MASTER_PIPELINE_V3.md` v3.3
+4. `meta/CANDIDATE_SELECTION_AND_FALSE_NEGATIVE_POLICY_V1.md`
+5. `meta/BENCHMARK_CAUSALITY_STANDARD.md`
+6. `meta/READER_EVIDENCE_HIERARCHY.md`
 
-## LAST COMPLETED TASK
-- full Git reboot audit
-- process reset
-- stale authority cleanup
+## COMPLETED THROUGH
+- Market Dossier
+- AI-native suitability
+- Lane A/B Concept Forge
+- Desire Cut
+- Packaging + clean-room Shelf Test
+- Shelf Cut
+- Story Reservoir
+- Character Engine Benchmark
+- Character Engine Editor Synthesis
 
-Audit:
-> `reviews/2026-09-25_full_reboot_git_audit.md`
+## CURRENT PORTFOLIO
+ACTIVE:
+- A01
+- A02
+- A04
+- B10
 
-## WHAT ACTUALLY HAPPENED
-- Previous Rule-Reality development is frozen.
-- No active novel candidate currently exists.
-- Existing novels/characters/rules are legacy assets only.
-- Old architecture-first process is superseded by short-feedback V3.
-- Current next gate is market evidence, not fiction design.
+RESERVE:
+- B04
+- A10
 
-## AUTHOR FEEDBACK
-Key author corrections:
-- stop requiring the author to point-fix AI drafts;
-- first principle = newcomer breakout + sustained income;
-- any novel change must benchmark popular fiction first;
-- prior AI Field design was mechanical / environment-stacking / wrong taste;
-- current characters/concepts must not be protected by sunk cost;
-- B lane may closely mirror proven commercial functions, but not plagiarize.
-
-## WINDOW ORCHESTRATION
-> `meta/REBOOT_V3_WINDOW_MAP.md`
-
-Hard:
-> open only the worker windows whose CURRENT status is READY.
-> Do not keep blocked downstream windows active.
+No Primary.
 
 ## CURRENT SINGLE NEXT ACTION
-> complete 2024–2026 Newcomer Commercial Breakout Dossier.
+> run `character_collision_forge`
+
+Current:
+> `handoffs/character_collision_forge/CURRENT.md`
 
 Brief:
-> `research/briefs/2026-09-25_b_lane_newcomer_breakout_dossier_brief.md`
+> `research/briefs/2026-09-25_reboot_v3_character_collision_brief.md`
 
-Executor:
-> `handoffs/newcomer_breakout_market_scout/CURRENT.md`
-
-## DO NOT CONTINUE
-- old Rule-Reality source patching;
-- Field #1/#2 design;
-- Fang Cen / Xiaoman Character Lab;
-- D-0098 old Voice Lab;
-- old reader packages;
-- C01/C12 continuation;
-- long-run architecture before P20/P50;
-- any new prose before Market Dossier + concept funnel.
+## HARD
+- editor does not write candidate prose;
+- no forced candidate quota;
+- no Reserve resurrection without trigger;
+- no Minimal Horizon before Character Cut;
+- no P0 before Character + Minimal Horizon gates;
+- no long architecture;
+- no Primary.
 
 ## NEXT EXPECTED ACTION
-1. Market scout runs dossier.
-2. Editor verifies evidence quality.
-3. Editor extracts 10–15 commercial constraints.
-4. Dispatch Lane A + Lane B in parallel.
-5. Do not show author raw weak concepts; internally cut first.
+1. Character Collision Forge completes 4 ACTIVE candidates.
+2. Editor performs Character Cut.
+3. Justified survivors proceed to Minimal Horizon.
+4. Then P0 short prose begins.
 
-## REQUIRED READS
-1. `meta/CURRENT_AUTHORITY.md`
-2. `reviews/2026-09-25_full_reboot_git_audit.md`
-3. `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
-4. `meta/HIT_FICTION_RND_MASTER_PIPELINE_V3.md`
-5. `meta/EXPERIMENT_LANES_V2.md`
-
-## CONTEXT SNAPSHOT
-- project is rebooted from process, not manuscript;
-- no active novel candidate;
-- legacy Sheqi is control only;
-- benchmark-before-design is hard;
-- voluntary behavior outranks AI scoring;
-- architecture is delayed;
-- author burden must stay low;
-- WIP max 2;
-- current task is market dossier only.
+## ONE SENTENCE
+> **现在让四本候选证明：旧人能不能自己制造下一章。**
