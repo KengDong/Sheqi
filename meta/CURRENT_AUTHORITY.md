@@ -4,7 +4,7 @@ updated: 2026-09-24
 
 # Highest Decision
 
-> **D-0106｜Rule-Reality Execution OS Complete / Full-Focus Successor ACTIVE / Field #2《封门楼》 Prototype NEXT**
+> **D-0107｜Unknown-Author Breakout Compression ACTIVE / Field #2《封门楼》 Prototype NEXT**
 
 Authority:
 - `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
@@ -31,6 +31,19 @@ Postmortem:
 - D-0079 C01 targeted patch：**PAUSED / SUPERSEDED BY PROCESS RESET**
 - existing Ch1—20 prose：research evidence / experiment history
 - Canon / Approved Outline：frozen; no new authority promotion
+
+# D-0107 Breakout Compression Authority
+
+Primary addendum:
+> `architecture/2026-09-25_d0107_rule_reality_unknown_author_breakout_compression.md`
+
+Key overrides:
+- Book Contract compressed to “赢一次，现实输一点 / 想活着回家，就得让家坏一点”;
+- major Fields require Reality Anchor Echo;
+- 《封门楼》 is the future/completed version of a present unfinished project;
+- Cheng Ye signature = refuse anonymous cost, not generic smart solving;
+- Field #2 default entry target moves from Ch9 toward Ch4-end / Ch5-start for unknown-author pacing;
+- D-0107 has been integrated into the Field #2 Prototype Brief.
 
 # D-0106 Execution Authority
 
