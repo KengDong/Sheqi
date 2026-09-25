@@ -11,7 +11,7 @@ canon: none
 # 0. Mechanical QA
 
 - chapters: 4
-- prose length: ~13.9k characters including markdown headings
+- prose length: revised after author-requested Ch4→Ch5 continuity patch
 - internal codename 《封门楼》 appears in prose: NO
 - ordinary reader-facing project name: 青禾里
 - future physical clue count: ONE
@@ -20,7 +20,23 @@ canon: none
 - full Field ending written: NO
 - Returned Rule canonized: NO
 
-# 1. First-impact / visual identity
+# 1. Ch4→Ch5 continuity patch
+
+Author-found issue:
+> R1 Ch4 ended on family reality settlement, while Field #2 previously opened with Cheng Ye already standing at Qingheli construction site.
+
+Patched source now includes:
+- Ch4 ending: visible-only-to-returner countdown appears;
+- destination appears as Qingheli Phase 1 / Building 2;
+- Xiaoman checks the real project and confirms the building is only at 9 floors;
+- family night-name protocol is already active before Field entry;
+- Ch5 opening: Cheng Ye physically checks the site in daylight, prepares only immediately useful ordinary items, returns before zero, and waits for forced entry;
+- countdown reaches zero on-page at 19:47;
+- only then does the unfinished site become the inhabited 40-floor tower.
+
+This uses the already-locked Anchor Returner entry mechanic. No new entry system was invented.
+
+# 2. First-impact / visual identity
 
 Present reality:
 - 青禾里二号楼 is still an unfinished construction site;
