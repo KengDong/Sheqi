@@ -1,6 +1,6 @@
 ---
 status: active-authority
-version: 3.1
+version: 3.2
 date: 2026-09-25
 decision: REBOOT-V3
 goal: unknown-author-breakout-and-sustained-income
@@ -8,6 +8,17 @@ goal: unknown-author-breakout-and-sustained-income
 
 # HIT FICTION R&D MASTER PIPELINE V3
 ## 从“做大架构”切换到“短反馈商业漏斗”
+
+# Selection Authority
+
+> `meta/CANDIDATE_SELECTION_AND_FALSE_NEGATIVE_POLICY_V1.md`
+
+Hard:
+- stage counts are planning estimates, not quotas;
+- early gates maximize recall;
+- later behavioral gates maximize precision;
+- use ACTIVE / RESERVE / DROP;
+- do not force-eliminate just to reach a target number.
 
 # 0. Control Principle
 
@@ -92,8 +103,11 @@ Editor不打复杂分。
 重点：
 > 陌生Reader看到标题+一句话，是否本能想点？
 
-留下：
-> 约4–6。
+Internal portfolio:
+> typically ~4–6 ACTIVE + RESERVE combined.
+
+Hard:
+> no forced quota.
 
 作者最多看：
 > 2–3个内部最强者。
@@ -143,8 +157,11 @@ Candidates that cannot produce a clickable honest package:
 - 角色是否自然回返；
 - 能否同时生成大/中/小事件。
 
-留下：
-> 约3–4。
+Expected:
+> typically ~3–5 ACTIVE + RESERVE.
+
+Hard:
+> no forced quota; preserve diversity reserve until prose evidence.
 
 # 5. Stage E｜Character Collision
 
@@ -194,7 +211,9 @@ Hard:
 
 # 8. Stage H｜P1 Chapter 1
 
-只给P0赢家。
+Only give P1 to strong P0 survivors.
+
+Do NOT force a single P0 winner if 2–3 remain behaviorally close.
 
 必须兑现：
 - premise；
