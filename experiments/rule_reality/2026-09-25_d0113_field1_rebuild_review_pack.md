@@ -1,5 +1,5 @@
 ---
-status: AUTHOR REVIEW PACK / NON-CANON
+status: REJECTED / SUPERSEDED BY D-0114
 date: 2026-09-25
 decision: D-0113 candidate only
 candidate: 《把一条副本规则带回现实》
@@ -8,6 +8,8 @@ canon_effect: none
 ---
 
 # D-0113｜Field #1 Rebuild Review Pack
+
+> SUPERSEDED: author rejected the premise for over-centering R1/name mechanics and insufficient lethal horror.
 ## 第一副本不能再只是“18天背景”
 
 # 0. Why Rebuild
