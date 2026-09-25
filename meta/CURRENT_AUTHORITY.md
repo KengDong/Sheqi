@@ -4,7 +4,7 @@ updated: 2026-09-24
 
 # Highest Decision
 
-> **D-0115｜TRAP-FIRST FIELD DESIGN RESET / AUTHOR REVIEW**
+> **FIELD TASTE CALIBRATION｜STOP ORIGINAL FIELD IDEATION**
 
 Authority:
 - `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
@@ -31,6 +31,22 @@ Postmortem:
 - D-0079 C01 targeted patch：**PAUSED / SUPERSEDED BY PROCESS RESET**
 - existing Ch1—20 prose：research evidence / experiment history
 - Canon / Approved Outline：frozen; no new authority promotion
+
+# Field Taste Calibration Stop
+
+Author has rejected multiple Field concept rounds as a fundamental taste mismatch.
+
+Provisional taste profile:
+> `meta/RULE_REALITY_FIELD_TASTE_PROFILE_V0.md`
+
+Hard:
+> STOP generating new Field #1 / Field #2 premises until benchmark-based taste calibration is complete.
+
+Current working hypothesis:
+> story-event / horror-thriller Field > elegant mechanic / environment-first Field.
+
+D-0115 nuclei:
+> rejected as taste match; research observations retained only.
 
 # D-0115 Trap-First Field Design Authority
 
