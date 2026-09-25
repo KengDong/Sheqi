@@ -241,3 +241,33 @@ Only if Field #2 behavioral proof passes:
 > **If this were an unknown author on Qidian/Fanqie, would the reader voluntarily keep reading?**
 
 Stop only after the current Gate is properly handed forward in Git.
+
+
+# Full Opening Rewrite｜Author Direction｜2026-09-25
+
+Author explicitly rejected further micro-patching.
+
+Completed:
+- Ch1—4 fully rewritten as one clean Opening Arc;
+- R1 identity/same-name mechanics rewritten into prose from first trigger onward;
+- old mother-location target error removed;
+- controlled same-name experiment added;
+- Wei Pingzhou counter-use now requires confirmed face/name binding;
+- Ch4 ends with next-entry countdown + Qingheli destination;
+- Field #2 current opening already continues from that countdown;
+- Ch1—8 continuous package created with Field #2 renumbered Ch5—8.
+
+Current source:
+- `experiments/opening_arcs/r4_把一条副本规则带回现实/opening_arc.md`
+- `experiments/rule_reality/d0106_fengmenlou_field2_prototype.md`
+
+Continuous author-read package:
+- `experiments/rule_reality/2026-09-25_opening_field2_continuous_v2.md`
+
+R1 mechanic authority:
+- `architecture/2026-09-25_r1_true_name_identity_binding_lock.md`
+
+Current state remains:
+> RE-QA REQUIRED / READER BLOCKED
+
+Do not revive the stale anonymous package.
