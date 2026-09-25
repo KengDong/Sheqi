@@ -2,25 +2,12 @@
 
 ## ROLE
 - role: fresh_shelf_reader
-- status: BLOCKED
+- status: RETIRED FOR REBOOT-V3 CURRENT TEST
 - decision: REBOOT-V3
-- clean_room: HARD
 
-## BLOCKED BY
-> platform_shelf_forge must finish REBOOT-V3 anonymous packaging.
+## NOTE
+The current package-only test uses two independent clean-room roles instead:
+- `handoffs/fresh_shelf_reader_a/CURRENT.md`
+- `handoffs/fresh_shelf_reader_b/CURRENT.md`
 
-## FUTURE TASK
-Execute:
-> `research/briefs/2026-09-25_reboot_v3_fresh_shelf_click_test_brief.md`
-
-## CLEAN-ROOM HARD
-When unblocked, do NOT read:
-- private mapping;
-- concept cards;
-- Desire Cut;
-- market dossier;
-- editor conclusions;
-- old Sheqi context.
-
-## NEXT
-Wait for editor_in_chief to change status to READY after packaging files exist.
+Do not execute this generic role.
