@@ -4,7 +4,7 @@ updated: 2026-09-24
 
 # Highest Decision
 
-> **D-0108｜Scale + Protagonist Amplification ACTIVE / Field #2《封门楼》 Prototype NEXT**
+> **D-0109｜Field #2 First-Impact Locked / Isolated Writer NEXT**
 
 Authority:
 - `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
@@ -31,6 +31,23 @@ Postmortem:
 - D-0079 C01 targeted patch：**PAUSED / SUPERSEDED BY PROCESS RESET**
 - existing Ch1—20 prose：research evidence / experiment history
 - Canon / Approved Outline：frozen; no new authority promotion
+
+# D-0109 Field #2 First-Impact Authority
+
+Execution card:
+> `research/briefs/2026-09-25_d0109_field2_first_impact_card.md`
+
+Locked before prose:
+- impossible inhabited future tower first;
+- mass ordinary-door closure spectacle;
+- one specific trapped relationship;
+- co-lead enters through competent action;
+- Cheng Ye wrong/incomplete inference + fallback payoff;
+- short command scene;
+- one macro-geography shadow;
+- reader-facing ordinary building name; 《封门楼》 remains internal codename.
+
+No further macro architecture before Field #2 prose evidence.
 
 # D-0108 Scale + Protagonist Amplification Authority
 
