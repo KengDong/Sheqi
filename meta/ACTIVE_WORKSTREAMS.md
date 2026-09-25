@@ -7,49 +7,58 @@ Window map:
 
 # 1. editor_in_chief
 - status: ACTIVE / ORCHESTRATION ONLY
-- task:
-  > enforce gates; no candidate prose
+- current_stage:
+  > Desire Cut complete
 
-# 2. newcomer_breakout_market_scout
-- status: DONE / RETIRED FOR CURRENT PHASE
-- output:
-  > `research/2026-09-25_b_lane_newcomer_breakout_dossier.md`
+# 2. Market Scout
+- status: DONE
 
-# 3. commercial_native_forge
-- lane: A｜Native Breakout
-- status: READY / RUN NOW
+# 3. Lane A Native Forge
+- status: DONE
+
+# 4. Lane B Commercial Mirror Forge
+- status: DONE
+
+# 5. platform_shelf_forge
+- status: READY / NEXT / RUN NOW
 - current:
-  > `handoffs/commercial_native_forge/CURRENT.md`
-- output:
-  > `experiments/reboot_v3/lane_a_native_nuclei.md`
+  > `handoffs/platform_shelf_forge/CURRENT.md`
+- brief:
+  > `research/briefs/2026-09-25_reboot_v3_packaging_forge_brief.md`
+- input:
+  > six Desire Cut survivors
 
-# 4. commercial_mutation_forge
-- lane: B｜Commercial Mirror
-- status: READY / RUN NOW
-- current:
-  > `handoffs/commercial_mutation_forge/CURRENT.md`
-- output:
-  > `experiments/reboot_v3/lane_b_commercial_mirror_nuclei.md`
+# 6. fresh_shelf_reader
+- status: BLOCKED
+- blocked_by:
+  > packaging forge
+- future:
+  > anonymous package-only click test
 
-# 5. Downstream
-- story_reservoir_forge: BLOCKED
+# 7. story_reservoir_forge
+- status: BLOCKED
+- blocked_by:
+  > Packaging Micro-Gate
+
+# 8. Downstream
 - character_collision_forge: BLOCKED
 - minimal_horizon_forge: BLOCKED
-- platform_shelf_forge: BLOCKED
 - P0 writers: NOT DISPATCHED
-- clean-room readers: BLOCKED
+- prose readers: BLOCKED
 
-# 6. Legacy Rule-Reality
+# Legacy Rule-Reality
 - status: FROZEN / CONTROL ONLY
-
-# WIP
-
-Core worker limit:
-> 2.
-
-Current:
-> Lane A + Lane B.
 
 # Current Single Next Action
 
-> Run A and B in parallel, then return both outputs to editor_in_chief for internal Desire Cut.
+> Run `platform_shelf_forge`.
+
+After packaging:
+> editor unblocks `fresh_shelf_reader`.
+
+After click test:
+> editor Shelf Cut -> Story Reservoir.
+
+# WIP
+Current core worker:
+> 1 packaging worker.
