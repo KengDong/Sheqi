@@ -59,6 +59,12 @@ Mandatory writing guardrail:
 D-0111 Character Lab:
 > PAUSED until D-0112 is resolved and the freight-yard scene is updated.
 
+Current next isolated executor:
+> `handoffs/rule_reality_chengye_duality_micro_writer/CURRENT.md`
+
+Task:
+> two micro-prototypes only — Freight Yard enemy mode / Rule Experience Gap + Home Breakfast family mode.
+
 # D-0111 Reality Character Magnet Authority
 
 Author direction:
