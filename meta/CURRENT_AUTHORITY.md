@@ -18,6 +18,34 @@ Postmortem:
 - `meta/HIT_FICTION_RND_MASTER_PIPELINE_V2.md`
 - `meta/D0098_EXECUTION_BOARD.md`
 
+# Universal Benchmark-First Gate
+
+Highest process rule:
+> `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md` Section 2｜Benchmark-First Creative Change Gate.
+
+From 2026-09-25 onward:
+> **任何实质性小说改动，必须先检索、拆解直接可比的热门/头部成品，再结合作者审美与Sheqi资产原创。**
+
+Forbidden:
+> AI closed-door ideation first, benchmark decoration second.
+
+Major changes require:
+> benchmark research artifact BEFORE new design can become Authority.
+
+This rule applies across:
+- concept;
+- opening;
+- character;
+- Field;
+- plot;
+- worldbuilding;
+- pacing;
+- payoff;
+- horror;
+- foreshadowing;
+- relationship;
+- long-line mystery.
+
 # Current Project Goal
 
 > **不是把C01/C12修到Checklist通过。**
