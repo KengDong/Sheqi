@@ -40,17 +40,21 @@ Author direction:
 Design brief:
 > `research/briefs/2026-09-25_d0112_returner_power_gap_reopen.md`
 
-Current candidate hierarchy:
-> Rule Field / rule-level horror > Returner > ordinary reality human.
+Current primary candidate:
+> **Rule Experience Gap** — reality encounters a Returned Rule at V0.1 while Cheng Ye has already survived its mature Field ecology.
+
+Rejected as primary:
+- generic Returner physical-stat jump;
+- ordinary “better preparation” with no rule-specific spectacle.
 
 Commercial target:
-> ordinary reality should briefly feel like easy mode to a proven Returner.
+> Field里程野是新手；现实里世界是新手。
 
-Structural safeguard:
-> ordinary people can regain lethal leverage by exploiting a Returned Rule.
+Protagonist character authority:
+> `characters/rule_reality/CHENG_YE.md`
 
-Preferred candidate:
-> large one-time First-Return threshold jump + slow deepening Returner Adaptation.
+Mandatory writing guardrail:
+> `meta/RULE_REALITY_BREAKOUT_WRITING_GUARDRAILS_V1.md`
 
 D-0111 Character Lab:
 > PAUSED until D-0112 is resolved and the freight-yard scene is updated.
