@@ -4,7 +4,7 @@ updated: 2026-09-24
 
 # Highest Decision
 
-> **D-0107｜Unknown-Author Breakout Compression ACTIVE / Field #2《封门楼》 Prototype NEXT**
+> **D-0108｜Scale + Protagonist Amplification ACTIVE / Field #2《封门楼》 Prototype NEXT**
 
 Authority:
 - `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
@@ -31,6 +31,24 @@ Postmortem:
 - D-0079 C01 targeted patch：**PAUSED / SUPERSEDED BY PROCESS RESET**
 - existing Ch1—20 prose：research evidence / experiment history
 - Canon / Approved Outline：frozen; no new authority promotion
+
+# D-0108 Scale + Protagonist Amplification Authority
+
+Primary addendum:
+> `architecture/2026-09-25_d0108_rule_reality_scale_and_protagonist_amplification.md`
+
+Core amplification:
+- failed-future fragments + Returned Rules now scale toward an assembled Second Reality;
+- every successful rule return helps make that replacement world more coherent;
+- world-scale antagonist = the Second Reality itself;
+- human face = Future-Wanter / rival who intentionally strengthens a desired failed fragment;
+- 归一日 = coherence threshold where present and assembled Second Reality can no longer coexist;
+- Cheng Ye reassurance fantasy = plans that survive wrong assumptions, not omniscient mastermind reveals;
+- Cheng Ye remains the person who refuses anonymous cost;
+- black plaque = micro icon; Second Skyline = macro icon.
+
+No secret god / chosen-one / extra system added.
+Field #2 Brief has been updated to test these functions in prose.
 
 # D-0107 Breakout Compression Authority
 
