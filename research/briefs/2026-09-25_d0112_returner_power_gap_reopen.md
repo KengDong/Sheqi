@@ -1,274 +1,220 @@
 ---
-status: AUTHOR-REOPENED / DESIGN CANDIDATE
+status: AUTHOR-REOPENED / DESIGN CANDIDATE V2
 date: 2026-09-25
 decision: D-0112
 candidate: 《把一条副本规则带回现实》
-scope: Field-vs-reality power gap / first-return transformation / freight-yard payoff
+scope: Field-vs-reality gap / Rule Experience Gap / freight-yard payoff
 canon_effect: none until author promotion
 blocks: D-0111 Gate B Character Lab
 ---
 
-# D-0112｜Returner Power-Gap Reopen
+# D-0112｜Returner Power-Gap Reopen V2
 
-# Trigger
+# Author Correction
 
-Author rejected the previous overly restrained solution.
-
-Problem:
-> Cheng Ye feels too much like an ordinary competent man after surviving an explosive lethal Rule Field.
+Rejected directions:
+- generic physical Returner buff as the main payoff;
+- “better preparation” if it only means报警/录音/留证;
+- bland competence with no spectacle;
+- Cheng Ye as a calm project-manager protagonist.
 
 Required feeling:
-> **刚从真正地狱里回来的人，处理普通现实危险时应该有明显降维感。**
+> **程野从爆炸可怕的Field回来以后，现实第一次遭遇的Returned Rule，对他应该像一个已经打过高端局的版本。**
 
-The Field and ordinary reality currently do not feel far enough apart.
+# 1. Primary Dimensional Advantage｜Rule Experience Gap
 
-# 1. Required Three-Level Threat Hierarchy
+Core:
+> **现实第一次遇到某条Returned Rule。**
+>
+> **程野已经在这条规则的成熟生态里活过。**
 
-## Tier 1｜Rule Field / Rule-Level Horror
-Top threat.
+Reader compression:
+> 现实是 V0.1，程野见过 V18.0。
 
-Even a Returner can die quickly.
-This remains the true terror ceiling.
+His advantage is NOT:
+- strength;
+- speed;
+- stat growth;
+- generic cleverness.
 
-## Tier 2｜Returner
-Someone who survived and successfully carried a rule across reality.
+It is:
+- mature exploit knowledge;
+- mature countermeasure knowledge;
+- knowledge of which “smart ideas” already killed people;
+- ability to translate Field knowledge into surprising ordinary tools / environments / tactics;
+- faster recognition of what information / sound / identity / ownership / sequence actually matters.
 
-Against ordinary physical/social danger:
-> should feel disproportionately capable.
+# 2. Why This Feels Like Dimensional Reduction
 
-## Tier 3｜Ordinary Reality Human
-Normal violence / intimidation / street coercion should usually sit below a proven Returner.
+Ordinary reality has:
+- stable physics;
+- reliable tools;
+- cheap materials;
+- public infrastructure;
+- predictable spaces.
 
-BUT:
-
-> ordinary people who learn to exploit a Returned Rule can temporarily borrow Tier-1 logic.
-
-This is the key tension restoration.
-
-Example:
-> three collectors are physically beneath Cheng Ye;
-> one collector successfully weaponizing R1 immediately becomes dangerous again.
-
-# 2. Opening Contrast Requirement
-
-Current Ch1 begins after Cheng Ye is already back.
-
-Reopen possibility:
-> show a SHORT final Field afterimage / exit burst before the roast-sweet-potato reality cut.
-
-Purpose:
-- establish the Field as hell;
-- make normal city feel almost absurdly safe/soft;
-- create a benchmark for later freight-yard dominance.
-
-Do NOT explain the whole first Field.
-Use only one compact survival image / final exit action.
-
-# 3. First-Return Transformation Candidate
-
-Recommended model:
-> **First Return Threshold / Returner Adaptation.**
-
-Not:
-- strength +10;
-- skill tree;
-- one combat skill per Field.
-
-Concept:
-> Successfully carrying a Rule across realities leaves the Returner partially adapted to the survival baseline required by the Field.
-
-Reader-visible effects under immediate threat:
-- much faster threat recognition;
-- reaction / balance / burst movement beyond normal untrained humans;
-- pain suppression / stress control;
-- decision compression under chaos;
-- ordinary violence feels slow and over-signaled.
-
-Important:
-> first successful Return creates a LARGE threshold jump.
-
-Later Fields do NOT linearly add physical stats.
-Later progression shifts toward:
-- deeper Field compatibility;
-- contradiction retention;
-- Access / choice authority;
-- possible reality-anchor consequences.
-
-This gives a major early pleasure without endless combat-stat inflation.
-
-# 4. Cost / Macro Integration
-
-This personal gain should NOT be a free reward.
-
-Preferred causal explanation:
-> just as a Returned Rule makes reality more compatible with failed futures,
-> the Returner is also being made more compatible with those futures.
+Field knowledge lets Cheng Ye combine these stable things in ways people encountering the rule for the first time would not imagine.
 
 Therefore:
-> **the stronger / more Field-adapted Cheng Ye becomes, the less purely “present-reality human” he may remain.**
+> the “power fantasy” is not that he can overpower reality;
+> it is that he knows what a mature version of the disaster looks like before everyone else.
 
-Potential long-run consequences:
-- Field recognizes / pulls him more easily;
-- impossible overlaps are harder for him to forget;
-- normal threat-response does not fully shut off;
-- his body may react too hard to ordinary danger;
-- he becomes a better anchor for Second Reality.
+# 3. Lead Is Temporary
 
-This makes:
-> power fantasy and terminal horror the same mechanism.
+Hard:
+> society is not stupid.
 
-# 5. No Skill-List Rule
+Sequence:
+1. Cheng Ye has large initial experience lead;
+2. criminal / institution / ordinary people observe;
+3. smart enemies learn;
+4. Fang Cen institutionalizes;
+5. society invents its own counters and exploits.
 
-Hard reject:
-> Field 1 = tracking skill
-> Field 2 = door skill
-> Field 3 = memory skill
+This prevents permanent omniscience.
 
-Hard reject:
-> each clear gives another combat ability.
+Important recurring line of tension:
+> **“麻烦了，他学会了。”**
 
-The personal progression is ONE phenomenon:
-> **Returner Adaptation / failed-future compatibility.**
-
-Different manifestations must feel like deepening of the same overwrite, not a collection of powers.
-
-# 6. Freight-Yard Rewrite Target
+# 4. Freight-Yard Commercial Target
 
 Current weak version:
-> find Xiaoman -> say leave -> R1 triggers -> run.
+> find Xiaoman -> leave -> R1 -> chase.
 
-New target:
-> ordinary confrontation first proves the Returner gap;
-> R1 then proves rule-level danger is still above Cheng Ye.
+New function:
+> first complete proof of Rule Experience Gap.
 
-Suggested beat:
+Target structure:
 
-1. Cheng Ye enters and sees:
-   - three men;
-   - exit;
-   - who has Xiaoman's phone/docs;
-   - improvised weapons;
-   - narrow passage.
+## Beat A｜Reality problem
+Three collectors / Xiaoman / enclosed freight-yard environment.
 
-2. He asks:
-> “本金多少？”
+## Beat B｜Cheng Ye's mature-rule setup
+He uses tools / environment that only make sense if you already know R1's mature behavior.
 
-Not bravado.
-He wants facts / evidence / responsibility.
+Candidate toolkit:
+- hearing protection / earplugs;
+- controlled noise;
+- darkness / light denial;
+- pre-marked path;
+- phone / text only where speech is dangerous;
+- ordinary objects used to break audible-name propagation.
 
-3. Collector refuses exit / reaches for Xiaoman.
+Hard:
+> exact tactic must follow the final R1 source truth.
+> no invented mechanic edge case.
 
-4. First physical clash.
+## Beat C｜Payoff
+The collectors think they control:
+- visibility;
+- numbers;
+- space.
+
+Cheng Ye is actually exploiting:
+- the fact that valid location knowledge can replace vision;
+- the fact that audible true-name transmission is the dangerous channel;
+- the fact that they are inexperienced with the rule.
 
 Reader target:
-> the men are aggressive;
-> Cheng Ye is not impressed.
+> **“你们第一次见这条规则，他已经活过十八天了。”**
 
-He does NOT perform martial-arts choreography.
-Instead:
-- one quick joint / balance break;
-- use stool/table/doorway as terrain;
-- put Xiaoman behind the exit line;
-- disable the first committed attacker;
-- recognize immediately that he cannot safely keep escalating without seriously injuring someone.
+## Beat D｜Enemy learns
+Wei Pingzhou discovers one key interaction during the confrontation.
 
-5. Cheng Ye himself notices:
-> his body moved before ordinary conscious thought;
-> these men's movements feel too obvious / slow compared with the Field.
+Now the scene shifts:
+> old-player dominance -> opponent learning.
 
-6. Do NOT make him invincible:
-- three men + weapon can still injure him;
-- trained police / guns remain real;
-- Rule Field threats remain vastly above.
+The moment Cheng Ye realizes this:
+> he becomes serious.
 
-7. Just as mundane confrontation turns in Cheng Ye's favor:
-> collector says “程小满.”
+## Beat E｜Rule escalation
+Ordinary human + learned Returned Rule regains lethal leverage.
 
-8. R1 propagates.
+This keeps the rule above mundane dominance.
 
-Now the hierarchy flips:
-> ordinary man + Returned Rule = Rule-level leverage.
+# 5. Intelligence-Spectacle Requirement
 
-9. Cheng Ye immediately understands the truly dangerous fact:
-> the other two men who did not know Xiaoman now receive her specific referent and can re-trigger later.
+A Cheng Ye plan is NOT enough if it is merely sensible.
 
-This should be the real supernatural escalation.
+It must contain at least one:
+- strange preparation with delayed payoff;
+- opponent misidentifies the win condition;
+- ordinary cheap object becomes powerful because of rule knowledge;
+- Cheng Ye knowingly avoids a “clever” move because he saw it fail in the Field;
+- fallback survives one wrong assumption;
+- opponent learns and forces a second-layer adaptation.
 
-# 7. Desired Reader Pleasure
+# 6. Physical Ability
 
-The sequence should produce TWO consecutive payoffs:
+Not a main progression system.
 
-## Payoff A｜Returner Dominance
-> “这几个人根本不知道他刚从什么地方回来。”
+Allowed:
+- credible Field-conditioned calm;
+- pain tolerance / stress response only if needed;
+- basic physical competence.
 
-## Payoff B｜Rule Horror Reversal
-> “可一个普通人只要学会利用Returned Rule，也能重新把刀架到他家人身上。”
+Not allowed as the central pleasure:
+- superhuman strength;
+- speed-stat fantasy;
+- martial-arts dominance;
+- every Field making his body stronger.
 
-That combination is more proprietary than either:
-- pure action dominance;
-- pure rule puzzle.
+# 7. Personal Progression
 
-# 8. Opening First-Field Visibility
+Early:
+> Rule Experience Gap is the main reader-visible advantage.
 
-Recommended:
-> add 200–500 Chinese characters of Field-final afterimage before / around return.
+Mid:
+> experience advantage becomes contested as society / rivals learn.
 
-Target sensory difference:
-- violent / impossible / no normal-world protection;
-- one wrong spoken name or rule execution means immediate death;
-- Cheng Ye survives one final impossible event;
-- hard cut to roast sweet potato / traffic / normal city.
+Long:
+> Access / Field-choice authority may grow,
+> but it is strategic progression, not the early commercial payoff.
 
-Do NOT:
-- fully explain Field #1;
-- introduce five rules;
-- delay the reality hook.
+Potential supernatural adaptation:
+> keep as reserve only; do not promote until prose proves need.
 
-# 9. Reward Structure Candidate
+# 8. Protagonist Personality Integration
 
-A major Field may now pay across THREE distinct layers:
+Mandatory character file:
+> `characters/rule_reality/CHENG_YE.md`
 
-## Signature Layer｜Public
-> one Returned Rule permanently changes reality.
+Author-approved social duality:
 
-Mandatory.
+## Enemies
+> cold / cautious / ruthless / decisive.
 
-## Personal Layer｜Returner
-> the single Returner-Adaptation phenomenon deepens.
+## Family / teammates
+> humorous / reliable / warm / relaxed / funny.
 
-Not a separate ability list.
+Hard:
+> do not flatten him into “calm responsible strategist.”
 
-## Variable Layer｜Rare
-Occasionally:
-- object;
-- contact;
-- evidence;
-- status;
-- Access privilege;
-- prevention of worse rule.
+# 9. Commercial Emotion Loop
 
-Not every Field pays loot.
+Preferred recurring loop:
+
+> Field里：程野第一次见规则，被折磨、试错、付代价。
+>
+> Reality里：世界第一次见这条规则，程野拥有版本领先。
+>
+> Reader得到补偿性爽感。
+>
+> 然后敌人 / 社会学会。
+>
+> 程野的领先被压缩。
+>
+> 下一Field又重新成为未知。
+
+This is a candidate signature rhythm.
 
 # 10. Kill Tests
 
 FAIL if:
-- Cheng Ye is still physically/socially indistinguishable from an ordinary competent 27-year-old;
-- first Return gives generic RPG stats;
-- ordinary thugs remain equally threatening before rule exploitation;
-- Cheng Ye becomes capable of brute-forcing Rule Fields;
-- every Field gives a new skill;
-- personal power has no cost / no link to Second Reality.
-
-# 11. Current Recommendation
-
-Best current candidate:
-> **Large one-time First-Return threshold jump + slow deepening Returner Adaptation.**
-
-Commercial feeling:
-> ordinary reality becomes briefly “easy mode.”
-
-Structural safeguard:
-> Returned Rules let ordinary people re-access Field-level danger.
-
-Long-term horror:
-> the reason Cheng Ye can dominate reality is that the Field is slowly rewriting him into something more compatible with the world trying to replace reality.
+- the freight-yard solution could be designed by an ordinary cautious adult with no Field history;
+- the main payoff is报警/录音/打架;
+- Cheng Ye knows everything automatically;
+- enemy never learns;
+- mature-rule knowledge is only exposition rather than visible tactic;
+- Cheng Ye's family/ally personality remains solemn and managerial;
+- the scene has logic but no “这本不普通”的 payoff.
