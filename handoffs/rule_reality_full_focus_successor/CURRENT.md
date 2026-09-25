@@ -1,7 +1,7 @@
 # Rule-Reality Full-Focus Successor｜CURRENT
 
 role: rule_reality_full_focus_successor
-status: ACTIVE / D0111_GATE_A_NEXT / CHARACTER_LAB_BLOCKED / MAIN_READER_BLOCKED
+status: ACTIVE / D0111_GATE_A_PASS / CHARACTER_LAB_READY / MAIN_READER_BLOCKED
 decision: D-0111
 candidate: 《把一条副本规则带回现实》
 
@@ -283,21 +283,27 @@ Authority brief:
 
 Current order is LOCKED:
 
-## Gate A｜NEXT
-Re-run hard continuity / logic check on CURRENT Ch1—8 only.
+## Gate A｜DONE / PASS_AFTER_MICROFIX
 
-Scope:
+Report:
+> `reviews/2026-09-25_d0111_gate_a_ch1_8_hard_continuity_qa.md`
+
+Verified:
 - R1 identity binding;
 - same-name test;
 - listener propagation;
-- Ch4→Ch5 countdown bridge;
-- chapter continuity;
-- no character-style verdict.
+- live-media boundary;
+- Ch4→Ch5 countdown/address bridge;
+- Field #2 R1 one-time use;
+- door-rule continuity;
+- all chapter transitions.
 
-If PASS:
-> unblock `handoffs/reality_character_magnet_lab_writer/CURRENT.md`.
+Character-style judgment was deliberately excluded.
 
-## Gate B
+Unlocked:
+> `handoffs/reality_character_magnet_lab_writer/CURRENT.md`.
+
+## Gate B｜NEXT
 Character micro-prototypes:
 - Fang Cen A/B/C;
 - Xiaoman A/B/C.
