@@ -1,3 +1,8 @@
+> **SUPERSEDED / REFERENCE ONLY — REBOOT-V3**
+>
+> Current execution authority: `meta/HIT_FICTION_RND_MASTER_PIPELINE_V3.md`
+> Do not execute NEXT/ACTIVE instructions in this historical file unless reactivated by `meta/CURRENT_AUTHORITY.md`.
+
 # D-0098M｜Execution Board
 
 updated: 2026-09-24
