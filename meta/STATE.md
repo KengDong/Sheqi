@@ -30,15 +30,15 @@ Desire survivors:
 - B10 《灵气复苏，我开二手装备店》
 
 # Current Gate
-> **PACKAGING MICRO-GATE**
+> **PACKAGING MICRO-GATE / MICROFIX BEFORE READER**
 
 Next:
-> `handoffs/platform_shelf_forge/CURRENT.md`
+> `handoffs/platform_shelf_forge/CURRENT.md` — consumer-copy cleanup + real-market control shelf
 
 No prose.
 
 # After
-Packaging -> clean-room click test -> Shelf Cut -> Story Reservoir.
+Packaging microfix -> mixed real-shelf clean-room click test -> Shelf Cut -> Story Reservoir.
 
 # Hard
 - no final winner;
