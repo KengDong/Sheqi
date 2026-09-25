@@ -39,6 +39,13 @@ Key author corrections:
 - current characters/concepts must not be protected by sunk cost;
 - B lane may closely mirror proven commercial functions, but not plagiarize.
 
+## WINDOW ORCHESTRATION
+> `meta/REBOOT_V3_WINDOW_MAP.md`
+
+Hard:
+> open only the worker windows whose CURRENT status is READY.
+> Do not keep blocked downstream windows active.
+
 ## CURRENT SINGLE NEXT ACTION
 > complete 2024–2026 Newcomer Commercial Breakout Dossier.
 
