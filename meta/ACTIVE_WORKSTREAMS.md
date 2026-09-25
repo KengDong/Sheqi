@@ -4,7 +4,7 @@ updated: 2026-09-25
 
 # editor_in_chief
 - status: ACTIVE / ORCHESTRATION ONLY
-- current_stage: Reservoir PASS; Character Benchmark dispatched
+- current_stage: Character Benchmark PASS; Character Collision released
 
 # completed
 - Market Scout
@@ -14,18 +14,14 @@ updated: 2026-09-25
 - Fresh Shelf Reader A
 - Fresh Shelf Reader B
 - Story Reservoir Forge
-
-# character_engine_benchmark_scout
-- status: READY / RUN NOW
-- current:
-  > `handoffs/character_engine_benchmark_scout/CURRENT.md`
-- brief:
-  > `research/briefs/2026-09-25_reboot_v3_character_engine_benchmark_brief.md`
+- Character Engine Benchmark Scout
 
 # character_collision_forge
-- status: BLOCKED
-- blocked_by:
-  > Character Engine Benchmark + editor synthesis
+- status: READY / RUN NOW
+- current:
+  > `handoffs/character_collision_forge/CURRENT.md`
+- brief:
+  > `research/briefs/2026-09-25_reboot_v3_character_collision_brief.md`
 
 # ACTIVE candidates
 - A01
@@ -43,8 +39,8 @@ updated: 2026-09-25
 - prose readers: BLOCKED
 
 # Current Single Next Action
-> Run character_engine_benchmark_scout.
+> Run character_collision_forge.
 
 # WIP
 Core worker:
-> 1 research worker.
+> 1 creative-design worker.
