@@ -30,15 +30,15 @@ Desire survivors:
 - B10 《灵气复苏，我开二手装备店》
 
 # Current Gate
-> **PACKAGING MICRO-GATE / MICROFIX BEFORE READER**
+> **PACKAGING MICRO-GATE / AI-READER TEST-VALIDITY FIX**
 
 Next:
-> `handoffs/platform_shelf_forge/CURRENT.md` — consumer-copy cleanup + real-market control shelf
+> `handoffs/platform_shelf_forge/CURRENT.md` — debrand strong controls for AI clean-room test
 
 No prose.
 
 # After
-Packaging microfix -> mixed real-shelf clean-room click test -> Shelf Cut -> Story Reservoir.
+Debranded AI shelf test -> Shelf Cut -> Story Reservoir. Real-title shelf is retained for future human-reader ecological testing.
 
 # Hard
 - no final winner;
