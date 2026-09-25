@@ -1,7 +1,7 @@
 # Rule-Reality Cheng Ye Duality Micro Writer｜CURRENT
 
 role: rule_reality_chengye_duality_micro_writer
-status: READY / EXECUTE NEXT
+status: DONE
 decision: D-0112
 candidate: 《把一条副本规则带回现实》
 
@@ -192,3 +192,25 @@ After both prototypes, write a short selfcheck answering ONLY:
 > **Freight Yard: “这人对敌人真狠，而且他的聪明真是从副本里长出来的。”**
 >
 > **Breakfast: “这人跟自己人待一起居然挺轻松，我愿意看他回家。”**
+
+---
+
+# Completion
+
+status: DONE
+completed: 2026-09-25
+
+Outputs:
+- `experiments/rule_reality/d0112_chengye_duality_microprototypes.md`
+- `experiments/rule_reality/d0112_chengye_duality_selfcheck.md`
+
+Result:
+- Freight Yard micro-prototype: PASS against current selfcheck.
+- Home Breakfast micro-prototype: PASS against current selfcheck.
+- Kill test: PASS; Cheng Ye is not reducible only to “smart / calm / responsible”.
+
+No canon promotion performed.
+No authoritative Opening modification performed.
+No Field #2 modification performed.
+No Reader created.
+STOP.
