@@ -4,7 +4,7 @@ updated: 2026-09-24
 
 # Highest Decision
 
-> **D-0112｜Returner Power-Gap Reopen BEFORE Character Magnet Lab**
+> **D-0114｜HIGH-INTENSITY FIELD HORROR REOPEN / AUTHOR REVIEW**
 
 Authority:
 - `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
@@ -31,6 +31,32 @@ Postmortem:
 - D-0079 C01 targeted patch：**PAUSED / SUPERSEDED BY PROCESS RESET**
 - existing Ch1—20 prose：research evidence / experiment history
 - Canon / Approved Outline：frozen; no new authority promotion
+
+# D-0114 High-Intensity Field Horror Authority
+
+Author rejected:
+- Field #1 as name/identity-centered;
+- current “封门楼” intensity / scale;
+- Fields that are mostly clever-rule puzzles.
+
+Research:
+> `research/2026-09-25_d0114_high_intensity_field_benchmark_scan.md`
+
+Author review pack:
+> `experiments/rule_reality/2026-09-25_d0114_field1_field2_horror_rebuild_review_pack.md`
+
+Core correction:
+> **Field = giant failed-future catastrophe.**
+>
+> **Returned Rule = one small survivable law extracted from it.**
+
+Current primary candidates:
+- Field #1: `第十八夜，整座城开始重叠`;
+- Field #2: `青禾里二号楼正在掉出世界`.
+
+No prose integration.
+No canon.
+Await author review.
 
 # D-0112 Returner Power-Gap Authority
 
