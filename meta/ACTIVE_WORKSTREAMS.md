@@ -2,13 +2,10 @@
 
 updated: 2026-09-25
 
-Window map:
-> `meta/REBOOT_V3_WINDOW_MAP.md`
-
 # 1. editor_in_chief
 - status: ACTIVE / ORCHESTRATION ONLY
 - current_stage:
-  > Packaging copy/control PASS; AI-reader debranding validity fix required
+  > Packaging PASS; clean-room click test released
 
 # 2. Market Scout
 - status: DONE
@@ -20,27 +17,29 @@ Window map:
 - status: DONE
 
 # 5. platform_shelf_forge
-- status: READY / NEXT / TEST-VALIDITY FIX
+- status: DONE / STOP
+- result:
+  > project consumer copy PASS
+  > strong controls PASS
+  > debranded AI control shelves PASS
+  > real-title human shelves preserved
+
+# 6. fresh_shelf_reader_a
+- status: READY / RUN NOW
 - current:
-  > `handoffs/platform_shelf_forge/CURRENT.md`
-- brief:
-  > `research/briefs/2026-09-25_reboot_v3_debranded_control_shelf_brief.md`
-- input:
-  > six Desire Cut survivors
+  > `handoffs/fresh_shelf_reader_a/CURRENT.md`
 
-# 6. fresh_shelf_reader
+# 7. fresh_shelf_reader_b
+- status: READY / RUN NOW
+- current:
+  > `handoffs/fresh_shelf_reader_b/CURRENT.md`
+
+# 8. story_reservoir_forge
 - status: BLOCKED
 - blocked_by:
-  > debranded control shelves
-- future:
-  > anonymous package-only click test
+  > both shelf readers + editor Shelf Cut
 
-# 7. story_reservoir_forge
-- status: BLOCKED
-- blocked_by:
-  > Packaging Micro-Gate
-
-# 8. Downstream
+# 9. Downstream
 - character_collision_forge: BLOCKED
 - minimal_horizon_forge: BLOCKED
 - P0 writers: NOT DISPATCHED
@@ -51,14 +50,11 @@ Window map:
 
 # Current Single Next Action
 
-> Run `platform_shelf_forge`.
+> Run fresh_shelf_reader_a and fresh_shelf_reader_b in parallel.
 
-After debranded control shelves:
-> editor validates them, then unblocks `fresh_shelf_reader`.
-
-After click test:
-> editor Shelf Cut -> Story Reservoir.
+After both:
+> return to editor_in_chief for mapping reveal and Shelf Cut.
 
 # WIP
-Current core worker:
-> 1 packaging worker.
+Independent evidence workers:
+> 2.
