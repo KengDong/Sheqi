@@ -32,6 +32,34 @@ Postmortem:
 - existing Ch1—20 prose：research evidence / experiment history
 - Canon / Approved Outline：frozen; no new authority promotion
 
+# 2026-09-25 Author-Directed Opening Full Rewrite
+
+Author rejected patch-layer repair and required a clean opening rewrite.
+
+Current Opening source:
+> `experiments/opening_arcs/r4_把一条副本规则带回现实/opening_arc.md`
+
+Current Ch1—8 continuous author-read package:
+> `experiments/rule_reality/2026-09-25_opening_field2_continuous_v2.md`
+
+R1 true-name mechanic lock:
+> `architecture/2026-09-25_r1_true_name_identity_binding_lock.md`
+
+Locked reader compression:
+> **名字得先对得上人。**
+
+Important:
+- bare same-name strings do not scan all namesakes;
+- valid trigger requires a specific-person referent;
+- successful trigger teaches listeners which person the name referred to;
+- those listeners may later re-trigger that same person;
+- the target is the named person, never the speaker;
+- self-name is valid;
+- current confirmed media are live voice / phone / radio / livestream;
+- written names alone do not trigger.
+
+The old patch-layer Opening and pre-rewrite QA assumptions are superseded.
+
 # D-0110 Field #2 Voluntary Reader Authority
 
 Writer output:
