@@ -1,8 +1,8 @@
 # Rule-Reality Full-Focus Successor｜CURRENT
 
 role: rule_reality_full_focus_successor
-status: ACTIVE / SOURCE_PATCHED / RE-QA REQUIRED / READER BLOCKED
-decision: D-0110
+status: ACTIVE / D0111_GATE_A_NEXT / CHARACTER_LAB_BLOCKED / MAIN_READER_BLOCKED
+decision: D-0111
 candidate: 《把一条副本规则带回现实》
 
 # Author Direction
