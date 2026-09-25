@@ -13,6 +13,9 @@ Write ONLY the first isolated on-page prototype of Field #2:
 D-0107 unknown-author compression is now binding for this prototype:
 > `architecture/2026-09-25_d0107_rule_reality_unknown_author_breakout_compression.md`
 
+D-0108 scale + protagonist amplification is also binding:
+> `architecture/2026-09-25_d0108_rule_reality_scale_and_protagonist_amplification.md`
+
 Purpose:
 > prove whether the Rule Field engine itself is bingeable at head-tier ambition.
 
@@ -30,7 +33,8 @@ Read ONLY:
 6. `architecture/2026-09-24_d0104_rule_field_engine_and_supply_reservoir.md`
 7. `experiments/rule_reality/2026-09-24_d0105_field2_three_way_cards.md`
 8. `architecture/2026-09-25_d0107_rule_reality_unknown_author_breakout_compression.md`
-9. existing Rule-Reality Opening Arc ONLY for Cheng Ye/R1 continuity.
+9. `architecture/2026-09-25_d0108_rule_reality_scale_and_protagonist_amplification.md`
+10. existing Rule-Reality Opening Arc ONLY for Cheng Ye/R1 continuity.
 
 Do NOT read other candidate prose.
 
@@ -60,6 +64,12 @@ Binding D-0107 anchor:
 If 《封门楼》 could be relocated to a random unrelated building with no loss:
 > FAIL.
 
+D-0108 scale requirement:
+> the tower should feel like the FIRST PIECE of a larger impossible urban geography, not merely a one-off future Easter egg.
+
+Do not explain the Second Reality.
+Only plant a spatial contradiction strong enough that Reader can later imagine other Field locations connecting to it.
+
 ## 2. Fair play
 The key reinterpretation must have planted evidence.
 
@@ -72,7 +82,7 @@ Hard:
 Reader may fail to solve it, but after reveal should be able to think:
 > “原来前面有这个。”
 
-## 3. Cheng Ye｜specificity + visible competence fantasy
+## 3. Cheng Ye｜specificity + visible competence fantasy + reader reassurance
 Binding D-0107 character law:
 > Cheng Ye does not win by being “the smartest rule solver.”
 > He is the person who refuses to let human cost remain abstract.
@@ -98,6 +108,16 @@ Prove:
 - one visible action his current returner experience lets him do better than an ordinary smart survivor;
 - at least one other character notices, trusts, resists, or changes behavior because of that demonstrated difference;
 - this insistence on explicit responsibility causes at least ONE real delay/problem/mistake.
+
+Additional D-0108 competence proof:
+- Cheng Ye must manage uncertainty, not merely solve rules;
+- at least one plan contains a visible fallback for “our interpretation is wrong”;
+- at least one assumption DOES prove wrong, and the fallback prevents catastrophe;
+- at least one high-chaos moment becomes legible because Cheng Ye turns it into an executable plan;
+- do not hide information from Reader just to reveal that Cheng Ye “knew all along.”
+
+Target reader feeling:
+> “他不一定永远猜对，但有他在，不会因为猜错一次就全灭。”
 
 If the same plot works unchanged with a generic smart MC:
 > rewrite.
@@ -126,7 +146,8 @@ On page the co-lead must:
 - win one scene because they act faster than Cheng Ye;
 - lose/cause one problem because speed/triage misses a systemic cost;
 - want something independent of Cheng Ye;
-- force Cheng Ye to confront his flaw.
+- force Cheng Ye to confront his flaw;
+- be RIGHT at least once when Cheng Ye's need for certainty/backup would cost lives.
 
 Do not expose a character card to the reader.
 
@@ -189,6 +210,15 @@ No terminology pile.
 No rule-lawyer lecture.
 No AI-style sentence that explains what the scene has already shown.
 
+# D-0108 Additional Hard Watch
+
+- do not make Cheng Ye omniscient;
+- do not make all other survivors dumb to create “安心感”;
+- do not turn strategic thinking into spoken checklist exposition;
+- do not explain that Fields are assembling a Second Reality;
+- do not add a secret mastermind/god to enlarge scale;
+- do not let the future-tower clue remain decorative: it must feel geographically real.
+
 # D-0107 Hard Watch
 
 - do not make the future-location clue a lore explanation;
@@ -222,6 +252,8 @@ Selfcheck must include:
 - co-lead independence;
 - Cheng Ye non-replaceability;
 - visible competence-fantasy proof + who recognized/resisted it;
+- uncertainty-management proof: wrong assumption + fallback payoff;
+- command-scene proof: how Cheng Ye made chaos executable without omniscience;
 - multi-axis difference from R1;
 - cost ledger;
 - ONE future-fragment clue check;
