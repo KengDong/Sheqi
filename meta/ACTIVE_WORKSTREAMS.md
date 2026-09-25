@@ -6,6 +6,25 @@
 > 本文件只记录当前工作流状态，不创造Canon / Outline权威。
 > 总评审每次阶段切换必须同步。
 
+## rule_reality_full_focus_successor
+- status: ACTIVE
+- current_task: D-0111 Gate A｜Hard Continuity / Logic QA on rewritten Ch1—8
+- current: `handoffs/rule_reality_full_focus_successor/CURRENT.md`
+- after_pass:
+  > unblock reality_character_magnet_lab_writer
+- hard_rule:
+  > main Ch1—8 voluntary reader remains BLOCKED
+
+## reality_character_magnet_lab_writer
+- status: READY / BLOCKED
+- current_task: Fang Cen / Cheng Xiaoman controlled micro-prototypes
+- current: `handoffs/reality_character_magnet_lab_writer/CURRENT.md`
+- brief: `research/briefs/2026-09-25_d0111_reality_character_magnet_lab_brief.md`
+- blocked_by:
+  > D-0111 Gate A hard continuity PASS
+- hard_rule:
+  > no source integration / no winner / no reader creation
+
 ## editor_in_chief
 - status: ACTIVE
 - current_task: D-0080 First-Principles Story Forge Orchestration
