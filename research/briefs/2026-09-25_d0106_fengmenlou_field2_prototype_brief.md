@@ -10,6 +10,9 @@ role: rule_field2_fengmenlou_writer
 Write ONLY the first isolated on-page prototype of Field #2:
 > 《封门楼》
 
+D-0107 unknown-author compression is now binding for this prototype:
+> `architecture/2026-09-25_d0107_rule_reality_unknown_author_breakout_compression.md`
+
 Purpose:
 > prove whether the Rule Field engine itself is bingeable at head-tier ambition.
 
@@ -26,7 +29,8 @@ Read ONLY:
 5. `architecture/2026-09-24_d0102_rule_reality_head_tier_framework_v2.md`
 6. `architecture/2026-09-24_d0104_rule_field_engine_and_supply_reservoir.md`
 7. `experiments/rule_reality/2026-09-24_d0105_field2_three_way_cards.md`
-8. existing Rule-Reality Opening Arc ONLY for Cheng Ye/R1 continuity.
+8. `architecture/2026-09-25_d0107_rule_reality_unknown_author_breakout_compression.md`
+9. existing Rule-Reality Opening Arc ONLY for Cheng Ye/R1 continuity.
 
 Do NOT read other candidate prose.
 
@@ -41,10 +45,20 @@ Do NOT finish the entire long Field if it would require forcing closure.
 
 # Mandatory Execution Tests
 
-## 1. Visual identity
+## 1. Visual identity + Reality Anchor Echo
 Reader remembers:
 > the vertical apartment / doors / night evacuation,
 not a list of rules.
+
+Binding D-0107 anchor:
+- in present reality, this address is only an unfinished construction pit / announced residential project;
+- in the Field, the same address contains a completed forty-floor residential tower;
+- the entry transition should make the impossible completion visually immediate;
+- use only ONE physical future clue (completion plaque / inspection date / resident notice or equivalent);
+- do NOT explain “failed future.”
+
+If 《封门楼》 could be relocated to a random unrelated building with no loss:
+> FAIL.
 
 ## 2. Fair play
 The key reinterpretation must have planted evidence.
@@ -59,19 +73,46 @@ Reader may fail to solve it, but after reveal should be able to think:
 > “原来前面有这个。”
 
 ## 3. Cheng Ye｜specificity + visible competence fantasy
+Binding D-0107 character law:
+> Cheng Ye does not win by being “the smartest rule solver.”
+> He is the person who refuses to let human cost remain abstract.
+
+When others say:
+> “牺牲两户总比整栋楼死强。”
+
+His instinct is not generic heroism.
+It is:
+> “哪两户？说门牌。”
+
+Then force:
+- who is inside;
+- who is making the decision;
+- who will tell them;
+- who owns the consequence.
+
 Prove:
 - personality;
 - competence;
 - flaw;
 - one decision only he would make;
 - one visible action his current returner experience lets him do better than an ordinary smart survivor;
-- at least one other character notices, trusts, resists, or changes behavior because of that demonstrated difference.
+- at least one other character notices, trusts, resists, or changes behavior because of that demonstrated difference;
+- this insistence on explicit responsibility causes at least ONE real delay/problem/mistake.
 
 If the same plot works unchanged with a generic smart MC:
 > rewrite.
 
 ## 4. Co-lead
-Before writing prose, privately define exactly ONE named co-lead with:
+Before writing prose, privately define exactly ONE named co-lead.
+
+Binding conflict geometry:
+- Cheng Ye instinct: make the cost explicit before calling a sacrifice acceptable;
+- co-lead instinct: in an emergency, acting before certainty may be the only way to save anyone.
+
+Preferred competence family:
+> emergency medicine / rescue / triage / disaster response.
+
+The co-lead must have:
 - non-rule life desire;
 - behavioral bias;
 - one annoying/charming trait;
@@ -82,9 +123,10 @@ Before writing prose, privately define exactly ONE named co-lead with:
 - a reality-side reason to recur.
 
 On page the co-lead must:
-- win one scene;
-- lose one scene;
-- want something independent of Cheng Ye.
+- win one scene because they act faster than Cheng Ye;
+- lose/cause one problem because speed/triage misses a systemic cost;
+- want something independent of Cheng Ye;
+- force Cheng Ye to confront his flaw.
 
 Do not expose a character card to the reader.
 
@@ -125,10 +167,14 @@ Allowed cost is broader than death:
 ONE physical clue only.
 Do not explain failed futures.
 
-## 10. Dual continuation appetite
+## 10. Dual continuation appetite + Book Contract
 Without writing the reality aftermath, the prototype must plant both appetites:
 1. “I want to know what this Field / its eventual returned rule will do to ordinary reality.”
 2. “I want to keep reading another Rule Field because the Field side itself is fun.”
+
+Binding emotional contract:
+> every successful return must feel like a gain AND a permanent wound to normal life.
+> “赢一次，现实输一点。”
 
 The prototype may stop at an early/mid-Field payoff, but the return-choice consequence cannot disappear from reader memory.
 
@@ -142,6 +188,15 @@ Plain Chinese.
 No terminology pile.
 No rule-lawyer lecture.
 No AI-style sentence that explains what the scene has already shown.
+
+# D-0107 Hard Watch
+
+- do not make the future-location clue a lore explanation;
+- do not let Cheng Ye's signature collapse into “he solved the rule first”;
+- do not let the co-lead become an admiration/exposition receiver;
+- do not treat “sacrifice two households” as anonymous arithmetic;
+- do not make the Field visually generic before the rules begin;
+- do not turn the prototype into prep/setup for reality aftermath.
 
 # Prohibited
 
