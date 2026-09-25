@@ -4,7 +4,7 @@ updated: 2026-09-24
 
 # Highest Decision
 
-> **D-0114｜HIGH-INTENSITY FIELD HORROR REOPEN / AUTHOR REVIEW**
+> **D-0115｜TRAP-FIRST FIELD DESIGN RESET / AUTHOR REVIEW**
 
 Authority:
 - `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
@@ -31,6 +31,30 @@ Postmortem:
 - D-0079 C01 targeted patch：**PAUSED / SUPERSEDED BY PROCESS RESET**
 - existing Ch1—20 prose：research evidence / experiment history
 - Canon / Approved Outline：frozen; no new authority promotion
+
+# D-0115 Trap-First Field Design Authority
+
+Author rejected D-0114 as:
+> environment-first / mechanically stacked / AI-like / no distinctive trap.
+
+Research + nuclei:
+> `research/2026-09-25_d0115_field_trap_first_research_and_nuclei.md`
+
+New definition:
+> **A Field is not a place, monster, catastrophe or rule list.**
+>
+> **A Field's core is a trap where the natural survival action feeds the danger that later kills you.**
+
+Current Field #1 nuclei for author review:
+- A｜每一次正确的救命选择，都让明天更难活；
+- B｜越抱团，人越少；
+- C｜死人一定要回家，可活人开始不认他们。
+
+Current recommendation:
+> evaluate trap nucleus first.
+> Do NOT expand into full Arc Card until author approves the core trap.
+
+Field #2 redesign is deliberately deferred until this method passes.
 
 # D-0114 High-Intensity Field Horror Authority
 
