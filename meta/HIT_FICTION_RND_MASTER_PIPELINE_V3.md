@@ -1,6 +1,6 @@
 ---
 status: active-authority
-version: 3.0
+version: 3.1
 date: 2026-09-25
 decision: REBOOT-V3
 goal: unknown-author-breakout-and-sustained-income
@@ -97,6 +97,36 @@ Editor不打复杂分。
 
 作者最多看：
 > 2–3个内部最强者。
+
+# 3A. Stage C2｜Packaging Micro-Gate
+
+Before spending Reservoir resources on the 4–6 Desire survivors:
+
+Each candidate gets:
+- 2–3 title variants;
+- one-line consumption promise;
+- 80–140 Chinese-character blurb;
+- Qidian / Fanqie routing hypothesis;
+- anonymous shelf copy.
+
+Clean-room readers see packaging ONLY.
+
+Measure:
+- spontaneous click choice;
+- what they think the book promises;
+- whether the promise is clear;
+- which package they reject instantly;
+- no score-first ranking.
+
+Purpose:
+> **test acquisition before testing story supply.**
+
+Hard:
+- packaging may sharpen expression;
+- packaging may NOT redesign the Concept to rescue a weak engine.
+
+Candidates that cannot produce a clickable honest package:
+> DROP before Story Reservoir.
 
 # 4. Stage D｜Story Reservoir
 
