@@ -1,3 +1,8 @@
+> **SUPERSEDED / REFERENCE ONLY — REBOOT-V3**
+>
+> Current execution authority: `meta/EXPERIMENT_LANES_V2.md`
+> Do not execute NEXT/ACTIVE instructions in this historical file unless reactivated by `meta/CURRENT_AUTHORITY.md`.
+
 ---
 status: active-authority
 version: 1.0
