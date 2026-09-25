@@ -1,6 +1,6 @@
 ---
 status: ACTIVE AUTHOR-DIRECTED REBUILD PLAN
-version: 1.1
+version: 1.2
 date: 2026-09-25
 candidate: 《把一条副本规则带回现实》
 scope: two-lane rebuild
@@ -61,7 +61,23 @@ Hard:
 
 ---
 
-# 3. LANE B｜爆笑热门商业镜像
+# 3. LANE B｜新人商业爆款实验室
+
+Highest authority:
+> `meta/B_LANE_NEWCOMER_BREAKOUT_FIRST_PRINCIPLES.md`
+
+B Lane is no longer required to preserve Cheng Ye / current Sheqi / current Field engine.
+
+Primary objective:
+> **unknown new author breakout probability + sustained serialization income.**
+
+Comedy is:
+> a preferred retention/relationship tool to test,
+> NOT the highest objective.
+
+Previous “comedy mirror” research is retained as evidence only.
+
+## 3A. Legacy Comedy Mirror Notes
 
 Author direction:
 > **仿写搞笑的热门小说。**
@@ -214,6 +230,20 @@ Goal:
 > **像同一档商业产品，不像同一本书换皮。**
 
 ---
+
+# 3B. B-Lane Current Required Gate
+
+Before fiction design:
+> 2024–2026 Newcomer Commercial Breakout Dossier.
+
+Must compare:
+- Qidian paid-reading breakout patterns;
+- Fanqie free-reading breakout patterns;
+- comedy/light-tone successes;
+- non-comedy breakout controls.
+
+Only after that:
+> generate new commercial nuclei from scratch.
 
 # 4. Same Evidence Package for A and B
 
