@@ -2,28 +2,23 @@
 
 ## ROLE
 - role: fresh_shelf_reader_b
-- status: READY
+- status: COMPLETE
 - decision: REBOOT-V3
 - clean_room: HARD
 
-## CURRENT TASK
-Execute:
+## COMPLETED TASK
+Executed:
 > `research/briefs/2026-09-25_reboot_v3_fresh_shelf_reader_b_brief.md`
 
-## HARD INPUT BOUNDARY
 Read only:
 - own brief;
-- the two debranded anonymous shelf files named by the brief.
-
-Do NOT read:
-- mappings;
-- editor;
-- market research;
-- Concept files;
-- old Sheqi;
-- other reader output.
+- `experiments/reboot_v3/packaging/anonymous/fanqie_debranded_control_shelf.md`;
+- `experiments/reboot_v3/packaging/anonymous/qidian_debranded_control_shelf.md`.
 
 ## OUTPUT
 > `reviews/2026-09-25_reboot_v3_fresh_shelf_reader_b.md`
 
-Then CURRENT/history and STOP.
+## STATUS
+Package-only blind read complete. No mapping, real-title controls, Concept files, market dossier, editor conclusions, STATE, other Reader reports, old Sheqi, or web search were used.
+
+STOP.
