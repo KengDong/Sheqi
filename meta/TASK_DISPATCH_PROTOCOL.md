@@ -1,6 +1,6 @@
 ---
 status: approved-process
-version: 1.0
+version: 1.1
 created_at: 2026-09-22
 authority: author-approved-process-extension
 canon_effect: none
@@ -59,7 +59,7 @@ outline_effect: none
 
 新窗口必须按：
 1. AGENTS.md
-2. meta/COMMERCIAL_FIRST_PRINCIPLES.md（clean-room例外）
+2. meta/FIRST_PRINCIPLES_FICTION_RND_OS.md（clean-room例外）
 3. meta/STATE.md（clean-room例外）
 4. meta/HANDOFF_PROTOCOL.md
 5. 自己的 CURRENT
@@ -121,15 +121,20 @@ outline_effect: none
 
 必须在本轮修正。
 
-## 8. 当前Sheqi应用
-#37/#38后：
-- editor_in_chief：ACTIVE，等待作者P1；
-- mid_continuity：BLOCKED/QUEUED，下一任务是Authority Rewrite；
-- opening_writer：PAUSED，等待新Opening Scene Spine；
-- visual：PAUSED；
-- blind_reader：PAUSED，等待新的盲读包。
+## 8. 当前Sheqi应用｜REBOOT-V3
 
-下一正式任务链由：
-> Author P1 -> Authority Rewrite -> Opening Execution Validation -> Ch1—10 -> Gates -> Formal Ch1
+Current authority:
+> `meta/CURRENT_AUTHORITY.md`
 
-驱动。
+Current task:
+> `handoffs/newcomer_breakout_market_scout/CURRENT.md`
+
+Current brief:
+> `research/briefs/2026-09-25_b_lane_newcomer_breakout_dossier_brief.md`
+
+All old D-00xx / D-01xx task chains:
+> history/evidence only unless CURRENT_AUTHORITY explicitly reactivates them.
+
+Hard:
+> no new task may be dispatched from a historical NEXT field.
+
