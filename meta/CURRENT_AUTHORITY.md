@@ -4,7 +4,7 @@ updated: 2026-09-24
 
 # Highest Decision
 
-> **D-0110｜Field #2 Hard QA PASS / Anonymous Voluntary Reader NEXT**
+> **D-0111｜Reality Character Magnet Gate BEFORE Final Ch1—8 Reader**
 
 Authority:
 - `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
@@ -31,6 +31,38 @@ Postmortem:
 - D-0079 C01 targeted patch：**PAUSED / SUPERSEDED BY PROCESS RESET**
 - existing Ch1—20 prose：research evidence / experiment history
 - Canon / Approved Outline：frozen; no new authority promotion
+
+# D-0111 Reality Character Magnet Authority
+
+Author direction:
+> strengthen Fang Cen / Cheng Xiaoman as recurring reality-world reader attractions before spending the next clean full-package reader.
+
+Brief:
+> `research/briefs/2026-09-25_d0111_reality_character_magnet_lab_brief.md`
+
+Preference scan:
+> `research/2026-09-25_reality_female_character_reader_preference_scan.md`
+
+Execution order:
+1. hard continuity / logic QA on CURRENT rewritten Ch1—8;
+2. controlled Fang Cen A/B/C + Xiaoman A/B/C micro-prototypes;
+3. two clean-room character-preference readers;
+4. controller synthesis;
+5. character-layer-only integration pass;
+6. fresh hard QA;
+7. regenerate Ch1—8 anonymous package;
+8. main voluntary Ch1—8 reader.
+
+Main reader remains BLOCKED until this sequence reaches step 8.
+
+Character Lab Writer:
+> `handoffs/reality_character_magnet_lab_writer/CURRENT.md`
+
+Hard:
+- no final character canon before evidence;
+- no Fang Cen romance decision;
+- no sexualized sibling coding;
+- no Field #2 continuation / aftermath during this gate.
 
 # 2026-09-25 Author-Directed Opening Full Rewrite
 
