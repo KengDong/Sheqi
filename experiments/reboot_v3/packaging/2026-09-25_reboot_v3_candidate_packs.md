@@ -1,31 +1,32 @@
 ---
-status: COMPLETE
+status: COMPLETE_MICROFIX
 date: 2026-09-25
 decision: REBOOT-V3
-stage: Packaging Micro-Gate
+stage: Packaging Micro-Gate / MICROFIX
 role: platform_shelf_forge
 scope: PACKAGING ONLY
+supersedes: first-pass project-facing copy
 ---
 
-# REBOOT-V3｜Six Candidate Packaging Source Pack
+# REBOOT-V3｜Six Candidate Packaging Source Pack V2
 
-Purpose:
-Test whether an unknown-author novel can earn a stranger's click from title + one-line promise + short blurb alone.
+The first pass preserved Concept integrity but was not reader-test-ready.
+This version keeps the same six Concepts and rewrites only shelf-facing language.
 
-Hard boundary:
-- no concept redesign;
+Hard:
+- no Concept mutation;
 - no new power/mechanic;
 - no prose scene;
-- no chapter outline;
+- no Story Reservoir;
 - no winner;
-- no cover invention;
-- no old candidate resurrection.
+- no cover invention.
 
-Platform heuristic used:
-- Qidian: can tolerate slightly more evocative naming, but still needs clear paid-reading runway, durable asset/status/relationship compounding, and a promise that can support long-form value.
-- Fanqie: title/first-glance comprehension cost must be especially low; premise action and immediate recurring reward should be obvious without prior author trust.
+Reader-facing fields below are:
+- platform title;
+- one-line shelf hook;
+- 80–140-character shelf blurb.
 
-No routing label below is a ranking.
+Internal routing/risk notes remain outside the anonymous shelves.
 
 ---
 
@@ -33,33 +34,26 @@ No routing label below is a ranking.
 
 ### Title variants
 1. 《怪物死了，地盘还在》
-2. 《杀掉怪物后，我接手了它的地盘》
-3. 《怪物死后，它的地盘归我了》
+2. 《杀掉怪物后，我还得接手它的地盘》
+3. 《杀怪之后，地盘归我管》
 
-### One-line consumption promise
-杀怪不是收尾，而是接手它留下的地盘、租客和债；每场战斗都会把城市永久改成一张越来越大的现实盘面。
+### Shelf one-line
+城里的怪物能杀，怪物留下的地盘、住户和债务却不会消失；他每赢一场，就得真接下一块地方，也真扛下一摊麻烦。
 
-### 80–140-character blurb
-城市里的怪物会死，可它们占下的地盘不会凭空消失。主角每解决一个怪物，就得接手它留下的场所、租客和债务。战斗赢一次，现实就永久多一块要经营、要守住、也会反过来产生价值的地盘。旧地盘、旧租客、旧债不断回来，越打，城市里属于他的部分就越多。
+### Shelf blurb｜107 chars
+城里的怪物能杀，占下的地方却不会跟着消失。每解决一个怪物，他就得接手留下的商铺、通道、住户和债务：能住人，能挣钱，也可能随时惹出旧麻烦。第一块地盘只是开始。打得越多，他在这座城市里要管的地方越多，来找他的人也越多。
 
-### Routing hypothesis
-Dual；Qidian slight lean.
+### Platform title
+- Qidian: 《怪物死了，地盘还在》
+- Fanqie: 《杀掉怪物后，我还得接手它的地盘》
 
-Why:
-- Qidian can naturally read the recurring payoff as territory / asset / social-state compounding.
-- Fanqie can still understand the click hook instantly if the title is made more literal.
+### Expected shelf expectation
+都市异常战斗；赢下危险空间后还要接手里面的人、账和现实责任；地盘逐步扩大。
 
-### Expected reader expectation
-都市超凡战斗 + 战后接盘 + 地盘扩张 + 旧租客/旧债/旧地点持续回返。
-
-### Risk of misleading packaging
-- “地盘归我”容易让Reader误以为存在自动产权系统或纯房地产经营外挂。
-- 不能写成“每杀一只怪固定爆一套房”的收集卡承诺。
-- 包装必须保留“战后责任/后果”，不能只卖无成本资产暴涨。
-
-### Shelf routing
-- Qidian shelf title: 《怪物死了，地盘还在》
-- Fanqie shelf title: 《怪物死后，它的地盘归我了》
+### Misleading-packaging guard
+- 不承诺“杀一怪自动爆一套房”。
+- 不暗示无条件法定产权。
+- 必须保留“接管同时接责任”，不能只卖白捡资产。
 
 ---
 
@@ -70,30 +64,23 @@ Why:
 2. 《末日来了，我先把水电修回来》
 3. 《末日生存：先通水，再通电》
 
-### One-line consumption promise
-末日里最硬的成长不是多一把枪，而是把水、电和能住人的地方一段段修回来，让生存、社区与权力一起发生永久变化。
+### Shelf one-line
+别人抢粮抢枪时，他先抢修水泵、配电和门禁——只要一栋楼重新出水亮灯，就能让一群人真正活下来。
 
-### 80–140-character blurb
-末日之后，最值钱的不只是食物和武器，而是还能出水、还能亮灯、还能让人住下去的地方。主角从修回一段水电开始，把废掉的基础设施一点点恢复，让幸存者重新聚起来。每一次恢复都改变社区的生存、秩序与权力，也让“活下去”逐渐变成“把生活重新接起来”。
+### Shelf blurb｜115 chars
+末日停水停电后，一栋楼能不能继续住人，可能就卡在地下泵房、配电柜和门禁上。别人忙着抢粮抢枪，他先带人把这些东西修回来。水重新流进水管，灯重新亮起来，幸存者也开始往这里聚。可人一多，物资怎么分、谁先用电、谁来守住这里，都成了新问题。
 
-### Routing hypothesis
-Dual；Fanqie slight lean.
+### Platform title
+- Qidian: 《末日先修水电》
+- Fanqie: 《末日来了，我先把水电修回来》
 
-Why:
-- Fanqie gets a low-friction contradiction against standard scavenging apocalypse packaging.
-- Qidian still has a clear long-form runway through infrastructure, community, authority and permanent physical state.
+### Expected shelf expectation
+末日求生；修复供水、供电、门禁等具体设施；从一栋楼开始重新组织活人社区。
 
-### Expected reader expectation
-末日求生 + 可见基础设施恢复 + 社区重建 + 由“能活”到“能生活”的持续升级。
-
-### Risk of misleading packaging
-- “修水电”可能被误读为慢节奏维修手册或硬核工程科普。
-- 不能暗示存在未给出的工程系统、瞬间建造、无限物资。
-- 也不能包装成单纯种田日常，丢掉末日压力。
-
-### Shelf routing
-- Qidian shelf title: 《末日先修水电》
-- Fanqie shelf title: 《末日来了，我先把水电修回来》
+### Misleading-packaging guard
+- 不新增工程外挂、瞬间建造或无限物资。
+- 不写成纯技术维修教程。
+- 必须保留末日资源压力和人与人的分配冲突。
 
 ---
 
@@ -101,33 +88,26 @@ Why:
 
 ### Title variants
 1. 《冒险者公会救援队》
-2. 《任务失败了？救援队进场》
-3. 《冒险者失联后，我负责把人带回来》
+2. 《冒险者失联后，我负责把人带回来》
+3. 《别人任务失败，轮到救援队进场》
 
-### One-line consumption promise
-别人进入冒险现场完成任务，主角进入那些已经失败的现场把人带回来；每一次救援既有危险，也会留下未来仍会回来的关系。
+### Shelf one-line
+普通冒险者接的是“去杀什么”，救援队接的是“那支队伍失联两天了，把人活着带回来”。
 
-### 80–140-character blurb
-冒险者的任务并不总能成功。有人失联、有人被困、有人等不到撤离时，主角所在的救援队才真正进场：进入失败现场，把还能带回来的人带回来。危险不会因任务失败而消失，被救的人也不会用完就走。一次次救援留下关系、旧账与下一次必须面对的人。
+### Shelf blurb｜109 chars
+冒险者顺利完成任务时，轮不到救援队出场。只有失联、被困、撤退失败，甚至整支队伍回不来时，他们才往里走。主角要找路、带伤员、判断什么时候必须撤退，把还能活着的人带出来。救回来的人会记得这条命，没查清的危险也会等着下一次。
 
-### Routing hypothesis
-Dual；Qidian lean.
+### Platform title
+- Qidian: 《冒险者公会救援队》
+- Fanqie: 《冒险者失联后，我负责把人带回来》
 
-Why:
-- Qidian can better amortize mission danger into recurring rescued characters, guild ties and paid-chapter relationship value.
-- Fanqie package needs the “失联后我负责带回来” action made very explicit to avoid generic fantasy-team ambiguity.
+### Expected shelf expectation
+西幻公会生态中的专业救援；进入别人已经失败的现场；救人、撤离、地图与救命债一起留下。
 
-### Expected reader expectation
-高危救援 + 失败现场探索 + 团队行动 + 被救者持续回返并改变后续关系。
-
-### Risk of misleading packaging
-- 容易被看成“一周一个救援任务”的单元剧。
-- “冒险者公会”也可能让Reader期待传统升级打怪主线而非救援职业线。
-- 不能靠包装虚构特殊复活、回溯或救援外挂。
-
-### Shelf routing
-- Qidian shelf title: 《冒险者公会救援队》
-- Fanqie shelf title: 《冒险者失联后，我负责把人带回来》
+### Misleading-packaging guard
+- 不新增复活、回溯、万能救援能力。
+- 不包装成普通“刷地下城升级”。
+- 不承诺每次一定救成功。
 
 ---
 
@@ -136,32 +116,25 @@ Why:
 ### Title variants
 1. 《没人要的主播，都被我签红了》
 2. 《别人抢头部主播，我只签没人要的》
-3. 《直播经纪人：专签没人要的主播》
+3. 《快倒闭的经纪公司，专签没人要的主播》
 
-### One-line consumption promise
-别人争抢已经成功的主播，主角专签被放弃和被低估的人，把他们一步步做红；公开反馈、老观众与不断壮大的主播群持续回返。
+### Shelf one-line
+快倒闭的小工作室专签那些有本事却不会卖自己的主播：别人不要的人，他要把他们一个个做红。
 
-### 80–140-character blurb
-平台上从不缺主播，缺的是有人愿意押注那些暂时没人要的人。主角专签被放弃、被低估、没人肯接手的主播，再把他们一步步做红。真正的爽点不只是一场直播翻身，而是旧主播、老观众和公开反馈不断回返，团队越做越大，每个人也越来越难只当一张卡。
+### Shelf blurb｜116 chars
+他接手的是一家快倒闭的小经纪工作室，没钱抢头部，只能去找那些有真本事、却不会把自己卖出去的主播。签下来以后，还得帮他们找到适合自己的直播方式，让第一批观众愿意留下。有人翻红，有人闯祸，有人开始赚钱；工作室也从几个人，慢慢挤满了声音。
 
-### Routing hypothesis
-Fanqie lean；Qidian viable.
+### Platform title
+- Qidian: 《没人要的主播，都被我签红了》
+- Fanqie: 《别人抢头部主播，我只签没人要的》
 
-Why:
-- Fanqie has especially low comprehension cost for直播、翻身、公开反馈 and cast-based social reward.
-- Qidian remains plausible if long-run value is carried by recurring people and organization growth rather than temporary memes.
+### Expected shelf expectation
+直播经纪创业；把被低估的人做出成绩；公开反馈、赚钱和团队成员之间的长期关系。
 
-### Expected reader expectation
-主播养成 + 经纪运营 + 公开翻身反馈 + 轻喜剧/社交爽感 + 常驻主播群成长。
-
-### Risk of misleading packaging
-- “都被我签红了”可能让Reader期待签一个必红一个、无失败成本。
-- 不能把现成网络热梗冒充核心发动机。
-- 不能包装成纯打赏神豪或未给出的流量系统。
-
-### Shelf routing
-- Qidian shelf title: 《没人要的主播，都被我签红了》
-- Fanqie shelf title: 《别人抢头部主播，我只签没人要的》
+### Misleading-packaging guard
+- 不新增流量系统、神豪资金或必红外挂。
+- “签红”是商业欲望，不保证签一个必成一个。
+- 不依赖现实热梗冒充故事机制。
 
 ---
 
@@ -169,33 +142,26 @@ Why:
 
 ### Title variants
 1. 《夜班公交：跑完一条线，我就多一段路权》
-2. 《我开夜班公交，路线越跑越归我》
-3. 《深夜公交：每跑通一条线，我就多一段路》
+2. 《我开夜班公交，跑通一条线就多一段路权》
+3. 《夜班公交：我把城市夜路一段段跑稳》
 
-### One-line consumption promise
-每跑通一条夜班公交线路，主角就多一段路权；固定线路、常客与城市地图不重置，而会随着一次次运行持续扩大。
+### Shelf one-line
+夜里的道路会异常偏移；他每完整跑通一条公交线，就能把一段不可靠的路跑成自己和乘客都能依赖的路。
 
-### 80–140-character blurb
-夜班公交不是把人从一站送到下一站那么简单。主角每真正跑通一条夜班线路，就会多掌握一段属于自己的路权；固定线路、常客与城市地图因此一点点累积。新路线带来新的危险，但旧路线不会作废——跑得越久，他能进入、连接和掌控的城市也越大。
+### Shelf blurb｜112 chars
+夜里，城市的道路会发生异常偏移，导航和熟路都有可能突然不可靠。他开着夜班公交，一趟趟把固定乘客送到该去的地方。只要完整跑通一条线路，就能把其中一段路真正跑稳。可靠的路线越来越长，他能去的地方更多，肩上的乘客和班次也越来越重。
 
-### Routing hypothesis
-Dual.
+### Platform title
+- Qidian: 《夜班公交：跑完一条线，我就多一段路权》
+- Fanqie: 《我开夜班公交，跑通一条线就多一段路权》
 
-Why:
-- Qidian gets a clean long-term progression object: route rights + city map + recurring passengers.
-- Fanqie gets an unusually visual, title-level hook with low learning cost if “越跑越归我” is made explicit.
+### Expected shelf expectation
+都市异闻夜班公交；异常道路；固定线路和固定乘客；把危险不可靠的夜路逐段跑稳。
 
-### Expected reader expectation
-超自然夜班公交 + 路线探索 + 路权增长 + 城市地图扩张 + 常客回返。
-
-### Risk of misleading packaging
-- 极易被读成“一站一个鬼故事”的怪谈合集。
-- 也可能被误会成纯开车模拟/司机职业文。
-- 不能为了增强点击新增每站奖励、乘客能力或其他未给出的线路规则。
-
-### Shelf routing
-- Qidian shelf title: 《夜班公交：跑完一条线，我就多一段路权》
-- Fanqie shelf title: 《我开夜班公交，路线越跑越归我》
+### Misleading-packaging guard
+- 不新增“每站掉奖励”。
+- 不新增乘客赋能或一站一怪谈规则。
+- 路权指既有Concept中的可靠路线/运输权限，不包装成无边界城市控制权。
 
 ---
 
@@ -203,45 +169,32 @@ Why:
 
 ### Title variants
 1. 《灵气复苏，我开二手装备店》
-2. 《超凡时代，我只卖靠谱的二手装备》
-3. 《灵气复苏：旧装备还能用，我就敢收》
+2. 《灵气复苏：我能看见装备还能用几次》
+3. 《超凡二手店：别人不敢收的装备，我敢收》
 
-### One-line consumption promise
-主角围绕旧装备剩余的可靠使用价值做收、修、卖与拒绝，把二手店经营成由库存、信任、合同和老客户持续复利的超凡生意。
+### Shelf one-line
+他能看见超凡装备还剩多少次可靠使用机会，于是专收别人不敢碰的二手货，把破店做成冒险小队出门前必来的地方。
 
-### 80–140-character blurb
-灵气复苏后，新装备贵，旧装备便宜，但真正要命的是它还能不能在关键时刻可靠工作。主角开二手装备店，围绕旧装备剩余的可靠使用价值做收、修、卖与拒绝。库存会留下，客户会回来，装备有自己的历史，信任和合同也会累积；这门生意越做越像一张超凡社会关系网。
+### Shelf blurb｜112 chars
+灵气复苏后，新装备贵得离谱，二手装备又可能在关键时刻报废。偏偏他能看见一件超凡装备还剩多少次可靠使用机会。别人不敢收的货，他敢估价、敢修、敢配给合适的人，也敢把有问题的高价货拒之门外。旧装备进进出出，老客户也一次次回到店里。
 
-### Routing hypothesis
-Dual；Qidian slight lean.
+### Platform title
+- Qidian: 《灵气复苏，我开二手装备店》
+- Fanqie: 《灵气复苏：我能看见装备还能用几次》
 
-Why:
-- Qidian can turn inventory, customer trust, contracts and equipment history into durable paid-reading compounding.
-- Fanqie still gets a simple “灵气复苏 + 二手装备店” surface, but the title must avoid generic shop-system fatigue.
+### Expected shelf expectation
+都市超凡二手经营；识别装备剩余可靠使用次数；收购、维修、匹配、拒卖与老客户复购。
 
-### Expected reader expectation
-超凡经营 + 二手装备判断/维修/买卖 + 老客户回返 + 库存与信誉长期累积。
-
-### Risk of misleading packaging
-- “靠谱”容易被误解为全知鉴定或百分百无风险能力。
-- 不能包装成“鉴定万物”“一眼看穿所有属性”等未给出的外挂。
-- 也不能让标题只剩泛化的“开店系统”，抹掉二手装备的可靠使用价值这一核心差异。
-
-### Shelf routing
-- Qidian shelf title: 《灵气复苏，我开二手装备店》
-- Fanqie shelf title: 《灵气复苏：旧装备还能用，我就敢收》
+### Misleading-packaging guard
+- 只写既有“剩余可靠使用次数”能力，不扩成全知鉴定。
+- 不承诺一眼看穿所有属性、来源或未来。
+- 不包装成每章捡一件神器。
 
 ---
 
-# Pack-level note
+# Microfix conclusion
 
-The six packages deliberately preserve different consumption shapes:
-- combat-to-territory consequence;
-- apocalypse infrastructure restoration;
-- rescue-first fantasy action;
-- streamer/cast public growth;
-- night-route territorial progression;
-- used-equipment trust economy.
+All six remain the same Concepts.
+Only shelf-facing expression changed.
 
-No package is declared superior here.
-Next evidence must come from clean-room packaging-only click behavior.
+Next evidence must come from mixed-shelf clean-room click behavior against real strong-book controls.
