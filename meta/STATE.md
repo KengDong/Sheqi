@@ -5,11 +5,8 @@ updated: 2026-09-25
 # Status
 > **FULL COMMERCIAL REBOOT ACTIVE**
 
-Active novel candidate:
+Primary:
 > NONE.
-
-Highest goal:
-> unknown-author breakout + sustained income.
 
 # Completed
 - Market Dossier: PASS
@@ -19,14 +16,16 @@ Highest goal:
 - Packaging Micro-Gate: PASS
 - Dual clean-room Shelf Readers: DONE
 - Shelf Cut: DONE
+- Story Reservoir: PASS
+- Reservoir Editor Verdict: COMPLETE
 
 # Current Portfolio
 
 ACTIVE:
 - A01 《怪物死了，地盘还在》
-- B10 《灵气复苏，我开二手装备店》
 - A02 《末日先修水电》
 - A04 《冒险者公会救援队》
+- B10 《灵气复苏，我开二手装备店》
 
 RESERVE:
 - B04 《夜班公交》
@@ -35,27 +34,24 @@ RESERVE:
 No Primary.
 
 # Current Gate
-> **STORY RESERVOIR**
+> **CHARACTER ENGINE BENCHMARK**
 
 Next:
-> `handoffs/story_reservoir_forge/CURRENT.md`
+> `handoffs/character_engine_benchmark_scout/CURRENT.md`
+
+# After
+Character Benchmark -> editor synthesis -> Character Collision -> Character Cut -> Minimal Horizon.
 
 # Selection Rule
 > early high recall / later high precision.
 
-Authority:
-> `meta/CANDIDATE_SELECTION_AND_FALSE_NEGATIVE_POLICY_V1.md`
-
-No forced 4 -> 3 cut.
-
-# After
-Reservoir -> editor structural cut -> Character Collision.
+No forced cut.
 
 # Hard
+- no character creation before benchmark;
 - no prose;
 - no final winner;
-- no long architecture;
-- no old candidate resurrection without trigger.
+- no long architecture.
 
 # One Sentence
-> **A01赢了货架，但还没赢小说；现在测试4个ACTIVE发动机到底能不能持续生出不同好戏。**
+> **4个发动机都能写长；下一步不猜人物，而是先研究热门作品的人物如何在“没新任务”时照样制造追读。**
