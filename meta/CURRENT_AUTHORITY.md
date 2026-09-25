@@ -4,7 +4,7 @@ updated: 2026-09-24
 
 # Highest Decision
 
-> **FIELD TASTE CALIBRATION｜BENCHMARK DOSSIER BEFORE ANY NEW FIELD DESIGN**
+> **B-LANE COMMERCIAL RESET｜NEWCOMER BREAKOUT + SUSTAINED INCOME FIRST**
 
 Authority:
 - `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
@@ -17,6 +17,26 @@ Postmortem:
 # D-0098 Master Process
 - `meta/HIT_FICTION_RND_MASTER_PIPELINE_V2.md`
 - `meta/D0098_EXECUTION_BOARD.md`
+
+# B-Lane Commercial First Principle
+
+Author correction:
+> do NOT optimize B Lane for Cheng Ye / existing Sheqi fit.
+
+Highest B-Lane objective:
+> **unknown new author maximizes probability of a breakout first commercial novel and sustained income.**
+
+Authority:
+> `meta/B_LANE_NEWCOMER_BREAKOUT_FIRST_PRINCIPLES.md`
+
+Current B-Lane next:
+> `research/briefs/2026-09-25_b_lane_newcomer_breakout_dossier_brief.md`
+
+Hard:
+- no B-Lane fiction design before current-market dossier;
+- comedy is a tool, not the highest goal;
+- current characters / Field / architecture are disposable in B Lane;
+- author should not be asked to point-fix weak drafts.
 
 # Current Single Next Action
 
