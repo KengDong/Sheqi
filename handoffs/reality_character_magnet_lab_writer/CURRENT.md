@@ -1,9 +1,18 @@
 # Reality Character Magnet Lab Writer｜CURRENT
 
 role: reality_character_magnet_lab_writer
-status: READY / BLOCKED BY D-0111 GATE A
+status: READY / D-0111 GATE A PASS
 decision: D-0111
 candidate: 《把一条副本规则带回现实》
+
+# Gate A proof:
+
+> `reviews/2026-09-25_d0111_gate_a_ch1_8_hard_continuity_qa.md`
+
+Gate A verdict:
+> **PASS_AFTER_MICROFIX**
+
+Current Ch1—8 source and R1 mechanics are hard-stable for this character experiment.
 
 # Mission
 
