@@ -43,9 +43,18 @@ Brief:
 Preference scan:
 > `research/2026-09-25_reality_female_character_reader_preference_scan.md`
 
+Gate A result:
+> **PASS_AFTER_MICROFIX**
+
+QA:
+> `reviews/2026-09-25_d0111_gate_a_ch1_8_hard_continuity_qa.md`
+
+Current next:
+> **Gate B｜controlled Fang Cen A/B/C + Xiaoman A/B/C micro-prototypes**
+
 Execution order:
-1. hard continuity / logic QA on CURRENT rewritten Ch1—8;
-2. controlled Fang Cen A/B/C + Xiaoman A/B/C micro-prototypes;
+1. hard continuity / logic QA on CURRENT rewritten Ch1—8 — **DONE**;
+2. controlled Fang Cen A/B/C + Xiaoman A/B/C micro-prototypes — **NEXT**;
 3. two clean-room character-preference readers;
 4. controller synthesis;
 5. character-layer-only integration pass;
