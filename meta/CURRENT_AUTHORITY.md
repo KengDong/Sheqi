@@ -4,7 +4,7 @@ updated: 2026-09-24
 
 # Highest Decision
 
-> **FIELD TASTE CALIBRATION｜STOP ORIGINAL FIELD IDEATION**
+> **FIELD TASTE CALIBRATION｜BENCHMARK DOSSIER BEFORE ANY NEW FIELD DESIGN**
 
 Authority:
 - `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
@@ -17,6 +17,31 @@ Postmortem:
 # D-0098 Master Process
 - `meta/HIT_FICTION_RND_MASTER_PIPELINE_V2.md`
 - `meta/D0098_EXECUTION_BOARD.md`
+
+# Current Single Next Action
+
+Only next creative-development task:
+> **Field benchmark taste calibration — 8–12 specific memorable popular arcs/events.**
+
+Owner:
+> `handoffs/rule_reality_field_benchmark_calibrator/CURRENT.md`
+
+Brief:
+> `research/briefs/2026-09-25_rule_reality_field_benchmark_calibration_brief.md`
+
+Until complete:
+- no Field #1 design;
+- no Field #2 redesign;
+- no Opening integration;
+- no Fang Cen / Xiaoman Character Lab;
+- no main Ch1–8 reader;
+- no “bigger / crazier” AI ideation.
+
+Current process review:
+> `reviews/2026-09-25_rule_reality_failure_synthesis_and_process_v2.md`
+
+Creative pipeline:
+> `meta/RULE_REALITY_CREATIVE_PIPELINE_V2.md`
 
 # Universal Benchmark-First Gate
 
@@ -76,7 +101,7 @@ Current working hypothesis:
 D-0115 nuclei:
 > rejected as taste match; research observations retained only.
 
-# D-0115 Trap-First Field Design Authority
+# D-0115 Trap-First Field Design Authority｜REJECTED AS TASTE MATCH / EVIDENCE ONLY
 
 Author rejected D-0114 as:
 > environment-first / mechanically stacked / AI-like / no distinctive trap.
@@ -100,7 +125,7 @@ Current recommendation:
 
 Field #2 redesign is deliberately deferred until this method passes.
 
-# D-0114 High-Intensity Field Horror Authority
+# D-0114 High-Intensity Field Horror Authority｜REJECTED / EVIDENCE ONLY
 
 Author rejected:
 - Field #1 as name/identity-centered;
