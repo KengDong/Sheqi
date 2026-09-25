@@ -2,31 +2,60 @@
 
 ## ROLE
 - role: platform_shelf_forge
-- status: READY / MICROFIX
+- status: COMPLETE / MICROFIX
 - decision: REBOOT-V3
 - stage: Packaging Micro-Gate
 
-## WHY REOPENED
-Editor review found:
-1. project copy contains internal/R&D/AI explanatory phrasing;
-2. project-only shelves cannot prove real cold-start competitiveness.
+## COMPLETED TASK
+Executed:
+> research/briefs/2026-09-25_reboot_v3_packaging_microfix_and_control_shelf_brief.md
 
-First pass remains evidence, but is NOT reader-test-ready.
+## COMPLETED
+1. consumerized the same six project packages;
+2. removed reader-facing R&D / AI-explanatory phrasing;
+3. selected real strong/recent Qidian and Fanqie shelf controls;
+4. wrote factual paraphrased control packages;
+5. built 11-item anonymous mixed shelves for both platforms;
+6. updated PRIVATE source mapping;
+7. completed microfix selfcheck.
 
-## CURRENT TASK
-Execute:
-> `research/briefs/2026-09-25_reboot_v3_packaging_microfix_and_control_shelf_brief.md`
+## OUTPUTS
+- experiments/reboot_v3/packaging/2026-09-25_reboot_v3_candidate_packs.md
+- research/reports/2026-09-25_reboot_v3_live_shelf_controls.md
+- experiments/reboot_v3/packaging/anonymous/qidian_shelf.md
+- experiments/reboot_v3/packaging/anonymous/fanqie_shelf.md
+- experiments/reboot_v3/packaging/anonymous/PRIVATE_source_key.md
+- reviews/2026-09-25_reboot_v3_packaging_microfix_selfcheck.md
+- handoffs/platform_shelf_forge/history/2026-09-25_reboot_v3_packaging_microfix_complete.md
 
-## HARD
-- same six Concepts only;
-- no Concept mutation;
-- no new mechanic/power;
-- no prose;
-- controls must be real strong books, not strawmen;
-- reader-facing copy must sound like shelf copy, not R&D notes.
+## RESULT
+Concept Integrity:
+> PASS.
+
+Consumer Copy:
+> PASS.
+
+Live Strong Controls:
+> PASS.
+
+Mixed Shelf:
+> READY FOR EDITOR REVIEW.
+
+Reader Test:
+> NOT RUN.
 
 ## NEXT
-After microfix + control shelves + selfcheck:
-> STOP and return to editor_in_chief.
+Return to:
+> editor_in_chief
 
-Do NOT run reader test.
+Editor may release the clean-room packaging-only click test after review.
+
+## HARD STOP
+platform_shelf_forge must not:
+- run Reader Test;
+- select a winner;
+- mutate Concepts;
+- write prose;
+- build Story Reservoir.
+
+STOP.
