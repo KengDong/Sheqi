@@ -1,30 +1,25 @@
-# ACTIVE WORKSTREAMS｜AUDIT FREEZE
+# ACTIVE WORKSTREAMS｜POSTMORTEM REVIEW FREEZE
 
 updated: 2026-09-26
 branch: reboot-v4-fanqie-root-audit
 
-# ACTIVE EXECUTION WORKERS
+# ACTIVE WORKERS
 > NONE.
 
-# EDITOR
-## editor_in_chief
-- status: AUDIT ONLY
-- may inspect Git
-- may write audit / authority cleanup
-- may NOT dispatch creative/research workers
+# editor_in_chief
+- status: PAUSED / AWAITING AUTHOR REVIEW
+- master audit complete
 
-# BLOCKED
-- fanqie_market_entry_scout
-- market_desire_scout
-- genre_demand_scout
-- p0_opening_benchmark_scout
+# Globally blocked
+- all market scouts
 - all concept forges
-- all prose writers
-- all reader windows
-- all Reservoir / Character / Horizon workers
+- all benchmark scouts
+- all writers
+- all readers
+- all architecture/reservoir/character workers
 
-# Exit Gate
-Author must review and accept:
-> master root-cause audit + proposed restart point
+# Next authorization
+Only after author reviews:
+> `reviews/2026-09-26_master_failure_postmortem_and_repo_reset.md`
 
-before any worker becomes READY.
+No task is queued as READY.
