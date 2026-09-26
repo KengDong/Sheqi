@@ -1,7 +1,7 @@
 # Editor in Chief｜CURRENT
 
 ## STATUS
-> **WAITING FOR POOL 1 CONCEPT 04 TARGETED REVISION**
+> **PACKAGE STAGE / THREE ISOLATED PACKAGE FORGES READY**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
@@ -9,45 +9,45 @@
 ## ROLE
 > `editor_in_chief`
 
-# REVIEW RESULT RECEIVED
+# RESOLVED
+Pool 1 concept04 targeted revision:
+> PASS
 
-Direct PASS:
-- Pool 1: 方案一 / 二 / 三
-- Pool 2: 方案一 / 二 / 三 / 四
-- Pool 3: 方案一 / 二 / 三
-
-REVISE:
-- Pool 1 方案四
-
-DROP:
-- Pool 3 方案四
+Final structurally eligible set:
+> 11 concepts
 
 # CURRENT ACTION
-Run:
-> `reboot_v4_pool01_concept04_revision`
 
-Current:
-> `handoffs/reboot_v4_pool01_concept04_revision/CURRENT.md`
+Run in parallel:
+1. `reboot_v4_pool01_package_forge`
+2. `reboot_v4_pool02_package_forge`
+3. `reboot_v4_pool03_package_forge`
 
-# PURPOSE
-Keep the same concept, but remove the structural dependency on:
-> public incident → investigator sends case → protagonist consults → next case.
+Shared protocol:
+> `research/briefs/2026-09-26_reboot_v4_package_test_protocol.md`
 
-Restore:
-> local folk-practice relationships, old parties, family / lineage, and previous consequences as the main story engine.
+# PACKAGE OUTPUT PER CONCEPT
+- one working title;
+- one-line hook;
+- Fanqie-style blurb;
+- first-3-chapter promise;
+- package selfcheck.
 
-# AFTER REVISION
-Editor checks only whether the original REVISE reason is solved.
+Exactly one official test package per concept.
 
-Then:
-> package all structurally eligible concepts for Fanqie title / blurb / shelf click-desire testing.
+# NEXT
+When all three package sets exist:
+> unlock `reboot_v4_package_editor`
+
+Its role is only to equalize package quality and detect concept drift.
 
 # HARD BLOCKS
-- no new concept generation;
-- no replacement for dropped Pool 3 concept04;
+- no anonymous shelf test before package review;
 - no prose;
-- no ranking;
-- no final winner.
+- no first screen;
+- no ranking / scoring;
+- no winner;
+- no old candidate revival.
 
 # ONE SENTENCE
-> **当前只处理唯一返修项，解决后就进入真实书架包装测试。**
+> **现在只做11个方案的番茄书架包装，包装公平后再做匿名点击测试。**
