@@ -3,44 +3,53 @@
 ## ROLE
 - role: editor_in_chief
 - status: ACTIVE / ORCHESTRATION ONLY
-- current_issue: GENRE / READER-FANTASY ROOT REOPEN
+- decision: REBOOT-V4
 
-## FAILURE
-A02 exposed that the funnel selected:
-> structurally stable operational fiction
+## ROOT RESTART
 
-instead of first proving:
-> high-demand reader fantasy.
+Restart point:
+> MARKET RESEARCH QUESTION.
 
-## CURRENT DECISION
-- A02 DROP from active.
-- A01/A04/B10/B04/A10: re-audit.
-- old cut concepts may re-enter.
-- all P0 paused.
-- AI final ranking removed.
+Do not continue repairing any existing candidate.
+
+## WHY
+
+Original Market Dossier asked:
+> which observable book designs improve breakout?
+
+It did not center:
+> which reader fantasies / emotional experiences are strongly demanded.
+
+That structural bias propagated through every later gate.
 
 ## CURRENT SINGLE NEXT ACTION
+
 Run:
-> `handoffs/genre_demand_scout/CURRENT.md`
+> `handoffs/market_desire_scout/CURRENT.md`
 
-## OUTPUT EXPECTED
-1. current Qidian/Fanqie reader-fantasy demand map;
-2. hit vs ordinary matched controls;
-3. re-audit of Sheqi concept pool;
-4. small AUTHOR comparison board.
+## EXPECTED OUTPUT
 
-## AUTHOR DECISION
-After board is frozen:
-> author personally ranks WANT TO READ / MAYBE / NO.
+1. current Qidian/Fanqie Reader Fantasy map;
+2. hit vs matched ordinary controls;
+3. newcomer-specific demand evidence;
+4. author-facing fantasy choice board.
 
-Only author-selected survivors get:
-> direct opening benchmark -> micro-prose -> P0.
+## AUTHOR GATE
+
+Author marks:
+> WANT / MAYBE / NO.
+
+Only WANT/MAYBE families may receive direct benchmark research and concepts.
 
 ## HARD
-- no AI winner ranking;
-- no prose before author concept/fantasy ranking;
-- no structural argument can rescue weak desire;
-- no “AI-friendly” advancement.
+
+- zero old-candidate privilege;
+- no AI ranking;
+- no new concepts yet;
+- no prose yet;
+- no structure-first screening;
+- no AI-production convenience as positive selection signal.
 
 ## ONE SENTENCE
-> **先问“谁想看这个”，再问“这个能不能写长”。**
+
+> **先把“市场为什么想吃”搞清楚，再谈我们做哪道菜。**
