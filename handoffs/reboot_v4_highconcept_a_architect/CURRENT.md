@@ -1,56 +1,102 @@
 # reboot_v4_highconcept_a_architect｜CURRENT
 
 ## STATUS
-> **TWO SELECTED ENGINES REFINED V2 / AUTHOR REVIEW**
+> **LIVING DAO SEED / DUAL-PROTAGONIST ARCHITECTURE V1 / AUTHOR REVIEW**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
 
-## AUTHOR SELECTED
-1. future-self route
-2. living Dao-seed / cross-world living counterpart route
+## AUTHOR SELECTED PRIORITY
+> `《全班绑定道种，我绑定的是异界活人》`
+
+AUTHOR added:
+> can use dual male protagonists;
+> cross-world information asymmetry should itself be a major pleasure engine.
 
 ## CURRENT FILE
-> `experiments/reboot_v4/concepts/highconcept/2026-09-26_two_selected_engines_refined_v2.md`
+> `experiments/reboot_v4/concepts/highconcept/2026-09-26_living_dao_seed_dual_protagonist_architecture_v1.md`
 
-## FUTURE-SELF CORRECTION
-Do not trigger on every minor technique.
-Trigger on:
-> genuine primary route / life-path commitment.
+## CORE DESIGN
+Normal modern Dao seed:
+> compressed / verified static cultivation route.
 
-Future selves:
-- know only their own branch;
-- advice expires when present changes;
-- have independent self-interest;
-- can lend brief embodied mastery at the cost of anchoring present toward that branch.
+Protagonist binds:
+> a LIVE unfinished cultivation route currently being walked by a young cultivator in another world.
 
-Core payoff:
-> protagonist combines mutually exclusive futures into a present route none of them lived.
+The two leads are:
+> equal endpoints of one living Dao,
+not master/student, owner/pet, or system/host.
 
-## LIVING DAO-SEED CORRECTION
-Do not share raw cultivation.
+## KEY ASYMMETRY
+> modern world = many answers, poor conditions;
+> ancient world = good conditions, few accessible answers.
 
-The two living cultivators share:
-> verified Dao understanding / jointly created Dao patterns.
+Modern strengths:
+- databases;
+- diagnostics;
+- safe standard techniques;
+- broad public knowledge.
 
-Both must execute and cultivate separately.
+Ancient strengths:
+- dense qi;
+- living lineages;
+- natural resources / phenomena;
+- embodied original methods.
 
-Connection grows:
-> voice → senses → shared vision → Dao imprint → projection → later physical crossing.
+Neither side dominates.
 
-Core payoff:
-> two different cultivation civilizations jointly create a third path neither world possessed.
+## HARD MECHANIC
+No shared raw cultivation / qi / items.
 
-## BENCHMARK FUNCTIONS
-- 《我正经学生，每天只吃九种魔药》: repeatable input → immediate distinctive payoff → next desire.
-- 《苟在初圣魔门当人材》: branch information accumulates but cannot be consequence-free omniscience.
-- 《我的化身正在成为最终BOSS》: persistent identities have independent agendas / social consequence.
-- 《没钱修什么仙？》: cultivation choice tied to education / work / social future.
-- 《原来我是仙道天骄》: every cross-world interaction changes current options.
+They share:
+> verified Dao understanding.
+
+A `共道纹` forms only after:
+1. one proposes;
+2. both understand;
+3. both independently verify in their own world;
+4. the principle survives both environments.
+
+Architecture:
+> common Dao trunk + two local branches.
+
+## FIRST 20
+- Ch1–3: bind live seed, mutual suspicion, first joint correction.
+- Ch4–12: each gets one local public payoff through information difference.
+- Ch13–16: safety vs opportunity conflict.
+- Ch17–20: first real `共道纹`; brief shared sight unlocks.
+
+## CH50–100 MIRRORED TEMPTATION
+Modern lead receives a high-grade certified seed replacement offer.
+Ancient lead receives a complete orthodox inheritance offer.
+
+Both offers grant what each originally wanted,
+but require cutting / rewriting the living shared Dao.
+
+This tests whether the two protagonists are independent equal characters.
+
+## LONG FANTASY
+> two ordinary young cultivators from different cultivation civilizations jointly create a third path that neither world could have produced alone.
+
+## FANQIE PACKAGING
+Internally:
+> dual male protagonists.
+
+Externally for male-frequency:
+prefer:
+- 双主角;
+- 双线成长;
+- 跨界共修.
+
+Do not foreground `双男主` as a platform tag unless the work is actually romance, because current Fanqie usage heavily overlaps with BL / pure-romance positioning.
 
 ## HARD
-- no repair / recycling regression;
-- no future-self strategy NPC;
-- no raw shared-level freeloading;
-- no Heaven / ascension early expansion;
-- no architecture beyond Ch20 before AUTHOR reaction.
+- no ancient protagonist as helper NPC;
+- no modern protagonist as answer database;
+- no shared-level freeloading;
+- no early physical commodity trade;
+- no early physical crossing;
+- no death / Heaven theme forced back in.
+
+## NEXT
+AUTHOR reviews this architecture before Chapter 1–20 scene design / packaging refinement.
