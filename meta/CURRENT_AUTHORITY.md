@@ -8,11 +8,12 @@ decision: REBOOT-V3
 
 # Highest Process Authority
 1. `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
-2. `meta/HIT_FICTION_RND_MASTER_PIPELINE_V3.md` v3.5
-3. `meta/CANDIDATE_SELECTION_AND_FALSE_NEGATIVE_POLICY_V1.md`
-4. `meta/READER_EVIDENCE_HIERARCHY.md`
-5. `meta/BENCHMARK_CAUSALITY_STANDARD.md`
-6. `meta/EXPERIMENT_LANES_V2.md`
+2. `meta/PROSE_DESIRE_FIRST_OVERRIDE.md`
+3. `meta/HIT_FICTION_RND_MASTER_PIPELINE_V3.md` v3.6
+4. `meta/CANDIDATE_SELECTION_AND_FALSE_NEGATIVE_POLICY_V1.md`
+5. `meta/READER_EVIDENCE_HIERARCHY.md`
+6. `meta/BENCHMARK_CAUSALITY_STANDARD.md`
+7. `meta/EXPERIMENT_LANES_V2.md`
 
 # Current Portfolio
 No Primary.
@@ -63,3 +64,18 @@ No new P0 Mirror prose until each ACTIVE candidate has:
 
 # One Sentence
 > **下一次“对标”必须能明确回答：到底对标哪一本、它的开篇哪一个因果功能值得学。**
+
+
+# Author exposure rule
+Author should not be the first QA layer.
+
+Before a draft reaches author:
+- named direct benchmark exists;
+- internal anti-mechanical QA passes;
+- at least two clean readers show real continuation evidence.
+
+If author still rejects:
+> ROOT REOPEN immediately.
+
+# Process postmortem
+> `reviews/2026-09-26_reboot_v3_process_postmortem_after_a02.md`
