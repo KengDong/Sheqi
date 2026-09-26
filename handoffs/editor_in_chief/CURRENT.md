@@ -1,7 +1,7 @@
 # Editor in Chief｜CURRENT
 
 ## STATUS
-> **TWO CLEAN-ROOM SHELF READERS READY**
+> **AUTHOR DIRECT SHELF REVIEW / AI READERS CANCELLED**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
@@ -9,42 +9,30 @@
 ## ROLE
 > `editor_in_chief`
 
-# VERIFIED
-Anonymous shelves passed QA:
-- 11 / 11 each;
-- same title set;
-- different orders;
-- no R&D metadata leak.
+# AUTHOR PROCESS CHANGE
+Do not run:
+- `reboot_v4_cleanroom_shelf_reader_a`
+- `reboot_v4_cleanroom_shelf_reader_b`
+
+AUTHOR will judge package click desire directly.
 
 # CURRENT ACTION
-Run independently:
-1. `reboot_v4_cleanroom_shelf_reader_a`
-2. `reboot_v4_cleanroom_shelf_reader_b`
+Show anonymous Shelf A to AUTHOR.
 
-Do not let either Reader see:
-- private mapping;
-- other shelf;
-- other Reader report;
-- Concepts / package source / editor review.
+Recommended two-pass capture:
+1. title + hook: 点 / 可能 / 不点;
+2. blurb: 上升 / 不变 / 下降.
 
-# AFTER BOTH COMPLETE
-Freeze both Reader reports first.
+Do not reveal private mapping until AUTHOR reactions are recorded.
 
-Then editor may read the private mapping and synthesize:
-- title-only agreement/disagreement;
-- blurb-stage agreement/disagreement;
-- which packages gain or lose after blurb;
-- what promise Readers think each book makes;
-- recurring friction.
+# AFTER AUTHOR REACTION
+Use private mapping to map reactions back to Pool / Concept and record the human decision evidence.
 
-Still no automatic final winner.
-
-# HARD BLOCKS
-- no prose;
-- no first screen;
-- no ranking;
-- no final winner;
-- no old candidate revival.
+# HARD
+- do not simulate author preference;
+- no AI ranking;
+- no prose yet;
+- no final winner unless AUTHOR chooses.
 
 # ONE SENTENCE
-> **现在真正进入点击欲测试：两个干净Reader独立判断11本书会不会点。**
+> **现在由作者本人看匿名书架，AI不再替作者判断“会不会点”。**
