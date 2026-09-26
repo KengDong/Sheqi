@@ -3,7 +3,7 @@
 updated: 2026-09-26
 
 # Status
-> **AWAITING AUTHOR MARKET ENTRY CHOICE**
+> **FANQIE-NATIVE MARKET RECALIBRATION**
 
 Primary:
 > NONE.
@@ -11,71 +11,53 @@ Primary:
 Active novel candidates:
 > NONE.
 
-# Completed
-- Market Desire Map: COMPLETE
-- Primary Reader Fantasy vs Delivery Vehicle separation: COMPLETE
-- Market-Validated Chassis Gate: FROZEN
-- Validated mother-chassis whitelist: FROZEN
-- Author Market Entry Board V2: READY
+# Platform decision
+Intended first launch:
+> **番茄小说 / Fanqie**
 
-# Current hard rule
+Authority:
+> `meta/FANQIE_PLATFORM_LOCK_V1.md`
 
-Future concepts MUST be:
+# Consequence
+The previous cross-platform Qidian + Fanqie market-entry board is:
+> background evidence only.
 
-> **CURRENT-HIT-VALIDATED MOTHER CHASSIS**
-> ×
-> **VALIDATED PRIMARY READER FANTASY**
-> ×
-> **ORIGINAL DISTINCTIVE PREMIUM**
-
-No concept may advance because:
-- it is structurally clever;
-- AI can write it;
-- it compounds well;
-- it has a popular genre merely as background skin.
-
-# Validated entry pools
-Default whitelist:
-- 东方玄幻 / 修仙 / 高武成长
-- 都市超凡 / 诡异 / 民俗怪谈 / 规则生存
-- 历史穿越 / 历史高武 / 皇权乱世
-- 领主 / 家族 / 势力建设 / 种族成长
-- 西幻 / 巫师 / 地下城 / 非人进化
-- 男频关系 / 校园恋爱 / 多女主关系爽
-- 都市财富 / 重生商战 / 圈层身份逆转
-- 末日 / 生存 / 逃亡 / 安全据点
-
-Conditional:
-- 年代美食 / 烟火日常 needs second direct current strong comp.
-
-# Explicitly not eligible as primary topic without new hit proof
-- water/electric utilities repair
-- property management
-- insurance claims
-- generic maintenance
-- logistics operations
-- factory operations
-- generic shopkeeping
-- brokerage
-- civic/community administration
+Do NOT ask author to choose from it yet.
 
 # Current Gate
+> **FANQIE-NATIVE MARKET ENTRY RECALIBRATION**
 
-AUTHOR reads:
-> `experiments/reboot_v4/author_choice/market_entry_board_v2.md`
+Owner:
+> `handoffs/fanqie_market_entry_scout/CURRENT.md`
 
-AUTHOR marks:
+Brief:
+> `research/briefs/2026-09-26_reboot_v4_fanqie_native_market_entry_brief.md`
+
+# Required evidence
+- current Fanqie male reading ranks;
+- current Fanqie male new-book ranks;
+- direct current comps;
+- newcomer / low-author-credit proof;
+- exact reader pool;
+- recommendation / early-reading behavior;
+- competition density;
+- platform quality / signing / governance;
+- platform monetization / incentive context.
+
+# Next human gate
+After research:
+> AUTHOR reads `experiments/reboot_v4/author_choice/fanqie_market_entry_board.md`
+
+and marks:
 > WANT / MAYBE / NO.
 
-Only WANT / MAYBE rows proceed.
-
-# Downstream
-After author choice:
-> direct hit + matched-control deep read
-> -> small concept forge inside selected hot chassis
-> -> AUTHOR concept ranking
-> -> micro-prose.
+# Hard
+Until then:
+- no concept generation;
+- no Qidian-only validation;
+- no P0;
+- no old candidate resurrection;
+- no AI final ranking.
 
 # One Sentence
-
-> **以后只能从已经被当前热门验证过的母题材进场，新鲜只新在Premium，不再发明“修水电型需求”。**
+> **既然上番茄，就按番茄的新书冷启动来选市场，不再做两站平均题。**
