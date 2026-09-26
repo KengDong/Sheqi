@@ -150,3 +150,20 @@ Current broad-fit shortlist:
 - 《我在过去布局，回来一路翻盘》
 
 No winner locked.
+
+
+## TITLE V3｜EXPLOSIVE RESULT-FIRST
+New file:
+> `experiments/reboot_v4/packages/2026-09-26_x8_fanqie_title_pool_v3_explosive.md`
+
+Correction:
+> V2 was accurate but not explosive enough.
+
+Current strongest broad candidates:
+- 《全民修仙：别人拼家底，我回过去造家底》
+- 《别人只能继承过去，我能亲手改过去》
+- 《全民修仙：我在过去改人命，在现代改自己命》
+- 《全民修仙：我在过去埋的后手，全在现代醒了》
+- 《修仙大学：别人拼家底，我回过去自己攒》
+
+No winner locked.
