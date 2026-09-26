@@ -1,28 +1,19 @@
-# P0 A04 Writer｜CURRENT
+# P0 A04 Paired Writer｜CURRENT
 
-## ROLE
-- role: p0_a04_writer
-- status: DONE
-- decision: REBOOT-V3
-- stage: P0 First Screen / Native vs Commercial Mirror
-- candidate: A04 《冒险者公会救援队》
+## STATUS
+> RETIRED / INVALIDATED FOR NATIVE-vs-MIRROR A/B EVIDENCE
 
-## COMPLETED
-- Variant N: written and frozen before Mirror exposure
-- Variant M: written only after Native freeze
-- Writer Selfcheck: complete
-- output: `experiments/reboot_v3/p0/a04/2026-09-26_a04_p0_native_mirror.md`
+## REASON
+The original protocol stored Native and Mirror instructions in one Git file.
+A full-file read could expose Mirror guidance before Native generation.
 
-## FREEZE EVIDENCE
-- Native freeze commit: `480b86730c8cabbb477fc037aa07ea8263c9b665`
-- Mirror + selfcheck commit: `2bd596cc6100544337d080d2aff39732cfcd3ff0`
+See:
+> `reviews/2026-09-26_reboot_v3_p0_input_boundary_contamination_audit.md`
 
-## HARD INPUT BOUNDARY OBSERVED
-Read only:
-1. shared P0 paired writer brief;
-2. own A04 candidate input card, with Native section read before Mirror section.
+Existing prose, if any:
+> archive only; do not use for formal Native-vs-Mirror causal comparison.
 
-No competitor prose/cards, editor rankings, clean-reader results, old Sheqi prose, or web benchmark prose were read.
+## REPLACEMENT
+Use physically isolated V2 Native and Mirror writer roles.
 
-## STOP
-Task complete. Do not continue into Ch1, Mid Horizon, winner selection, or competitor comparison.
+STOP.
