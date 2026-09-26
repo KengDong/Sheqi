@@ -1,7 +1,7 @@
 # 《全班绑定道种，我绑定的是异界活人》｜FRAMEWORK BENCHMARK-FIRST PROTOCOL
 
 date: 2026-09-26
-branch: reboot-v4-fanqie-market-entry
+branch: reboot-v4-living-dao-seed-framework
 status: HARD GATE
 
 # AUTHOR requirement
