@@ -1,66 +1,59 @@
 # reboot_v4_dualworld_breakout_architect｜CURRENT
 
 ## STATUS
-> X7 SOURCE-AUTHOR ENGINE / AUTHOR DISCUSSION
+> X7 CH1–20 PLEASURE STRESS TEST COMPLETE / TARGETED GAP FOUND
 
 ## BRANCH
 > `reboot-v4-dualworld-breakout-framework`
 
-## AUTHOR CORRECTION
-- Do not confuse "different from 《原来我是仙道天骄》" with "stronger".
-- New design must compete on the same pleasure axes:
-  1. immediate identity contrast;
-  2. Ch1–3 concrete payoff;
-  3. high-frequency repeatability;
-  4. present-world social revaluation;
-  5. low cognitive load;
-  plus one additional durable engine.
-- Video / archive is no longer the default anchor.
+## TEST FILE
+> `experiments/reboot_v4/framework_tests/2026-09-26_x7_ch01_ch20_pleasure_stress_test_v1.md`
 
-## CURRENT PRIMARY FILE
-> `experiments/reboot_v4/quick_ideation/2026-09-26_dualworld_x7_source_author_engine.md`
+## RESULT
+X7 survives the first Ch1–20 stress test.
 
-## NEW MODERN ANCHOR
-Cyber-cultivation society:
-> cultivation techniques are paid / versioned / licensed products.
+Proved conditionally:
+- Ch2 identity contrast;
+- Ch3 concrete modern gain;
+- Ch10 public modern revaluation;
+- Ch20 hidden-history identity payoff;
+- stateful repeat engine;
+- self-refreshing information gap.
 
-Everyday pressure:
-> protagonist cannot afford / access the full version needed for a current cultivation or school problem.
+## MODERN-WORLD CORRECTION
+Do not use:
+> poor student only gets half a technique / DLC-style paid full skill.
 
-Core hook:
-> 别人没钱，只能练免费版功法。
-> 我没钱，直接去三百年前找作者。
+Use:
+> standard technique is public;
+> expensive layers are teacher correction, personal adaptation, advanced training, competition modules, data, recovery and access.
 
-## CORE LOOP
-modern mature version / downstream knowledge
-→ meet the not-yet-famous creator upstream
-→ founder tests protagonist and reveals source context
-→ jointly change the original technique
-→ modern version / record / derivatives update
-→ protagonist remembers both versions and gains current-world leverage
-→ new version creates a new gap.
+Protagonist's opening:
+> cannot afford / access individualized upward-mobility training,
+> so he self-studies old editions / founder material.
 
-## IDENTITY CONTRAST
-Modern:
-> poor end-user / low access.
+## CORE CH1–20
+Ch1 current bottleneck + source contact.
+Ch2 future mature move shocks the not-yet-famous founder.
+Ch3 jointly create a source branch; modern technique reality updates; protagonist gains directly usable improvement.
+Ch4–5 cash out in modern life.
+Ch6 agency flip: protagonist actively returns.
+Ch7–8 source-era social consequences.
+Ch9–10 first public modern revaluation / resource reallocation.
+Ch11–12 premium experts know less source context than protagonist.
+Ch13 second future-famous actor enters through same network.
+Ch14–16 first rational historical conflict; source person can hurt protagonist's interests.
+Ch17–18 first reverse inheritance.
+Ch19–20 modern records authenticate an unidentified collaborator whose words are protagonist's.
 
-Ancient:
-> impossible future insider / peer / collaborator of the person modern society later calls 祖师.
+## TARGETED GAP
+Compared with 《原来我是仙道天骄》:
+> ancient-side immediate PUBLIC status pleasure remains weaker.
 
-Long-term:
-> modern provenance / historical records mention an unidentified collaborator.
-> Reader knows that person is protagonist.
-
-## HARD
-Do NOT claim X7 exceeds 《原来我是仙道天骄》 until it proves:
-1. Ch2 founder reaction is comparably visceral to "天骄" recognition;
-2. Ch3 modern concrete gain;
-3. Ch10 first public revaluation;
-4. Ch20 major hidden-history identity payoff;
-5. causality explainable in 3–4 sentences;
-6. no research / legal / spreadsheet smell.
+Do NOT solve by copying:
+- heavenly genius;
+- hidden spiritual root;
+- instant sect worship.
 
 ## NEXT
-Author discussion:
-- does source-author / technique-version geometry finally create enough direct pleasure?
-- if not, ideate another batch on the same benchmark axes rather than changing lanes and calling it better.
+Generate 3–4 ways for source-era society to assign protagonist immediate high value because he knows mature future forms / downstream consequences, while remaining logically distinct from talent-inversion.
