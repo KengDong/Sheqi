@@ -4,7 +4,7 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Status
-> **ALL FIVE SELECTED-POOL DEEP READS COMPLETE / AWAITING EDITOR SUCCESSOR**
+> **EDITOR SUCCESSOR FULL RECEIVE COMPLETE / READY FOR NON-RANKED SYNTHESIS**
 
 Primary:
 > NONE.
@@ -25,42 +25,39 @@ Active novel candidates:
 Record:
 > `experiments/reboot_v4/author_choice/author_market_pool_selection.md`
 
-Author may revise these choices in the successor control window.
+No repeat confirmation is required unless AUTHOR changes a choice.
 
-# Completed Deep Reads
+# Completed / Received
 
-COMPLETE:
-- Pool 1 / WANT
-- Pool 2 / WANT
-- Pool 3 / WANT
-- Pool 4 / WANT
-- Pool 6 / MAYBE
+COMPLETE AND RECEIVED:
+- Fanqie Market Entry V2;
+- V2.1 coverage patch;
+- V2.1 editor PASS;
+- author market-pool selection;
+- Pool 1 deep read;
+- Pool 2 deep read;
+- Pool 3 deep read;
+- Pool 4 deep read;
+- Pool 6 deep read.
 
-Each has:
-- deep-read report;
-- frozen evidence;
-- selfcheck/history;
-- no Concept generation.
+The successor editor has read the deep-read contents, not merely their filenames.
 
 # Important Evidence Limits
 
 Pool 1:
-> no clean 2025–2026 matched weak control found.
+> no clean 2025–2026 same-pool matched weak control.
 
 Pool 6:
-> no two clean contemporaneous matched weak controls found.
+> no two clean contemporaneous matched weak controls.
 
-Do not inflate these into causal formulas.
+Do not inflate either into causal certainty.
 
-# Current Human / Editor Gate
+# Current Gate
 
-Open a NEW editor control window.
+Allowed next:
+> non-ranked editor synthesis of Pool 1/2/3/4/6.
 
-First action:
-1. list all 7 numbered pools + recorded WANT/MAYBE/NO;
-2. let AUTHOR confirm or modify choices;
-3. if author keeps the retained set, synthesize completed Pool 1/2/3/4/6 deep reads without ranking;
-4. return to author before any Concept stage.
+Return synthesis to AUTHOR before any Concept stage.
 
 # BLOCKED
 
@@ -70,6 +67,7 @@ First action:
 - cross-pool AI ranking / scoring
 - old candidate revival
 - Reservoir / Character / Horizon
+- automatic downstream dispatch
 
 # One Sentence
-> **五份深读已齐，新窗口先让作者确认1–7选择，再做非排行总编综合。**
+> **总控已完成真实项目接收；现在不是“再确认旧选择”，而是“准备综合五份已完成深读”。**
