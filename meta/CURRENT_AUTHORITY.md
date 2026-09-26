@@ -4,43 +4,42 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Current Status
-> **THREE-POOL CONCEPT EXPERIMENT AUTHORIZED**
+> **PACKAGE / CLICK-DESIRE PREP AUTHORIZED**
 
-Author retained:
-- Pool 1
-- Pool 2
-- Pool 3
+Structurally eligible:
+> 11 concepts
 
-Author explicitly authorized:
-> start next step
+Pool 1:
+> 4
 
-# Current Authority
+Pool 2:
+> 4
+
+Pool 3:
+> 3
+
+Dropped:
+> Pool 3 concept04
+
+# Current Authorized Workers
+- `reboot_v4_pool01_package_forge`
+- `reboot_v4_pool02_package_forge`
+- `reboot_v4_pool03_package_forge`
 
 Shared protocol:
-> `research/briefs/2026-09-26_reboot_v4_three_pool_concept_experiment_protocol.md`
+> `research/briefs/2026-09-26_reboot_v4_package_test_protocol.md`
 
-Authorized workers:
-- `reboot_v4_pool01_minsu_concept_forge`
-- `reboot_v4_pool02_yiwu_concept_forge`
-- `reboot_v4_pool03_weiyi_concept_forge`
+# Next Gated Worker
+> `reboot_v4_package_editor`
 
-Each:
-- 4 concept cores;
-- no prose;
-- no ranking;
-- no cross-pool reading;
-- market-validated mother only.
-
-# Next gated worker
-> `reboot_v4_three_pool_concept_editor`
-
-Blocked until all three sets complete.
+Blocked until three package sets exist.
 
 # Still prohibited
-- AI winner selection
 - prose
+- first-screen writing
 - ranking / scoring
+- AI final winner
 - old candidate revival
 
 # One Sentence
-> **下一阶段已正式授权，但当前授权只到“三池各4个核心方案 + 合规审查”，没有授权写正文或选赢家。**
+> **当前授权只到11个方案的番茄包装与包装质检，书架点击测试在质检通过后再开。**
