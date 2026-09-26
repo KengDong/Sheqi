@@ -2,7 +2,7 @@
 
 ## ROLE
 - role: p0_a01_mirror_writer
-- status: BLOCKED / RERUN QUEUE
+- status: READY
 - decision: REBOOT-V3
 - condition: COMMERCIAL_MIRROR
 - candidate: A01
