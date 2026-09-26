@@ -1,7 +1,7 @@
 # Editor in Chief｜CURRENT
 
 ## STATUS
-> **AUTHOR DIRECT SHELF REVIEW / AI READERS CANCELLED**
+> **AUTHOR PACKAGE TEST COMPLETE / STOP BEFORE PROSE**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
@@ -9,30 +9,34 @@
 ## ROLE
 > `editor_in_chief`
 
-# AUTHOR PROCESS CHANGE
-Do not run:
-- `reboot_v4_cleanroom_shelf_reader_a`
-- `reboot_v4_cleanroom_shelf_reader_b`
+# AUTHOR RESULT
+First pass:
+- kept 7 / 11 by title + hook.
 
-AUTHOR will judge package click desire directly.
+Second pass:
+> AUTHOR read all 7 blurbs and said: **兴趣都不大**.
 
-# CURRENT ACTION
-Show anonymous Shelf A to AUTHOR.
+# IMPLICATION
+Do not interpret structural PASS as reader desire.
 
-Recommended two-pass capture:
-1. title + hook: 点 / 可能 / 不点;
-2. blurb: 上升 / 不变 / 下降.
+Current 11 concepts are:
+- structurally valid enough to write;
+- package-fair;
+- but none generated strong AUTHOR click desire after full blurb.
 
-Do not reveal private mapping until AUTHOR reactions are recorded.
+# HARD STOP
+No:
+- first-screen writing;
+- prose;
+- AI winner;
+- automatic finalist selection.
 
-# AFTER AUTHOR REACTION
-Use private mapping to map reactions back to Pool / Concept and record the human decision evidence.
-
-# HARD
-- do not simulate author preference;
-- no AI ranking;
-- no prose yet;
-- no final winner unless AUTHOR chooses.
+# NEXT
+Run a diagnostic synthesis on:
+1. why Pool 1 failed already at title/hook;
+2. why Pool 2 / Pool 3 passed first glance but lost energy at blurb stage;
+3. whether the issue is packaging, concept sameness, stakes, protagonist desire, long-term promise, or over-cautious anti-trope design;
+4. what to change in the next concept round without leaving proven market mothers.
 
 # ONE SENTENCE
-> **现在由作者本人看匿名书架，AI不再替作者判断“会不会点”。**
+> **先诊断“为什么都不够想点”，再决定第二轮构思，不再往正文硬推。**
