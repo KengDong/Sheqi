@@ -1,91 +1,112 @@
 # reboot_v4_dualworld_breakout_architect｜CURRENT
 
 ## STATUS
-> X8 ORIGIN / IDENTITY / MODERN-CLIMB OPTIONS READY
+> X9 LONG-HORIZON ENDGAME LAYER ADDED / AUTHOR REVIEW
 
 ## BRANCH
 > `reboot-v4-dualworld-breakout-framework`
 
-## FRAMEWORK
+## CORE FRAMEWORK
 > `experiments/reboot_v4/concepts/2026-09-26_x8_cross_era_patron_network_framework_v1.md`
 
 ## TRAVEL RULES
 > `experiments/reboot_v4/rules/2026-09-26_x8_source_travel_rules_v1.md`
 
-## NEW OPTIONS FILE
+## ORIGIN / MODERN CLIMB
 > `experiments/reboot_v4/options/2026-09-26_x8_origin_identity_climb_options_v1.md`
 
-## CURRENT RECOMMENDED PACKAGE P
+## ENDGAME HYPOTHESIS
+> `experiments/reboot_v4/concepts/2026-09-26_x9_worldscar_homecoming_endgame_framework_v1.md`
+
+## CURRENT RECOMMENDED PACKAGE
 Identity:
-> Earth person crossed / reincarnated into cyber-cultivation world years earlier and is now fully socialized there.
+> Earth-origin soul crossed into cyber-cultivation world years earlier.
 
-Crossing cause:
-> the first crossing left a causal world-scar on the soul.
-> Because the soul did not originate in this world's history, deep resonance with present source traces can pull it upstream.
-> This also explains why overwritten history does not overwrite protagonist's old-version memory.
+Modern:
+> ordinary cultivation-university student;
+> university upward mobility + work / money secondary track.
 
-Trigger NOW:
-> protagonist has only recently reached enough spiritual perception + a current cultivation bottleneck forces unusually deep source synchronization.
+Ancient:
+> source-era patron / collaborator network across variable historical depths.
 
-Time:
-> NOT fixed 300 years.
-> accessible date follows the source anchor.
+Travel:
+> world-boundary scar ("界痕") enables source travel and preserves old-version memory.
 
-Modern identity:
-> ordinary local cultivation-university freshman / ordinary university cultivation track.
+## NEW LONG-HORIZON LAYER
+The界痕 can gradually repair.
 
-Modern line:
-> university upward mobility with school + work secondary track.
+Possible endpoint:
+> complete repair opens a stable route home to Earth.
 
-Near goal:
-> enter school core cultivation track / secure a key scholarship or qualification.
+Later truth:
+> original crossing was intentionally arranged.
 
-Long climb:
-ordinary student
-→ core school resources
-→ city / interschool
-→ elite exchange / internship
-→ professional qualification
-→ major lineage / national institution.
+Current strongest explanation:
+> far-future cultivation civilization needs an OUTSIDE causal memory-anchor because local souls are rewritten when history changes.
+> They send / attract an Earth-origin soul carrying an unstable cross-world scar.
+> The plan creates possibility, not a fixed destiny.
 
-## TIME DEPTH
-Public/common modern techniques
-→ ~100–500 year source era.
+Partial closed loop:
+> some ancient allies / techniques protagonist later helps create eventually contribute to the method that enabled the original plan.
 
-Higher modern institutional access
-→ older founder traces / relics
-→ 500–2000 years.
+Post-return Earth layer:
+> only after returning should protagonist discover that an Earth-side actor / condition may also have participated.
 
-Late:
-> ancient foundational source eras.
+## CATASTROPHE
+Do not use generic apocalypse.
 
-Therefore:
-> modern social climb and historical-depth progression are the same progression.
+Recommended:
+> civilization-scale source-chain / causal-history collapse.
 
-## ALTERNATE IDENTITY PACKAGES
-Q:
-> fresh Earth transmigration at Ch1 + rapid second crossing.
-High hook, high resemblance risk to 《没钱修什么仙？》.
+Macro version of early rule:
+> early protagonist changes one technique source;
+> late uncontrolled source rewrites threaten the entire cultivation civilization.
 
-R:
-> native student + concrete source relic.
-Simple / iconic, weaker deep logic.
+Ancient investments become:
+> distributed redundancy / backups / anchors / lineages / resources needed to survive the catastrophe.
 
-S:
-> later reveal that ancient allies themselves leave / improve the stable crossing method for protagonist.
-Best as later layer on P, not initial cause.
+## REPAIR PHASES
+裂痕
+→ 定痕
+→ 辨界
+→ 补界
+→ 开归途
+→ 归乡
 
-## BENCHMARK EVIDENCE
-- 《没钱修什么仙？》: current official honor shows 十万均订 2026-04-01; Ch1 uses fresh Earth-person transmigration into modern cultivation student.
-- 《原来我是仙道天骄》: current Qidian list shows 2026-09-01 launch, first sub 6691, 万订 on 2026-09-10; uses concrete 破界珠.
-- 《我有一个修仙世界》: Qidian honors include 2024 十二天王 and 万人追捧.
-- 《苟在妖武乱世修仙》 official platform synopsis explicitly sells “穿了，而且是二穿”.
-- 《天命皆烬》 Qidian synopsis explicitly lists 武道乱世 / 赛博修仙 / 两界门 and tag 穿越.
+No visible progress bar.
 
-## NEXT AUTHOR CHOICE
-Choose / react to:
-1. protagonist identity: P / Q / R;
-2. modern line: M1 university / M2 high school / M3 worker / M4 school+work;
-3. whether early time band should center around 100–500 years or another range.
+## FORESHADOWING
+Ch1–50:
+> no mastermind hint; only scar instability / old-history memory.
 
-No full chapter outline until these are narrowed.
+Ch50–150:
+> scar looks too structured to be a natural wound.
+
+Ch150–300:
+> repair knowledge appears across eras; Earth direction begins to be detectable.
+
+Ch300–500:
+> hard evidence of an intentional outsider-memory-anchor project.
+
+Later:
+> planned crossing + catastrophe reveal.
+
+## EARTH RETURN
+Recommended:
+> after cultivation-world main conflict is substantially resolved.
+
+Earth elapsed time:
+> days to months, not years / decades.
+
+Emotional payoff:
+> Earth experienced a short absence;
+> protagonist lived years / decades of another life.
+
+Do NOT immediately turn Earth into a new 1000-chapter third-world grind.
+
+## HARD
+1. Early book remains X8: bottom-up modern climb + ancient patron network.
+2. "Someone arranged it" must NOT erase protagonist agency.
+3. No prophecy knows every ally / investment.
+4. Catastrophe must use the same causal-source rules as the early premise.
+5. Earth return is payoff / final movement, not an unrelated replacement story.
