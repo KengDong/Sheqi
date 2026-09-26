@@ -758,3 +758,57 @@ D:
 
 Integrated version can contain all four,
 but one must dominate early packaging.
+
+
+# 19. Breakout payoff discovered after synthesis｜现代人开始刷“主角本人”
+
+If a low-grade living history is changed enough to become historically important:
+
+1. the node gains surviving records / relics / cross-confirmation;
+2. modern civilization regrades it upward;
+3. the event can eventually become a popular A/S-grade teaching simulation;
+4. surviving records repeatedly mention the mysterious external participant;
+5. the reconstruction engine therefore generates an approximate **NPC version of the protagonist's historical identity**.
+
+Extreme contrast scene:
+
+> the protagonist's classmates enter a famous high-grade historical simulation to seek guidance / learn tactics from the reconstructed "史外客";
+> the real person sits among them as an ordinary current-day student.
+
+This produces a distinct contrast from 《原来我是仙道天骄》:
+
+> not "I am low-value here / genius there";
+> but "modern society publicly studies and simulates my hidden historical identity while my present identity remains ordinary."
+
+Further compounding:
+- a technique he and an ancient actor jointly improvised can later become standardized curriculum;
+- his own class may learn a canonical version partly derived from his ancient intervention;
+- protagonist remembers the messy original and therefore understands the technique at a deeper level than the textbook;
+- historians may debate whether multiple records refer to the same mysterious figure;
+- protagonist can watch modern scholars misinterpret his motives.
+
+Hard guard:
+> do not turn everyone into worshippers.
+Some records can criticize / misunderstand / disagree with the historical protagonist.
+
+# 20. Strongest identity ladder available in X3
+
+Early:
+> nobody knows him; one E-grade person believes he is a strange outsider.
+
+Then:
+> two low-grade nodes contain traces of the same outsider.
+
+Then:
+> modern historians notice a recurring anonymous historical actor.
+
+Then:
+> one altered node upgrades into a famous historical episode.
+
+Then:
+> a modern institution / school creates a reconstruction of the anonymous actor for training.
+
+Then:
+> other students begin learning from the simulation of the protagonist's own hidden historical identity.
+
+This is the current strongest candidate for the "extreme contrast" pleasure axis.
