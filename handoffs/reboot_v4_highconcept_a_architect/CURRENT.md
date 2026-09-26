@@ -1,7 +1,7 @@
 # reboot_v4_highconcept_a_architect｜CURRENT
 
 ## STATUS
-> **AUTHOR REVIEW / MECHANICS REVISION V2 COMPLETE**
+> **BENCHMARK-FIRST MECHANICS REVISION REQUIRED**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
@@ -12,28 +12,31 @@
 ## BASE ARCHITECTURE
 > `experiments/reboot_v4/concepts/highconcept/2026-09-26_lane_a_architecture.md`
 
-## AUTHOR-DRIVEN MECHANICS REVISION
+## IMPORTANT CORRECTION
+Previous mechanics draft:
 > `experiments/reboot_v4/concepts/highconcept/2026-09-26_lane_a_mechanics_revision_v2.md`
 
-## REVISION FOCUS
-A1:
-- reader should fear / resist each death;
-- death itself only creates a seed;
-- full divine power requires returning to conquer the killing cause;
-- 99 deaths must not become 99 skill slots.
+is now:
+> **PROVISIONAL / NOT AUTHORITATIVE**
 
-A2:
-- visible collection;
-- tiny accumulation;
-- slow completion;
-- building-level and sect-level synergies.
+Read correction:
+> `reviews/2026-09-26_lane_a_mechanics_v2_benchmark_correction.md`
 
-A3:
-- daily pleasure through dying treasures / proper funerals / inherited residue;
-- small funerals must feed the Heaven-funeral mainline.
+## HIGHEST RULE
+Before proposing any concrete mechanic for A1 / A2 / A3:
+
+1. identify nearest real strong references;
+2. state how those hits actually deliver the repeated pleasure;
+3. state the structural function to borrow;
+4. only then design the original mechanism.
+
+No internal-brainstorm-first mechanics.
 
 ## NEXT
-Wait for AUTHOR reaction on the V2 mechanics before further revision or moving on.
+Redo A1 / A2 / A3 mechanism refinement benchmark-first.
 
 ## HARD
-Do not proceed to prose.
+- preserve title / hook / central magnet;
+- no prose;
+- no ranking;
+- no weakening for convenience.
