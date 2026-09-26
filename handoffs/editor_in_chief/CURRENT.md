@@ -1,37 +1,29 @@
 # Editor in Chief｜CURRENT
 
 ## STATUS
-> READY FOR FANQIE V2.1 REVIEW
+> PAUSED / AWAITING AUTHOR MARKET-POOL CHOICE
 
-## REVIEW TARGET
-Scout completed V2.1 Coverage Patch.
+## COMPLETED
+Fanqie Market Entry V2.1:
+> PASS
 
 Review:
-- full relevant Fanqie male category coverage matrix;
-- omitted-category scan;
-- DIRECT vs NEAR comp integrity;
-- dynamic evidence freeze;
-- Evidence Strength visibility;
-- whether the newly added 年代赶山赶海 pool meets the same V2 bar;
-- old-bias regression / no proxy substitution.
+> `reviews/2026-09-26_fanqie_market_entry_v2_1_editor_pass.md`
 
-Primary files:
-> research/2026-09-26_reboot_v4_fanqie_market_entry_v2.md
-> experiments/reboot_v4/author_choice/fanqie_market_entry_board_v2.md
-> research/evidence/fanqie_market_entry_2026-09-26/INDEX.md
+## CURRENT HUMAN GATE
+AUTHOR reviews:
+> `experiments/reboot_v4/author_choice/fanqie_market_entry_board_v2.md`
 
-## CURRENT CONTROL
-- fanqie_market_entry_scout: COMPLETE
-- author market-pool choice: BLOCKED pending this review
-- downstream creative stages: BLOCKED
-
-## IF PASS
-Unlock only:
-> AUTHOR market-pool WANT / MAYBE / NO choice.
-
-Do NOT automatically dispatch direct benchmark or Concept Forge.
+and marks each:
+> WANT / MAYBE / NO.
 
 ## HARD
-No Concept Forge.
-No prose.
-STOP after review verdict.
+Do not dispatch:
+- direct benchmark;
+- Concept Forge;
+- prose;
+- reader tests.
+
+Wait for author choice.
+
+STOP.
