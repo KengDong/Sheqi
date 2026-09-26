@@ -1,75 +1,132 @@
 # reboot_v4_dualworld_breakout_architect｜CURRENT
 
 ## STATUS
-> X8/X9 OPTION STACK PRESERVED / NO FINAL SELECTION
+> X8 ALPHA OPENING + CH1–50 ENGINE BUILT / AUTHOR REVIEW
 
 ## BRANCH
 > `reboot-v4-dualworld-breakout-framework`
 
-## CORE MOTHER FRAMEWORK CURRENTLY RETAINED
-Modern side:
-> bottom-up cyber-cultivation climb.
+## PRESERVED OPTION STACK
+Do not delete:
+- P/Q/R protagonist-origin options;
+- M1/M2/M3/M4 modern-line options;
+- X8/X9 long-horizon alternatives.
 
-Ancient/source side:
-> variable-era source travel;
-> build relationships, exchange knowledge/resources, help future-important cultivators / institutions;
-> later cash out source knowledge, preserved resources, founder favors and hidden historical relationship capital.
+Current Alpha uses:
+> P + M1 backbone + M4 secondary + X8
+ONLY as a stress-test implementation.
 
-Working fantasy:
-> 别人修仙拼家世、名师和资源。
-> 我没有背景。
-> 我的背景，都在过去。
+## NEW ALPHA FILES
 
-## PRESERVED CANDIDATE FILES
+### Ch1–50 structure
+> `experiments/reboot_v4/framework_tests/2026-09-26_x8_alpha_opening_ch01_ch50_v1.md`
 
-### X8 core framework
-> `experiments/reboot_v4/concepts/2026-09-26_x8_cross_era_patron_network_framework_v1.md`
+### first two source actors
+> `experiments/reboot_v4/framework_tests/2026-09-26_x8_alpha_first_two_source_actors_v1.md`
 
-### X8 travel rules
-> `experiments/reboot_v4/rules/2026-09-26_x8_source_travel_rules_v1.md`
+### writable Ch1–3 scene skeleton
+> `experiments/reboot_v4/framework_tests/2026-09-26_x8_alpha_ch01_ch03_scene_skeleton_v1.md`
 
-### X8 protagonist origin / modern climb options
-> `experiments/reboot_v4/options/2026-09-26_x8_origin_identity_climb_options_v1.md`
+## MODERN OPENING ALPHA
+Protagonist:
+> first-year student at an ordinary public cultivation university;
+> ordinary family;
+> no elite lineage;
+> theory above average, practical around middle.
 
-Preserve:
-- P｜early Earth-origin crossing, already socialized in cyber-cultivation world;
-- Q｜fresh Earth transmigration at Ch1 + rapid second crossing;
-- R｜native student + concrete source relic;
-- M1｜university upward mobility;
-- M2｜high-school / entrance-exam climb;
-- M3｜worker / professional climb;
-- M4｜school + work dual-track.
+Near goal:
+> enter core training / team reserve roster.
 
-Current tendency:
-> P + M1/M4 + X8,
-but NOT LOCKED.
+Why it matters:
+- free coach time;
+- recovery subsidy;
+- better venue;
+- later competition / exchange access.
 
-### X9 long-horizon / homecoming options
-> `experiments/reboot_v4/concepts/2026-09-26_x9_worldscar_homecoming_endgame_framework_v1.md`
+Obstacle:
+> persistent adaptation issue in a standardized movement method.
 
-Preserve:
-- 界痕可随实力 /理解修复;
-- later possibility of return to Earth;
-- Earth time may pass much more slowly;
-- original crossing may have been deliberately arranged;
-- possible future-civilization outsider-memory-anchor plan;
-- partial self-completing historical loop;
-- possible Earth-side hidden actor after return;
-- civilization-scale source / causal collapse as one endgame threat candidate.
+Paid personalized correction exists,
+but protagonist self-studies instead.
 
-None of these are locked.
+## FIRST SOURCE LOOP
+Anchor:
+> a widely taught foundational movement method protagonist has practiced for years.
+
+Source actor:
+> future recognized movement-method reformer,
+> currently young / not prestigious / developing the method.
+
+Ch1:
+> protagonist follows source trace and meets him.
+
+Ch2:
+> demonstrates the mature future form.
+> creator realizes protagonist has seen what his method later becomes.
+
+Ch3:
+> they co-create a narrow branch.
+> modern history rewrites.
+> protagonist gains an immediately usable improvement.
+
+## FIRST ANCIENT RELATIONSHIP
+Actor 01:
+> known future founder;
+> gives source logic + referrals;
+> can reject protagonist's future advice.
+
+Actor 02:
+> recovery practitioner who was originally obscure / disappears early;
+> protagonist helps despite no guaranteed future importance.
+> first true uncertain investment.
+
+## CH10
+Modern hard payoff:
+> protagonist wins supplementary practical place and enters better school resource loop.
+
+## CH20
+Permanent double ledger:
+Modern:
+> core roster / subsidy / first paid ability.
+
+Ancient:
+> trusted first collaborator + changed second actor + first deferred promise + unidentified historical trace.
+
+## CH20–50
+Modern:
+> paid sparring / training work;
+> recovery cost;
+> city / interschool selection;
+> first external institution.
+
+Ancient:
+> second investment develops;
+> first time-compounded residue;
+> first founder-lineage access gate;
+> first wrong bet / historical divergence.
+
+Ch50:
+> city-level public proof + stable small-circle ancient reputation.
+
+## REWARD VARIETY BY CH50
+1. source knowledge;
+2. formal modern access;
+3. economic improvement;
+4. time-compounded residue;
+5. historical relationship capital.
 
 ## HARD
-Do NOT collapse the option stack prematurely.
-Do NOT delete alternatives simply because one current version feels strongest.
-Do NOT present current tendency as canon.
+- no treasure farming;
+- no every-contact-is-future-founder;
+- no modern school as face-slap stage only;
+- no intentional fake weakness;
+- no last-minute ancient gift deciding city-level win;
+- no X9 mastermind / Earth-return exposition in Ch1–50.
 
 ## NEXT
-Continue developing:
-1. modern opening position;
-2. first source contact;
-3. first investment → return loop;
-4. first 20–50 chapter pleasure engine.
-
-Only after those are concrete:
-> return to the preserved option stack and compare which protagonist origin / modern climb / endgame layer best supports the actual book.
+Author review of Alpha.
+If retained:
+1. compare modern near goal (core roster) against scholarship / qualification alternatives;
+2. design Ch20–50 second and third source arcs in scene-level detail;
+3. anonymous hook/package test against benchmark concepts;
+4. only then decide whether Alpha becomes canon framework.
