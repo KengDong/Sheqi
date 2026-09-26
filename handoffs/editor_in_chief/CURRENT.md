@@ -1,7 +1,7 @@
 # Editor in Chief｜CURRENT
 
 ## STATUS
-> **WAITING FOR TWO TARGETED PACKAGE REVISIONS**
+> **ANONYMOUS SHELF FORGE READY**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
@@ -9,45 +9,47 @@
 ## ROLE
 > `editor_in_chief`
 
-# PACKAGE QA RESULT
+# PACKAGE GATE CLOSED
+11 / 11 packages are now QA-complete.
 
-PASS:
-- 9 packages
-
-REVISE packaging only:
-- Pool 1 方案四
-- Pool 2 方案一
+Targeted revisions:
+- Pool 1 concept04 package — PASS
+- Pool 2 concept01 package — PASS
 
 # CURRENT ACTION
 Run:
-> `reboot_v4_package_targeted_revision`
+> `reboot_v4_anonymous_shelf_forge`
 
 Current:
-> `handoffs/reboot_v4_package_targeted_revision/CURRENT.md`
+> `handoffs/reboot_v4_anonymous_shelf_forge/CURRENT.md`
 
-# FIX A
-Pool 1 方案四:
-- shorten;
-- make hidden-causality judgment clearer;
-- avoid implying ongoing public-case / investigator task flow.
+# PURPOSE
+Create:
+- Shelf A
+- Shelf B
+- private source mapping
 
-# FIX B
-Pool 2 方案一:
-- remove over-absolute “全城看病先问我在不在” promise;
-- retain low-status → indispensable → rising social weight.
+Reader-visible shelf content is only:
+- title
+- one-line hook
+- blurb
 
-# AFTER
-Recheck those two packages only.
+No Pool or scheme metadata.
 
-Then, if PASS:
-> anonymous mixed-shelf click-desire test.
+# NEXT
+After shelf forge completes:
+- unlock `reboot_v4_cleanroom_shelf_reader_a`
+- unlock `reboot_v4_cleanroom_shelf_reader_b`
+
+Readers give absolute click reactions per book.
+No ranking / no top-3.
 
 # HARD BLOCKS
-- no Concept rewrite;
 - no prose;
+- no first screen;
+- no AI winner;
 - no ranking;
-- no final winner;
 - no old candidate revival.
 
 # ONE SENTENCE
-> **当前只有两套包装小修，Concept阶段已经结束；修完就进入匿名书架。**
+> **当前只做匿名书架制作；书架完成后才让两个干净Reader独立判断会不会点。**
