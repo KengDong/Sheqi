@@ -1,7 +1,7 @@
 # reboot_v4_highconcept_a_architect｜CURRENT
 
 ## STATUS
-> **PAUSED / FRAMEWORK PHASE HANDOFF READY**
+> **PAUSED / FRAMEWORK TASK PLAN V2 ACTIVE**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
@@ -13,55 +13,51 @@ Current architecture:
 > `experiments/reboot_v4/concepts/highconcept/2026-09-26_living_dao_seed_dual_protagonist_architecture_v1.md`
 
 Status:
-> promising but PROVISIONAL / deliberately still rough.
+> promising but PROVISIONAL.
 
-## AUTHOR REQUIREMENT
-From framework phase onward:
-> every new window MUST benchmark real popular novels before designing.
+## AUTHOR HARD REQUIREMENT
+Every framework window must benchmark real popular novels before design.
 
-No framework element may be defined from free AI invention alone.
+## ACTIVE TASK PLAN
+> `research/briefs/2026-09-26_living_dao_seed_framework_task_plan_v2.md`
 
-## HARD PROTOCOL
-Read:
-> `research/briefs/2026-09-26_living_dao_seed_framework_benchmark_protocol.md`
+## IMMEDIATE PHASE｜1A–1D PARALLEL BENCHMARK
+Open these four isolated windows:
 
-## NEXT WINDOW
-> `living_dao_seed_benchmark_scout`
+1. `living_dao_seed_modern_cultivation_scout`
+   - modern cultivation society / school / work / status.
 
-Read first:
-> `handoffs/living_dao_seed_benchmark_scout/CURRENT.md`
+2. `living_dao_seed_dualworld_scout`
+   - two-world information / resource / status asymmetry.
 
-This next window is evidence-only:
-- current / recent hit references;
-- direct / near / control;
-- opening engine;
-- repeat engine;
-- relationship engine;
-- expansion gradient;
-- anti-copy boundaries.
+3. `living_dao_seed_relationship_scout`
+   - co-equal protagonist / persistent partner engines.
 
-NO concept redesign there.
+4. `living_dao_seed_early_loop_scout`
+   - Ch1–20 repeatable commercial engine.
 
-## GATED SUCCESSORS
+All four:
+> EVIDENCE ONLY / NO A3 DESIGN.
+
+## AFTER ALL FOUR COMPLETE
+Open:
+> `living_dao_seed_benchmark_synthesis_editor`
+
+It normalizes evidence and freezes the benchmark stack.
+
+## LOCKED AFTER SYNTHESIS
 1. `living_dao_seed_logic_architect`
 2. `living_dao_seed_character_architect`
 3. `living_dao_seed_early_engine_architect`
-4. `living_dao_seed_horizon_architect`
-5. `living_dao_seed_framework_redteam`
+4. early-reader / mini-redteam gate
+5. `living_dao_seed_horizon_architect`
+6. `living_dao_seed_framework_redteam`
+7. packaging only after framework PASS
+8. chapter architecture / prose tests only after packaging + framework survive
 
-Each is BLOCKED until prior gates pass.
-
-## CURRENT ROUGH POINTS TO SOLVE
-Do NOT treat these as canon:
-- why these exact two people resonate;
-- Dao-seed ontology;
-- modern/ancient information asymmetry;
-- names such as 共道纹 / 道层 / 空白种;
-- connection upgrade ladder;
-- Ch50–100 mirrored temptation.
-
-They need benchmark-backed revision.
+## HARD
+Do not skip synthesis.
+Do not open logic / character / Ch1–20 design before Phase 1 evidence is complete.
 
 ## STOP
-This window should not continue into framework invention.
-Next action is benchmark research in the dedicated scout window.
+This window should not continue framework invention.
