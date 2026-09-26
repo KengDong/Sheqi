@@ -3,43 +3,42 @@
 ## ROLE
 - role: editor_in_chief
 - status: ACTIVE / ORCHESTRATION ONLY
-- current_issue: REBOOT-V3 / P0 V2
+- current_issue: REBOOT-V3 / P0 ROOT REOPEN
 
-## CURRENT VALID EVIDENCE
-A02 V2:
-- Native COMPLETE
-- Mirror COMPLETE
-- physical isolation PASS
-- anonymous pair prepared
-- clean readers not yet run
+## AUTHOR BEHAVIOR
+A02 P0 V2 read:
+> “太难看了”
 
-A01:
-> next physically isolated V2 rerun.
+Treat as higher evidence than pending AI pair readers.
 
-## INVALID EVIDENCE
-All P0 V1 Native-vs-Mirror causal comparisons remain invalid / archive only.
+## ROOT CAUSE
+- no named Primary Opening Benchmark for A02;
+- generic Commercial-Mirror checklist instead of direct benchmark causal card;
+- Base Card over-constrained scene choice.
 
-## CURRENT ACTIONS
+## CANCELLED / PAUSED
+- A02 pair readers CANCELLED;
+- A01 P0 rerun PAUSED;
+- A04/B10 P0 reruns BLOCKED.
 
-Core WIP:
-1. `handoffs/p0_a01_native_writer/CURRENT.md`
-2. `handoffs/p0_a01_mirror_writer/CURRENT.md`
+## CURRENT SINGLE NEXT ACTION
+Run:
+> `handoffs/p0_opening_benchmark_scout/CURRENT.md`
 
-Reader side-lane:
-1. `handoffs/p0_a02_pair_reader_a/CURRENT.md`
-2. `handoffs/p0_a02_pair_reader_b/CURRENT.md`
+Goal:
+> one named Primary Opening Benchmark + actual First Screen / Ch1 causal deep read per ACTIVE candidate.
 
 ## AFTER
-- freeze both A02 reader reports;
-- reveal private mapping;
-- editor interprets Native-vs-Mirror result without scores;
-- continue A04/B10 V2 reruns.
+Editor reviews benchmark report and rebuilds:
+- looser Base Cards;
+- named-benchmark Mirror Function Cards;
+- P0 V3 writer windows.
 
 ## HARD
-- no V1 evidence resurrection;
-- no full Ch1;
-- no Primary;
-- no long architecture.
+- do not polish rejected A02 P0;
+- do not run readers on rejected A02 P0;
+- do not write new Mirror P0 from generic checklist;
+- no P1 / Primary / architecture.
 
 ## ONE SENTENCE
-> **A02实验边界已经做干净，现在开始真正测Mirror有没有帮助。**
+> **不是把泵房那一段写漂亮，而是重新学习“热门开篇为什么好看”。**
