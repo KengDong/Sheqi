@@ -4,7 +4,7 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Status
-> **AUTHOR SHRINK COMPLETE / RETAINED POOLS 1 + 2 + 3**
+> **THREE-POOL CONCEPT EXPERIMENT DISPATCHED**
 
 Primary:
 > NONE.
@@ -12,42 +12,43 @@ Primary:
 Active novel candidates:
 > NONE.
 
-# Current retained directions
+# Retained directions
 
-1. 现代民俗玄学：本土术法专业权威 — RETAIN
-2. 都市医武神医：低位身份强势翻身 — RETAIN
-3. 诡异降临反猎杀：收容 / 吞噬 / 驾驭异常 — RETAIN
+1. 现代民俗玄学：本土术法专业权威 — ACTIVE CONCEPT EXPERIMENT
+2. 都市医武神医：低位身份强势翻身 — ACTIVE CONCEPT EXPERIMENT
+3. 诡异降临反猎杀：收容 / 吞噬 / 驾驭异常 — ACTIVE CONCEPT EXPERIMENT
 
-# Held out of next stage
+Held out:
+- Pool 4
+- Pool 6
 
-4. 全民 / 末日求生 + 私有安全资产复利 — HOLD OUT OF NEXT STAGE
-6. 古代身份困局：地位与自主权上升 — HOLD OUT OF NEXT STAGE
+# Current experiment protocol
+> `research/briefs/2026-09-26_reboot_v4_three_pool_concept_experiment_protocol.md`
 
-Evidence for 4 / 6 remains preserved. This is not permanent deletion.
+# Ready workers
 
-Author shrink record:
-> `experiments/reboot_v4/author_choice/2026-09-26_retained_pool_shrink_decision.md`
+- `reboot_v4_pool01_minsu_concept_forge`
+- `reboot_v4_pool02_yiwu_concept_forge`
+- `reboot_v4_pool03_weiyi_concept_forge`
 
-# Completed
-- Fanqie Market Entry V2 / V2.1
-- author market-pool selection
-- five retained-pool deep reads
-- normalized evidence table
-- editor synthesis
-- independent red-team audit
-- editor correction pass
-- author shrink gate
+Each creates:
+> 4 concept cores
 
-# Current Gate
-> **WAITING FOR AUTHOR TO START NEXT-STAGE CONCEPT EXPERIMENT DESIGN FOR POOLS 1 / 2 / 3**
+Total target:
+> 12 concept cores
 
-# BLOCKED
-Until AUTHOR explicitly starts the next stage:
-- concept generation;
+# Blocked review
+
+`reboot_v4_three_pool_concept_editor`
+> BLOCKED until all three concept sets exist.
+
+# Hard blocks
+Still forbidden:
 - prose;
-- final direction selection by AI;
-- cross-pool ranking;
-- old candidate revival.
+- final winner;
+- AI ranking / scoring;
+- old candidate revival;
+- cross-pool winner selection.
 
 # One Sentence
-> **五个方向已经缩到1/2/3；下一步只围绕这三个方向设计构思实验，但尚未自动开始。**
+> **1/2/3 三方向构思实验已经正式启动：各自独立生成4个方案，先验证前三章、20章、100章，再进入总编合规审查。**
