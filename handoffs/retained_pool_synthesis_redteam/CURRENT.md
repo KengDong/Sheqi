@@ -1,7 +1,7 @@
 # Retained Pool Synthesis Red-Team｜CURRENT
 
 ## STATUS
-> **ACTIVE / AUDITING EDITOR SYNTHESIS**
+> **COMPLETE / AUDIT FINISHED**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
@@ -10,34 +10,31 @@
 > `retained_pool_synthesis_redteam`
 
 ## TASK
-Execute:
+Completed:
 > `research/briefs/2026-09-26_reboot_v4_retained_pool_synthesis_redteam_brief.md`
 
 Audit target:
 > `reviews/2026-09-26_reboot_v4_retained_pool_editor_synthesis.md`
 
-May also read:
+Evidence base:
 > `research/synthesis_inputs/2026-09-26_reboot_v4_retained_pool_normalized_evidence.md`
 
-## PURPOSE
-用中文、人话检查总编综合有没有：
+## VERDICT
+> **PASS WITH CORRECTIONS**
 
-- 说得比证据更满；
-- 把热门与普通作品的差异直接说成成绩原因；
-- 偷偷暗示哪个方向最好；
-- 把五个方向过度总结成一个万能规律；
-- 漏掉重要证据限制；
-- 把“市场上没被充分满足的读者需求”偷偷变成小说设定；
-- 把“新人负担”偷偷变成“哪个更适合作者”的排行。
-
-## REQUIRED OUTPUT
-Create:
+## OUTPUT
 > `reviews/2026-09-26_reboot_v4_retained_pool_synthesis_redteam.md`
 
-Verdict only:
-- PASS
-- PASS WITH CORRECTIONS
-- REVISE
+## KEY CORRECTIONS REQUIRED
+- 把“读者更容易持续追”等因果口气降级成强样本共同结构观察；
+- Pool 4 不写成“第一章必须”，改为开局前几章尽早建立；
+- Pool 3 不把“付款慢”误写成主要强弱分界；
+- “更强 / 更耐写 / 普通作品为什么不行”等措辞改成结构分叉观察；
+- 删除 Pool 3 的跨方向难度比较；
+- 五池共同点只作为本轮检查项，不上升为万能成功公式；
+- “市场没被充分做好”改成“当前样本相对少见”，不得直接当市场空白；
+- 补回 Pool 2 / 3 / 4 的关键证据限制；
+- “天然往哪里长”改成“当前样本常见扩展方向”。
 
 ## HARD
 - 不排行；
@@ -45,5 +42,8 @@ Verdict only:
 - 不生成小说设定；
 - 不写正文；
 - 不复活旧候选；
-- Pool 6 必须保持 MAYBE；
-- 审稿完成后更新 CURRENT / history / Git，然后 STOP。
+- Pool 6 保持 MAYBE。
+
+## NEXT
+总编根据红队意见修正 synthesis。
+本窗口停止，不代改总编稿，不进入小说构思。
