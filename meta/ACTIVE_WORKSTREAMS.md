@@ -6,26 +6,22 @@ branch: reboot-v4-fanqie-market-entry
 # ACTIVE WORKERS
 > NONE.
 
-# fanqie_market_entry_scout
-- status: COMPLETE
-- V2.1: PASS
-
 # editor_in_chief
-- status: PAUSED / AWAITING AUTHOR MARKET-POOL CHOICE
+- status: ACTIVE HUMAN GATE
+- current:
+  > `handoffs/editor_in_chief/CURRENT.md`
 
-# CURRENT HUMAN GATE
-AUTHOR reviews:
-> `experiments/reboot_v4/author_choice/fanqie_market_entry_board_v2.md`
-
-and marks:
-> WANT / MAYBE / NO.
+# CURRENT HUMAN ACTION
+AUTHOR replies to numbered Reader Pools with:
+> WANT / MAYBE / NO
 
 # BLOCKED
+- all research workers
 - direct benchmark
 - concept forge
 - prose
-- all readers
+- readers
 - Reservoir / Character / Horizon
 
 # Hard
-No downstream task becomes READY automatically.
+No downstream task becomes READY until author choice is recorded and reviewed.
