@@ -22,6 +22,8 @@ Primary:
 - Character Engine Editor Synthesis: COMPLETE
 - Character Collision: PASS
 - Character Cut: COMPLETE
+- Minimal Horizon: PASS
+- Horizon Cut: COMPLETE
 
 # Current Portfolio
 
@@ -38,24 +40,37 @@ RESERVE:
 No Primary.
 
 # Current Gate
-> **MINIMAL HORIZON**
+> **P0 FIRST SCREEN / NATIVE VS COMMERCIAL MIRROR**
 
-Next:
-> `handoffs/minimal_horizon_forge/CURRENT.md`
+Batch 1 READY:
+- A01
+- A04
+
+Batch 2 BLOCKED:
+- A02
+- B10
+
+# Current Single Next Action
+Run in parallel:
+- `handoffs/p0_a01_writer/CURRENT.md`
+- `handoffs/p0_a04_writer/CURRENT.md`
+
+# Experimental Rule
+For each candidate:
+1. write/freeze Native before benchmark function exposure;
+2. then write Commercial-Mirror;
+3. blind reader chooses N / M / neither.
 
 # Selection Rule
 > early high recall / later high precision.
 
 No forced cut.
 
-# After
-Minimal Horizon -> editor Horizon Cut -> P0 First Screen.
-
 # Hard
-- no prose until Horizon Cut;
-- no final winner;
+- no full Ch1 yet;
+- no Primary;
 - no long architecture;
-- no Reserve resurrection without trigger.
+- no Reserve resurrection.
 
 # One Sentence
-> **四本现在都证明发动机和人物关系理论上能跑；最后只给最小未来视野，然后进入P0真实正文。**
+> **纯设计阶段结束；现在开始用真实P0正文检验“本书原生写法”与“热门商业功能镜像写法”谁更能让Reader继续。**
