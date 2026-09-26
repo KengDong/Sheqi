@@ -14,34 +14,27 @@ branch: reboot-v4-fanqie-market-entry
 3. `handoffs/editor_in_chief/CURRENT.md`
 
 # Current Status
-> **RETAINED-POOL SYNTHESIS COMPLETE / HUMAN GATE**
+> **AUTHOR SHRINK GATE**
 
-Completed evidence chain:
-- market-entry V2 / V2.1;
-- author pool choice;
-- Pool 1 / 2 / 3 / 4 / 6 deep reads;
-- normalized evidence table;
-- editor synthesis;
-- independent red-team audit;
-- correction pass.
+Completed:
+- market evidence chain;
+- five deep reads;
+- normalized evidence;
+- synthesis + red-team correction.
 
-Final synthesis:
-> `reviews/2026-09-26_reboot_v4_retained_pool_editor_synthesis.md`
-
-Current AUTHOR choice remains:
-> 1/2/3/4 WANT, 6 MAYBE, 5/7 NO.
+Current author-facing authority:
+> `experiments/reboot_v4/author_choice/2026-09-26_retained_pool_author_decision_sheet.md`
 
 # Current Human Gate
-Only AUTHOR may authorize the next stage.
+AUTHOR reduces Pool 1 / 2 / 3 / 4 / 6 to 2–3 directions.
+
+No AI ranking or automatic selection.
 
 # BLOCKED
-- AI final direction choice;
-- ranking / scoring;
-- Concept Forge;
-- prose;
-- old candidate revival;
-- Reservoir / Character / Horizon;
-- automatic downstream dispatch.
+- Concept generation
+- prose
+- final topic selection by AI
+- downstream creative dispatch
 
 # One Sentence
-> **当前唯一允许的推进是作者阅读修订后的五方向综合并决定下一步。**
+> **下一步唯一有效推进是作者缩池，之后才设计2–3个方向的构思实验。**
