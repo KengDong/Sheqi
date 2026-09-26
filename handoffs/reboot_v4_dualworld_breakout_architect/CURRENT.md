@@ -1,45 +1,66 @@
 # reboot_v4_dualworld_breakout_architect｜CURRENT
 
 ## STATUS
-> X6 VIDEO / COURSE INTERFACE / AUTHOR DISCUSSION
+> X7 SOURCE-AUTHOR ENGINE / AUTHOR DISCUSSION
 
 ## BRANCH
 > `reboot-v4-dualworld-breakout-framework`
 
 ## AUTHOR CORRECTION
-Even “实境课 / 实训中心 / 复原率 / 认证学时” still feels constructed.
+- Do not confuse "different from 《原来我是仙道天骄》" with "stronger".
+- New design must compete on the same pleasure axes:
+  1. immediate identity contrast;
+  2. Ch1–3 concrete payoff;
+  3. high-frequency repeatability;
+  4. present-world social revaluation;
+  5. low cognitive load;
+  plus one additional durable engine.
+- Video / archive is no longer the default anchor.
 
-Modern society should start from familiar actions:
-> 看课 / 看录像 / 刷复盘.
+## CURRENT PRIMARY FILE
+> `experiments/reboot_v4/quick_ideation/2026-09-26_dualworld_x7_source_author_engine.md`
 
-## CURRENT FILE
-> `experiments/reboot_v4/quick_ideation/2026-09-26_dualworld_x6_video_course_interface.md`
+## NEW MODERN ANCHOR
+Cyber-cultivation society:
+> cultivation techniques are paid / versioned / licensed products.
 
-## CURRENT PREFERRED SURFACE
-Discovery:
-> old cultivation footage / digitized historical recording.
+Everyday pressure:
+> protagonist cannot afford / access the full version needed for a current cultivation or school problem.
 
-Economic / school layer:
-> paid courses / school licensing / public free archives.
+Core hook:
+> 别人没钱，只能练免费版功法。
+> 我没钱，直接去三百年前找作者。
 
-Everyday language:
-> 买课 / 看课 / 看录像 / 看回放 / 找复盘.
+## CORE LOOP
+modern mature version / downstream knowledge
+→ meet the not-yet-famous creator upstream
+→ founder tests protagonist and reveals source context
+→ jointly change the original technique
+→ modern version / record / derivatives update
+→ protagonist remembers both versions and gains current-world leverage
+→ new version creates a new gap.
 
-No new fantasy-flavored administrative noun needed.
+## IDENTITY CONTRAST
+Modern:
+> poor end-user / low access.
 
-## CORE HOOK
-> 别人花钱看名师课，我穷得只能翻公开区的老录像。
-> 然后一个三百年前的无名修士，在视频里抬头问我：你能看见我？
+Ancient:
+> impossible future insider / peer / collaborator of the person modern society later calls 祖师.
+
+Long-term:
+> modern provenance / historical records mention an unidentified collaborator.
+> Reader knows that person is protagonist.
 
 ## HARD
-Avoid returning to:
-- 仙史实境;
-- 修炼实训库;
-- 实境课 as the central premise noun;
-- S/A/B/C/D/E;
-- abstract archive grading systems.
+Do NOT claim X7 exceeds 《原来我是仙道天骄》 until it proves:
+1. Ch2 founder reaction is comparably visceral to "天骄" recognition;
+2. Ch3 modern concrete gain;
+3. Ch10 first public revaluation;
+4. Ch20 major hidden-history identity payoff;
+5. causality explainable in 3–4 sentences;
+6. no research / legal / spreadsheet smell.
 
 ## NEXT
-Author decides whether ordinary video / course behavior finally feels natural enough.
-If not:
-> redesign the modern anchor again before touching historical causality.
+Author discussion:
+- does source-author / technique-version geometry finally create enough direct pleasure?
+- if not, ideate another batch on the same benchmark axes rather than changing lanes and calling it better.
