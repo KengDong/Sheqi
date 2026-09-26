@@ -4,7 +4,7 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Status
-> **THREE-POOL CONCEPT EXPERIMENT DISPATCHED**
+> **THREE CONCEPT SETS COMPLETE / CONCEPT EDITOR REVIEW READY**
 
 Primary:
 > NONE.
@@ -13,42 +13,41 @@ Active novel candidates:
 > NONE.
 
 # Retained directions
+1. 现代民俗玄学
+2. 都市医武神医
+3. 诡异降临反猎杀
 
-1. 现代民俗玄学：本土术法专业权威 — ACTIVE CONCEPT EXPERIMENT
-2. 都市医武神医：低位身份强势翻身 — ACTIVE CONCEPT EXPERIMENT
-3. 诡异降临反猎杀：收容 / 吞噬 / 驾驭异常 — ACTIVE CONCEPT EXPERIMENT
+# Concept outputs complete
+- Pool 1: 4 concepts
+- Pool 2: 4 concepts
+- Pool 3: 4 concepts
 
-Held out:
-- Pool 4
-- Pool 6
+Total:
+> **12 concept cores complete**
 
-# Current experiment protocol
-> `research/briefs/2026-09-26_reboot_v4_three_pool_concept_experiment_protocol.md`
+Files:
+- `experiments/reboot_v4/concepts/2026-09-26_pool01_minsu_concept_set.md`
+- `experiments/reboot_v4/concepts/2026-09-26_pool02_yiwu_concept_set.md`
+- `experiments/reboot_v4/concepts/2026-09-26_pool03_weiyi_concept_set.md`
 
-# Ready workers
+# Current Gate
+> `reboot_v4_three_pool_concept_editor` is now READY.
 
-- `reboot_v4_pool01_minsu_concept_forge`
-- `reboot_v4_pool02_yiwu_concept_forge`
-- `reboot_v4_pool03_weiyi_concept_forge`
+Its job is structural compliance only:
+- proven market mother retained;
+- no novelty-for-novelty drift;
+- first 3 chapters work;
+- Ch20 leaves state;
+- Ch100 stays same book;
+- no obvious case / face-slap / skill-slot treadmill.
 
-Each creates:
-> 4 concept cores
-
-Total target:
-> 12 concept cores
-
-# Blocked review
-
-`reboot_v4_three_pool_concept_editor`
-> BLOCKED until all three concept sets exist.
-
-# Hard blocks
-Still forbidden:
+# Still blocked
 - prose;
-- final winner;
-- AI ranking / scoring;
-- old candidate revival;
-- cross-pool winner selection.
+- shelf / package testing;
+- first-screen writing;
+- final topic selection by AI;
+- ranking / scoring;
+- old candidate revival.
 
 # One Sentence
-> **1/2/3 三方向构思实验已经正式启动：各自独立生成4个方案，先验证前三章、20章、100章，再进入总编合规审查。**
+> **12个核心方案已齐，现在先做统一结构审查，不选赢家。**
