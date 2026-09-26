@@ -2,43 +2,29 @@
 
 ## ROLE
 - role: p0_a01_writer
-- status: READY
+- status: DONE
 - decision: REBOOT-V3
 - stage: P0 First Screen / Native vs Commercial Mirror
 - candidate: A01 《怪物死了，地盘还在》
 
-## SHARED BRIEF
-> `research/briefs/2026-09-26_reboot_v3_p0_paired_writer_brief.md`
-
-## CANDIDATE INPUT
-> `research/briefs/p0_cards/2026-09-26_a01_p0_native_mirror_input.md`
-
-## HARD INPUT BOUNDARY
-Read only:
-1. shared P0 paired writer brief;
-2. own candidate input card.
-
-Do NOT read:
-- competitor P0 input cards;
-- competitor prose;
-- editor rankings;
-- clean-reader results;
-- old Sheqi prose.
-
-## PHASE ORDER
-1. Native section only -> write/freeze Variant N.
-2. Then read Mirror Function Card -> write Variant M.
-3. Never revise Native after Mirror exposure.
+## COMPLETED
+- Read shared P0 paired writer brief.
+- Read only own candidate card within HARD INPUT BOUNDARY.
+- Wrote and Git-froze Variant N before Mirror exposure.
+- Read Mirror Function Card only after Native freeze.
+- Wrote Variant M without revising Variant N.
+- Added writer selfcheck.
 
 ## OUTPUT
 > `experiments/reboot_v3/p0/a01/2026-09-26_a01_p0_native_mirror.md`
 
-Then selfcheck / CURRENT / history / commit / STOP.
+## FREEZE
+- Variant N frozen before Mirror exposure.
+- No post-Mirror Native edits.
+- No Ch1 completion.
+- No new core mechanic.
+- No winner / Primary selection.
+- No benchmark prose copying or living-author voice imitation.
 
-## HARD
-- no Ch1 completion;
-- no new mechanic;
-- no winner;
-- no Primary;
-- no benchmark prose copying;
-- no living-author voice imitation.
+## STATUS
+DONE / STOP.
