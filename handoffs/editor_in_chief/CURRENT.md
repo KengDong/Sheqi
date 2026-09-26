@@ -1,35 +1,37 @@
 # Editor in Chief｜CURRENT
 
 ## STATUS
-> PAUSED / WAITING FOR FANQIE V2.1 COVERAGE PATCH
+> READY FOR FANQIE V2.1 REVIEW
 
-## V2 VERDICT
-> REVISION REQUIRED / COVERAGE GAP
+## REVIEW TARGET
+Scout completed V2.1 Coverage Patch.
 
 Review:
-> `reviews/2026-09-26_fanqie_market_entry_v2_editor_gate.md`
-
-## WHY
-The six current pools are useful evidence,
-but V2 did not demonstrate systematic coverage of all relevant current Fanqie male categories.
-
-## ACTIVE WORKER
-> `fanqie_market_entry_scout`
-
-Patch brief:
-> `research/briefs/2026-09-26_reboot_v4_fanqie_market_entry_v2_1_coverage_patch_brief.md`
-
-## AFTER V2.1
-Review only:
-- coverage completeness;
+- full relevant Fanqie male category coverage matrix;
+- omitted-category scan;
 - DIRECT vs NEAR comp integrity;
-- evidence freeze;
-- evidence strength visibility;
-- old-bias regression.
+- dynamic evidence freeze;
+- Evidence Strength visibility;
+- whether the newly added 年代赶山赶海 pool meets the same V2 bar;
+- old-bias regression / no proxy substitution.
 
-If PASS:
-> AUTHOR market-pool choice unlocks.
+Primary files:
+> research/2026-09-26_reboot_v4_fanqie_market_entry_v2.md
+> experiments/reboot_v4/author_choice/fanqie_market_entry_board_v2.md
+> research/evidence/fanqie_market_entry_2026-09-26/INDEX.md
+
+## CURRENT CONTROL
+- fanqie_market_entry_scout: COMPLETE
+- author market-pool choice: BLOCKED pending this review
+- downstream creative stages: BLOCKED
+
+## IF PASS
+Unlock only:
+> AUTHOR market-pool WANT / MAYBE / NO choice.
+
+Do NOT automatically dispatch direct benchmark or Concept Forge.
 
 ## HARD
 No Concept Forge.
-STOP.
+No prose.
+STOP after review verdict.

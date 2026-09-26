@@ -47,3 +47,38 @@ Non-ranked:
 ### Dispatch
 - downstream task: NONE
 - Concept Forge: NOT DISPATCHED
+---
+
+## 2026-09-26｜REBOOT-V4 Fanqie Market Entry V2.1 Coverage Patch
+
+### Why
+Editor Gate returned REVISION REQUIRED / COVERAGE GAP because V2 had six qualified pools but had not proven comprehensive current male-market coverage.
+
+### Patch executed
+- Built a 19-entry official male rank Coverage Matrix.
+- Explicitly scanned 都市高武、玄幻脑洞、东方仙侠、传统玄幻、都市脑洞、游戏体育、御兽、全民转职、游戏入侵 / 游戏影响现实.
+- Separated official category from cross-category Reader Pool.
+- Added DIRECT / NEAR / VETERAN CONTROL / IP-SEQUEL CONTROL / WEAK CONTROL roles.
+- Frozen dynamic rank and author-credit observations in research/evidence/fanqie_market_entry_2026-09-26/INDEX.md.
+- Added Evidence Strength to Author Board without scores or preference ranking.
+
+### Board change
+Original six pools retained.
+Newly qualified, non-ranked pool added:
+> 年代赶山赶海：家庭生活重建 + 实物丰裕复利
+
+### Checked but not qualified
+- 御兽：mature demand proven; clean current new-entry proof insufficient.
+- 全民转职：common vehicle / tag; no clean exact Reader Pool.
+- 游戏入侵 / 游戏影响现实：mature long demand strong; current male new-entry freeze insufficient.
+- 都市高武 / 玄幻脑洞 / 都市脑洞：too broad, needs split.
+- 东方仙侠 / 传统玄幻：ceiling proven; newcomer entry evidence insufficient / IP distortion.
+- 衍生：IP acquisition distortion.
+
+### End state
+> COMPLETE / AWAITING EDITOR V2.1 REVIEW
+
+### Dispatch
+- downstream task: NONE
+- Concept Forge: NOT DISPATCHED
+- author market-pool choice remains BLOCKED until editor PASS.

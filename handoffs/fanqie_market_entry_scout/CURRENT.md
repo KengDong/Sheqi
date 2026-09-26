@@ -2,43 +2,38 @@
 
 ## ROLE
 - role: fanqie_market_entry_scout
-- status: READY / V2.1 COVERAGE PATCH
+- status: COMPLETE / AWAITING EDITOR V2.1 REVIEW
 - branch: reboot-v4-fanqie-market-entry
 - decision: REBOOT-V4
 - platform: FANQIE
 
 ## COMPLETED
-V2 market-entry report completed.
+Executed:
+> research/briefs/2026-09-26_reboot_v4_fanqie_market_entry_v2_1_coverage_patch_brief.md
 
-Editor verdict:
-> REVISION REQUIRED / COVERAGE GAP
+Patched:
+- 19-category Fanqie male Coverage Matrix;
+- omitted major categories including 都市高武 / 玄幻脑洞 / 东方仙侠 / 传统玄幻 / 都市脑洞 / 游戏体育 / 御兽 / 全民转职 / 游戏入侵;
+- DIRECT / NEAR / CONTROL labels;
+- dynamic rank + author evidence freeze;
+- Evidence Strength on Author Board;
+- one newly qualified pool: 年代赶山赶海 / 家庭生活重建 + 实物丰裕复利.
 
-Review:
-> `reviews/2026-09-26_fanqie_market_entry_v2_editor_gate.md`
+## OUTPUTS
+1. research/2026-09-26_reboot_v4_fanqie_market_entry_v2.md
+2. experiments/reboot_v4/author_choice/fanqie_market_entry_board_v2.md
+3. research/evidence/fanqie_market_entry_2026-09-26/INDEX.md
 
-## CURRENT TASK
-Execute:
-> `research/briefs/2026-09-26_reboot_v4_fanqie_market_entry_v2_1_coverage_patch_brief.md`
-
-## PURPOSE
-Do not redo the six existing pools from scratch.
-
-Patch:
-- full relevant Fanqie male category coverage matrix;
-- omitted major categories;
-- DIRECT / NEAR evidence labels;
-- dynamic evidence freeze;
-- evidence-strength field on author board.
-
-## HARD
-- no concepts;
-- no prose;
-- no AI ranking;
-- no old candidate revival;
-- no downstream dispatch.
+## CONTROL
+- author WANT / MAYBE / NO: BLOCKED pending editor V2.1 review
+- concepts: NONE
+- prose: NONE
+- old candidate revival: NONE
+- AI ranking / winner: NONE
+- downstream dispatch: NONE
+- Concept Forge: NOT DISPATCHED
 
 ## END STATE
-After patch:
 > COMPLETE / AWAITING EDITOR V2.1 REVIEW
 
 STOP.

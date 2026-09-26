@@ -1,5 +1,5 @@
 ---
-status: COMPLETE
+status: V2.1 COVERAGE PATCH COMPLETE / AWAITING EDITOR REVIEW
 date: 2026-09-26
 role: fanqie_market_entry_scout
 branch: reboot-v4-fanqie-market-entry
@@ -17,16 +17,17 @@ creative_output: FORBIDDEN
 
 # 0. Executive Audit Result
 
-本轮保留 6 个达到作者选择板证据门槛的 Reader Pool：
+V2 初版保留 6 个达到作者选择板证据门槛的 Reader Pool；V2.1 完成全市场 Coverage Patch 后，原六池保留，并新增 1 个证据合格池：
 
 - 现代民俗玄学 / 本土术法专业权威；
 - 都市医武神医 / 低位身份强势翻身；
 - 诡异降临反猎杀 / 收容、吞噬、驾驭异常；
 - 全民 / 末日求生 + 私有安全资产复利；
 - 西幻边疆领主 / 领地人口资源可见扩张；
-- 古代身份困局 / 高压等级社会中的地位与自主权上升。
+- 古代身份困局 / 高压等级社会中的地位与自主权上升；
+- 年代赶山赶海 / 家庭生活重建 + 实物丰裕复利（V2.1 新增）。
 
-这不是 6 个推荐，更不是 6 个最热门题材。广类热度只有在多个独立当前样本、新书样本、低作者信用样本和 matched failures 同时存在时，才被允许进入 Board。
+这不是 7 个推荐，更不是 6 个最热门题材。广类热度只有在多个独立当前样本、新书样本、低作者信用样本和 matched failures 同时存在时，才被允许进入 Board。
 
 # 1. Method
 
@@ -347,6 +348,159 @@ Falsification｜历史榜确有三国 / 红楼 / 大明等 IP 熟悉度效应，
 
 # End State
 
-> COMPLETE / AWAITING AUTHOR MARKET-POOL CHOICE
+> V2 HISTORICAL END STATE — superseded by V2.1 patch below
+
+STOP.
+---
+
+# 15. V2.1 Coverage & Evidence Freeze Patch｜2026-09-26
+
+> 本节是 Editor Gate 要求的 Coverage Patch。它不重做 V2 六池，而是回答：V2 是否漏扫了重要番茄男频市场。
+> 结论：原六池保留；新增 1 个达到同门槛的 Reader Pool——**年代赶山赶海：家庭生活重建 + 实物丰裕复利**。Author Board 现为 7 池，不排序。
+
+## 15.1 Official male-category Coverage Matrix
+
+扫描口径：官方 rank URL 为 `https://fanqienovel.com/rank/1_1_<ID>`（新书）与 `https://fanqienovel.com/rank/1_2_<ID>`（阅读）。动态页面缓存并非所有类目都同一天，因此以下逐行冻结实际可见的 cutoff，而不强行统一成 09-25。
+
+| ID | 官方类目 | 冻结榜单截止/证据状态 | 当前强样本 | 当前新书样本 | 潜在 exact Reader Pool | Outcome |
+|---:|---|---|---|---|---|---|
+| 1141 | 西方奇幻 | 08-09 exact cache; 09-25 supplemental | 《领主：我在苦痛世界，养成少女》；《领主：从猎人卡开始》；《西幻：从鹰人部落到天使帝国》 | 《让你当领主，你把诸天捞空了？》；《西幻：开局阿瓦达闪电链》 | 西幻边疆领主 | QUALIFIED POOL |
+| 1140 | 东方仙侠 | 阅读09-25 / 新书09-24 | 《从金丹仙族开始的老祖之路！》70.1万；《凡骨》65.9万 | 《白娘子：你不能娶我妹妹小青》16.4万；《洪荒八景宫中有逆徒》13.6万 | 家族修仙；传统修炼成长 | EVIDENCE INSUFFICIENT |
+| 8 | 科幻末世 | 09-25 | 《末日生存方案供应商》50.1万；长程求生资产样本 | 《宿舍求生：糯米可镇不住我们太久》17.2万；《海洋求生…》；《末世：我开局拥有一艘驱逐舰》 | 全民 / 末日求生 + 私有安全资产 | QUALIFIED POOL |
+| 261 | 都市日常 | 09-24 | 《公安局长之扫黑风暴》74.2万 | 《衰神气运逆转，回老家享受生活》27.8万 | 仕途、关系、生活改善等多个不同池 | TOO BROAD / NEEDS SPLIT |
+| 124 | 都市修真 | 09-24 | 《国术：每日结算，从黄包车夫开始》41.6万；V2 医武 / 民俗长程样本 | 《游走神话时代，开局拜师道门天师》44.6万；《今夜，征服》4.8万 | 民俗专业权威；医武身份翻身；国术成长 | TOO BROAD / NEEDS SPLIT |
+| 1014 | 都市高武 | 阅读09-23 / 新书09-25 | 《我不是戏神》168.8万（VETERAN CONTROL）；多种全民 / 序列 / 御兽长程书 | 《猎魔人小姐，我真不是血族》26.1万 | 御兽；全民职业；学院 / 序列高武 | TOO BROAD / NEEDS SPLIT |
+| 273 | 历史古代 | 阅读09-25 / 新书09-24 | 《冒姓琅琊》54.5万；《我家世代提刀，到我这儿提笔了！》；《魏家孽种成首辅，全族跪求我认祖》 | 《穿越遇换亲，侯门庶子奋斗记》；《科举：从三岁农家子到一代帝师》；《弃曹投刘，皇叔杀我否？》8.9万（IP邻近） | 古代身份困局 | QUALIFIED POOL |
+| 27 | 战神赘婿 | 阅读09-24 / 新书09-25 | 阅读榜头部已出现非 literal 赘婿的《从零开始，打造华夏首支特种部队》31.4万 | 《我抢了短剧受气男主的重生！》1.8万 | 赘婿 / 战神 / 神医身份反转 | NO CLEAN POOL FOUND |
+| 263 | 都市种田 | 09-24 | 《重回那年，1981小渔村》；《赶海：我靠赶海养娃》；《重生84：赶海系统带我日入百万》 | 《重生八零渔村，带仨前妻赶海暴富》18.3万；《分家只给破木船？我靠赶海赚麻了》8.6万 | 年代赶山赶海：家庭重建 + 实物丰裕 | QUALIFIED POOL |
+| 258 | 传统玄幻 | 阅读09-24 / 新书09-25 | 《天渊》119.5万、2987章（VETERAN / LONG CONTROL） | 《神女录：开局契约外冷内齁裴玉寒》9.5万；其余题材分散 | 传统升级、妖魔、武道等 | EVIDENCE INSUFFICIENT |
+| 272 | 历史脑洞 | 阅读09-25 / 新书09-24 | 《一心求死，反倒成为千古一帝？》46.8万 | 《开局东宫护卫，签到满级九阳神功》10.2万 | 皇帝反套路、无敌护卫、制度逆袭等 | TOO BROAD / NEEDS SPLIT |
+| 539 | 悬疑脑洞 | 阅读09-24 / 新书09-25 | 《十日终焉》172.7万（MEGA/VETERAN CONTROL）；诡异反猎杀长程样本 | 《诡舍2》48.2万（IP/SEQUEL CONTROL）；《什么叫我成了灭世级怪谈？》约23.9万 | 诡异降临反猎杀；规则怪谈 | QUALIFIED POOL |
+| 262 | 都市脑洞 | 09-25 | 《系统想害我，我选择上交国家》131万（作者有外站精品经历） | 《打卡双人骑行圈，开局拿捏假名媛》26.9万 | 国家上交、直播、科技、都市超凡、搞笑等 | TOO BROAD / NEEDS SPLIT |
+| 257 | 玄幻脑洞 | 09-24 | 《这个游戏不对劲，我挖矿成神！》160.3万；《文字武侠：开局破庙夜会帮主夫人》113万 | 《西游：大圣闹地府！始皇长生啦》17.4万（公共IP/神话） | 游戏影响现实；玄幻机制成长 | TOO BROAD / NEEDS SPLIT |
+| 751 | 悬疑灵异 | 阅读 exact cache 08-09 / 新书09-24 | 《我以狐仙镇百鬼》83.1万；《镇龙棺，阎王命》48.9万；《天师在此，奇门风水震天下》39.3万 | 《盗墓：八岁创雷法，震惊张海琪》8.5万（IP） | 现代民俗玄学 / 本土术法专业权威 | QUALIFIED POOL |
+| 504 | 抗战谍战 | 阅读09-24 / 新书09-25 | 《无声1937》48.5万 | 《谍战：从军统特工到关东军新星》约6.9万；另有《军统六哥，风筝前传》《潜伏后记》等IP邻近 | 致命怀疑下的身份伪装 / 谍战专业能力 | EVIDENCE INSUFFICIENT |
+| 746 | 游戏体育 | exact male cache 08-09; 09-25 current-work supplement | 《武侠网游，开局三个神级词条》；《游戏降临，只有我能氪金！》；《全民大航海，我开局一条幽灵船》 | 08-09新书头部主要为三角洲 / 电竞；缺少09-25可冻结的同池新书 | 游戏影响现实；全民求生；电竞 | TOO BROAD / NEEDS SPLIT |
+| 718 | 动漫衍生 | 阅读09-24 / 新书09-25 | 《崩铁，死了47次，我决定再卖》36.1万 | 《综漫：表白被拒就变强？》40.3万 | 动漫 / 游戏 IP 衍生 | IP/SEQUEL-DISTORTED |
+| 1016 | 男频衍生 | 阅读09-25 / 新书09-24 | 《神雕：全真出了个记仇真人！》33.9万 | 《名义：刚提名省服，你让我退休？》32.9万 | 影视 / 武侠 / 名著 IP 衍生 | IP/SEQUEL-DISTORTED |
+
+### Coverage verdict
+
+- 19 个当前相关男频官方 rank 入口已经逐一进入矩阵。
+- V2 漏掉的重要有效市场不是都市高武 / 玄幻脑洞整个大类，而是都市种田内部的 **年代赶山赶海：家庭生活重建 + 实物丰裕复利**。
+- 都市高武、玄幻脑洞、传统玄幻、都市脑洞、游戏体育均确认有大市场，但分类内部 fantasy 太异质，不能把大类热度直接变成一个 Reader Pool。
+- 御兽、全民转职、游戏入侵 / 游戏影响现实另做跨类目检查，见下节。
+
+## 15.2 Cross-category checks V2 explicitly missed
+
+### 御兽 / 宠兽
+
+FACT｜当前长程需求明确存在：公开作品页可见《御兽时代，我开局神级天赋》约480万字、8.6万人在读；《御兽序列：从弱小进化，登顶成神》约102.6万字、13.3万人；《御兽：万象与命途》约244.4万字、4.8万人；另有多本百万字级作品。
+
+CONTROL｜《高武御兽：从契约影猫开始》《御兽：从小机魂开始》《御兽：重生后我有两个御兽天赋》《御兽：从一只青绵虫开始》等公开页均出现未满1000在读的弱控制。
+
+结果｜**EVIDENCE INSUFFICIENT for entry Board**。成熟需求 / 天花板成立，但本次冻结没有拿到足够干净的 09-24/09-25 当前新书簇 + 低作者信用样本。御兽因此不是“市场不存在”，而是“当前新人入口证据未达到 V2 bar”。
+
+### 全民转职 / 全民觉醒
+
+CONTROL｜《全民转职：机械师的真谛机械飞升》约29万字、《全民转职：以圣光之名》约6.3万字、《全民转职：万物工匠崛起》约23.1万字、《全民觉醒：为世界献上祈愿》约22.8万字，均有未满1000在读样本。
+
+都市高武当前新书头部又不是一个统一“转职池”，而是血族身份、全民神祇、班级求生、序列等多个 fantasy 并存。结果｜**NO CLEAN POOL FOUND**。‘全民转职’更像常见 Delivery Vehicle，目前不能单独作为 Reader Fantasy 进入 Board。
+
+### 游戏 / 游戏入侵 / 游戏影响现实
+
+FACT｜玄幻脑洞与游戏体育长程榜存在多个高量级样本：《这个游戏不对劲，我挖矿成神！》约160.3万在读；《文字武侠：开局破庙夜会帮主夫人》约113万；游戏体育阅读侧还存在《游戏降临，只有我能氪金！》等“游戏改变现实”作品。
+
+但 257 当前新书头部被西游 / 始皇公共 IP 样本占据；746 男频 exact 新书页面本轮可冻结的官方缓存截止仅到 08-09，无法把旧新书榜当 09-26 的新人入口证明。结果｜**EVIDENCE INSUFFICIENT**。成熟 Reader Pool 假设很强，但本轮不进 Author Board。
+
+### 都市高武 / 学院 / 序列成长
+
+FACT｜都市高武新书 09-25 头部《猎魔人小姐，我真不是血族》26.1万；阅读侧《我不是戏神》168.8万，但后者属于强作者 / 大作控制。榜内同时混有神祇、求生、属性翻倍、邪神序列、御兽等完全不同 fantasy。
+
+结果｜**TOO BROAD / NEEDS SPLIT**。没有把‘高武’两个字直接升级成一个 Reader Pool。
+
+### 东方仙侠 / 传统玄幻
+
+东方仙侠当前有《从金丹仙族开始的老祖之路！》70.1万等强长程样本，但当前新书头部《白娘子…》《洪荒…》明显受公共神话 / IP 熟悉度影响；传统玄幻阅读头部《天渊》119.5万且近3000章，证明 ceiling，不证明新人入口。结果均为 **EVIDENCE INSUFFICIENT**，不以大神 / 老书替代 newcomer proof。
+
+### 都市脑洞
+
+当前阅读头部《系统想害我，我选择上交国家》131万，而新书头部《打卡双人骑行圈，开局拿捏假名媛》26.9万；同一分类内部 Primary Fantasy 差异巨大。结果｜**TOO BROAD / NEEDS SPLIT**。
+
+## 15.3 NEW QUALIFIED POOL G｜年代赶山赶海：家庭生活重建 + 实物丰裕复利
+
+1. **Exact Reader Pool**｜回到资源更稀缺、家庭关系更具体的生活起点，用可触摸的本地技能 / 信息优势，把海货、山货和劳动一次次变成饭桌、现金、工具、船、房与家人的安全感；从失败 / 低位男人变成可靠供养者与家庭支柱。
+2. **Current Strong / DIRECT Comps**｜《重回那年，1981小渔村》[DIRECT LONG] 约325.3万字、3.7万人在读；《赶海：我靠赶海养娃》[DIRECT LONG] 约349万字、1.5万人；《重生84：赶海系统带我日入百万》[DIRECT LONG] 约59.5万字、3.5万人；《每日渔获情报，我靠赶海成为首富》[NEAR] 约138.2万字、6万人。
+3. **Current New-Book Proof**｜都市种田新书 09-24：《重生八零渔村，带仨前妻赶海暴富》18.3万 [VETERAN CONTROL]；《分家只给破木船？我靠赶海赚麻了》8.6万 [DIRECT NEW]。
+4. **Low-author-credit Proof**｜《分家只给破木船？我靠赶海赚麻了》作者一顾不切：公开作者页 4 部作品、103 粉丝、创作383天；不是首次写作，但站内可见受众很低，当前书仍进入新书有效区间。
+5. **Primary Reader Fantasy**｜不是‘赶海’，而是 **我能持续把别人忽略的实物价值带回家，让自己的家庭从缺东西变成越来越丰裕、越来越有底气。**
+6. **Secondary Fantasy Bundle**｜重生纠错、奶爸 / 伴侣关系修复、村镇声望、交易、工具 / 船升级、小生意、季节性资源。
+7. **Protagonist Fantasy**｜失败 / 低位男人 → 能养家、会做事、懂本地资源、在亲友与村镇中有分量的可靠供养者。
+8. **Dominant Repeated Scene Pleasure**｜出海 / 上山 → 发现别人错过的价值 → 实物收获 → 卖钱 / 上桌 → 家庭生活可见改善 → 工具 / 船 / 房升级 → 关系与地位改善。
+9. **Ch1–3 Promise**｜过去遗憾 / 分家 / 家庭危机迅速成立；第一次出海 / 上山必须产生可触摸收获，并让第一笔饭钱、医药、孩子、妻子或生活条件发生变化。
+10. **Post-novelty continuation**｜更大工具与船、更远渔场 / 山场、季节变化、家庭成员分工、小生意、村镇关系与资产累积；旧生活状态持续留在书里。
+11. **Competition Density**｜高。
+12. **Packaging Sameness**｜高：‘重生 + 70/80年代 + 赶海/打猎 + 系统 + 奶爸 + 暴富/致富’高度重复。
+13. **Trend Lifecycle**｜durable-active / mature；本轮不声称 rising。
+14. **Matched Weak Controls**｜《赶海：预知鱼群，俏寡妇求我传承》约56.2万字、已完结、未满1000 [WEAK CONTROL]；《赶海钓鱼：誓与兄同上岸》约44.5万字、未满1000 [WEAK CONTROL]；另有《重生1970：从小渔村赶海开始》约29.4万字、未满1000。
+15. **Why weak controls matter**｜系统、赶海、艳遇 / 家庭、快速大货、卖高价、重生年代这些表皮在弱书同样存在，不能冒充成功因果。
+16. **Substitution Space**｜把‘丰裕’落到家庭生活和长期资产，不只日入数字；让家人有独立欲望；让旧船 / 房 / 关系反复回返，而不是每天换一种海货。
+17. **Platform Fit**｜实物收获、饭桌、现金、工具和生活改善都极易读懂；一章可以有小回报，几十章又能形成家庭 / 资产阶梯。
+18. **Quality / AI-pattern Risk**｜鱼种 / 重量 / 价格流水账；固定‘出海→大货→围观→卖钱’；家人只是奖励道具；装备 / 收获清单化。
+19. **Compliance Risk**｜保护动物 / 禁渔期 / 非法捕捞狩猎、危险海况和武器 / 陷阱不得写成现实可模仿教程；现实价格 / 黑市不要伪装成可靠投资信息。
+20. **Falsification / Evidence Confidence**｜不是单一本病毒：多本独立长程 DIRECT、两本当前新书、一个低站内信用当前新书作者，同时存在多本同皮肤弱控制。**Evidence Strength：STRONG EVIDENCE**。
+
+## 15.4 DIRECT / NEAR / CONTROL relabel｜Final Board evidence integrity
+
+| Pool | Evidence-labeled comps | >=2 DIRECT? | Evidence Strength |
+|---|---|---:|---|
+| 现代民俗玄学 | 《我以狐仙镇百鬼》[DIRECT]；《镇龙棺，阎王命》[DIRECT]；《刚出马，就被国家收编了》[DIRECT NEW]；《娱乐圈风水秘闻》[NEAR] | YES | MODERATE EVIDENCE |
+| 都市医武神医 | 《凤流高手》[DIRECT NEW]；《高手下山，我家师姐太宠我了》[DIRECT LONG]；《全村只有傻子在修仙》[DIRECT NEW]；《一场邂逅…》[NEAR] | YES | STRONG EVIDENCE |
+| 诡异降临反猎杀 | 《什么叫我成了灭世级怪谈？》[DIRECT NEW]；《诡异世界，我的神通无限升级！》[DIRECT NEW]；《诡异：我分身竟是副本灯笼怪》[DIRECT NEW]；《当诡异降临世界，死亡即是终点》[NEAR/LONG]；《诡舍2》[IP/SEQUEL CONTROL] | YES | STRONG EVIDENCE |
+| 全民 / 末日求生 + 私有安全资产 | 《宿舍求生…》[DIRECT NEW]；《海洋求生…》[DIRECT NEW]；《末世：我开局拥有一艘驱逐舰》[DIRECT NEW]；《末日逃亡：开局苍穹列车车长》[DIRECT NEW]；《全民大航海…》[DIRECT LONG] | YES | STRONG EVIDENCE |
+| 西幻边疆领主 | 《领主：我在苦痛世界，养成少女》[DIRECT LONG]；《领主：从猎人卡开始》[DIRECT]；《西幻：从鹰人部落到天使帝国》[DIRECT LONG]；《让你当领主，你把诸天捞空了？》[DIRECT NEW]；《西幻：开局阿瓦达闪电链》[DIRECT NEW] | YES | STRONG EVIDENCE |
+| 古代身份困局 | 《冒姓琅琊》[DIRECT LONG]；《我家世代提刀，到我这儿提笔了！》[DIRECT LONG]；《魏家孽种成首辅，全族跪求我认祖》[DIRECT LONG]；《穿越遇换亲，侯门庶子奋斗记》[DIRECT NEW]；《三国：八百万买巴郡太守》[IP/SETTING CONTROL] | YES | MODERATE EVIDENCE |
+| 年代赶山赶海：家庭生活重建 + 实物丰裕 | 《重回那年，1981小渔村》[DIRECT LONG]；《赶海：我靠赶海养娃》[DIRECT LONG]；《重生84…》[DIRECT LONG]；《分家只给破木船？我靠赶海赚麻了》[DIRECT NEW]；《重生八零渔村…》[VETERAN CONTROL] | YES | STRONG EVIDENCE |
+
+Evidence Strength 只描述证据质量，不表达 AI 偏好、推荐或排序。
+
+## 15.5 Dynamic Evidence Freeze
+
+动态榜单与作者证据已经冻结到：
+
+> `research/evidence/fanqie_market_entry_2026-09-26/INDEX.md`
+
+该文件记录实际观察 / cutoff 日期、官方 URL、在读 / 长度、作者可见信用信号以及 DIRECT / NEAR / WEAK / NEWCOMER / CONTROL 角色。后续榜单变化不得回写成‘当时就是这样’。
+
+## 15.6 Corrected exclusions after full coverage
+
+- **御兽**：不是不存在；成熟需求强，但当前新人 / 新书入口证据不够，暂不进 Board。
+- **全民转职**：标签和弱书都很多，当前不能证明它自身就是 exact Reader Fantasy。
+- **游戏入侵 / 游戏影响现实**：成熟长程需求清楚，但本轮当前 male new-book freeze 不足，暂不进 Board。
+- **都市高武 / 玄幻脑洞 / 都市脑洞**：大类都活跃，但内部 fantasy 太异质，必须拆后再谈，不能直接入 Board。
+- **传统玄幻 / 东方仙侠**：天花板清楚；本轮新人入口证明不足，不拿老书 / 公共神话 IP 代替。
+- **衍生 / 动漫**：当前需求很强，但 IP acquisition 不可当原创 Reader Pool 证明。
+
+## 15.7 V2.1 Selfcheck
+
+- [x] 19 个相关男频官方 rank 类目进入 Coverage Matrix。
+- [x] 都市高武、玄幻脑洞、传统/东方玄幻、都市脑洞、游戏/全民转职/游戏入侵、御兽均显式检查。
+- [x] 新增 1 个达到 V2 bar 的 Reader Pool，而非为了补数量硬凑。
+- [x] 每个 Final Board Pool 至少 2 个 DIRECT current/recent Fanqie comps。
+- [x] DIRECT / NEAR / VETERAN CONTROL / IP-SEQUEL CONTROL / WEAK CONTROL 区分。
+- [x] 动态榜单与作者证据冻结。
+- [x] Author Board 增加 Evidence Strength，且只使用 STRONG EVIDENCE / MODERATE EVIDENCE / CONDITIONAL。
+- [x] Evidence Strength 不作为偏好排行。
+- [x] 无 Concept。
+- [x] 无正文。
+- [x] 无旧 Sheqi 候选复活。
+- [x] 无 AI winner / score / priority。
+- [x] 无下游自动下发。
+
+# V2.1 End State
+
+> **COMPLETE / AWAITING EDITOR V2.1 REVIEW**
+
+Author WANT / MAYBE / NO remains BLOCKED until editor review.
 
 STOP.
