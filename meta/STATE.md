@@ -4,41 +4,47 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Status
-> **PACKAGE QA COMPLETE / TWO TARGETED PACKAGE REVISIONS OPEN**
+> **11 PACKAGES QA-COMPLETE / ANONYMOUS SHELF PREP READY**
 
-# Package QA
+# Final package set
+> **11 packages**
 
-PASS:
-> 9 packages
+All packaging fidelity / fairness issues resolved.
 
-REVISE:
-1. Pool 1 方案四包装
-2. Pool 2 方案一包装
+# Current Stage
+Build two anonymous mixed shelves with:
+- exact same 11 books;
+- different order;
+- no Pool / Concept / review metadata;
+- Reader-visible title + hook + blurb only.
 
-No Concept changed.
-No Concept dropped.
+Worker:
+> `reboot_v4_anonymous_shelf_forge`
 
-# Current Gate
-Run:
-> `reboot_v4_package_targeted_revision`
+# Reader Design
+Two clean-room Readers are prepared but BLOCKED:
+- Reader A sees Shelf A only;
+- Reader B sees Shelf B only.
 
-Output:
-> `experiments/reboot_v4/packages/revisions/2026-09-26_package_targeted_revision.md`
+They will record for each book:
+- title-only click / maybe / skip;
+- after blurb click / maybe / skip;
+- perceived promise;
+- strongest pull;
+- biggest friction.
 
-# After revision
-Editor rechecks only:
-- whether Pool 1 方案四 is concise and no longer biases toward public-case / investigator expectations;
-- whether Pool 2 方案一 removes the over-absolute “全城看病先问我” promise.
-
-If both pass:
-> build anonymous mixed shelf for click-desire testing.
+They will NOT:
+- rank 1–11;
+- score;
+- choose top 3;
+- recommend final topic.
 
 # BLOCKED
-- anonymous shelf test
+- first screen
 - prose
-- first-screen
-- ranking / winner
+- final winner
+- ranking / scoring
 - old candidate revival
 
 # One Sentence
-> **11套包装里9套直接通过，2套只修文案；修完这两套后才能公平地做匿名书架点击测试。**
+> **包装阶段已经公平收口，下一步制作匿名双顺序书架，再收集两份独立点击反应。**
