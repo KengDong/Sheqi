@@ -22,7 +22,7 @@ branch: reboot-v4-fanqie-market-entry
 # READY
 
 ## retained_pool_synthesis_redteam
-- status: READY / UNLOCKED
+- status: ACTIVE / AUDITING EDITOR SYNTHESIS
 - current:
   > `handoffs/retained_pool_synthesis_redteam/CURRENT.md`
 - audit target:
@@ -50,7 +50,8 @@ Still blocked:
 
 # NEXT
 
-1. Red-team audits editor draft.
-2. Editor reconciles red-team findings with the completed normalized evidence table.
-3. Final synthesis returned to AUTHOR.
-4. STOP at human gate.
+1. retained_pool_synthesis_redteam completes independent audit.
+2. editor_in_chief reconciles audit findings with the completed normalized evidence table.
+3. editor patches the synthesis if needed.
+4. final synthesis returned to AUTHOR.
+5. STOP at human gate.
