@@ -1,30 +1,19 @@
-# P0 A01 Writer｜CURRENT
-
-## ROLE
-- role: p0_a01_writer
-- status: DONE
-- decision: REBOOT-V3
-- stage: P0 First Screen / Native vs Commercial Mirror
-- candidate: A01 《怪物死了，地盘还在》
-
-## COMPLETED
-- Read shared P0 paired writer brief.
-- Read only own candidate card within HARD INPUT BOUNDARY.
-- Wrote and Git-froze Variant N before Mirror exposure.
-- Read Mirror Function Card only after Native freeze.
-- Wrote Variant M without revising Variant N.
-- Added writer selfcheck.
-
-## OUTPUT
-> `experiments/reboot_v3/p0/a01/2026-09-26_a01_p0_native_mirror.md`
-
-## FREEZE
-- Variant N frozen before Mirror exposure.
-- No post-Mirror Native edits.
-- No Ch1 completion.
-- No new core mechanic.
-- No winner / Primary selection.
-- No benchmark prose copying or living-author voice imitation.
+# P0 A01 Paired Writer｜CURRENT
 
 ## STATUS
-DONE / STOP.
+> RETIRED / INVALIDATED FOR NATIVE-vs-MIRROR A/B EVIDENCE
+
+## REASON
+The original protocol stored Native and Mirror instructions in one Git file.
+A full-file read could expose Mirror guidance before Native generation.
+
+See:
+> `reviews/2026-09-26_reboot_v3_p0_input_boundary_contamination_audit.md`
+
+Existing prose, if any:
+> archive only; do not use for formal Native-vs-Mirror causal comparison.
+
+## REPLACEMENT
+Use physically isolated V2 Native and Mirror writer roles.
+
+STOP.
