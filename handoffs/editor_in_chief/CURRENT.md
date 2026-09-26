@@ -2,54 +2,29 @@
 
 ## ROLE
 - role: editor_in_chief
-- status: ACTIVE / ORCHESTRATION ONLY
-- decision: REBOOT-V4
+- status: AUDIT ONLY
+- branch: reboot-v4-fanqie-root-audit
 
-## ROOT RESTART
+## CURRENT TASK
+Perform a complete historical postmortem of Sheqi.
 
-Restart point:
-> MARKET RESEARCH QUESTION.
-
-Do not continue repairing any existing candidate.
-
-## WHY
-
-Original Market Dossier asked:
-> which observable book designs improve breakout?
-
-It did not center:
-> which reader fantasies / emotional experiences are strongly demanded.
-
-That structural bias propagated through every later gate.
-
-## CURRENT SINGLE NEXT ACTION
-
-Run:
-> `handoffs/market_desire_scout/CURRENT.md`
-
-## EXPECTED OUTPUT
-
-1. current Qidian/Fanqie Reader Fantasy map;
-2. hit vs matched ordinary controls;
-3. newcomer-specific demand evidence;
-4. author-facing fantasy choice board.
-
-## AUTHOR GATE
-
-Author marks:
-> WANT / MAYBE / NO.
-
-Only WANT/MAYBE families may receive direct benchmark research and concepts.
+Must answer:
+1. every major failure mode;
+2. which failures were truly fixed vs merely documented;
+3. which process rules caused new bias;
+4. which evidence remains trustworthy;
+5. which old assets must lose authority;
+6. where work should restart;
+7. what Git structure prevents recurrence.
 
 ## HARD
+- no worker dispatch;
+- no concept generation;
+- no prose;
+- no candidate ranking;
+- no Fanqie research task yet.
 
-- zero old-candidate privilege;
-- no AI ranking;
-- no new concepts yet;
-- no prose yet;
-- no structure-first screening;
-- no AI-production convenience as positive selection signal.
+## OUTPUT
+> `reviews/2026-09-26_master_failure_postmortem_and_repo_reset.md`
 
-## ONE SENTENCE
-
-> **先把“市场为什么想吃”搞清楚，再谈我们做哪道菜。**
+Then wait for author review.
