@@ -1,7 +1,7 @@
 # Editor in Chief｜CURRENT
 
 ## STATUS
-> **ANONYMOUS SHELF FORGE READY**
+> **TWO CLEAN-ROOM SHELF READERS READY**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
@@ -9,47 +9,42 @@
 ## ROLE
 > `editor_in_chief`
 
-# PACKAGE GATE CLOSED
-11 / 11 packages are now QA-complete.
-
-Targeted revisions:
-- Pool 1 concept04 package — PASS
-- Pool 2 concept01 package — PASS
+# VERIFIED
+Anonymous shelves passed QA:
+- 11 / 11 each;
+- same title set;
+- different orders;
+- no R&D metadata leak.
 
 # CURRENT ACTION
-Run:
-> `reboot_v4_anonymous_shelf_forge`
+Run independently:
+1. `reboot_v4_cleanroom_shelf_reader_a`
+2. `reboot_v4_cleanroom_shelf_reader_b`
 
-Current:
-> `handoffs/reboot_v4_anonymous_shelf_forge/CURRENT.md`
+Do not let either Reader see:
+- private mapping;
+- other shelf;
+- other Reader report;
+- Concepts / package source / editor review.
 
-# PURPOSE
-Create:
-- Shelf A
-- Shelf B
-- private source mapping
+# AFTER BOTH COMPLETE
+Freeze both Reader reports first.
 
-Reader-visible shelf content is only:
-- title
-- one-line hook
-- blurb
+Then editor may read the private mapping and synthesize:
+- title-only agreement/disagreement;
+- blurb-stage agreement/disagreement;
+- which packages gain or lose after blurb;
+- what promise Readers think each book makes;
+- recurring friction.
 
-No Pool or scheme metadata.
-
-# NEXT
-After shelf forge completes:
-- unlock `reboot_v4_cleanroom_shelf_reader_a`
-- unlock `reboot_v4_cleanroom_shelf_reader_b`
-
-Readers give absolute click reactions per book.
-No ranking / no top-3.
+Still no automatic final winner.
 
 # HARD BLOCKS
 - no prose;
 - no first screen;
-- no AI winner;
 - no ranking;
+- no final winner;
 - no old candidate revival.
 
 # ONE SENTENCE
-> **当前只做匿名书架制作；书架完成后才让两个干净Reader独立判断会不会点。**
+> **现在真正进入点击欲测试：两个干净Reader独立判断11本书会不会点。**
