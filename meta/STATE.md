@@ -4,7 +4,7 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Status
-> **AUTHOR MARKET-POOL CHOICE COMPLETE / AWAITING NEXT EVIDENCE-STAGE AUTHORIZATION**
+> **SELECTED-POOL DIRECT HIT + MATCHED-FAILURE DEEP READ DISPATCHED**
 
 Primary:
 > NONE.
@@ -12,18 +12,7 @@ Primary:
 Active novel candidates:
 > NONE.
 
-# Market Research
-
-Fanqie Market Entry V2.1:
-> PASS
-
-Author market-pool choice:
-> RECORDED
-
-Selection authority:
-> `experiments/reboot_v4/author_choice/author_market_pool_selection.md`
-
-# Frozen Author Set
+# Author Market Choice
 
 WANT:
 - 1 现代民俗玄学：本土术法专业权威
@@ -35,40 +24,59 @@ MAYBE:
 - 6 古代身份困局：高压等级社会中的地位与自主权上升
 
 NO:
-- 5 西幻边疆领主：领地 / 人口 / 资源 / 秩序可见扩张
-- 7 年代赶山赶海：家庭生活重建 + 实物丰裕复利
+- 5 西幻边疆领主
+- 7 年代赶山赶海
 
-MAYBE is not WANT.
+Selection record:
+> `experiments/reboot_v4/author_choice/author_market_pool_selection.md`
 
-# Current Human Gate
+## Authorized Research Stage
 
-Editor has proposed the next evidence stage:
-> **selected-pool direct hit + matched-failure deep read**
+> **SELECTED-POOL DIRECT HIT + MATCHED-FAILURE DEEP READ**
 
-Scope if authorized:
-> ONLY 1 / 2 / 3 / 4 / 6.
+Shared brief:
+> `research/briefs/2026-09-26_reboot_v4_selected_pool_direct_hit_matched_failure_deepread_brief.md`
 
-Author confirmation is required before dispatch.
+Isolated scopes:
+- Pool 1 → `fanqie_pool01_minsu_scout`
+- Pool 2 → `fanqie_pool02_yiwu_scout`
+- Pool 3 → `fanqie_pool03_weiyi_scout`
+- Pool 4 → `fanqie_pool04_survival_asset_scout`
+- Pool 6 → `fanqie_pool06_historical_status_scout`
 
-# Downstream
+## Research Control
 
-READY FOR HUMAN AUTHORIZATION:
-- selected-pool direct-hit + matched-failure deep read.
+Each scout:
+- researches ONE pool only;
+- uses common sample / matched-control methodology;
+- does not read other pool deep-read reports before completion;
+- may search current external evidence;
+- cannot create concepts.
 
-BLOCKED:
-- concept forge;
+## Completion Gate
+
+Required before editor synthesis:
+> ALL FIVE scout reports COMPLETE.
+
+Then:
+> editor_in_chief evidence-integrity review + non-ranked synthesis.
+
+## BLOCKED
+
+- Concept Forge;
 - prose;
-- candidate revival;
+- old candidate revival;
+- final novel selection;
+- cross-pool ranking / scoring;
 - readers;
-- Reservoir / Character / Horizon;
-- final market-pool selection.
+- Reservoir / Character / Horizon.
 
-# Next
+## Next Human Gate
 
-After author confirmation:
-> dispatch a dedicated deep-read research stage for pools 1 / 2 / 3 / 4 / 6, keeping each reader fantasy separate and comparing successful DIRECT works against matched weaker / failed works.
+After editor synthesis:
+> AUTHOR decides whether to narrow / request more evidence / authorize a later Concept stage.
 
-No automatic dispatch.
+No automatic Concept dispatch.
 
 # One Sentence
-> **市场兴趣已由作者收敛为4 WANT + 1 MAYBE；先查清同池成功与失败的真实差异，再决定是否继续收窄。**
+> **当前唯一工作是把1/2/3/4/6五个保留池分别做同池命中作与弱对照深读，先证明“为什么同题材有人吃、有人不吃”。**
