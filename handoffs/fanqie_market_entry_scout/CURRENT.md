@@ -1,32 +1,19 @@
 # Fanqie Market Entry Scout｜CURRENT
 
-## ROLE
-- role: fanqie_market_entry_scout
-- status: READY
-- decision: REBOOT-V4
-- platform: FANQIE
+## STATUS
+> BLOCKED / ROOT AUDIT FREEZE
 
-## CURRENT TASK
-Execute:
-> `research/briefs/2026-09-26_reboot_v4_fanqie_native_market_entry_brief.md`
+Do NOT execute the previous Fanqie market-entry brief.
 
-## PURPOSE
-The author has selected Fanqie as the intended first launch platform.
+Reason:
+> author requested full Git cleanup + complete failure postmortem before any further task dispatch.
 
-Recalibrate:
-> mother chassis + reader fantasy + newcomer entry
+Audit branch:
+> `reboot-v4-fanqie-root-audit`
 
-using Fanqie-native evidence only.
+Wait for a new CURRENT after:
+- master audit;
+- authority rebuild;
+- author approval.
 
-## HARD
-- no concepts;
-- no prose;
-- no AI final ranking;
-- no Qidian-only validation;
-- no old candidate privilege.
-
-## OUTPUT
-1. `research/2026-09-26_reboot_v4_fanqie_native_market_entry.md`
-2. `experiments/reboot_v4/author_choice/fanqie_market_entry_board.md`
-
-Then selfcheck / CURRENT/history / commit / STOP.
+STOP.
