@@ -1,43 +1,45 @@
-# SHEQI STATE｜MASTER AUDIT COMPLETE
+# SHEQI STATE｜REBOOT-V4 FANQIE MARKET ENTRY
 
 updated: 2026-09-26
-branch: reboot-v4-fanqie-root-audit
+branch: reboot-v4-fanqie-market-entry
 
 # Status
-> **AWAITING AUTHOR REVIEW**
+> **MARKET ENTRY RESEARCH READY**
 
 Primary:
 > NONE.
 
-Active candidates:
+Active novel candidates:
 > NONE.
 
-Active workers:
-> NONE.
+# Author Authorization
+Author explicitly authorized:
+> “开始推进下一步”
 
-# Completed
-- new audit branch created from main
-- all execution frozen
-- full historical failure audit completed
-- old authority globally demoted during audit
-- authority registry created
+Scope:
+> first post-audit research stage only.
 
-# Master Audit
-> `reviews/2026-09-26_master_failure_postmortem_and_repo_reset.md`
+# Active Worker
+- fanqie_market_entry_scout: READY
 
-# Registry
-> `meta/AUDIT_AUTHORITY_REGISTRY.md`
+# Current Task
+> Fanqie-specific exact reader-pool mapping for an unknown first-time male author.
 
-# Current Strategic Intent
-- intended platform: Fanqie
-- unknown-author breakout
-- final candidate ranking by author
+# Outputs Expected
+1. `research/2026-09-26_reboot_v4_fanqie_market_entry_v2.md`
+2. `experiments/reboot_v4/author_choice/fanqie_market_entry_board_v2.md`
 
-# Recommended but NOT dispatched
-> Fanqie-specific exact market-entry research.
+# Next Gate
+After completion:
+> AUTHOR personally marks WANT / MAYBE / NO.
 
-# Next
-> AUTHOR reviews audit and decides whether restart point/process is accepted.
+# Blocked
+- concept forge
+- direct opening benchmark
+- prose
+- readers
+- Reservoir / Character / Horizon
+- candidate promotion
 
-# Hard
-No task dispatch before that.
+# One Sentence
+> **先选真实市场池，再生任何小说。**
