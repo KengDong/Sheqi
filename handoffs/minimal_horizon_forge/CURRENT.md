@@ -1,31 +1,42 @@
 # Minimal Horizon Forge｜CURRENT
 
-role: minimal_horizon_forge  
-status: DONE  
-decision: D-0083  
-completed: 2026-09-24
+## ROLE
+- role: minimal_horizon_forge
+- status: READY
+- decision: REBOOT-V3
+- stage: Minimal Horizon
 
-Mission completed:
-> define exactly one Near, one Mid, one Far reader wait per surviving candidate, with a natural Near -> Mid -> Far desire chain.
+## CURRENT TASK
+Execute:
+> `research/briefs/2026-09-26_reboot_v3_minimal_horizon_brief.md`
 
-Completed outputs:
-- `experiments/first_principles_forge/minimal_horizon/R1_future_holdings.md`
-- `experiments/first_principles_forge/minimal_horizon/R2_second_autobiography.md`
-- `experiments/first_principles_forge/minimal_horizon/R3_borrowed_tribulations.md`
-- `experiments/first_principles_forge/minimal_horizon/R7_dead_people_work.md`
-- `experiments/first_principles_forge/minimal_horizon/R8_missing_day_list.md`
+## ACTIVE
+- A01
+- A02
+- A04
+- B10
 
-Selfcheck:
-> `reviews/2026-09-24_d0083_minimal_horizon_selfcheck.md`
+## RESERVE｜DO NOT DESIGN
+- B04
+- A10
 
-Handoff notes:
-- all five candidates have a natural Near / Mid / Far without new core rules, new central characters, Canopy rebuild, or terminal-secret rescue;
-- R3 has a valid natural Far, but the frozen Reservoir itself approaches diminishing returns after that point; do not manufacture extra runway through new source tribulations / new strong-person old debts / new bearers;
-- no ranking and no Primary selection were performed;
-- Canon / Outline unchanged.
+## GOAL
+For each ACTIVE define only:
+- one Near reader wait;
+- one Mid visible outcome;
+- one Far scale shadow;
+- a natural Near -> Mid -> Far desire chain.
 
-Deliver:
-> **editor_in_chief / Horizon Cut**
+## HARD
+- no prose;
+- no chapter outline;
+- no world bible;
+- no new core mechanic;
+- no winner;
+- no Primary;
+- no Reserve resurrection.
 
-Hard stop:
-> do not proceed to P1 prose, Canopy, Canon, Outline, or Primary selection in this window.
+## OUTPUT
+> `experiments/reboot_v3/minimal_horizon/2026-09-26_reboot_v3_minimal_horizon.md`
+
+Then selfcheck / CURRENT / history / commit / STOP.
