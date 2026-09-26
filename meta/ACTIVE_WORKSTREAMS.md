@@ -3,26 +3,24 @@
 updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
-# CORE WIP｜1
+# ACTIVE WORKERS
+> NONE.
 
-## fanqie_market_entry_scout
-- status: COMPLETE / V2.1 COVERAGE PATCH
-- current:
-  > handoffs/fanqie_market_entry_scout/CURRENT.md
-- outputs:
-  > research/2026-09-26_reboot_v4_fanqie_market_entry_v2.md
-  > experiments/reboot_v4/author_choice/fanqie_market_entry_board_v2.md
-  > research/evidence/fanqie_market_entry_2026-09-26/INDEX.md
+# fanqie_market_entry_scout
+- status: COMPLETE
+- V2.1: PASS
 
-## editor_in_chief
-- status: READY FOR V2.1 REVIEW
-- current:
-  > handoffs/editor_in_chief/CURRENT.md
-- review target:
-  > Coverage completeness / DIRECT-vs-NEAR integrity / evidence freeze / evidence-strength visibility / old-bias regression
+# editor_in_chief
+- status: PAUSED / AWAITING AUTHOR MARKET-POOL CHOICE
+
+# CURRENT HUMAN GATE
+AUTHOR reviews:
+> `experiments/reboot_v4/author_choice/fanqie_market_entry_board_v2.md`
+
+and marks:
+> WANT / MAYBE / NO.
 
 # BLOCKED
-- author market-pool choice
 - direct benchmark
 - concept forge
 - prose
