@@ -1,46 +1,52 @@
 # reboot_v4_highconcept_a_architect｜CURRENT
 
 ## STATUS
-> **A3 WORLD ENGINE REBOOT ROUND 04 / AUTHOR FIRST-LOOK TEST**
+> **A3 FIXED-WORLD PLEASURE ENGINE ROUND 05 / AUTHOR FIRST-LOOK TEST**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
 
 ## AUTHOR CORRECTION
-V3 gradual expansion was directionally right but the actual engine regressed into:
-> maintenance / appraisal / recycling.
-
-That engine is rejected.
-
-## CORRECTION FILE
-> `reviews/2026-09-26_A3_world_v3_maintenance_regression.md`
+The world background is considered fixed.
+Do not force the concept to remain about death / funeral.
+The task is now:
+> make this already-selected modern mass-cultivation world FUN.
 
 ## CURRENT ROUND
-> `experiments/reboot_v4/quick_ideation/2026-09-26_A3_world_engine_reboot_round04.md`
+> `experiments/reboot_v4/quick_ideation/2026-09-26_A3_fixed_world_pleasure_engine_round05.md`
 
-New exploration:
-- A1 modern cultivation education built on dead masters' legacy instances;
-- A2 mass cultivation by binding dead masters' Dao seeds, with protagonist's dead master awakening;
-- A3 legal loading of dead people's life/skill segments;
-- D1 modern students inherit dead masters while protagonist meets the living original in another world;
-- D2 public ancestor simulation misroutes protagonist to the actual living ancient source;
-- D3 modern standardized techniques vs living creators still inventing originals.
+Single-world engines:
+- failure / deviation becomes a new path;
+- cultivation routes can be refunded / replayed;
+- mass-standardized technique crowdsources its own evolution;
+- learning a path summons a future self;
+- cultivation major evolves from actual life choices;
+- discarded failed techniques reveal missing prerequisites.
 
-## HIGHEST RULE
-Death / legacy must be something civilization actively consumes every day.
+Dual-world engines:
+- change the source in ancient world → modern textbook/history updates;
+- bind a cross-world living cultivator and co-develop one Dao;
+- small ancient relationship → huge modern historical trace;
+- meet technique creators while techniques are still being invented;
+- modern aptitude vs ancient self-written identity;
+- modern safe descendant + ancient forbidden original → third path.
 
-Do NOT return to:
-- broken tools;
-- repair shops;
-- end-of-life equipment appraisal;
-- "last use of junk" as the core click.
+## BENCHMARK FUNCTIONS
+- 《我正经学生，每天只吃九种魔药》: repeatable input → immediate inverted useful gain.
+- 《没钱修什么仙？》: mechanic embedded in ordinary society / status / work / school.
+- 《原来我是仙道天骄》: each crossing changes current options immediately.
+- 《我的化身正在成为最终BOSS》: one mechanic creates power + identity + public reaction.
+- 《我能活化技能》: abstract ability becomes persistent growable asset.
 
-## EXPANSION RULE
-Keep the gradual slope:
-> one small practical advantage → repeated use → relationship/status change → bigger social/world implications later.
-
-No Heaven / ascension / prior-era explanation in the opening.
+## HARD
+Do not regress to:
+- maintenance;
+- appraisal;
+- recycling;
+- weird profession;
+- Heaven / ascension opening;
+- death as mandatory core.
 
 ## NEXT
-AUTHOR first-look reaction to A1–A3 / D1–D3.
+AUTHOR first-look reaction to A1–A6 / D1–D6.
 No architecture expansion before that.
