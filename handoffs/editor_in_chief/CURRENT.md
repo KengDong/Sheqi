@@ -1,7 +1,7 @@
 # Editor in Chief｜CURRENT
 
 ## STATUS
-> **12 CONCEPTS COMPLETE / STRUCTURAL REVIEW READY**
+> **WAITING FOR POOL 1 CONCEPT 04 TARGETED REVISION**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
@@ -9,35 +9,45 @@
 ## ROLE
 > `editor_in_chief`
 
-# COMPLETED
-Three isolated concept forges completed:
-- Pool 1 — 4 concepts
-- Pool 2 — 4 concepts
-- Pool 3 — 4 concepts
+# REVIEW RESULT RECEIVED
 
-All three outputs have been checked to exist and contain four concept sections.
+Direct PASS:
+- Pool 1: 方案一 / 二 / 三
+- Pool 2: 方案一 / 二 / 三 / 四
+- Pool 3: 方案一 / 二 / 三
 
-# NEXT
+REVISE:
+- Pool 1 方案四
+
+DROP:
+- Pool 3 方案四
+
+# CURRENT ACTION
 Run:
-> `reboot_v4_three_pool_concept_editor`
+> `reboot_v4_pool01_concept04_revision`
 
 Current:
-> `handoffs/reboot_v4_three_pool_concept_editor/CURRENT.md`
+> `handoffs/reboot_v4_pool01_concept04_revision/CURRENT.md`
 
-Purpose:
-> check the 12 concepts for market-mother drift, novelty-for-novelty, first-3-chapter payment, Ch20 permanence, Ch100 continuity, relationship engine, and obvious treadmill failure.
+# PURPOSE
+Keep the same concept, but remove the structural dependency on:
+> public incident → investigator sends case → protagonist consults → next case.
 
-# IMPORTANT
-This review does NOT:
-- rank concepts;
-- choose finalists;
-- compare pools by superiority;
-- write prose;
-- invent replacement concepts.
+Restore:
+> local folk-practice relationships, old parties, family / lineage, and previous consequences as the main story engine.
 
-# AFTER REVIEW
-Return review results to editor_in_chief and AUTHOR.
-Only then decide how to move into package / click-desire testing.
+# AFTER REVISION
+Editor checks only whether the original REVISE reason is solved.
+
+Then:
+> package all structurally eligible concepts for Fanqie title / blurb / shelf click-desire testing.
+
+# HARD BLOCKS
+- no new concept generation;
+- no replacement for dropped Pool 3 concept04;
+- no prose;
+- no ranking;
+- no final winner.
 
 # ONE SENTENCE
-> **12个方案已经齐，下一棒只审“方案本身站不站得住”，不选哪个最好。**
+> **当前只处理唯一返修项，解决后就进入真实书架包装测试。**
