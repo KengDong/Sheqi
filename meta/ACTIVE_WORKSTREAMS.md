@@ -3,40 +3,18 @@
 updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
-# READY
+# PRIMARY ACTIVE
+## A3｜《全民修仙把天道吸干了，我来给它办丧事》
+Status:
+> AUTHOR PRIORITY / FULL BENCHMARK ARCHITECTURE COMPLETE / STRESS TEST NEXT
 
-## reboot_v4_highconcept_a_architect
-- A1 / A2 / A3
-- current:
-  > `handoffs/reboot_v4_highconcept_a_architect/CURRENT.md`
+Source:
+> `experiments/reboot_v4/concepts/highconcept/2026-09-26_A3_full_benchmark_architecture_v1.md`
 
-## reboot_v4_highconcept_b_architect
-- B1 / B2 / B3
-- current:
-  > `handoffs/reboot_v4_highconcept_b_architect/CURRENT.md`
+# SECONDARY / PRESERVED
+- A1 high-concept preserved
+- A2 continue benchmark-driven asset-compounding design
+- B / C / D 9 concepts remain author-approved and preserved
 
-## reboot_v4_highconcept_c_architect
-- C1 / C2 / C3
-- current:
-  > `handoffs/reboot_v4_highconcept_c_architect/CURRENT.md`
-
-## reboot_v4_highconcept_d_architect
-- D1 / D2 / D3
-- current:
-  > `handoffs/reboot_v4_highconcept_d_architect/CURRENT.md`
-
-# FROZEN
-- benchmark-first raw round 01
-- AUTHOR all-12 approval
-- real-hit reference shelf
-
-# BLOCKED
-Until the four architecture outputs exist:
-- structural editor synthesis
-- package revision
-- first-screen writing
-- prose
-- final winner selection
-
-# HARD
-No worker may weaken the title / hook / central magnet.
+# HOLD
+No prose until A3 benchmark stress-test and author review.
