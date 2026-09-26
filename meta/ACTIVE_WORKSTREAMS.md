@@ -3,25 +3,23 @@
 updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
-# READY READERS
+# AUTHOR DIRECT REVIEW
+
+## anonymous shelf
+- status: READY / AUTHOR REVIEWING DIRECTLY
+- shelf:
+  > `experiments/reboot_v4/shelf/2026-09-26_anonymous_mixed_shelf_a.md`
+
+# CANCELLED
 
 ## reboot_v4_cleanroom_shelf_reader_a
-- status: READY
-- current:
-  > `handoffs/reboot_v4_cleanroom_shelf_reader_a/CURRENT.md`
-- input:
-  > Shelf A only
-- output:
-  > `experiments/reboot_v4/readers/2026-09-26_cleanroom_shelf_reader_a.md`
+- status: CANCELLED BY AUTHOR
 
 ## reboot_v4_cleanroom_shelf_reader_b
-- status: READY
-- current:
-  > `handoffs/reboot_v4_cleanroom_shelf_reader_b/CURRENT.md`
-- input:
-  > Shelf B only
-- output:
-  > `experiments/reboot_v4/readers/2026-09-26_cleanroom_shelf_reader_b.md`
+- status: CANCELLED BY AUTHOR
+
+Reason:
+> AI package Readers are not used for the current decision because the AUTHOR wants direct click judgment and considers AI Reader approval too generous / slow.
 
 # COMPLETED / FROZEN
 - reboot_v4_anonymous_shelf_forge
@@ -29,23 +27,17 @@ branch: reboot-v4-fanqie-market-entry
 - all concept workers
 - all prior market/evidence workers
 
-# PRIVATE
-Reader A/B MUST NOT access:
-> `experiments/reboot_v4/shelf/private/2026-09-26_anonymous_shelf_mapping.md`
-
 # CONTROL
 
 ## editor_in_chief
-- status: WAITING FOR TWO CLEAN-ROOM READER REPORTS
+- status: WAITING FOR AUTHOR DIRECT SHELF REACTION
 
 # HARD BLOCKED
-Until both Reader reports complete:
-- mapping-based synthesis
+Until AUTHOR gives shelf reactions:
+- package signal synthesis
 - first-screen writing
 - prose
-- final winner
-- ranking / scoring
-- old candidate revival
+- final topic decision
 
 # NEXT
-> Run Reader A and Reader B independently.
+> AUTHOR marks anonymous books by real first-glance reaction.
