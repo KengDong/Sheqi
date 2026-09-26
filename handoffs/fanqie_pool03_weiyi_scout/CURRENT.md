@@ -4,7 +4,7 @@
 > **fanqie_pool03_weiyi_scout**
 
 ## STATUS
-> READY / AUTHOR AUTHORIZED
+> **COMPLETE / STOPPED**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
@@ -18,47 +18,69 @@ Author status:
 Reader Fantasy:
 > 从怪物猎物变成能反收、反养、反驾驭异常的更危险存在。
 
-## FIRST READ
-1. `research/briefs/2026-09-26_reboot_v4_selected_pool_direct_hit_matched_failure_deepread_brief.md`
-2. `research/evidence/fanqie_market_entry_2026-09-26/INDEX.md`
-3. `experiments/reboot_v4/author_choice/author_market_pool_selection.md`
+## COMPLETED
+> **2026-09-26**
 
-## STARTING LEADS
-HIT leads:
-- 《什么叫我成了灭世级怪谈？》
-- 《诡异世界，我的神通无限升级！》
-- 《诡异：我分身竟是副本灯笼怪》
-- optional LONG: 《当诡异降临世界，死亡即是终点》
+## OUTPUTS
 
-Controls:
-- 《诡舍2》 — IP/SEQUEL CONTROL
-- 《十日终焉》 — VETERAN/MEGA CONTROL
-
-WEAK leads:
-- 《诡异复苏：我将屠戮诡异》
-- 《诡异复苏：开局解锁八奇技！》
-
-Do not let generic "规则怪谈 / 副本" evidence replace proof of the exact reverse-hunt fantasy.
-
-## OUTPUT
 Report:
 > `research/deepreads/2026-09-26_reboot_v4_fanqie_pool03_weiyi_deepread.md`
 
-Evidence:
+Evidence freeze:
 > `research/evidence/fanqie_selected_pool_deepread_2026-09-26/pool03_weiyi.md`
+
+Selfcheck:
+> `handoffs/fanqie_pool03_weiyi_scout/SELFCHECK.md`
 
 History:
 > `handoffs/fanqie_pool03_weiyi_scout/history/2026-09-26_deepread_complete.md`
 
-## HARD INPUT BOUNDARY
-Do NOT read:
-- other pool deep-read reports;
-- old Sheqi candidates / prose / outlines;
-- Concept Forge outputs;
-- another scout's CURRENT/history except shared authority files.
+## SAMPLE LOCK
 
-External current market research is allowed and required.
+CORE DIRECT HIT:
+- 《什么叫我成了灭世级怪谈？》
+- 《诡异世界，我的神通无限升级！》
+
+SUPPORT HIT:
+- 《诡异：我分身竟是副本灯笼怪》
+
+CORE MATCHED WEAK:
+- 《诡异时代，我无条件驾驭诡异》
+
+PARTIAL MATCH / WEAK CONTROL ONLY:
+- 《诡异复苏：开局解锁八奇技！》
+
+UNUSABLE FOR PAIRWISE CAUSALITY:
+- 《诡异复苏：我将屠戮诡异》 — live keyword/index identity drift
+
+CONTROLS:
+- 《当诡异降临世界，死亡即是终点》 — NEAR/LONG
+- 《诡舍2》 — IP/SEQUEL
+- 《十日终焉》 — VETERAN/MEGA
+
+## KEY POOL-ONLY FINDING
+
+The strongest observable distinction is not generic “规则怪谈” demand and not merely faster power-up.
+
+Current direct hits repeatedly convert:
+> **credible prey pressure → early anomaly ownership → old anomaly reuse/recombination → dangerous identity / relationship / institutional consequences → higher fear ceiling**
+
+The most important long-run check is **compound state**:
+> old abilities, old anomalies, old relationships and dangerous identity keep changing one another instead of resetting into “new dungeon → new rule → new reward”.
+
+This is a Pool-only finding, not a Concept or cross-Pool recommendation.
+
+## CONTROL PLANE
+
+- Report: COMPLETE
+- Evidence: COMPLETE
+- Selfcheck: PASS WITH MATCHED-WEAK QUALIFIER
+- CURRENT/history: COMPLETE
+- Creative output: NONE
+- Cross-pool ranking: NONE
+
+## NEXT ROUTE
+> **editor_in_chief**
 
 ## STOP
-After report + evidence + selfcheck + CURRENT/history + commit:
-> STOP and return to editor_in_chief.
+This scout has exhausted its authorized task and must not continue into synthesis, Concept generation, ranking, or another Pool.
