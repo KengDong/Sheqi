@@ -1,7 +1,7 @@
 # Editor in Chief｜CURRENT
 
 ## STATUS
-> AUTHOR MARKET-POOL CHOICE RECORDED / AWAITING AUTHOR CONFIRMATION OF NEXT EVIDENCE STAGE
+> SELECTED-POOL DEEP READ DISPATCHED / AWAITING FIVE ISOLATED SCOUT REPORTS
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
@@ -9,102 +9,134 @@
 ## PLATFORM
 > Fanqie / 番茄小说
 
-## COMPLETED
-
-Fanqie Market Entry V2.1:
-> PASS
-
-Editor review:
-> `reviews/2026-09-26_fanqie_market_entry_v2_1_editor_pass.md`
-
-Author board:
-> `experiments/reboot_v4/author_choice/fanqie_market_entry_board_v2.md`
-
-Evidence freeze:
-> `research/evidence/fanqie_market_entry_2026-09-26/INDEX.md`
-
-Author market-pool choice:
-> RECORDED
-
-Choice record:
-> `experiments/reboot_v4/author_choice/author_market_pool_selection.md`
-
-## FROZEN AUTHOR CHOICE
-
-Exact response:
-> `1想要2想要3想要4想要5不要6可能7不要`
-
-### WANT
-1. **现代民俗玄学：本土术法专业权威**
-2. **都市医武神医：低位身份强势翻身**
-3. **诡异降临反猎杀：收容 / 吞噬 / 驾驭异常**
-4. **全民 / 末日求生 + 私有安全资产复利**
-
-### MAYBE
-6. **古代身份困局：高压等级社会中的地位与自主权上升**
-
-### NO
-5. **西幻边疆领主：领地 / 人口 / 资源 / 秩序可见扩张**
-7. **年代赶山赶海：家庭生活重建 + 实物丰裕复利**
-
-MAYBE must remain distinct from WANT.
-
-## EDITOR INSPECTION OF RETAINED SET
-
-The retained set spans five substantially different reader fantasies:
-
-- hidden-professional authority in a modern social arena;
-- low-status-to-indispensable social reversal;
-- fear inversion through controlling / consuming / driving anomalies;
-- private safety-asset compounding under universal instability;
-- status / autonomy accumulation inside a high-pressure historical hierarchy.
-
-The next evidence stage must NOT merge these into one generic "爽文" bucket.
-
-Each retained pool needs its own:
-- current DIRECT HIT sample;
-- current / comparable MATCHED FAILURE sample;
-- opening acquisition comparison;
-- early retention comparison;
-- repeatable fantasy loop;
-- failure-mode diagnosis;
-- newcomer execution burden;
-- substitution space.
-
-## PROPOSED NEXT EVIDENCE STAGE
-
+## AUTHOR AUTHORIZATION
+Author confirmed:
 > **SELECTED-POOL DIRECT HIT + MATCHED-FAILURE DEEP READ**
 
-Scope:
-> ONLY pools 1 / 2 / 3 / 4 / 6.
+Authorized scope:
+> **1 / 2 / 3 / 4 / 6 only**
 
-Purpose:
-> identify what makes successful works inside the same reader fantasy repeatedly convert and retain readers, and what similarly packaged weaker works fail to deliver.
+Author choice remains frozen:
+- WANT: 1 / 2 / 3 / 4
+- MAYBE: 6
+- NO: 5 / 7
 
-This is NOT:
+MAYBE remains MAYBE.
+
+## SHARED BRIEF
+> `research/briefs/2026-09-26_reboot_v4_selected_pool_direct_hit_matched_failure_deepread_brief.md`
+
+## DISPATCHED ISOLATED SCOUTS
+
+### Pool 1
+role:
+> `fanqie_pool01_minsu_scout`
+
+current:
+> `handoffs/fanqie_pool01_minsu_scout/CURRENT.md`
+
+scope:
+> 现代民俗玄学：本土术法专业权威
+
+### Pool 2
+role:
+> `fanqie_pool02_yiwu_scout`
+
+current:
+> `handoffs/fanqie_pool02_yiwu_scout/CURRENT.md`
+
+scope:
+> 都市医武神医：低位身份强势翻身
+
+### Pool 3
+role:
+> `fanqie_pool03_weiyi_scout`
+
+current:
+> `handoffs/fanqie_pool03_weiyi_scout/CURRENT.md`
+
+scope:
+> 诡异降临反猎杀：收容 / 吞噬 / 驾驭异常
+
+### Pool 4
+role:
+> `fanqie_pool04_survival_asset_scout`
+
+current:
+> `handoffs/fanqie_pool04_survival_asset_scout/CURRENT.md`
+
+scope:
+> 全民 / 末日求生 + 私有安全资产复利
+
+### Pool 6
+role:
+> `fanqie_pool06_historical_status_scout`
+
+current:
+> `handoffs/fanqie_pool06_historical_status_scout/CURRENT.md`
+
+scope:
+> 古代身份困局：高压等级社会中的地位与自主权上升
+
+## WHY FIVE ISOLATED SCOUTS
+
+The five retained pools express different Reader Fantasies.
+
+Research contamination is forbidden:
+- no pool scout reads another pool report before finishing;
+- no generic "爽文" synthesis inside scout windows;
+- one shared methodology, separate evidence.
+
+## REQUIRED CORE OF EACH REPORT
+
+Each scout must establish:
+- 2 CORE DIRECT HITS;
+- 1–2 support hits where available;
+- 2 CORE matched weak controls where possible;
+- confounder labels where matching is imperfect;
+- package acquisition;
+- First Screen / Ch1–3 conversion;
+- Ch1–20 retention ledger;
+- checks around Ch1 / Ch3 / Ch7 / Ch10 / Ch20;
+- later-state check where possible;
+- repeatable Reader Fantasy loop;
+- protagonist engine;
+- relationship engine;
+- compounding state;
+- pairwise HIT-vs-WEAK delta;
+- failure signatures;
+- newcomer execution burden;
+- market-function substitution space;
+- evidence limitations.
+
+## EDITOR NEXT ACTION
+
+Wait until ALL FIVE reports are COMPLETE.
+
+Then editor_in_chief will:
+1. verify sample integrity;
+2. reject false matched-failure claims;
+3. check whether each report proves the exact Reader Fantasy rather than only its genre skin;
+4. synthesize the retained pools WITHOUT ranking;
+5. tell author what has become known and what remains uncertain.
+
+After editor synthesis:
+> return to a HUMAN GATE.
+
+## STILL BLOCKED
+
 - Concept Forge;
-- ranking the five retained pools;
-- choosing the final novel;
-- prose writing;
-- revival of old Sheqi candidates.
+- novel concepts;
+- old Sheqi candidate revival;
+- prose;
+- final pool winner;
+- cross-pool scoring / ranking;
+- Reservoir / Character / Horizon.
 
-## HUMAN GATE
+No Concept stage is authorized.
 
-Await author confirmation of the next evidence-stage design before dispatch.
-
-No worker has been dispatched.
-
-## HARD
-
-Do NOT:
-- rank WANT / MAYBE pools;
-- recommend a winner;
-- treat MAYBE as WANT;
-- re-open NO pools unless author explicitly changes the choice;
-- generate concepts;
-- write prose;
-- revive old Sheqi concepts;
-- auto-dispatch research workers.
+## HISTORY
+> `handoffs/editor_in_chief/history/2026-09-26_selected_pool_deepread_dispatch.md`
 
 ## ONE SENTENCE
-> **作者已把番茄入口收敛到4个WANT + 1个MAYBE；下一步应先做同池爆款与同池失败作的深读对照，确认真正的转化/留存机制，再谈Concept。**
+> **五个作者保留池已经按同一标准拆成五个隔离深读任务；先用同池命中作与弱对照把真正的转化/留存差异钉死，再回编辑总控，不提前造小说。**
