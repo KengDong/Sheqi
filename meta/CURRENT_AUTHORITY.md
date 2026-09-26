@@ -4,41 +4,22 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Current Status
-> **CLEAN-ROOM PACKAGE CLICK TEST AUTHORIZED**
+> **AUTHOR DIRECT PACKAGE CLICK TEST**
 
-Authorized workers:
-- `reboot_v4_cleanroom_shelf_reader_a`
-- `reboot_v4_cleanroom_shelf_reader_b`
+# Authorized
+- show anonymous shelf to AUTHOR;
+- record AUTHOR click reactions;
+- after reactions freeze, use private mapping to map them back to real concepts.
 
-# Isolation
-Reader A:
-> Shelf A only.
+# Cancelled
+- AI clean-room Reader A;
+- AI clean-room Reader B.
 
-Reader B:
-> Shelf B only.
-
-Private mapping:
-> forbidden to both Readers.
-
-# Output policy
-Per-book absolute reaction only:
-- click;
-- maybe;
-- skip.
-
-No ranking.
-No scoring.
-No top-3.
-No final-topic recommendation.
-
-# After both reports freeze
-Editor may map anonymous positions back to concepts and synthesize signals.
-
-# Still prohibited
-- prose
-- first-screen writing
-- AI final winner
-- old candidate revival
+# Forbidden
+- simulate AUTHOR preference;
+- use AI ranking as substitute for AUTHOR judgment;
+- reveal private mapping before the anonymous reaction is captured;
+- prose / first-screen before AUTHOR decides next gate.
 
 # One Sentence
-> **当前授权到两份独立匿名包装点击测试；任何映射分析必须等两份Reader报告冻结后。**
+> **当前点击测试由作者本人完成，AI只负责匿名化和记录。**
