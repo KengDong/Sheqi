@@ -1,6 +1,6 @@
 # SHEQI STATE｜REBOOT-V3
 
-updated: 2026-09-25
+updated: 2026-09-26
 
 # Status
 > **FULL COMMERCIAL REBOOT ACTIVE**
@@ -20,6 +20,8 @@ Primary:
 - Reservoir Editor Verdict: COMPLETE
 - Character Engine Benchmark: PASS
 - Character Engine Editor Synthesis: COMPLETE
+- Character Collision: PASS
+- Character Cut: COMPLETE
 
 # Current Portfolio
 
@@ -36,10 +38,10 @@ RESERVE:
 No Primary.
 
 # Current Gate
-> **CHARACTER COLLISION**
+> **MINIMAL HORIZON**
 
 Next:
-> `handoffs/character_collision_forge/CURRENT.md`
+> `handoffs/minimal_horizon_forge/CURRENT.md`
 
 # Selection Rule
 > early high recall / later high precision.
@@ -47,13 +49,13 @@ Next:
 No forced cut.
 
 # After
-Character Collision -> editor Character Cut -> Minimal Horizon -> P0.
+Minimal Horizon -> editor Horizon Cut -> P0 First Screen.
 
 # Hard
-- no prose yet;
+- no prose until Horizon Cut;
 - no final winner;
 - no long architecture;
 - no Reserve resurrection without trigger.
 
 # One Sentence
-> **发动机和人物Benchmark都过关；现在验证四本的人物是否能在没有新任务时自己生戏。**
+> **四本现在都证明发动机和人物关系理论上能跑；最后只给最小未来视野，然后进入P0真实正文。**
