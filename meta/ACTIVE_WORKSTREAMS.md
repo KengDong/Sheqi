@@ -1,33 +1,33 @@
 # ACTIVE WORKSTREAMS｜REBOOT-V4
 
 updated: 2026-09-26
+platform: FANQIE
 
 # editor_in_chief
-- status: ACTIVE / AWAITING AUTHOR
-- current_stage: Market Desire Map complete; hot-chassis whitelist frozen
+- status: ACTIVE / ORCHESTRATION ONLY
+- current_stage: Fanqie-native market recalibration
 
-# COMPLETED
-- market_desire_scout
+# SINGLE CORE WORKER
 
-# CURRENT HUMAN GATE
-AUTHOR reads:
-> `experiments/reboot_v4/author_choice/market_entry_board_v2.md`
+## fanqie_market_entry_scout
+- status: READY / RUN NOW
+- current:
+  > `handoffs/fanqie_market_entry_scout/CURRENT.md`
 
-and marks:
-> WANT / MAYBE / NO.
+# COMPLETED / BACKGROUND
+- market_desire_scout: COMPLETE
+- cross-platform market-entry board: BACKGROUND ONLY
 
 # BLOCKED
-Until author chooses:
-- direct benchmark scouts
+- author market choice from old cross-platform board
 - concept forge
-- prose
-- P0
+- direct opening benchmark
+- all P0 writers/readers
 - Reservoir / Character / Horizon
-- AI comparison readers
 
-# Hard
-No concept outside the current-hit-validated chassis whitelist.
-No AI final ranking.
+# Next human gate
+After Fanqie scout completes:
+> AUTHOR marks Fanqie-native lanes WANT / MAYBE / NO.
 
 # Current Single Next Action
-> AUTHOR market-entry choice.
+> Run fanqie_market_entry_scout.
