@@ -1,40 +1,46 @@
 # reboot_v4_highconcept_a_architect｜CURRENT
 
 ## STATUS
-> **A3 WORLD MODELS GRADUAL EXPANSION V3 / AUTHOR DISCUSSION**
+> **A3 WORLD ENGINE REBOOT ROUND 04 / AUTHOR FIRST-LOOK TEST**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
 
-## LATEST CORRECTION
-A3 must expand like:
-- 《没钱修什么仙？》
-- 《原来我是仙道天骄》
-- 《我正经学生，每天只吃九种魔药》
+## AUTHOR CORRECTION
+V3 gradual expansion was directionally right but the actual engine regressed into:
+> maintenance / appraisal / recycling.
 
-Meaning:
-> small useful loop first → lived world → social revaluation → larger institutional / world mystery later.
+That engine is rejected.
 
-## CURRENT WORLD DEVELOPMENT
-> `experiments/reboot_v4/concepts/highconcept/2026-09-26_A3_world_models_gradual_expansion_v3.md`
+## CORRECTION FILE
+> `reviews/2026-09-26_A3_world_v3_maintenance_regression.md`
 
-Primary worlds:
-1. modern mass-cultivation civilization;
-2. modern mass-cultivation + traditional ancient cultivation world.
+## CURRENT ROUND
+> `experiments/reboot_v4/quick_ideation/2026-09-26_A3_world_engine_reboot_round04.md`
 
-Secondary:
-- classical-looking mass-infrastructure cultivation = alternate skin for modern logic;
-- immortal-court / state cultivation = later institutional layer, not opening chassis.
+New exploration:
+- A1 modern cultivation education built on dead masters' legacy instances;
+- A2 mass cultivation by binding dead masters' Dao seeds, with protagonist's dead master awakening;
+- A3 legal loading of dead people's life/skill segments;
+- D1 modern students inherit dead masters while protagonist meets the living original in another world;
+- D2 public ancestor simulation misroutes protagonist to the actual living ancient source;
+- D3 modern standardized techniques vs living creators still inventing originals.
 
-## HARD
-Opening:
-- no Heaven;
-- no ascension;
-- no previous-era explanation;
-- no world-scale crisis.
+## HIGHEST RULE
+Death / legacy must be something civilization actively consumes every day.
 
-First gate:
-> one protagonist life situation + one terminal object + one immediate practical gain + one next desire + one Ch20 state.
+Do NOT return to:
+- broken tools;
+- repair shops;
+- end-of-life equipment appraisal;
+- "last use of junk" as the core click.
+
+## EXPANSION RULE
+Keep the gradual slope:
+> one small practical advantage → repeated use → relationship/status change → bigger social/world implications later.
+
+No Heaven / ascension / prior-era explanation in the opening.
 
 ## NEXT
-Build A and D first-20-chapter feel samples only after AUTHOR reacts to the world expansion logic.
+AUTHOR first-look reaction to A1–A3 / D1–D3.
+No architecture expansion before that.
