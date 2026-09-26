@@ -4,7 +4,7 @@
 > READY / PHASE 1D
 
 ## BRANCH
-> `reboot-v4-fanqie-market-entry`
+> `reboot-v4-living-dao-seed-framework`
 
 ## FIRST READ
 1. `research/briefs/2026-09-26_living_dao_seed_framework_benchmark_protocol.md`
