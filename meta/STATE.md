@@ -1,46 +1,43 @@
-# SHEQI STATE｜AUDIT FREEZE
+# SHEQI STATE｜MASTER AUDIT COMPLETE
 
 updated: 2026-09-26
 branch: reboot-v4-fanqie-root-audit
 
 # Status
-> **FULL EXECUTION FREEZE / ROOT AUDIT IN PROGRESS**
+> **AWAITING AUTHOR REVIEW**
 
 Primary:
 > NONE.
 
-Active novel candidates:
+Active candidates:
 > NONE.
 
-Active worker tasks:
+Active workers:
 > NONE.
 
-# Platform Intent
-Author currently intends:
-> **Fanqie first launch**
+# Completed
+- new audit branch created from main
+- all execution frozen
+- full historical failure audit completed
+- old authority globally demoted during audit
+- authority registry created
 
-This is a constraint to preserve during audit,
-not permission to dispatch a Fanqie scout yet.
+# Master Audit
+> `reviews/2026-09-26_master_failure_postmortem_and_repo_reset.md`
 
-# Current Objective
-> Review the entire Sheqi R&D history and identify every repeated failure mode before deciding the next restart point.
+# Registry
+> `meta/AUDIT_AUTHORITY_REGISTRY.md`
 
-# Frozen
-- Fanqie market-entry scout
-- all concept work
-- all benchmark work
-- all prose
-- all reader tests
-- all Reservoir / Character / Horizon work
-- all old candidate revival
+# Current Strategic Intent
+- intended platform: Fanqie
+- unknown-author breakout
+- final candidate ranking by author
 
-# Authority During Audit
-1. `meta/BRANCH_PURPOSE.md`
-2. forthcoming master audit
-3. historical evidence only
+# Recommended but NOT dispatched
+> Fanqie-specific exact market-entry research.
+
+# Next
+> AUTHOR reviews audit and decides whether restart point/process is accepted.
 
 # Hard
-No task dispatch until author reviews the master audit.
-
-# One Sentence
-> **先把为什么一次次做错搞清楚，再决定下一棒是谁。**
+No task dispatch before that.
