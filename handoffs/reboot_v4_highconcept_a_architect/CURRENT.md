@@ -1,7 +1,7 @@
 # reboot_v4_highconcept_a_architect｜CURRENT
 
 ## STATUS
-> **BENCHMARK-FIRST MECHANICS REVISION REQUIRED**
+> **A2 CONTINUE / A3 BENCHMARK-DRIVEN PIVOT READY FOR AUTHOR REVIEW**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
@@ -9,34 +9,27 @@
 ## ROLE
 > `reboot_v4_highconcept_a_architect`
 
-## BASE ARCHITECTURE
-> `experiments/reboot_v4/concepts/highconcept/2026-09-26_lane_a_architecture.md`
+## AUTHORITATIVE NEW DEVELOPMENT
+> `experiments/reboot_v4/concepts/highconcept/2026-09-26_lane_a_a2_a3_benchmark_development.md`
 
-## IMPORTANT CORRECTION
-Previous mechanics draft:
-> `experiments/reboot_v4/concepts/highconcept/2026-09-26_lane_a_mechanics_revision_v2.md`
+## A2
+Continue:
+> one persistent inner sect, visible slow accumulation, old assets repeatedly gain new uses, eventual real disciples / legitimacy conflict.
 
-is now:
-> **PROVISIONAL / NOT AUTHORITATIVE**
+## A3
+Proposed pivot:
+> transmigration + 万物送终 system + universal-cultivation ecological debt + traveling professional access + eventual Heaven funeral.
 
-Read correction:
-> `reviews/2026-09-26_lane_a_mechanics_v2_benchmark_correction.md`
+Primary test title:
+> 《全民修仙把天道吸干了，我来给它办丧事》
 
 ## HIGHEST RULE
-Before proposing any concrete mechanic for A1 / A2 / A3:
-
-1. identify nearest real strong references;
-2. state how those hits actually deliver the repeated pleasure;
-3. state the structural function to borrow;
-4. only then design the original mechanism.
-
-No internal-brainstorm-first mechanics.
+Any next mechanism must name its strong-work benchmark before design.
 
 ## NEXT
-Redo A1 / A2 / A3 mechanism refinement benchmark-first.
+Wait for AUTHOR reaction on A3 pivot and A2 continuation.
 
 ## HARD
-- preserve title / hook / central magnet;
-- no prose;
-- no ranking;
-- no weakening for convenience.
+No prose.
+No long outline.
+No ranking.
