@@ -3,54 +3,52 @@
 updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
-# COMPLETED PACKAGE FORGES
-
-## reboot_v4_pool01_package_forge
-- status: COMPLETE / FROZEN
-- output:
-  > `experiments/reboot_v4/packages/2026-09-26_pool01_package_set.md`
-
-## reboot_v4_pool02_package_forge
-- status: COMPLETE / FROZEN
-- output:
-  > `experiments/reboot_v4/packages/2026-09-26_pool02_package_set.md`
-
-## reboot_v4_pool03_package_forge
-- status: COMPLETE / FROZEN
-- output:
-  > `experiments/reboot_v4/packages/2026-09-26_pool03_package_set.md`
-
 # READY
 
-## reboot_v4_package_editor
-- status: READY / ALL THREE PACKAGE SETS COMPLETE
+## reboot_v4_package_targeted_revision
+- status: READY
 - current:
-  > `handoffs/reboot_v4_package_editor/CURRENT.md`
+  > `handoffs/reboot_v4_package_targeted_revision/CURRENT.md`
+- targets:
+  - Pool 1 方案四包装
+  - Pool 2 方案一包装
 - output:
-  > `reviews/2026-09-26_reboot_v4_package_editor_review.md`
+  > `experiments/reboot_v4/packages/revisions/2026-09-26_package_targeted_revision.md`
 
-# PACKAGE INVENTORY
-- Pool 1: 4
-- Pool 2: 4
-- Pool 3: 3
-- Total: 11
+# PACKAGE QA RESULT
 
-Pool 3 concept04 remains dropped.
+Direct PASS:
+- Pool 1: 方案一 / 二 / 三
+- Pool 2: 方案二 / 三 / 四
+- Pool 3: 方案一 / 二 / 三
+
+Packaging REVISE:
+- Pool 1 方案四
+- Pool 2 方案一
+
+Total:
+- PASS 9
+- REVISE 2
+
+# COMPLETED / FROZEN
+- reboot_v4_package_editor
+- all package forges
+- all concept workers
+- all prior market/evidence workers
 
 # CONTROL
 
 ## editor_in_chief
-- status: WAITING FOR PACKAGE EDITOR REVIEW
+- status: WAITING FOR TWO PACKAGE FIXES
 
 # HARD BLOCKED
-Until package review is complete:
-- anonymous mixed-shelf test
+Until both revised packages are rechecked:
+- anonymous mixed shelf
 - reader click-desire test
 - first-screen writing
 - prose
-- final winner
-- ranking / scoring
+- ranking / final winner
 - old candidate revival
 
 # NEXT
-> Run package editor quality/fairness review.
+> Run targeted package revision, then recheck only those two packages.
