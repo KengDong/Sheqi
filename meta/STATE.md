@@ -4,50 +4,38 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Status
-> **THREE CONCEPT SETS COMPLETE / CONCEPT EDITOR REVIEW READY**
+> **CONCEPT STRUCTURAL REVIEW COMPLETE / ONE TARGETED REVISION OPEN**
 
-Primary:
-> NONE.
+# Structural review result
 
-Active novel candidates:
-> NONE.
+PASS:
+- Pool 1: 3
+- Pool 2: 4
+- Pool 3: 3
+Total PASS: 10
 
-# Retained directions
-1. 现代民俗玄学
-2. 都市医武神医
-3. 诡异降临反猎杀
+REVISE:
+- Pool 1 方案四｜《出事以后，他们先来问我》
 
-# Concept outputs complete
-- Pool 1: 4 concepts
-- Pool 2: 4 concepts
-- Pool 3: 4 concepts
-
-Total:
-> **12 concept cores complete**
-
-Files:
-- `experiments/reboot_v4/concepts/2026-09-26_pool01_minsu_concept_set.md`
-- `experiments/reboot_v4/concepts/2026-09-26_pool02_yiwu_concept_set.md`
-- `experiments/reboot_v4/concepts/2026-09-26_pool03_weiyi_concept_set.md`
+DROP:
+- Pool 3 方案四｜《诡异复苏：我的名字成了禁忌》
 
 # Current Gate
-> `reboot_v4_three_pool_concept_editor` is now READY.
+> Complete and recheck Pool 1 方案四 targeted revision.
 
-Its job is structural compliance only:
-- proven market mother retained;
-- no novelty-for-novelty drift;
-- first 3 chapters work;
-- Ch20 leaves state;
-- Ch100 stays same book;
-- no obvious case / face-slap / skill-slot treadmill.
+# After that
+If revision passes:
+> move all structurally eligible concepts together into package / click-desire testing.
 
-# Still blocked
-- prose;
-- shelf / package testing;
-- first-screen writing;
-- final topic selection by AI;
-- ranking / scoring;
-- old candidate revival.
+If revision fails:
+> keep the 10 direct PASS only.
+
+# BLOCKED
+- prose
+- ranking
+- final topic choice
+- shelf testing before revision resolves
+- old candidate revival
 
 # One Sentence
-> **12个核心方案已齐，现在先做统一结构审查，不选赢家。**
+> **10个方案已直接通过，1个返修，1个淘汰；先解决唯一返修项，再统一进书架点击测试。**
