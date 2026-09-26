@@ -6,21 +6,16 @@ branch: reboot-v4-fanqie-market-entry
 # CONTROL
 
 ## editor_in_chief
-- status: AUTHOR PACKAGE TEST COMPLETE / DIAGNOSTIC NEXT
-
-# AUTHOR RESULT
-- 11 packages tested directly by AUTHOR.
-- 7 survived first glance.
-- After blurbs, AUTHOR reported low interest across all 7.
+- status: PACKAGE TEST COMPLETE / DIAGNOSTIC NEXT
 
 # CANCELLED
-- AI Reader A
-- AI Reader B
+- AI shelf Reader A
+- AI shelf Reader B
 
 # BLOCKED
 - first-screen writing
 - prose
-- final winner selection
+- automatic winner selection
 
 # NEXT
-> Diagnose the 11 concepts/packages before any second concept round.
+> Diagnose why the current concept set failed to produce strong interest before generating another round.
