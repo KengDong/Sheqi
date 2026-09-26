@@ -1,34 +1,15 @@
 # Genre Demand Scout｜CURRENT
 
-## ROLE
-- role: genre_demand_scout
-- status: READY
-- decision: REBOOT-V3
-- stage: Reader Fantasy / Genre Demand Audit
+## STATUS
+> RETIRED / SUPERSEDED BY REBOOT-V4
 
-## CURRENT TASK
-Execute:
-> `research/briefs/2026-09-26_reader_fantasy_genre_demand_audit_brief.md`
+Reason:
+> the previous audit still centered current Sheqi candidates.
+The root bias begins earlier, in the original Market Dossier research question itself.
 
-## PURPOSE
-Answer:
-> what do current readers actually WANT to fantasize about repeatedly?
+Replacement:
+> `handoffs/market_desire_scout/CURRENT.md`
 
-Do not substitute:
-- structure;
-- AI production convenience;
-- story supply;
-for demand.
+REBOOT-V4 starts with a clean current-market Reader Fantasy map and grants zero privilege to any existing candidate.
 
-## HARD
-- research only;
-- no prose;
-- no AI winner ranking;
-- no numerical candidate scoring;
-- author will rank final evidence-qualified board.
-
-## OUTPUT
-- `research/2026-09-26_reader_fantasy_genre_demand_audit.md`
-- `experiments/reboot_v3/author_compare/2026-09-26_reader_fantasy_candidate_board.md`
-
-Then selfcheck / CURRENT / history / commit / STOP.
+STOP.
