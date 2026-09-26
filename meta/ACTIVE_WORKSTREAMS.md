@@ -1,33 +1,30 @@
-# ACTIVE WORKSTREAMS｜REBOOT-V4
+# ACTIVE WORKSTREAMS｜AUDIT FREEZE
 
 updated: 2026-09-26
-platform: FANQIE
+branch: reboot-v4-fanqie-root-audit
 
-# editor_in_chief
-- status: ACTIVE / ORCHESTRATION ONLY
-- current_stage: Fanqie-native market recalibration
+# ACTIVE EXECUTION WORKERS
+> NONE.
 
-# SINGLE CORE WORKER
-
-## fanqie_market_entry_scout
-- status: READY / RUN NOW
-- current:
-  > `handoffs/fanqie_market_entry_scout/CURRENT.md`
-
-# COMPLETED / BACKGROUND
-- market_desire_scout: COMPLETE
-- cross-platform market-entry board: BACKGROUND ONLY
+# EDITOR
+## editor_in_chief
+- status: AUDIT ONLY
+- may inspect Git
+- may write audit / authority cleanup
+- may NOT dispatch creative/research workers
 
 # BLOCKED
-- author market choice from old cross-platform board
-- concept forge
-- direct opening benchmark
-- all P0 writers/readers
-- Reservoir / Character / Horizon
+- fanqie_market_entry_scout
+- market_desire_scout
+- genre_demand_scout
+- p0_opening_benchmark_scout
+- all concept forges
+- all prose writers
+- all reader windows
+- all Reservoir / Character / Horizon workers
 
-# Next human gate
-After Fanqie scout completes:
-> AUTHOR marks Fanqie-native lanes WANT / MAYBE / NO.
+# Exit Gate
+Author must review and accept:
+> master root-cause audit + proposed restart point
 
-# Current Single Next Action
-> Run fanqie_market_entry_scout.
+before any worker becomes READY.
