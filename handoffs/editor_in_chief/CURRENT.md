@@ -1,32 +1,35 @@
 # Editor in Chief｜CURRENT
 
 ## STATUS
-> **WAITING FOR FOUR HIGH-CONCEPT ARCHITECTURE LANES**
+> **A3 AUTHOR PRIORITY / BENCHMARK STRESS TEST NEXT**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
 
-# AUTHOR GATE RESULT
-All 12 high-concept ideas:
-> **推进**
+# AUTHOR PRIORITY
+> A3 is currently the concept AUTHOR most wants to push.
 
-# CURRENT ACTION
-Run four isolated architect workers:
-1. `reboot_v4_highconcept_a_architect`
-2. `reboot_v4_highconcept_b_architect`
-3. `reboot_v4_highconcept_c_architect`
-4. `reboot_v4_highconcept_d_architect`
+This does NOT authorize AI to declare a final winner.
 
-# EDITOR RULE
-When they return, first check:
-> **Did architecture preserve the exact thing AUTHOR wanted to read?**
+# PRIMARY SOURCE
+> `experiments/reboot_v4/concepts/highconcept/2026-09-26_A3_full_benchmark_architecture_v1.md`
 
-Only secondarily check long-form durability.
+# NEXT EDITOR TASK
+Stress-test A3 against real strong references.
+
+Questions:
+1. Is title / hook at least shelf-competitive?
+2. Does Ch1–3 pay as fast as strong references?
+3. Does daily send-off loop produce immediate practical pleasure?
+4. Do old send-offs return and change future options?
+5. Is personal growth satisfying enough without becoming a skill-drop system?
+6. Does world-scale crisis emerge from physical events rather than exposition?
+7. Does the story avoid weekly-case reset?
+8. Does protagonist gain real handling authority / social position?
+9. Does the ascension / Heaven reveal remain concrete and emotional?
+10. Did any structure make the original “葬天” promise weaker?
 
 # HARD
-No ranking.
-No winner.
-No prose.
-
-# ONE SENTENCE
-> **先保锋利度，再审长篇承载力。**
+No prose yet.
+No final winner.
+No generic “结构PASS” without comparing reference functions.
