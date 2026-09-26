@@ -4,7 +4,7 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Status
-> **RETAINED-POOL SYNTHESIS COMPLETE / RED-TEAM CORRECTED / HUMAN GATE**
+> **AUTHOR SHRINK GATE / FIVE DIRECTIONS → 2–3**
 
 Primary:
 > NONE.
@@ -12,7 +12,7 @@ Primary:
 Active novel candidates:
 > NONE.
 
-# Recorded author choice
+# Recorded previous author choice
 - Pool 1 — WANT
 - Pool 2 — WANT
 - Pool 3 — WANT
@@ -29,18 +29,22 @@ Active novel candidates:
 - editor synthesis
 - independent red-team audit
 - editor correction pass
+- author decision sheet
 
-Final synthesis:
-> `reviews/2026-09-26_reboot_v4_retained_pool_editor_synthesis.md`
-
-Red-team audit:
-> `reviews/2026-09-26_reboot_v4_retained_pool_synthesis_redteam.md`
+Decision sheet:
+> `experiments/reboot_v4/author_choice/2026-09-26_retained_pool_author_decision_sheet.md`
 
 # Current Gate
-> AUTHOR reviews the corrected five-direction synthesis and decides the next stage.
+AUTHOR marks Pool 1 / 2 / 3 / 4 / 6 as:
+- 保留
+- 暂留
+- 淘汰
+
+Target:
+> retain 2–3 directions for the next experimental stage.
 
 # BLOCKED
-No Concept generation, prose, final pool selection, ranking, or creative downstream work without explicit AUTHOR authorization.
+No Concept generation, prose, ranking, final topic choice, or downstream creative work until AUTHOR completes this shrink gate.
 
 # One Sentence
-> **市场池研究链已经收口；现在回到作者决定，不由AI自动选题或进入小说构思。**
+> **当前不是继续研究市场，而是作者根据真实写作兴趣和长期负担把五个方向缩到2–3个。**
