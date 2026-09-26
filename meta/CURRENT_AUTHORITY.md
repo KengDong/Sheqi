@@ -4,29 +4,34 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Current Status
-> **TARGETED PACKAGE REVISION AUTHORIZED**
+> **ANONYMOUS SHELF CONSTRUCTION AUTHORIZED**
+
+Final packages:
+> 11 / 11 QA-complete
 
 # Authorized Worker
-> `reboot_v4_package_targeted_revision`
+> `reboot_v4_anonymous_shelf_forge`
 
-Targets:
-1. Pool 1 concept04 package only;
-2. Pool 2 concept01 package only.
+# Next Gated Workers
+- `reboot_v4_cleanroom_shelf_reader_a`
+- `reboot_v4_cleanroom_shelf_reader_b`
 
-# Purpose
-Correct package fairness / fidelity issues only.
+Readers remain BLOCKED until shelves exist.
 
-# Next Gate
-After targeted recheck:
-> anonymous mixed-shelf click-desire stage may be authorized.
+# Test Policy
+- package-only;
+- two shelf orderings;
+- private mapping hidden;
+- no ranking;
+- no scoring;
+- no top-3;
+- no final topic recommendation.
 
 # Still prohibited
-- Concept changes
 - prose
 - first-screen writing
-- ranking / scoring
-- AI final winner
+- AI winner
 - old candidate revival
 
 # One Sentence
-> **当前只授权两套包装的定向小修；匿名书架必须等小修复审通过。**
+> **当前授权到匿名书架制作；Reader测试在书架完成后解锁。**
