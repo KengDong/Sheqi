@@ -4,38 +4,58 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Status
-> **CONCEPT STRUCTURAL REVIEW COMPLETE / ONE TARGETED REVISION OPEN**
+> **11 CONCEPTS STRUCTURALLY ELIGIBLE / PACKAGE STAGE STARTED**
 
-# Structural review result
+# Final structural set
 
-PASS:
-- Pool 1: 3
-- Pool 2: 4
-- Pool 3: 3
-Total PASS: 10
+Pool 1:
+- 方案一 PASS
+- 方案二 PASS
+- 方案三 PASS
+- 方案四 PASS AFTER REVISION
 
-REVISE:
-- Pool 1 方案四｜《出事以后，他们先来问我》
+Pool 2:
+- 方案一 PASS
+- 方案二 PASS
+- 方案三 PASS
+- 方案四 PASS
 
-DROP:
-- Pool 3 方案四｜《诡异复苏：我的名字成了禁忌》
+Pool 3:
+- 方案一 PASS
+- 方案二 PASS
+- 方案三 PASS
+- 方案四 DROP
 
-# Current Gate
-> Complete and recheck Pool 1 方案四 targeted revision.
+Total eligible:
+> **11**
 
-# After that
-If revision passes:
-> move all structurally eligible concepts together into package / click-desire testing.
+# Current Stage
+Create one market-native Fanqie package for each eligible concept:
+- working title;
+- one-line hook;
+- blurb;
+- first-3-chapter promise.
 
-If revision fails:
-> keep the 10 direct PASS only.
+Shared protocol:
+> `research/briefs/2026-09-26_reboot_v4_package_test_protocol.md`
 
-# BLOCKED
+# Ready workers
+- `reboot_v4_pool01_package_forge`
+- `reboot_v4_pool02_package_forge`
+- `reboot_v4_pool03_package_forge`
+
+# Next Gate
+After all package sets exist:
+> `reboot_v4_package_editor`
+
+It checks packaging fairness / fidelity only.
+
+# Still blocked
+- anonymous shelf click test
 - prose
-- ranking
-- final topic choice
-- shelf testing before revision resolves
+- first screen
+- AI ranking / final winner
 - old candidate revival
 
 # One Sentence
-> **10个方案已直接通过，1个返修，1个淘汰；先解决唯一返修项，再统一进书架点击测试。**
+> **结构阶段已经收口到11个方案，现在开始只测试“陌生番茄读者第一眼想不想点”。**
