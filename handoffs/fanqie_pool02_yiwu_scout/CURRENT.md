@@ -4,7 +4,7 @@
 > **fanqie_pool02_yiwu_scout**
 
 ## STATUS
-> READY / AUTHOR AUTHORIZED
+> **COMPLETE / RETURN TO EDITOR_IN_CHIEF**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
@@ -15,29 +15,7 @@
 Author status:
 > **WANT**
 
-Reader Fantasy:
-> 被轻视 → 关键时刻只有我能解决 → 身份 / 地位不断反转。
-
-## FIRST READ
-1. `research/briefs/2026-09-26_reboot_v4_selected_pool_direct_hit_matched_failure_deepread_brief.md`
-2. `research/evidence/fanqie_market_entry_2026-09-26/INDEX.md`
-3. `experiments/reboot_v4/author_choice/author_market_pool_selection.md`
-
-## STARTING LEADS
-HIT leads:
-- 《凤流高手》
-- 《高手下山，我家师姐太宠我了》
-- 《全村只有傻子在修仙》
-- optional NEAR: 《一场邂逅，我获得阴阳神诀爽麻了》
-
-WEAK leads:
-- 《医武天下》
-- 《都市之神医下山》
-
-Do not reduce analysis to "打脸更爽".
-Test the actual social-position mechanism, indispensability proof, repetition, and whether reversals compound.
-
-## OUTPUT
+## COMPLETED OUTPUTS
 Report:
 > `research/deepreads/2026-09-26_reboot_v4_fanqie_pool02_yiwu_deepread.md`
 
@@ -47,15 +25,49 @@ Evidence:
 History:
 > `handoffs/fanqie_pool02_yiwu_scout/history/2026-09-26_deepread_complete.md`
 
-## HARD INPUT BOUNDARY
-Do NOT read:
-- other pool deep-read reports;
-- old Sheqi candidates / prose / outlines;
-- Concept Forge outputs;
-- another scout's CURRENT/history except shared authority files.
+## FINAL SAMPLE SET
+CORE DIRECT HIT:
+- 《凤流高手》
+- 《高手下山，我家师姐太宠我了》
 
-External current market research is allowed and required.
+CORE MATCHED WEAK:
+- 《重生男护士，开局就是绝活》
+- 《医武天下》
 
-## STOP
-After report + evidence + selfcheck + CURRENT/history + commit:
-> STOP and return to editor_in_chief.
+WEAK CONTROL ONLY:
+- 《都市之神医下山》
+
+SUPPORT / NEAR:
+- 《全村只有傻子在修仙》
+- 《一场邂逅，我获得阴阳神诀爽麻了》
+
+## HIGHEST FINDING
+> 身份反转的复利单位不是“震惊”，而是“重新评价之后，世界的未来行为真的改变”。
+
+Strongest observed mechanisms:
+- social memory；
+- reusable relationships；
+- public identity；
+- jurisdiction escalation。
+
+Strongest observed failure paths:
+- local revaluation / global reset；
+- low-status conflict resolved too early → case/skill fantasy drift；
+- preloaded network cannibalizes earned rise；
+- reaction without state；
+- vertical escalation without character memory。
+
+## SELF CHECK
+> PASS
+
+Full selfcheck is appended to the Report.
+
+## HARD STOP
+Do not:
+- synthesize other pools;
+- generate Concept;
+- recommend a pool;
+- dispatch another worker.
+
+Return to:
+> **editor_in_chief**
