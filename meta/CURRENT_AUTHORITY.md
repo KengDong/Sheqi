@@ -1,6 +1,6 @@
 # CURRENT AUTHORITY｜Sheqi Fiction R&D
 
-updated: 2026-09-25
+updated: 2026-09-26
 decision: REBOOT-V3
 
 # Highest Goal
@@ -43,36 +43,37 @@ RESERVE:
 - Shelf Cut: DONE
 - Story Reservoir: PASS
 - Character Engine Benchmark: PASS
-- Character Engine Editor Synthesis: COMPLETE
+- Character Collision: PASS
+- Character Cut: COMPLETE
 
 # Current Single Next Action
 
-> **Run Character Collision.**
+> **Run Minimal Horizon.**
 
 Owner:
-> `handoffs/character_collision_forge/CURRENT.md`
+> `handoffs/minimal_horizon_forge/CURRENT.md`
 
 Brief:
-> `research/briefs/2026-09-25_reboot_v3_character_collision_brief.md`
+> `research/briefs/2026-09-26_reboot_v3_minimal_horizon_brief.md`
 
 Output:
-> `experiments/reboot_v3/character_collision/2026-09-25_reboot_v3_character_collision.md`
+> `experiments/reboot_v3/minimal_horizon/2026-09-26_reboot_v3_minimal_horizon.md`
 
-# Character Design Hard
+# Minimal Horizon Hard
 
-Every ACTIVE candidate must prove:
-- independent wants;
-- offscreen agency;
-- relationship memory;
-- two-way leverage;
-- horizontal relationships;
-- ordinary-chapter survival;
-- protagonist-absence continuity.
+Per ACTIVE candidate only:
+- one Near wait;
+- one Mid outcome;
+- one Far shadow;
+- one natural desire chain.
+
+No chapter outline.
+No new core mechanic.
+No giant architecture.
 
 # Hard
 
-Until Character Collision is committed and reviewed:
-- Minimal Horizon BLOCKED;
+Until Minimal Horizon is committed and reviewed:
 - P0 BLOCKED;
 - no prose;
 - no Primary;
@@ -80,4 +81,4 @@ Until Character Collision is committed and reviewed:
 
 # One Sentence
 
-> **结构已经证明能写长；现在必须证明“人”本身也能成为第二发动机。**
+> **只给四本书一个最小未来，然后马上用P0正文让Reader打脸或验证这些设计。**
