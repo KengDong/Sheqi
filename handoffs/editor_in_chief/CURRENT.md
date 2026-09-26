@@ -5,67 +5,41 @@
 - status: ACTIVE / ORCHESTRATION ONLY
 - current_issue: REBOOT-V3 / P0 V2
 
-## HIGHEST GOAL
-> unknown-author breakout + sustained long-run income.
+## CURRENT VALID EVIDENCE
+A02 V2:
+- Native COMPLETE
+- Mirror COMPLETE
+- physical isolation PASS
+- anonymous pair prepared
+- clean readers not yet run
 
-## CURRENT AUTHORITY
-1. `meta/CURRENT_AUTHORITY.md`
-2. `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
-3. `meta/HIT_FICTION_RND_MASTER_PIPELINE_V3.md` v3.4
-4. `meta/CANDIDATE_SELECTION_AND_FALSE_NEGATIVE_POLICY_V1.md`
-5. `meta/BENCHMARK_CAUSALITY_STANDARD.md`
-6. `meta/READER_EVIDENCE_HIERARCHY.md`
+A01:
+> next physically isolated V2 rerun.
 
-## CURRENT ISSUE
-P0 V1 Native-vs-Mirror paired-writer experiment was invalidated because:
-> Native and Mirror instructions were stored in the same Git file.
+## INVALID EVIDENCE
+All P0 V1 Native-vs-Mirror causal comparisons remain invalid / archive only.
 
-Audit:
-> `reviews/2026-09-26_reboot_v3_p0_input_boundary_contamination_audit.md`
+## CURRENT ACTIONS
 
-## EVIDENCE CONSEQUENCE
-- A01 old paired P0: archive only
-- A04 old paired P0: archive only
-- B10 old paired P0: archive only
-- A02: aborted before prose, clean
-- old P0 pair readers: cancelled before report
+Core WIP:
+1. `handoffs/p0_a01_native_writer/CURRENT.md`
+2. `handoffs/p0_a01_mirror_writer/CURRENT.md`
 
-Do not infer Mirror-vs-Native performance from V1.
+Reader side-lane:
+1. `handoffs/p0_a02_pair_reader_a/CURRENT.md`
+2. `handoffs/p0_a02_pair_reader_b/CURRENT.md`
 
-## CURRENT GATE
-> P0 V2 / PHYSICALLY ISOLATED NATIVE VS COMMERCIAL MIRROR
-
-Protocol:
-> `research/briefs/2026-09-26_reboot_v3_p0_isolated_ab_protocol_v2.md`
-
-## CURRENT SINGLE NEXT ACTION
-Run A02 two clean conditions in parallel:
-
-1. `handoffs/p0_a02_native_writer/CURRENT.md`
-2. `handoffs/p0_a02_mirror_writer/CURRENT.md`
-
-## HARD ISOLATION
-Native writer:
-- Base Card only;
-- zero Mirror instructions;
-- zero prior P0 prose.
-
-Mirror writer:
-- same Base Card + Mirror Function Card;
-- zero Native prose;
-- zero prior P0 prose.
-
-Same-file section isolation is prohibited.
-
-## AFTER A02
-Editor builds anonymous A02 X/Y pair and validates V2 process before releasing A01/A04/B10 reruns.
+## AFTER
+- freeze both A02 reader reports;
+- reveal private mapping;
+- editor interprets Native-vs-Mirror result without scores;
+- continue A04/B10 V2 reruns.
 
 ## HARD
-- no V1 pair reader;
+- no V1 evidence resurrection;
 - no full Ch1;
 - no Primary;
-- no long architecture;
-- no Reserve resurrection.
+- no long architecture.
 
 ## ONE SENTENCE
-> **先把实验做干净，再谈哪个版本更商业。**
+> **A02实验边界已经做干净，现在开始真正测Mirror有没有帮助。**
