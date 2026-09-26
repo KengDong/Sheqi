@@ -4,31 +4,54 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Status
-> **12 HIGH-CONCEPT IDEAS AUTHOR-APPROVED / ARCHITECTURE STAGE READY**
+> **A3 AUTHOR-PRIORITY FULL DEVELOPMENT**
 
-AUTHOR reaction:
-> **每一部都想看**
+AUTHOR:
+> A3 全力推，我现在最看好它，一定要结合热门小说来展开。
 
-Decision record:
-> `experiments/reboot_v4/author_choice/2026-09-26_high_concept_round01_author_decision.md`
+This is AUTHOR preference / priority, not AI winner selection.
 
-# Architecture rule
-> **Structure serves the hook. Never sanitize the premise.**
+# A3
+Working title:
+> 《全民修仙把天道吸干了，我来给它办丧事》
 
-Protocol:
-> `research/briefs/2026-09-26_reboot_v4_high_concept_architecture_protocol.md`
+Full benchmark-driven architecture:
+> `experiments/reboot_v4/concepts/highconcept/2026-09-26_A3_full_benchmark_architecture_v1.md`
 
-# Ready lanes
-- A｜魔道 / 修仙 / 重开 — 3 concepts
-- B｜玄幻成长 / 专属主场 — 3 concepts
-- C｜都市异能 / 多身份 — 3 concepts
-- D｜诡异 / 怪谈 / 反向进化 — 3 concepts
+Core benchmark functions integrated from:
+- 《捞尸人》
+- 《1984：从川菜馆开始》
+- 《没钱修什么仙？》
+- 《全民大航海，我开局一条幽灵船》
+- 《末日逃亡：开局苍穹列车车长》
+- 《剑烛大荒》
+- 《夜无疆》
+
+# Current A3 core
+Universal cultivation prosperity is consuming Heaven-and-Earth lifespan.
+
+Protagonist:
+> transmigrator + 万物送终 system
+
+System:
+> diagnose true death / unresolved causal knot / correct return direction.
+
+Daily:
+> usable-but-dead thing → people rationally keep exploiting it → protagonist handles its ending correctly → immediate visible local change → persistent return.
+
+Long:
+> dead tool → dead land → dead spirit vein → dead lineage → dying region → ascension truth → Heaven obituary → Heaven funeral.
+
+# Next
+A3 benchmark stress-test:
+- package vs real references;
+- Ch1–20 reward density;
+- personal growth pleasure;
+- recurring opposition;
+- anti-case-of-week check.
 
 # Hard
-No title/hook weakening.
-No cross-lane ranking.
-No prose.
-No final winner.
-
-# One Sentence
-> **这12个先保住“我想看”的锋利度，再证明它们能写长。**
+- no premise weakening;
+- no preachy environmental essay;
+- no disposable case treadmill;
+- no AI final winner.
