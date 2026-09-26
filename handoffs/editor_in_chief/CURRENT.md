@@ -1,7 +1,7 @@
 # Editor in Chief｜CURRENT
 
 ## STATUS
-> ACTIVE HUMAN GATE / AWAITING AUTHOR MARKET-POOL CHOICE
+> AUTHOR MARKET-POOL CHOICE RECORDED / AWAITING AUTHOR CONFIRMATION OF NEXT EVIDENCE STAGE
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
@@ -10,6 +10,7 @@
 > Fanqie / 番茄小说
 
 ## COMPLETED
+
 Fanqie Market Entry V2.1:
 > PASS
 
@@ -22,91 +23,88 @@ Author board:
 Evidence freeze:
 > `research/evidence/fanqie_market_entry_2026-09-26/INDEX.md`
 
-## CURRENT HUMAN GATE
+Author market-pool choice:
+> RECORDED
 
-The author must classify the 7 evidence-qualified Reader Pools as:
+Choice record:
+> `experiments/reboot_v4/author_choice/author_market_pool_selection.md`
 
-- WANT = 想要
-- MAYBE = 可能
-- NO = 不要
+## FROZEN AUTHOR CHOICE
 
-No AI ranking.
-No AI recommendation.
+Exact response:
+> `1想要2想要3想要4想要5不要6可能7不要`
 
-## NUMBERED READER POOLS
-
+### WANT
 1. **现代民俗玄学：本土术法专业权威**
-   - Evidence: MODERATE
-   - Fantasy: 看穿别人看不见的因果 / 禁忌，用专业处理异常，现实系统重新评价我。
-
 2. **都市医武神医：低位身份强势翻身**
-   - Evidence: STRONG
-   - Fantasy: 被轻视 → 关键时刻只有我能解决 → 身份 / 地位不断反转。
-
 3. **诡异降临反猎杀：收容 / 吞噬 / 驾驭异常**
-   - Evidence: STRONG
-   - Fantasy: 从怪物猎物变成能反收、反养、反驾驭异常的更危险存在。
-
 4. **全民 / 末日求生 + 私有安全资产复利**
-   - Evidence: STRONG
-   - Fantasy: 全世界越来越乱，但我的船 / 车 / 列车 / 房间 / 基地越来越安全、富足、强。
 
-5. **西幻边疆领主：领地 / 人口 / 资源 / 秩序可见扩张**
-   - Evidence: STRONG
-   - Fantasy: 从一块烂地开始，把属于自己的领地持续建设成更大、更富、更强的势力。
-
+### MAYBE
 6. **古代身份困局：高压等级社会中的地位与自主权上升**
-   - Evidence: MODERATE
-   - Fantasy: 从可能被牺牲的低身份角色，靠判断与能力获得不可被夺走的身份、话语权与自主权。
 
+### NO
+5. **西幻边疆领主：领地 / 人口 / 资源 / 秩序可见扩张**
 7. **年代赶山赶海：家庭生活重建 + 实物丰裕复利**
-   - Evidence: STRONG
-   - Fantasy: 把别人忽略的实物价值带回家，变成饭桌、现金、工具、船、房和家庭安全感，成为可靠供养者。
 
-## AUTHOR RESPONSE FORMAT
+MAYBE must remain distinct from WANT.
 
-The author may reply in any compact form, for example:
+## EDITOR INSPECTION OF RETAINED SET
 
-> 1 可能  
-> 2 不要  
-> 3 想要  
-> 4 想要  
-> 5 可能  
-> 6 不要  
-> 7 可能
+The retained set spans five substantially different reader fantasies:
 
-Synonyms allowed:
-- WANT / 想要 / 要
-- MAYBE / 可能 / 保留
-- NO / 不要 / 排除
+- hidden-professional authority in a modern social arena;
+- low-status-to-indispensable social reversal;
+- fear inversion through controlling / consuming / driving anomalies;
+- private safety-asset compounding under universal instability;
+- status / autonomy accumulation inside a high-pressure historical hierarchy.
 
-## AFTER AUTHOR CHOICE
+The next evidence stage must NOT merge these into one generic "爽文" bucket.
 
-1. Record exact choices in:
-   > `experiments/reboot_v4/author_choice/author_market_pool_selection.md`
+Each retained pool needs its own:
+- current DIRECT HIT sample;
+- current / comparable MATCHED FAILURE sample;
+- opening acquisition comparison;
+- early retention comparison;
+- repeatable fantasy loop;
+- failure-mode diagnosis;
+- newcomer execution burden;
+- substitution space.
 
-2. Update:
-   - `meta/STATE.md`
-   - `meta/ACTIVE_WORKSTREAMS.md`
-   - this CURRENT
+## PROPOSED NEXT EVIDENCE STAGE
 
-3. Do NOT generate concepts yet.
+> **SELECTED-POOL DIRECT HIT + MATCHED-FAILURE DEEP READ**
 
-4. First inspect the author's WANT / MAYBE set and propose the next evidence stage:
-   > direct hit + matched-failure deep read
+Scope:
+> ONLY pools 1 / 2 / 3 / 4 / 6.
 
-5. Wait for author confirmation before dispatching that stage unless author explicitly says to continue.
+Purpose:
+> identify what makes successful works inside the same reader fantasy repeatedly convert and retain readers, and what similarly packaged weaker works fail to deliver.
+
+This is NOT:
+- Concept Forge;
+- ranking the five retained pools;
+- choosing the final novel;
+- prose writing;
+- revival of old Sheqi candidates.
+
+## HUMAN GATE
+
+Await author confirmation of the next evidence-stage design before dispatch.
+
+No worker has been dispatched.
 
 ## HARD
 
 Do NOT:
-- rank the 7 pools;
-- persuade author toward one;
-- revive old Sheqi concepts;
-- generate novel concepts;
+- rank WANT / MAYBE pools;
+- recommend a winner;
+- treat MAYBE as WANT;
+- re-open NO pools unless author explicitly changes the choice;
+- generate concepts;
 - write prose;
-- silently reinterpret MAYBE as WANT;
-- auto-dispatch Concept Forge.
+- revive old Sheqi concepts;
+- auto-dispatch research workers.
 
 ## ONE SENTENCE
-> **当前只做作者亲自选番茄Reader Pool；AI不替作者做题材偏好决定。**
+> **作者已把番茄入口收敛到4个WANT + 1个MAYBE；下一步应先做同池爆款与同池失败作的深读对照，确认真正的转化/留存机制，再谈Concept。**
