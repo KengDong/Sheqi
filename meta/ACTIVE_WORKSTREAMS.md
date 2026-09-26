@@ -3,40 +3,50 @@
 updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
-# CURRENT CONTROL
+# READY / DISPATCHED
+
+## reboot_v4_pool01_minsu_concept_forge
+- status: READY
+- current:
+  > `handoffs/reboot_v4_pool01_minsu_concept_forge/CURRENT.md`
+- output:
+  > `experiments/reboot_v4/concepts/2026-09-26_pool01_minsu_concept_set.md`
+
+## reboot_v4_pool02_yiwu_concept_forge
+- status: READY
+- current:
+  > `handoffs/reboot_v4_pool02_yiwu_concept_forge/CURRENT.md`
+- output:
+  > `experiments/reboot_v4/concepts/2026-09-26_pool02_yiwu_concept_set.md`
+
+## reboot_v4_pool03_weiyi_concept_forge
+- status: READY
+- current:
+  > `handoffs/reboot_v4_pool03_weiyi_concept_forge/CURRENT.md`
+- output:
+  > `experiments/reboot_v4/concepts/2026-09-26_pool03_weiyi_concept_set.md`
+
+# BLOCKED / NEXT
+
+## reboot_v4_three_pool_concept_editor
+- status: BLOCKED / WAITING FOR ALL THREE SETS
+- current:
+  > `handoffs/reboot_v4_three_pool_concept_editor/CURRENT.md`
+
+# CONTROL
 
 ## editor_in_chief
-- status: AUTHOR SHRINK COMPLETE / WAITING FOR NEXT-STAGE START
-- retained:
-  - Pool 1 民俗玄学
-  - Pool 2 都市医武
-  - Pool 3 诡异反猎杀
-- decision:
-  > `experiments/reboot_v4/author_choice/2026-09-26_retained_pool_shrink_decision.md`
+- status: ORCHESTRATING / WAITING FOR THREE CONCEPT SETS
 
 # COMPLETED / FROZEN
-- retained_pool_evidence_normalizer — COMPLETE / FROZEN
-- retained_pool_synthesis_redteam — COMPLETE / FROZEN
-- fanqie_market_entry_scout — COMPLETE / ARCHIVED
-- fanqie_pool01_minsu_scout — COMPLETE / FROZEN
-- fanqie_pool02_yiwu_scout — COMPLETE / FROZEN
-- fanqie_pool03_weiyi_scout — COMPLETE / FROZEN
-- fanqie_pool04_survival_asset_scout — COMPLETE / FROZEN
-- fanqie_pool06_historical_status_scout — COMPLETE / FROZEN
-
-# HELD OUT
-- Pool 4 — not entering next concept experiment
-- Pool 6 — not entering next concept experiment
+- all prior market-entry, deep-read, normalization and red-team workers
 
 # HARD BLOCKED
-No new worker is READY yet.
-
-Blocked until explicit AUTHOR start:
-- concept generation
 - prose
-- final winner
-- AI ranking / scoring
+- final topic selection by AI
+- ranking / scoring
 - old candidate revival
+- shelf / first-screen stage until concept editor review
 
 # NEXT
-> AUTHOR starts next-stage design for three retained pools.
+> Run the three isolated concept forge windows in parallel.
