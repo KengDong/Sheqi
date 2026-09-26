@@ -1,97 +1,74 @@
 # reboot_v4_dualworld_breakout_architect｜CURRENT
 
 ## STATUS
-> X3 TIERED LIVING-HISTORY OPTIONS / AUTHOR DISCUSSION
+> X4 MODERN TRAINING ARCHIVE / AUTHOR DISCUSSION
 
 ## BRANCH
 > `reboot-v4-dualworld-breakout-framework`
 
-## AUTHOR QUESTIONS ADDRESSED
-- how ancient people rationally believe protagonist;
-- random vs fixed historical access;
-- why famous people produce stable/high-grade history;
-- how official immortal-history grades create low-value/high-return pleasure;
-- how to retain hit-novel functions without cloning;
-- whether a stronger geometry exists beyond X1/X2.
+## AUTHOR CORRECTION
+- “仙史” is too distant / game-like.
+- S/A/B/C/D/E ranking is too RPG-like and not cultivation-native.
+- modern side should follow the grounded social logic learned from 《没钱修什么仙？》.
 
 ## CURRENT FILE
-> `experiments/reboot_v4/quick_ideation/2026-09-26_dualworld_x3_tiered_living_history_full_options.md`
+> `experiments/reboot_v4/quick_ideation/2026-09-26_dualworld_x4_modern_training_archive.md`
 
-## CORE LOGIC CURRENTLY STRONGEST
+## CURRENT RECOMMENDED TERMINOLOGY
+Formal institution:
+> 修炼实训库
+
+Technical content:
+> 道痕回放 / 修行案例
+
+Student slang:
+> 刷案例 / 刷回放
+
+Low-value content:
+> 残档 / 低复原案例
+
+## NO LETTER GRADES
+Use:
+- 复原度;
+- 认证用途;
+- 可计实训学时;
+- 使用成本 / 额度;
+- 稳定性 / 风险;
+- 训练项目.
+
+Famous-master cases are valuable because:
+> high reconstruction + stable outcomes + official certification + expensive / scarce access.
+
+Broken cases are low-value because:
+> low reconstruction + no reliable training + no credit.
+
+## PROTAGONIST INVERSION
 Public system values:
-> historical completeness / stability / training yield.
+> reliable learning output.
 
-Protagonist values:
-> causal openness.
+Protagonist hidden value:
+> causal access through missing sections.
 
-Therefore:
-> high-grade history is better simulation but mostly fixed;
-> low-grade history is poor conventional material but may still be LIVE / mutable.
+Working hook:
+> 别人花钱刷名师回放，我专挑没人要的残档。
+> 因为他们刷到的是前人留下的经验，我刷到的那个人还没死。
 
-Working punch:
-> 别人抢S级，因为S级最完整。
-> 我抢E级，因为只有E级还没被历史写死。
+## CURRENT MODERN PRESSURE OPTIONS
+- limited practical-training quota;
+- money;
+- certification requirement;
+- weak school archive resources;
+- specific practical deficit.
 
-## ACCESS MODEL
-Best current model:
-> semi-random first low-grade node
-→ repeated contact creates a persistent causal anchor
-→ new nodes unlock through the anchor's real social / event graph.
+Do not copy 《没钱修什么仙？》 exact poverty/debt package.
 
-Reject:
-- random NPC every arc;
-- free selection of famous historical figures.
-
-## TRUST MODEL
-1. ancient person treats protagonist as anomaly;
-2. protagonist gives near-term falsifiable prediction;
-3. admits historical records are incomplete;
-4. ancient person deliberately deviates and protagonist returns with changed downstream record.
-
-Trust is evidence-based, not faith.
-
-## RESOURCE ENGINE
-> 逆向遗产 / historical compound interest.
-
-No direct item teleport.
-Ancient people leave:
-- items;
-- manuscripts;
-- rights;
-- passwords;
-- lineages;
-- locations;
-for the modern protagonist to retrieve centuries later.
-
-## CURRENT OPTIONS
-A｜史缺复利
-B｜祖师未成名网络
-C｜把E级仙史刷成S级
-D｜仙史复利局
-E｜史缺会主动叫我 (later upgrade)
-
-Current integrated geometry for discussion:
-> A surface
-+ B recurring cast / hidden-history identity
-+ controlled C modern social feedback
-+ selective D reverse inheritance
-+ later E autonomy.
-
-## CH1–20
-Ch1 E-grade broken history;
-Ch2 falsifiable future proof;
-Ch3 history updates + first concrete present benefit;
-Ch4–7 current-world cash-out;
-Ch8–12 second node through causal link;
-Ch13–16 first causal tradeoff;
-Ch17–20 first historical network / legacy / hidden-identity trace.
+## CURRENT OPEN QUESTIONS
+1. Is ancient side literal causal past, causally upstream source-world, or parallel source-world?
+2. How bounded are downstream record changes?
+3. Which modern practical pressure opens Ch1?
+4. How many recurring ancient anchors?
 
 ## HARD
-Do not lock title or full framework before AUTHOR decides which early reader wait dominates:
-A next E-history hidden opportunity;
-B what these nobodies later become;
-C low-grade history upgrades;
-D centuries-later compound payoff.
-
-## NEXT
-AUTHOR discussion.
+Do not return to S/A/B/C grading.
+Do not use "E级刷成S级" reader-facing progression.
+Do not build full framework until author confirms the modern anchor and causal-world relation.
