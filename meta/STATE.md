@@ -17,17 +17,50 @@ Primary:
 - Dual clean-room Shelf Readers: DONE
 - Shelf Cut: DONE
 - Story Reservoir: PASS
-- Reservoir Editor Verdict: COMPLETE
 - Character Engine Benchmark: PASS
-- Character Engine Editor Synthesis: COMPLETE
 - Character Collision: PASS
 - Character Cut: COMPLETE
 - Minimal Horizon: PASS
 - Horizon Cut: COMPLETE
-- P0 Batch 1 Writers A01/A04: COMPLETE
+
+# P0 V1 Integrity Incident
+
+The original paired-writer protocol is INVALID for formal Native-vs-Mirror A/B evidence because:
+> Native and Mirror instructions lived in the same Git file.
+
+Audit:
+> `reviews/2026-09-26_reboot_v3_p0_input_boundary_contamination_audit.md`
+
+Affected:
+- A01 existing paired P0: archive only
+- A04 existing paired P0: archive only
+- B10 existing paired P0: archive only
+- A02: aborted before prose; clean
+
+Old pair readers:
+> cancelled before execution.
+
+# Current Gate
+> **P0 FIRST SCREEN V2 / PHYSICALLY ISOLATED NATIVE VS MIRROR**
+
+Protocol:
+> `research/briefs/2026-09-26_reboot_v3_p0_isolated_ab_protocol_v2.md`
+
+# Current WIP
+A02 only, two clean writer conditions in parallel:
+
+- `handoffs/p0_a02_native_writer/CURRENT.md`
+- `handoffs/p0_a02_mirror_writer/CURRENT.md`
+
+Both are READY.
+
+# Rerun Queue
+After A02:
+- A01 Native + Mirror V2
+- A04 Native + Mirror V2
+- B10 Native + Mirror V2
 
 # Current Portfolio
-
 ACTIVE:
 - A01 《怪物死了，地盘还在》
 - A02 《末日先修水电》
@@ -40,39 +73,11 @@ RESERVE:
 
 No Primary.
 
-# Current Gate
-> **P0 FIRST SCREEN / PAIRED EXPERIMENT**
+# Hard Isolation Rule
+If conditions require information asymmetry:
+> privileged prompts must be in separate files and separate clean windows.
 
-## Batch 1
-A01/A04:
-> writer complete; pairwise clean readers READY.
-
-## Batch 2
-A02/B10:
-> paired writers READY.
-
-# Current Actions
-
-Core creative workers:
-- `handoffs/p0_a02_writer/CURRENT.md`
-- `handoffs/p0_b10_writer/CURRENT.md`
-
-Reader side-lane:
-- `handoffs/p0_pair_reader_a/CURRENT.md`
-- `handoffs/p0_pair_reader_b/CURRENT.md`
-
-# Experimental Rule
-For each candidate:
-1. Native freezes before Mirror exposure.
-2. Mirror may learn commercial cold-start functions only.
-3. Blind readers choose Native / Mirror / both / neither.
-4. No scores-first evaluation.
-
-# Hard
-- no full Ch1 yet;
-- no Primary;
-- no long architecture;
-- no Reserve resurrection.
+Same-file section boundaries are prohibited.
 
 # One Sentence
-> **A01/A04已进入盲测；A02/B10开始写第二批P0。**
+> **P0不是从零推倒，而是把实验隔离修正确：旧稿留档，正式A/B从物理隔离V2重新开始。**
