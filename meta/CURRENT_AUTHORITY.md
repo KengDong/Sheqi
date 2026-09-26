@@ -4,29 +4,24 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Current Status
-> **PACKAGE QA AUTHORIZED**
+> **TARGETED PACKAGE REVISION AUTHORIZED**
 
-Package sets complete:
-- Pool 1: 4
-- Pool 2: 4
-- Pool 3: 3
+# Authorized Worker
+> `reboot_v4_package_targeted_revision`
 
-Total:
-> 11
-
-# Current Authorized Worker
-> `reboot_v4_package_editor`
-
-Current:
-> `handoffs/reboot_v4_package_editor/CURRENT.md`
+Targets:
+1. Pool 1 concept04 package only;
+2. Pool 2 concept01 package only.
 
 # Purpose
-Packaging quality/fairness only.
+Correct package fairness / fidelity issues only.
 
-# Next gate after QA
-Anonymous mixed-shelf click-desire test.
+# Next Gate
+After targeted recheck:
+> anonymous mixed-shelf click-desire stage may be authorized.
 
 # Still prohibited
+- Concept changes
 - prose
 - first-screen writing
 - ranking / scoring
@@ -34,4 +29,4 @@ Anonymous mixed-shelf click-desire test.
 - old candidate revival
 
 # One Sentence
-> **当前只授权包装质检，匿名书架测试在质检结束后再解锁。**
+> **当前只授权两套包装的定向小修；匿名书架必须等小修复审通过。**
