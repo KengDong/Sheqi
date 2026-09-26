@@ -4,7 +4,7 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Status
-> **EDITOR SYNTHESIS DRAFT COMPLETE / RED-TEAM AUDIT ACTIVE**
+> **RETAINED-POOL SYNTHESIS COMPLETE / RED-TEAM CORRECTED / HUMAN GATE**
 
 Primary:
 > NONE.
@@ -12,31 +12,35 @@ Primary:
 Active novel candidates:
 > NONE.
 
-# Completed
-- Market Entry V2 / V2.1
-- author pool selection
-- five retained pool deep reads
-- successor content-level receive
-- first editor synthesis draft
+# Recorded author choice
+- Pool 1 — WANT
+- Pool 2 — WANT
+- Pool 3 — WANT
+- Pool 4 — WANT
+- Pool 5 — NO
+- Pool 6 — MAYBE
+- Pool 7 — NO
 
-Draft:
+# Completed
+- Fanqie Market Entry V2 / V2.1
+- author market-pool selection
+- five retained-pool deep reads
+- normalized evidence table
+- editor synthesis
+- independent red-team audit
+- editor correction pass
+
+Final synthesis:
 > `reviews/2026-09-26_reboot_v4_retained_pool_editor_synthesis.md`
 
-# Open checks
-- retained_pool_evidence_normalizer — READY
-- retained_pool_synthesis_redteam — ACTIVE / AUDITING EDITOR SYNTHESIS
+Red-team audit:
+> `reviews/2026-09-26_reboot_v4_retained_pool_synthesis_redteam.md`
 
-# Recorded author choice
-- 1 WANT
-- 2 WANT
-- 3 WANT
-- 4 WANT
-- 5 NO
-- 6 MAYBE
-- 7 NO
+# Current Gate
+> AUTHOR reviews the corrected five-direction synthesis and decides the next stage.
 
 # BLOCKED
-No Concept generation or prose until editor review closes and AUTHOR explicitly authorizes the next stage.
+No Concept generation, prose, final pool selection, ranking, or creative downstream work without explicit AUTHOR authorization.
 
 # One Sentence
-> **五方向总编综合第一版已完成，当前只允许核证据和挑错。**
+> **市场池研究链已经收口；现在回到作者决定，不由AI自动选题或进入小说构思。**
