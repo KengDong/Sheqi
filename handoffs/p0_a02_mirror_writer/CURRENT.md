@@ -2,7 +2,7 @@
 
 ## ROLE
 - role: p0_a02_mirror_writer
-- status: READY
+- status: COMPLETE
 - decision: REBOOT-V3
 - condition: COMMERCIAL_MIRROR
 - candidate: A02
@@ -21,6 +21,9 @@ Forbidden:
 - reader/editor results.
 
 ## OUTPUT
-> `experiments/reboot_v3/p0_v2/a02/mirror.md`
+- COMPLETE: `experiments/reboot_v3/p0_v2/a02/mirror.md`
+- Selfcheck: embedded in output file.
+- Git commit: `d48cd55bcfe89f8cb72f9952c0c50f88b4db8475`
 
-Then selfcheck / CURRENT / history / commit / STOP.
+## STOP
+Commercial-Mirror First Screen completed. Do not continue into Native, Reader, Editor, or later-horizon work in this window.
