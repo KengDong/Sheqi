@@ -4,7 +4,7 @@
 > **BLOCKED BY GATE 1–3**
 
 ## BRANCH
-> `reboot-v4-fanqie-market-entry`
+> `reboot-v4-living-dao-seed-framework`
 
 ## ROLE
 > `living_dao_seed_early_engine_architect`
