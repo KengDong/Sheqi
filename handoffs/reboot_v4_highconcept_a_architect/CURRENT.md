@@ -4,7 +4,7 @@
 > **PAUSED / FRAMEWORK TASK PLAN V2 ACTIVE**
 
 ## BRANCH
-> `reboot-v4-fanqie-market-entry`
+> `reboot-v4-living-dao-seed-framework`
 
 ## CURRENT PRIORITY CONCEPT
 > `《全班绑定道种，我绑定的是异界活人》`
