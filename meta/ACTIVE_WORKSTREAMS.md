@@ -1,10 +1,10 @@
 # ACTIVE WORKSTREAMS｜REBOOT-V3
 
-updated: 2026-09-25
+updated: 2026-09-26
 
 # editor_in_chief
 - status: ACTIVE / ORCHESTRATION ONLY
-- current_stage: Character Benchmark PASS; Character Collision released
+- current_stage: Character Cut complete; Minimal Horizon released
 
 # completed
 - Market Scout
@@ -15,13 +15,14 @@ updated: 2026-09-25
 - Fresh Shelf Reader B
 - Story Reservoir Forge
 - Character Engine Benchmark Scout
+- Character Collision Forge
 
-# character_collision_forge
+# minimal_horizon_forge
 - status: READY / RUN NOW
 - current:
-  > `handoffs/character_collision_forge/CURRENT.md`
+  > `handoffs/minimal_horizon_forge/CURRENT.md`
 - brief:
-  > `research/briefs/2026-09-25_reboot_v3_character_collision_brief.md`
+  > `research/briefs/2026-09-26_reboot_v3_minimal_horizon_brief.md`
 
 # ACTIVE candidates
 - A01
@@ -34,13 +35,12 @@ updated: 2026-09-25
 - A10
 
 # downstream
-- minimal_horizon_forge: BLOCKED
-- P0 writers: NOT DISPATCHED
+- P0 writers: BLOCKED
 - prose readers: BLOCKED
 
 # Current Single Next Action
-> Run character_collision_forge.
+> Run minimal_horizon_forge.
 
 # WIP
 Core worker:
-> 1 creative-design worker.
+> 1 design worker.
