@@ -7,8 +7,8 @@ decision: REBOOT-V3
 > **为一个没有作者名气、第一次认真写长篇商业网文的人，最大化“爆起来 + 长期追读 + 持续收入”的概率。**
 
 # Highest Process Authority
-1. `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md` v2.1
-2. `meta/HIT_FICTION_RND_MASTER_PIPELINE_V3.md` v3.4
+1. `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
+2. `meta/HIT_FICTION_RND_MASTER_PIPELINE_V3.md` v3.5
 3. `meta/CANDIDATE_SELECTION_AND_FALSE_NEGATIVE_POLICY_V1.md`
 4. `meta/READER_EVIDENCE_HIERARCHY.md`
 5. `meta/BENCHMARK_CAUSALITY_STANDARD.md`
@@ -16,7 +16,6 @@ decision: REBOOT-V3
 
 # Current Portfolio
 No Primary.
-No active novel canon.
 
 ACTIVE:
 - A01 《怪物死了，地盘还在》
@@ -28,38 +27,39 @@ RESERVE:
 - B04 《夜班公交》
 - A10 《没人要的主播，都被我签红了》
 
-# P0 Integrity Correction
-The V1 same-file paired-writer experiment is INVALID for formal A/B inference.
+# Current Evidence
+A02 P0 V2 author read:
+> “太难看了”
 
-Audit:
-> `reviews/2026-09-26_reboot_v3_p0_input_boundary_contamination_audit.md`
+This is treated as:
+> behavioral P0 failure / upstream benchmark-card problem.
 
-Hard rule:
-> information-asymmetric experimental conditions require physically separate files and separate clean windows.
+Do not continue marginal A/B testing on the rejected drafts.
+
+# Root Cause
+A02 “Commercial-Mirror” did not have a named Primary Benchmark.
+Its card contained only abstract functions:
+> concrete problem -> diagnosis -> decision -> visible result -> changed social state.
+
+Therefore it was not a true high-fidelity Commercial Mirror.
+
+Additionally the Base Card over-prescribed the project scene, causing Native and Mirror to converge on nearly the same procedural pump-room sequence.
 
 # Current Gate
-> **P0 V2｜PHYSICALLY ISOLATED NATIVE VS COMMERCIAL MIRROR**
+> **P0 DIRECT OPENING BENCHMARK DEEP READ**
 
-Protocol:
-> `research/briefs/2026-09-26_reboot_v3_p0_isolated_ab_protocol_v2.md`
+Owner:
+> `handoffs/p0_opening_benchmark_scout/CURRENT.md`
 
-Run now:
-- `handoffs/p0_a02_native_writer/CURRENT.md`
-- `handoffs/p0_a02_mirror_writer/CURRENT.md`
-
-# Evidence Status
-Existing A01/A04/B10 paired P0:
-> archive only, not valid Native-vs-Mirror causal evidence.
-
-A02:
-> no prose generated before contamination was detected.
+Brief:
+> `research/briefs/2026-09-26_reboot_v3_p0_direct_opening_benchmark_brief.md`
 
 # Hard
-- no reader test from V1 anonymous packages;
-- no full Ch1;
-- no Primary;
-- no long architecture;
-- no Reserve resurrection.
+No new P0 Mirror prose until each ACTIVE candidate has:
+- one named Primary Opening Benchmark;
+- actual First Screen / Ch1 causal deep read;
+- candidate-specific function card;
+- project scene freedom preserved.
 
 # One Sentence
-> **实验隔离比正文数量更重要：先把A/B做成真正的盲条件，再让Reader决定Mirror是否有帮助。**
+> **下一次“对标”必须能明确回答：到底对标哪一本、它的开篇哪一个因果功能值得学。**
