@@ -860,3 +860,20 @@ Reader 看见的是“我本来就有后台”，而不是“我通过前一轮�
 > 这些机制单独能否制造爆款，以及哪种具体 delivery vehicle 在2026番茄最优。
 
 本窗口不做该判断。
+
+
+## 20. Selfcheck
+
+- [PASS] 只研究 Pool 2；未读取其他 Pool deep-read / CURRENT / history。
+- [PASS] 未生成 Concept、人物、系统、标题、正文或旧候选复活。
+- [PASS] 保留 Author status = WANT；未做跨 Pool 排名或推荐。
+- [PASS] 样本达到 2 CORE DIRECT HIT + 2 CORE MATCHED WEAK；另保留 SUPPORT / WEAK CONTROL ONLY。
+- [PASS] 没有把“在读低”直接写成 opening / execution 因果；《医武天下》停更、《重生男护士…》完结衰减等混杂已显式记录。
+- [PASS] Pairwise Delta 明确回答“双方共有 / HIT premium / category baseline / 最早分叉 / Ch20是否持续 / confounders”。
+- [PASS] 明确推翻“弱书只是打脸慢”的简单假设：两个 CORE WEAK 都能早付款。
+- [PASS] 对“身份反转”使用可观察 ledger：knowledge / relationship / access / reputation / resource，而非“更爽”“节奏更快”。
+- [PASS] Ch1/3/7/10/20 检查对主要 CORE 样本已覆盖；访问受限处明确降级，不补写未读正文。
+- [PASS] 长程抽样对《高手下山…》达到 Ch50/100/500/1000/2700+；《凤流高手》受当前88章限制；weak长程限制已写明。
+- [PASS] Reader reaction 只作定性支持，未当代表性统计。
+- [PASS] Evidence freeze 已保存源URL、日期、样本角色、性能/篇幅信号、章节位置、访问限制与用途。
+- [PASS] 结论停在 Pool-only market mechanism，不下小说方案、不替作者选题。
