@@ -22,43 +22,31 @@ Primary:
 - Character Cut: COMPLETE
 - Minimal Horizon: PASS
 - Horizon Cut: COMPLETE
+- P0 V2 A02 Native: COMPLETE
+- P0 V2 A02 Mirror: COMPLETE
 
-# P0 V1 Integrity Incident
-
-The original paired-writer protocol is INVALID for formal Native-vs-Mirror A/B evidence because:
-> Native and Mirror instructions lived in the same Git file.
-
-Audit:
-> `reviews/2026-09-26_reboot_v3_p0_input_boundary_contamination_audit.md`
-
-Affected:
-- A01 existing paired P0: archive only
-- A04 existing paired P0: archive only
-- B10 existing paired P0: archive only
-- A02: aborted before prose; clean
-
-Old pair readers:
-> cancelled before execution.
+# P0 V1
+Invalid for formal Native-vs-Mirror A/B inference.
+Archive only.
 
 # Current Gate
-> **P0 FIRST SCREEN V2 / PHYSICALLY ISOLATED NATIVE VS MIRROR**
+> **P0 V2 / A02 PAIR READER + A01 RERUN**
 
-Protocol:
-> `research/briefs/2026-09-26_reboot_v3_p0_isolated_ab_protocol_v2.md`
+## A02
+Anonymous X/Y pair prepared.
+Clean readers READY:
+- `handoffs/p0_a02_pair_reader_a/CURRENT.md`
+- `handoffs/p0_a02_pair_reader_b/CURRENT.md`
 
-# Current WIP
-A02 only, two clean writer conditions in parallel:
+## A01
+Physically isolated writers READY:
+- `handoffs/p0_a01_native_writer/CURRENT.md`
+- `handoffs/p0_a01_mirror_writer/CURRENT.md`
 
-- `handoffs/p0_a02_native_writer/CURRENT.md`
-- `handoffs/p0_a02_mirror_writer/CURRENT.md`
-
-Both are READY.
-
-# Rerun Queue
-After A02:
-- A01 Native + Mirror V2
-- A04 Native + Mirror V2
-- B10 Native + Mirror V2
+## Queue
+After A01:
+- A04 V2 rerun
+- B10 V2 rerun
 
 # Current Portfolio
 ACTIVE:
@@ -74,10 +62,8 @@ RESERVE:
 No Primary.
 
 # Hard Isolation Rule
-If conditions require information asymmetry:
-> privileged prompts must be in separate files and separate clean windows.
-
-Same-file section boundaries are prohibited.
+Information-asymmetric conditions require:
+> separate files + separate clean windows.
 
 # One Sentence
-> **P0不是从零推倒，而是把实验隔离修正确：旧稿留档，正式A/B从物理隔离V2重新开始。**
+> **A02 V2已干净完成并进入盲测；A01开始重跑V2。**
