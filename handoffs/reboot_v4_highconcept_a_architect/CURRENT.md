@@ -1,40 +1,44 @@
 # reboot_v4_highconcept_a_architect｜CURRENT
 
 ## STATUS
-> **A3 FIVE IDENTITY FANTASIES BENCHMARK-EXPANDED / AUTHOR REVIEW**
+> **A3 INTEGRATED PREMISE ROUND 02 / AUTHOR FEEL TEST**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
 
-## AUTHOR SIGNAL
-All five identity fantasies passed first-look desire.
+## CORRECTION
+> `reviews/2026-09-26_A3_identity_expansion_second_correction.md`
 
-## CURRENT EXPANSION
-> `experiments/reboot_v4/concepts/highconcept/2026-09-26_A3_five_identity_fantasies_benchmark_expansion_v1.md`
+Previous five identity expansions are now:
+> PROVISIONAL ingredients only.
 
-Each now contains:
-- nearest strong references;
-- borrowed function;
-- title directions;
-- shelf hook;
-- Ch1–3 reversal;
-- Ch20+ repeated fantasy;
-- collapse risk.
+Reason:
+> they split opening identity, growth, send-off loop and Heaven mystery into separate mechanics.
 
-## IMPORTANT STRUCTURAL FINDING
-The five occupy different layers:
-- H1 opening social wound / life-stage reversal
-- H2 unique cultivation engine
-- H3 inheritance / legacy identity
-- H4 long-term social authority reward
-- H5 world mystery / terminal-echo engine
+## CURRENT ROUND
+> `experiments/reboot_v4/concepts/highconcept/2026-09-26_A3_integrated_premise_round02.md`
 
-Do not automatically treat them as five mutually exclusive books.
+Four integrated engines:
+1. R1｜《全世界都在修仙，只有我知道仙道已经死了》
+2. R2｜《我给万物送终，历史里却活了三千年》
+3. R3｜《这个修仙界，已经三千年没人死干净了》
+4. R4｜《所有人都在飞升，只有我见过他们的尸体》
+
+## HIGHEST RULE
+One central rule must simultaneously drive:
+- old low value;
+- revaluation;
+- repeated scene pleasure;
+- personal growth;
+- social identity;
+- world deterioration;
+- Heaven endpoint.
 
 ## NEXT
-AUTHOR reacts to expanded H1–H5 before synthesis.
+AUTHOR reacts to R1–R4 before any architecture expansion or synthesis.
 
 ## HARD
-- no AI final pick;
-- no feature stacking merely because each is cool;
-- preserve benchmark-first rule.
+- no AI winner;
+- no job-first design;
+- no feature stacking;
+- benchmark first.
