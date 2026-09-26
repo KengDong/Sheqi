@@ -4,36 +4,43 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Current Status
-> **AUTHOR SHRINK COMPLETE / RETAINED POOLS 1 / 2 / 3**
+> **THREE-POOL CONCEPT EXPERIMENT AUTHORIZED**
 
-Author decision:
-> `experiments/reboot_v4/author_choice/2026-09-26_retained_pool_shrink_decision.md`
-
-Retained for next stage:
+Author retained:
 - Pool 1
 - Pool 2
 - Pool 3
 
-Held out:
-- Pool 4
-- Pool 6
+Author explicitly authorized:
+> start next step
 
-# Current Gate
-> Wait for explicit AUTHOR start of the next-stage concept experiment design.
+# Current Authority
 
-# Next-stage boundary when started
-- only Pool 1 / 2 / 3;
-- market-validated families only;
-- multiple concepts per pool;
+Shared protocol:
+> `research/briefs/2026-09-26_reboot_v4_three_pool_concept_experiment_protocol.md`
+
+Authorized workers:
+- `reboot_v4_pool01_minsu_concept_forge`
+- `reboot_v4_pool02_yiwu_concept_forge`
+- `reboot_v4_pool03_weiyi_concept_forge`
+
+Each:
+- 4 concept cores;
 - no prose;
-- no AI winner;
-- no old Sheqi revival.
+- no ranking;
+- no cross-pool reading;
+- market-validated mother only.
 
-# BLOCKED UNTIL AUTHOR START
-- concept generation
+# Next gated worker
+> `reboot_v4_three_pool_concept_editor`
+
+Blocked until all three sets complete.
+
+# Still prohibited
+- AI winner selection
 - prose
-- final selection
-- ranking
+- ranking / scoring
+- old candidate revival
 
 # One Sentence
-> **当前方向已经缩到1/2/3，下一棒是三方向构思实验设计，但需要作者明确启动。**
+> **下一阶段已正式授权，但当前授权只到“三池各4个核心方案 + 合规审查”，没有授权写正文或选赢家。**
