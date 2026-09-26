@@ -1,7 +1,7 @@
 # Editor in Chief｜CURRENT
 
 ## STATUS
-> **AUTHOR SHRINK COMPLETE / POOLS 1-2-3 RETAINED**
+> **THREE-POOL CONCEPT EXPERIMENT ORCHESTRATION**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
@@ -9,44 +9,47 @@
 ## ROLE
 > `editor_in_chief`
 
-# AUTHOR DECISION
+# AUTHOR AUTHORIZATION
+AUTHOR explicitly started next stage.
 
-> **123保留**
+Retained:
+- Pool 1
+- Pool 2
+- Pool 3
 
-Normalized:
-- Pool 1 — RETAIN
-- Pool 2 — RETAIN
-- Pool 3 — RETAIN
-- Pool 4 — HOLD OUT OF NEXT STAGE
-- Pool 6 — HOLD OUT OF NEXT STAGE
+# CURRENT EXECUTION
 
-Record:
-> `experiments/reboot_v4/author_choice/2026-09-26_retained_pool_shrink_decision.md`
+Three isolated workers are READY:
 
-# CURRENT GATE
+1. `reboot_v4_pool01_minsu_concept_forge`
+2. `reboot_v4_pool02_yiwu_concept_forge`
+3. `reboot_v4_pool03_weiyi_concept_forge`
 
-The next stage may only concern Pool 1 / 2 / 3.
+Shared protocol:
+> `research/briefs/2026-09-26_reboot_v4_three_pool_concept_experiment_protocol.md`
 
-Do not automatically generate concepts yet.
+Each worker must create exactly 4 concept cores.
 
-Wait for explicit AUTHOR start.
+# AFTER ALL THREE COMPLETE
 
-# WHEN STARTED
+Unlock:
+> `reboot_v4_three_pool_concept_editor`
 
-The next stage should:
-- stay inside already market-validated subject families;
-- create multiple original concept cores per retained pool;
-- prove first-3-chapter payment;
-- define what remains by Ch20;
-- show why the same book can still expand by Ch100;
-- explicitly reject novelty-for-novelty premises;
-- not rank across pools until AUTHOR asks for comparison.
+Its job is only structural compliance review:
+- still in proven market mother;
+- first 3 chapters pay;
+- Ch20 leaves state;
+- Ch100 still same book;
+- no novelty-for-novelty drift.
+
+No ranking / winner selection.
 
 # HARD BLOCKS
 - prose;
+- AI final winner;
+- cross-pool ranking;
 - old candidate revival;
-- AI final topic selection;
-- automatic ranking.
+- package / first-screen stage before concept review.
 
 # ONE SENTENCE
-> **缩池完成：只保留1/2/3，等作者明确启动下一轮构思实验。**
+> **当前同时跑1/2/3三个隔离构思窗口，每池4个方案；12个方案齐后先审结构，不直接写小说。**
