@@ -4,7 +4,7 @@ updated: 2026-09-26
 
 # editor_in_chief
 - status: ACTIVE / ORCHESTRATION ONLY
-- current_stage: Horizon Cut complete; paired P0 Batch 1 released
+- current_stage: P0 Batch 1 complete; Batch 2 + pairwise readers released
 
 # completed
 - Market Scout
@@ -16,43 +16,34 @@ updated: 2026-09-26
 - Character Engine Benchmark Scout
 - Character Collision Forge
 - Minimal Horizon Forge
+- p0_a01_writer
+- p0_a04_writer
 
-# P0 Batch 1｜RUN NOW
-## p0_a01_writer
-- status: READY
-- current:
-  > `handoffs/p0_a01_writer/CURRENT.md`
+# CORE CREATIVE WIP｜2
 
-## p0_a04_writer
-- status: READY
-- current:
-  > `handoffs/p0_a04_writer/CURRENT.md`
-
-# P0 Batch 2｜BLOCKED
 ## p0_a02_writer
-- status: BLOCKED / BATCH 2
+- status: READY
+- current:
+  > `handoffs/p0_a02_writer/CURRENT.md`
 
 ## p0_b10_writer
-- status: BLOCKED / BATCH 2
+- status: READY
+- current:
+  > `handoffs/p0_b10_writer/CURRENT.md`
 
-# ACTIVE candidates
-- A01
-- A02
-- A04
-- B10
+# READER SIDE-LANE
 
-# RESERVE candidates
-- B04
-- A10
+## p0_pair_reader_a
+- status: READY
+
+## p0_pair_reader_b
+- status: READY
 
 # downstream
-- P0 pairwise clean reader: BLOCKED
-- P0 cross-candidate reader: BLOCKED
+- Batch 2 pairwise reader package: BLOCKED
+- cross-candidate P0 reader: BLOCKED
 - P1 writers: BLOCKED
 
-# WIP
-Core creative workers:
-> 2 max.
-
-# Current Single Next Action
-Run A01 + A04 paired P0 writers in parallel.
+# Current Next Actions
+Run A02 + B10 paired P0 writers.
+In parallel, run both Batch 1 clean-room pair readers.
