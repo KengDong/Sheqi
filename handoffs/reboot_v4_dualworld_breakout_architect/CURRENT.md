@@ -130,3 +130,23 @@ If retained:
 2. design Ch20–50 second and third source arcs in scene-level detail;
 3. anonymous hook/package test against benchmark concepts;
 4. only then decide whether Alpha becomes canon framework.
+
+
+## TITLE CORRECTION｜2026-09-26
+V1 titles were too founder-centric.
+
+New rule:
+> title must sell past-side layout + present-side payoff,
+> not a specific ancient-contact type.
+
+New title pool:
+> `experiments/reboot_v4/packages/2026-09-26_x8_fanqie_title_pool_v2_broad_layout.md`
+
+Current broad-fit shortlist:
+- 《别人修仙拼背景，我的底牌都在过去》
+- 《全民修仙：我在过去给自己铺路》
+- 《现代修仙：我在过去留下了后手》
+- 《全民修仙：我的底牌都在过去》
+- 《我在过去布局，回来一路翻盘》
+
+No winner locked.
