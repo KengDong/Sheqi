@@ -4,7 +4,7 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Status
-> **AUTHOR SHRINK GATE / FIVE DIRECTIONS → 2–3**
+> **AUTHOR SHRINK COMPLETE / RETAINED POOLS 1 + 2 + 3**
 
 Primary:
 > NONE.
@@ -12,14 +12,21 @@ Primary:
 Active novel candidates:
 > NONE.
 
-# Recorded previous author choice
-- Pool 1 — WANT
-- Pool 2 — WANT
-- Pool 3 — WANT
-- Pool 4 — WANT
-- Pool 5 — NO
-- Pool 6 — MAYBE
-- Pool 7 — NO
+# Current retained directions
+
+1. 现代民俗玄学：本土术法专业权威 — RETAIN
+2. 都市医武神医：低位身份强势翻身 — RETAIN
+3. 诡异降临反猎杀：收容 / 吞噬 / 驾驭异常 — RETAIN
+
+# Held out of next stage
+
+4. 全民 / 末日求生 + 私有安全资产复利 — HOLD OUT OF NEXT STAGE
+6. 古代身份困局：地位与自主权上升 — HOLD OUT OF NEXT STAGE
+
+Evidence for 4 / 6 remains preserved. This is not permanent deletion.
+
+Author shrink record:
+> `experiments/reboot_v4/author_choice/2026-09-26_retained_pool_shrink_decision.md`
 
 # Completed
 - Fanqie Market Entry V2 / V2.1
@@ -29,22 +36,18 @@ Active novel candidates:
 - editor synthesis
 - independent red-team audit
 - editor correction pass
-- author decision sheet
-
-Decision sheet:
-> `experiments/reboot_v4/author_choice/2026-09-26_retained_pool_author_decision_sheet.md`
+- author shrink gate
 
 # Current Gate
-AUTHOR marks Pool 1 / 2 / 3 / 4 / 6 as:
-- 保留
-- 暂留
-- 淘汰
-
-Target:
-> retain 2–3 directions for the next experimental stage.
+> **WAITING FOR AUTHOR TO START NEXT-STAGE CONCEPT EXPERIMENT DESIGN FOR POOLS 1 / 2 / 3**
 
 # BLOCKED
-No Concept generation, prose, ranking, final topic choice, or downstream creative work until AUTHOR completes this shrink gate.
+Until AUTHOR explicitly starts the next stage:
+- concept generation;
+- prose;
+- final direction selection by AI;
+- cross-pool ranking;
+- old candidate revival.
 
 # One Sentence
-> **当前不是继续研究市场，而是作者根据真实写作兴趣和长期负担把五个方向缩到2–3个。**
+> **五个方向已经缩到1/2/3；下一步只围绕这三个方向设计构思实验，但尚未自动开始。**
