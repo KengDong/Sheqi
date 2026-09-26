@@ -10,14 +10,16 @@ branch: reboot-v4-fanqie-market-entry
 - draft:
   > `reviews/2026-09-26_reboot_v4_retained_pool_editor_synthesis.md`
 
-# READY
+# COMPLETED SUPPORT
 
 ## retained_pool_evidence_normalizer
-- status: READY
+- status: COMPLETE / FROZEN
 - current:
   > `handoffs/retained_pool_evidence_normalizer/CURRENT.md`
-- task:
-  > mechanically normalize five deep reads into a common evidence table
+- deliverable:
+  > `research/synthesis_inputs/2026-09-26_reboot_v4_retained_pool_normalized_evidence.md`
+
+# READY
 
 ## retained_pool_synthesis_redteam
 - status: READY / UNLOCKED
@@ -48,8 +50,7 @@ Still blocked:
 
 # NEXT
 
-1. Normalizer completes evidence table.
-2. Red-team audits editor draft.
-3. Editor reconciles both.
-4. Final synthesis returned to AUTHOR.
-5. STOP at human gate.
+1. Red-team audits editor draft.
+2. Editor reconciles red-team findings with the completed normalized evidence table.
+3. Final synthesis returned to AUTHOR.
+4. STOP at human gate.
