@@ -1,6 +1,6 @@
 ---
 status: active-authority
-version: 3.5
+version: 3.6
 date: 2026-09-25
 decision: REBOOT-V3
 goal: unknown-author-breakout-and-sustained-income
@@ -8,6 +8,16 @@ goal: unknown-author-breakout-and-sustained-income
 
 # HIT FICTION R&D MASTER PIPELINE V3
 ## 从“做大架构”切换到“短反馈商业漏斗”
+
+# Critical Resource-Order Override
+
+> `meta/PROSE_DESIRE_FIRST_OVERRIDE.md`
+
+Where stage order conflicts:
+> **the override wins.**
+
+Core correction:
+> P0 behavioral desire proof moves BEFORE full Reservoir / Character / Minimal Horizon investment for future candidate funnels.
 
 # Selection Authority
 
