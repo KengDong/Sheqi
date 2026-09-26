@@ -3,62 +3,50 @@
 updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
-# editor_in_chief
-- status: CONTROL / WAITING FOR FIVE REPORTS
+# COMPLETED ISOLATED WORKERS
+
+- fanqie_pool01_minsu_scout — COMPLETE
+- fanqie_pool02_yiwu_scout — COMPLETE
+- fanqie_pool03_weiyi_scout — COMPLETE
+- fanqie_pool04_survival_asset_scout — COMPLETE
+- fanqie_pool06_historical_status_scout — COMPLETE
+
+# CURRENT CONTROL
+
+## editor_in_chief
+- status: READY / NEW WINDOW SUCCESSOR
 - current:
   > `handoffs/editor_in_chief/CURRENT.md`
 
-# DISPATCHED / READY ISOLATED WORKERS
+# FIRST SUCCESSOR ACTION
 
-## fanqie_pool01_minsu_scout
-- status: READY
-- scope: Pool 1 / WANT
-- current:
-  > `handoffs/fanqie_pool01_minsu_scout/CURRENT.md`
+Present numbered market-pool list:
 
-## fanqie_pool02_yiwu_scout
-- status: READY
-- scope: Pool 2 / WANT
-- current:
-  > `handoffs/fanqie_pool02_yiwu_scout/CURRENT.md`
+1. 现代民俗玄学
+2. 都市医武神医
+3. 诡异降临反猎杀
+4. 全民 / 末日求生 + 私有安全资产
+5. 西幻边疆领主
+6. 古代身份困局
+7. 年代赶山赶海
 
-## fanqie_pool03_weiyi_scout
-- status: READY
-- scope: Pool 3 / WANT
-- current:
-  > `handoffs/fanqie_pool03_weiyi_scout/CURRENT.md`
+Show recorded author choice:
+> 1/2/3/4 WANT, 6 MAYBE, 5/7 NO.
 
-## fanqie_pool04_survival_asset_scout
-- status: READY
-- scope: Pool 4 / WANT
-- current:
-  > `handoffs/fanqie_pool04_survival_asset_scout/CURRENT.md`
+AUTHOR may revise.
 
-## fanqie_pool06_historical_status_scout
-- status: READY
-- scope: Pool 6 / MAYBE
-- current:
-  > `handoffs/fanqie_pool06_historical_status_scout/CURRENT.md`
+# AFTER AUTHOR CONFIRMATION
 
-# SHARED BRIEF
-> `research/briefs/2026-09-26_reboot_v4_selected_pool_direct_hit_matched_failure_deepread_brief.md`
-
-# HARD ISOLATION
-- each scout reads its own CURRENT + shared authority only;
-- no scout reads another scout's deep-read report;
-- no cross-pool ranking;
-- no Concept generation.
+If retained set remains authorized:
+> editor synthesizes Pool 1/2/3/4/6 deep-read evidence WITHOUT ranking.
 
 # BLOCKED
+
 - Concept Forge
 - prose
-- old-candidate revival
-- final novel / pool selection
-- readers
+- final winner
+- AI cross-pool ranking
+- old candidate revival
 - Reservoir / Character / Horizon
 
-# COMPLETION CONDITION
-When all five scouts are COMPLETE:
-> return to editor_in_chief for evidence-integrity review and non-ranked synthesis.
-
-No downstream Concept task becomes READY automatically.
+No downstream creative worker is READY.
