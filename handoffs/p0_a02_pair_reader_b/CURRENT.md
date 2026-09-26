@@ -1,23 +1,18 @@
 # A02 P0 Pair Reader B｜CURRENT
 
-## ROLE
-- role: p0_a02_pair_reader_b
-- status: READY
-- decision: REBOOT-V3
-- clean_room: HARD
+## STATUS
+> CANCELLED / AUTHOR-READ ROOT REOPEN
 
-## CURRENT TASK
-Execute:
-> `research/briefs/2026-09-26_reboot_v3_a02_p0_pair_reader_b_brief.md`
+Reason:
+> author directly read the A02 P0 V2 pair and judged it “太难看了”.
 
-## HARD INPUT BOUNDARY
-Read only:
-- own brief;
-- A02 anonymous P0 V2 pair.
+This higher-level behavioral evidence makes marginal X/Y comparison low-value.
 
-Do not read mapping, writer files, project research, other reader result, V1 P0, or web.
+See:
+> `reviews/2026-09-26_a02_p0_author_read_failure_and_benchmark_gap.md`
 
-## OUTPUT
-> `reviews/2026-09-26_reboot_v3_a02_p0_pair_reader_b.md`
+Do not read/evaluate the old anonymous pair.
 
-Then CURRENT/history/commit/STOP.
+Wait for rebuilt P0 after Direct Opening Benchmark Deep Read.
+
+STOP.
