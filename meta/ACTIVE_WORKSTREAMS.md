@@ -4,40 +4,32 @@ updated: 2026-09-26
 
 # editor_in_chief
 - status: ACTIVE / ORCHESTRATION ONLY
-- current_stage: A02 P0 V2 complete; A02 readers + A01 rerun active
+- current_stage: A02 author-read P0 failure; benchmark layer reopened
 
-# completed
-- upstream gates through Horizon Cut
-- A02 Native V2
-- A02 Mirror V2
+# PAUSED / CANCELLED
+- p0_a02_pair_reader_a: CANCELLED
+- p0_a02_pair_reader_b: CANCELLED
+- p0_a01_native_writer: BLOCKED
+- p0_a01_mirror_writer: BLOCKED
+- A04 P0 rerun: BLOCKED
+- B10 P0 rerun: BLOCKED
 
-# CORE CREATIVE WIP｜2
+# CORE WIP
 
-## p0_a01_native_writer
-- status: READY
+## p0_opening_benchmark_scout
+- status: READY / RUN NOW
+- current:
+  > `handoffs/p0_opening_benchmark_scout/CURRENT.md`
 
-## p0_a01_mirror_writer
-- status: READY
-
-# READER SIDE-LANE
-
-## p0_a02_pair_reader_a
-- status: READY
-- read order: X -> Y
-
-## p0_a02_pair_reader_b
-- status: READY
-- read order: Y -> X
-
-# RERUN QUEUE
-- A04 Native + Mirror V2
-- B10 Native + Mirror V2
+# Purpose
+Select one named Primary Opening Benchmark per ACTIVE candidate and deep-read actual First Screen / Ch1 causal structure.
 
 # downstream
-- A02 pair editor reveal: BLOCKED by two reader reports
-- cross-candidate P0 reader: BLOCKED
+- rebuilt Base Cards: BLOCKED
+- rebuilt Mirror Function Cards: BLOCKED
+- P0 rerun: BLOCKED
+- clean readers: BLOCKED
 - P1: BLOCKED
 
-# Current Actions
-1. Run A01 Native + Mirror V2 in parallel.
-2. Run both A02 clean-room pair readers.
+# Current Single Next Action
+> Run p0_opening_benchmark_scout.
