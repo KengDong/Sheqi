@@ -1,29 +1,38 @@
 # reboot_v4_highconcept_a_architect｜CURRENT
 
 ## STATUS
-> **A3 WORLD MODEL FEEL TEST V2 / BENCHMARK-GROUNDED**
+> **A3 IDENTITY IDEATION / AUTHOR DISCUSSION**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
 
-## AUTHOR PRIORITY
-> A3 remains current priority concept.
+## ROLE
+> `reboot_v4_highconcept_a_architect`
 
-## HOT-WORK BENCHMARK
-> `research/2026-09-26_A3_world_model_hotwork_benchmark.md`
+## CURRENT A3 SOURCES
+- `research/2026-09-26_A3_title_identity_dualworld_benchmark.md`
+- `experiments/reboot_v4/concepts/highconcept/2026-09-26_A3_protagonist_identity_options.md`
 
-## CURRENT A/D FEEL TEST
-> `experiments/reboot_v4/concepts/highconcept/2026-09-26_A3_world_feeltest_A_D_v2_benchmark_grounded.md`
+## CURRENT CORRECTION
+Student is no longer default.
 
-## SUPERSEDED
-> `experiments/reboot_v4/concepts/highconcept/2026-09-26_A3_world_feeltest_A_D.md`
+Primary identity must be chosen from a benchmark-proven reader-entry function:
+- public evaluation / youth transition;
+- forbidden professional access;
+- craft competence;
+- public handling authority;
+- underpriced resource domain;
+- unstable social position.
 
-Previous A/D draft is provisional and not authoritative because it was generated before explicit hot-work benchmark.
+## KEY INSIGHT
+A3 may benefit from a two-layer identity:
+> broad familiar life position + unique access lane.
 
-## CURRENT QUESTION
-AUTHOR compares:
-- A: single modern mass-cultivation world — everyone cultivates by taking; protagonist cultivates by returning.
-- D: dual worlds — protagonist undervalued in modern extraction world and professionally valued in ancient return world; crossings must create immediate status/resource/method asymmetry.
+Examples are exploratory only and not frozen.
+
+## NEXT
+AUTHOR reacts to identity flavors before A/D world design is rebuilt again.
 
 ## HARD
-No final world choice until AUTHOR reacts.
+No final identity pick by AI.
+No weird invented profession for novelty.
