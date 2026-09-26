@@ -2,7 +2,6 @@
 
 updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
-audited_head: 65d13ce3e6cd6e8be511febecf60c07cce257dfc
 
 # Foundational Authority
 
@@ -20,7 +19,7 @@ If an older worker CURRENT conflicts with these current-control files,
 the current-control files win.
 
 # Current Status
-> **ALL FIVE SELECTED-POOL DEEP READS COMPLETE / EDITOR SUCCESSOR READY**
+> **EDITOR SUCCESSOR FULL RECEIVE COMPLETE / READY FOR NON-RANKED SYNTHESIS**
 
 Primary:
 > NONE.
@@ -38,39 +37,30 @@ COMPLETE:
 3. V2.1 19-category coverage patch;
 4. editor V2.1 PASS;
 5. author market-pool WANT / MAYBE / NO selection;
-6. selected-pool deep reads for Pool 1 / 2 / 3 / 4 / 6.
+6. selected-pool deep reads for Pool 1 / 2 / 3 / 4 / 6;
+7. successor editor content-level receive.
 
-V2.1 author-facing board:
-> `experiments/reboot_v4/author_choice/fanqie_market_entry_board_v2.md`
+Author choice remains:
+> Pool 1 WANT / Pool 2 WANT / Pool 3 WANT / Pool 4 WANT / Pool 5 NO / Pool 6 MAYBE / Pool 7 NO.
 
-Author choice:
-> `experiments/reboot_v4/author_choice/author_market_pool_selection.md`
+No repeat confirmation is required unless AUTHOR voluntarily changes a choice.
 
-Deep-read brief:
-> `research/briefs/2026-09-26_reboot_v4_selected_pool_direct_hit_matched_failure_deepread_brief.md`
+# Current Gate
 
-# Recorded Author Market Choice
+Allowed next:
+> **NON-RANKED editor synthesis of Pool 1 / 2 / 3 / 4 / 6.**
 
-- Pool 1 — WANT
-- Pool 2 — WANT
-- Pool 3 — WANT
-- Pool 4 — WANT
-- Pool 5 — NO
-- Pool 6 — MAYBE
-- Pool 7 — NO
+The synthesis may compare:
+- exact Reader Fantasy loop;
+- strongly evidenced mechanisms;
+- evidence weaknesses / uncertainties;
+- hit-vs-weak deltas;
+- newcomer execution burden;
+- false imitation traps;
+- open market functions.
 
-The successor editor must let the AUTHOR reconfirm or modify this before synthesis.
-
-# Current Human / Editor Gate
-
-First:
-> show all seven pools + recorded WANT/MAYBE/NO and let AUTHOR confirm or modify.
-
-Only after confirmation:
-> synthesize retained Pool 1/2/3/4/6 deep reads WITHOUT ranking.
-
-Then:
-> return to AUTHOR.
+After synthesis:
+> return to AUTHOR before any Concept stage.
 
 # BLOCKED
 
@@ -83,4 +73,4 @@ Then:
 - automatic downstream dispatch
 
 # One Sentence
-> **当前权威不是“继续跑市场调研”，而是“五份深读已完成，等待作者确认选择后做非排行总编综合”。**
+> **当前唯一允许的推进是把五份已完成深读做成非排行总编综合，再交回作者做人类决策。**
