@@ -3,43 +3,62 @@
 updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
-# ACTIVE WORKERS
-> NONE.
-
 # editor_in_chief
-- status: ACTIVE CONTROL / AWAITING HUMAN AUTHORIZATION
+- status: CONTROL / WAITING FOR FIVE REPORTS
 - current:
   > `handoffs/editor_in_chief/CURRENT.md`
 
-# AUTHOR CHOICE
-> RECORDED
+# DISPATCHED / READY ISOLATED WORKERS
 
-Exact:
-> `1想要2想要3想要4想要5不要6可能7不要`
+## fanqie_pool01_minsu_scout
+- status: READY
+- scope: Pool 1 / WANT
+- current:
+  > `handoffs/fanqie_pool01_minsu_scout/CURRENT.md`
 
-Retained for possible next evidence stage:
-- WANT: 1 / 2 / 3 / 4
-- MAYBE: 6
+## fanqie_pool02_yiwu_scout
+- status: READY
+- scope: Pool 2 / WANT
+- current:
+  > `handoffs/fanqie_pool02_yiwu_scout/CURRENT.md`
 
-Excluded by author:
-- NO: 5 / 7
+## fanqie_pool03_weiyi_scout
+- status: READY
+- scope: Pool 3 / WANT
+- current:
+  > `handoffs/fanqie_pool03_weiyi_scout/CURRENT.md`
 
-# PENDING NEXT STAGE
-> **selected-pool direct hit + matched-failure deep read**
+## fanqie_pool04_survival_asset_scout
+- status: READY
+- scope: Pool 4 / WANT
+- current:
+  > `handoffs/fanqie_pool04_survival_asset_scout/CURRENT.md`
 
-Status:
-> PROPOSED / NOT DISPATCHED
+## fanqie_pool06_historical_status_scout
+- status: READY
+- scope: Pool 6 / MAYBE
+- current:
+  > `handoffs/fanqie_pool06_historical_status_scout/CURRENT.md`
 
-Scope:
-> 1 / 2 / 3 / 4 / 6 only
+# SHARED BRIEF
+> `research/briefs/2026-09-26_reboot_v4_selected_pool_direct_hit_matched_failure_deepread_brief.md`
+
+# HARD ISOLATION
+- each scout reads its own CURRENT + shared authority only;
+- no scout reads another scout's deep-read report;
+- no cross-pool ranking;
+- no Concept generation.
 
 # BLOCKED
-- concept forge
+- Concept Forge
 - prose
 - old-candidate revival
-- final novel selection
+- final novel / pool selection
 - readers
 - Reservoir / Character / Horizon
 
-# Hard
-No research worker becomes ACTIVE until the author explicitly confirms the next evidence stage.
+# COMPLETION CONDITION
+When all five scouts are COMPLETE:
+> return to editor_in_chief for evidence-integrity review and non-ranked synthesis.
+
+No downstream Concept task becomes READY automatically.
