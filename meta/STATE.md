@@ -4,7 +4,7 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Status
-> **MARKET ENTRY RESEARCH READY**
+> **FANQIE MARKET ENTRY V2.1 COVERAGE PATCH REQUIRED**
 
 Primary:
 > NONE.
@@ -12,34 +12,37 @@ Primary:
 Active novel candidates:
 > NONE.
 
-# Author Authorization
-Author explicitly authorized:
-> “开始推进下一步”
+# V2 Result
+Scout completed:
+- research report;
+- author board;
+- matched controls;
+- newcomer-access analysis;
+- no ranking / concept leakage.
 
-Scope:
-> first post-audit research stage only.
+Editor verdict:
+> **REVISION REQUIRED / COVERAGE GAP**
+
+Reason:
+> six pools are evidence-qualified, but full relevant Fanqie male category coverage was not demonstrated.
 
 # Active Worker
-- fanqie_market_entry_scout: READY
+- fanqie_market_entry_scout: READY / V2.1 COVERAGE PATCH
 
-# Current Task
-> Fanqie-specific exact reader-pool mapping for an unknown first-time male author.
+# Current Patch
+> `research/briefs/2026-09-26_reboot_v4_fanqie_market_entry_v2_1_coverage_patch_brief.md`
 
-# Outputs Expected
-1. `research/2026-09-26_reboot_v4_fanqie_market_entry_v2.md`
-2. `experiments/reboot_v4/author_choice/fanqie_market_entry_board_v2.md`
+# Human Choice
+BLOCKED until V2.1 editor review.
 
-# Next Gate
-After completion:
-> AUTHOR personally marks WANT / MAYBE / NO.
-
-# Blocked
+# Downstream
+BLOCKED:
+- author WANT / MAYBE / NO
+- direct benchmark
 - concept forge
-- direct opening benchmark
 - prose
 - readers
 - Reservoir / Character / Horizon
-- candidate promotion
 
 # One Sentence
-> **先选真实市场池，再生任何小说。**
+> **先证明没有漏掉更重要的番茄Reader池，再让作者选。**
