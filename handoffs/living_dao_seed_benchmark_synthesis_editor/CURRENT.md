@@ -1,42 +1,50 @@
 # living_dao_seed_benchmark_synthesis_editor｜CURRENT
 
 ## STATUS
-> COMPLETE / AUTHOR CHOICE BOARD READY
+> AUTHOR CHOICE BOARD V1 REJECTED FOR SELECTION / SCENE-PROVED REBUILD V2 READY
 
 ## BRANCH
 > `reboot-v4-living-dao-seed-framework`
 
-## INPUTS
-- modern cultivation scout
-- dualworld scout
-- relationship scout
-- early-loop scout
+## AUTHOR SIGNAL
+> Current options feel close but not convincing enough in logic, pleasure, and content arrangement.
 
-## SYNTHESIS
-> `research/synthesis/2026-09-26_living_dao_seed_benchmark_synthesis_v1.md`
+## DIAGNOSTIC
+> `reviews/2026-09-26_living_dao_seed_choice_board_structural_diagnostic.md`
 
-## AUTHOR CHOICE BOARD
+Root finding:
+> previous options over-explained mechanism and under-exploited the title-native fact that the protagonist's cheat is a living person he cannot own.
+
+## OLD CHOICE BOARD
 > `experiments/reboot_v4/author_choice/2026-09-26_living_dao_seed_framework_choice_board_v1.md`
 
-## CURRENT OPTIONS
-1. 共修第三条路
-2. 活种会实时长大
-3. 道种源头本人
-4. 活种可能性树
-5. 共享盲区
-6. 双界双重判分
+Status:
+> PROVISIONAL / DO NOT SELECT.
 
-Combination families:
-- P = 2 + 5 + 6
-- Q = 3 + 1 + 6
-- R = 4 + 5
-- S = 1 + 6
+## NEW SCENE-PROVED BOARD
+> `experiments/reboot_v4/author_choice/2026-09-26_living_dao_seed_scene_proved_rebuild_v2.md`
 
-No winner selected.
+Current candidates:
+1. 人生写种
+2. 互为道关
+3. 彼此的人生就是对方的活道场
+
+Each now includes:
+- living-human necessity;
+- Ch1 pressure;
+- Ch3 payoff;
+- reason both want contact #2;
+- first real conflict;
+- Ch20 persistent state;
+- Ch100 same-pleasure expansion;
+- benchmark functions;
+- failure mode.
 
 ## HARD
-Do not start logic design until AUTHOR chooses / combines / rejects these options.
+Do not start logic architect until AUTHOR either:
+- selects one candidate;
+- combines specific parts;
+- or rejects all three.
 
-## NEXT
-After AUTHOR decision:
-> `living_dao_seed_logic_architect`
+If all three feel weak:
+> ideate again before logic design.
