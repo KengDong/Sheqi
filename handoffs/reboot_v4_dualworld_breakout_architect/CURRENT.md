@@ -1,7 +1,7 @@
 # reboot_v4_dualworld_breakout_architect｜CURRENT
 
 ## STATUS
-> X8 SOURCE-TRAVEL RULESET READY / AUTHOR REVIEW
+> X8 ORIGIN / IDENTITY / MODERN-CLIMB OPTIONS READY
 
 ## BRANCH
 > `reboot-v4-dualworld-breakout-framework`
@@ -12,66 +12,80 @@
 ## TRAVEL RULES
 > `experiments/reboot_v4/rules/2026-09-26_x8_source_travel_rules_v1.md`
 
-## RECOMMENDED MECHANISM
-> 因果锚 / 溯源式投身
+## NEW OPTIONS FILE
+> `experiments/reboot_v4/options/2026-09-26_x8_origin_identity_climb_options_v1.md`
 
-Modern cultivation methods / relics / lineages naturally preserve source traces.
+## CURRENT RECOMMENDED PACKAGE P
+Identity:
+> Earth person crossed / reincarnated into cyber-cultivation world years earlier and is now fully socialized there.
 
-Protagonist can:
-> follow a present trace upstream to a source-era causal node.
+Crossing cause:
+> the first crossing left a causal world-scar on the soul.
+> Because the soul did not originate in this world's history, deep resonance with present source traces can pull it upstream.
+> This also explains why overwritten history does not overwrite protagonist's old-version memory.
 
-He cannot:
-- select arbitrary famous people;
-- choose any date;
-- stay indefinitely;
-- transport commodities directly;
-- use future records as permanent answer sheet.
+Trigger NOW:
+> protagonist has only recently reached enough spiritual perception + a current cultivation bottleneck forces unusually deep source synchronization.
 
-## FIVE READER-FACING RULES
-1. 他只能顺着现世还存在的“源流”回去。
-2. 一次只能待一阵，回来以后得缓。
-3. 改得越狠，这次入口断得越快。
-4. 东西不能直接带回来，只能让它活过三百年。
-5. 他一改过去，现世就换成新的版本，只有他记得旧的。
+Time:
+> NOT fixed 300 years.
+> accessible date follows the source anchor.
 
-## ANTI-ADDICTION
-Early:
-> one deep source-trip per recovery cycle.
+Modern identity:
+> ordinary local cultivation-university freshman / ordinary university cultivation track.
 
-Reason:
-- modern body remains in deep meditation;
-- spirit / cognition is heavily exhausted;
-- forcing repeated travel causes sensory / memory interference.
+Modern line:
+> university upward mobility with school + work secondary track.
 
-No timer UI.
+Near goal:
+> enter school core cultivation track / secure a key scholarship or qualification.
 
-## SESSION END
-Primary:
-> changing the upstream cause invalidates the present anchor that opened the trip.
+Long climb:
+ordinary student
+→ core school resources
+→ city / interschool
+→ elite exchange / internship
+→ professional qualification
+→ major lineage / national institution.
+
+## TIME DEPTH
+Public/common modern techniques
+→ ~100–500 year source era.
+
+Higher modern institutional access
+→ older founder traces / relics
+→ 500–2000 years.
+
+Late:
+> ancient foundational source eras.
 
 Therefore:
-> intervention itself burns the doorway.
+> modern social climb and historical-depth progression are the same progression.
 
-## TIME
-Travel follows causal nodes, not free clock tourism.
+## ALTERNATE IDENTITY PACKAGES
+Q:
+> fresh Earth transmigration at Ch1 + rapid second crossing.
+High hook, high resemblance risk to 《没钱修什么仙？》.
 
-Next encounter with same actor may occur:
-- hours;
-- days;
-- months;
-- occasionally years later in ancient time.
+R:
+> native student + concrete source relic.
+Simple / iconic, weaker deep logic.
 
-Ancient actors continue to grow independently.
+S:
+> later reveal that ancient allies themselves leave / improve the stable crossing method for protagonist.
+Best as later layer on P, not initial cause.
 
-## MATTER
-No direct cross-era matter transfer early.
+## BENCHMARK EVIDENCE
+- 《没钱修什么仙？》: current official honor shows 十万均订 2026-04-01; Ch1 uses fresh Earth-person transmigration into modern cultivation student.
+- 《原来我是仙道天骄》: current Qidian list shows 2026-09-01 launch, first sub 6691, 万订 on 2026-09-10; uses concrete 破界珠.
+- 《我有一个修仙世界》: Qidian honors include 2024 十二天王 and 万人追捧.
+- 《苟在妖武乱世修仙》 official platform synopsis explicitly sells “穿了，而且是二穿”.
+- 《天命皆烬》 Qidian synopsis explicitly lists 武道乱世 / 赛博修仙 / 两界门 and tag 穿越.
 
-Return through:
-> natural historical preservation / reverse inheritance.
+## NEXT AUTHOR CHOICE
+Choose / react to:
+1. protagonist identity: P / Q / R;
+2. modern line: M1 university / M2 high school / M3 worker / M4 school+work;
+3. whether early time band should center around 100–500 years or another range.
 
-## HARD NEXT
-1. Author accepts / rejects the source-travel logic.
-2. If accepted, freeze exact Ch1 modern social position.
-3. Design first source anchor + first ancient actor.
-4. Design 5 investment → return arcs under these restrictions.
-5. Red-team history causality.
+No full chapter outline until these are narrowed.
