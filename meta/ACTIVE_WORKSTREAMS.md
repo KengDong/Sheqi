@@ -3,27 +3,40 @@
 updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
-# ACTIVE PROCESS
-> Benchmark-first / AUTHOR quick gate
+# READY
 
-# READY FOR NEXT QUICK IDEATION
-Eligible mother markets:
-- 东方玄幻 / 修仙 / 高武成长
-- 都市超凡 / 异能 / 高武
-- 都市医武
-- 诡异反猎杀
-- 末日 / 求生资产
-- 古代身份行动
+## reboot_v4_highconcept_a_architect
+- A1 / A2 / A3
+- current:
+  > `handoffs/reboot_v4_highconcept_a_architect/CURRENT.md`
 
-# HOLD
-- 民俗玄学
+## reboot_v4_highconcept_b_architect
+- B1 / B2 / B3
+- current:
+  > `handoffs/reboot_v4_highconcept_b_architect/CURRENT.md`
 
-# REQUIRED BASELINES
-- `research/2026-09-26_reboot_v4_reference_benchmark_shelf.md`
-- `research/briefs/2026-09-26_reboot_v4_benchmark_first_author_gate.md`
+## reboot_v4_highconcept_c_architect
+- C1 / C2 / C3
+- current:
+  > `handoffs/reboot_v4_highconcept_c_architect/CURRENT.md`
+
+## reboot_v4_highconcept_d_architect
+- D1 / D2 / D3
+- current:
+  > `handoffs/reboot_v4_highconcept_d_architect/CURRENT.md`
+
+# FROZEN
+- benchmark-first raw round 01
+- AUTHOR all-12 approval
+- real-hit reference shelf
 
 # BLOCKED
-- full Concept architecture
+Until the four architecture outputs exist:
+- structural editor synthesis
+- package revision
 - first-screen writing
 - prose
-until AUTHOR marks a raw idea 推进.
+- final winner selection
+
+# HARD
+No worker may weaken the title / hook / central magnet.
