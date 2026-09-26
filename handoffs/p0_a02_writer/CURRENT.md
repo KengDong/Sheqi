@@ -1,44 +1,19 @@
-# P0 A02 Writer｜CURRENT
+# P0 A02 Paired Writer｜CURRENT
 
-## ROLE
-- role: p0_a02_writer
-- status: READY
-- decision: REBOOT-V3
-- stage: P0 First Screen / Native vs Commercial Mirror
-- candidate: A02 《末日先修水电》
+## STATUS
+> RETIRED / INVALIDATED FOR NATIVE-vs-MIRROR A/B EVIDENCE
 
-## SHARED BRIEF
-> `research/briefs/2026-09-26_reboot_v3_p0_paired_writer_brief.md`
+## REASON
+The original protocol stored Native and Mirror instructions in one Git file.
+A full-file read could expose Mirror guidance before Native generation.
 
-## CANDIDATE INPUT
-> `research/briefs/p0_cards/2026-09-26_a02_p0_native_mirror_input.md`
+See:
+> `reviews/2026-09-26_reboot_v3_p0_input_boundary_contamination_audit.md`
 
-## HARD INPUT BOUNDARY
-Read only:
-1. shared P0 paired writer brief;
-2. own candidate input card.
+Existing prose, if any:
+> archive only; do not use for formal Native-vs-Mirror causal comparison.
 
-Do NOT read:
-- competitor P0 input cards;
-- competitor prose;
-- editor rankings;
-- clean-reader results;
-- old Sheqi prose.
+## REPLACEMENT
+Use physically isolated V2 Native and Mirror writer roles.
 
-## PHASE ORDER
-1. Native section only -> write/freeze Variant N.
-2. Then read Mirror Function Card -> write Variant M.
-3. Never revise Native after Mirror exposure.
-
-## OUTPUT
-> `experiments/reboot_v3/p0/a02/2026-09-26_a02_p0_native_mirror.md`
-
-Then selfcheck / CURRENT / history / commit / STOP.
-
-## HARD
-- no Ch1 completion;
-- no new mechanic;
-- no winner;
-- no Primary;
-- no benchmark prose copying;
-- no living-author voice imitation.
+STOP.
