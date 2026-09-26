@@ -1,94 +1,77 @@
 # reboot_v4_dualworld_breakout_architect｜CURRENT
 
 ## STATUS
-> X8 CROSS-ERA PATRON NETWORK / AUTHOR REVIEW
+> X8 SOURCE-TRAVEL RULESET READY / AUTHOR REVIEW
 
 ## BRANCH
 > `reboot-v4-dualworld-breakout-framework`
 
-## CURRENT FRAMEWORK
+## FRAMEWORK
 > `experiments/reboot_v4/concepts/2026-09-26_x8_cross_era_patron_network_framework_v1.md`
 
-## AUTHOR DIRECTION
-Ancient side:
-> from disbelief → exchange → teaching / collaboration → investing in people / routes → future masters / lineages preserve favors, resources and access.
+## TRAVEL RULES
+> `experiments/reboot_v4/rules/2026-09-26_x8_source_travel_rules_v1.md`
 
-Modern side:
-> independent bottom-up climb;
-> school / training / competition / work / institutions;
-> ancient source knowledge, resources, lineage favors and hidden relationships help protagonist repeatedly turn adverse situations around.
+## RECOMMENDED MECHANISM
+> 因果锚 / 溯源式投身
 
-## CORE DUAL LOOP
-Ancient:
-> protagonist supplies downstream results / mature methods / failure history;
-> source-era actors supply source logic / local resources / introductions / future promises.
+Modern cultivation methods / relics / lineages naturally preserve source traces.
 
-Modern:
-> ancient relationships / inheritances / hidden source status mature into current leverage;
-> protagonist converts that leverage into measurable ability and social access.
+Protagonist can:
+> follow a present trace upstream to a source-era causal node.
 
-Compressed:
-> 古界押未来，现界吃兑现.
+He cannot:
+- select arbitrary famous people;
+- choose any date;
+- stay indefinitely;
+- transport commodities directly;
+- use future records as permanent answer sheet.
 
-## MODERN CLIMB
-Four capitals:
-1. strength;
-2. money / cultivation resources;
-3. credentials / access;
-4. current relationships + hidden ancient backing.
+## FIVE READER-FACING RULES
+1. 他只能顺着现世还存在的“源流”回去。
+2. 一次只能待一阵，回来以后得缓。
+3. 改得越狠，这次入口断得越快。
+4. 东西不能直接带回来，只能让它活过三百年。
+5. 他一改过去，现世就换成新的版本，只有他记得旧的。
 
-Important:
-> ancient assets open doors;
-> protagonist must personally cultivate / perform / fight / choose to stay inside.
+## ANTI-ADDICTION
+Early:
+> one deep source-trip per recovery cycle.
 
-## HIDDEN-BACKGROUND PLEASURE
-Visible:
-> ordinary family / ordinary student / limited resources.
+Reason:
+- modern body remains in deep meditation;
+- spirit / cognition is heavily exhausted;
+- forcing repeated travel causes sensory / memory interference.
 
-Hidden:
-> source-level techniques;
-> original founder relationships;
-> founder instructions;
-> sealed resources;
-> old lineage favors.
+No timer UI.
 
-Do not write intentional stupidity.
-Use:
-> low visible status × high hidden capital.
+## SESSION END
+Primary:
+> changing the upstream cause invalidates the present anchor that opened the trip.
 
-## ANCIENT STATUS
-Not talent inversion.
+Therefore:
+> intervention itself burns the doorway.
 
-Progress:
-stranger
-→ impossible future-proof
-→ private collaborator
-→ referral
-→ small-circle high-value adviser
-→ future founders actively seek judgment
-→ hidden patron / co-founder across a generation.
+## TIME
+Travel follows causal nodes, not free clock tourism.
 
-## CURRENT SHELF FANTASY
-Strongest working line:
-> 别人修仙拼家世、名师和资源。
-> 我没有背景。
-> 我的背景，都在三百年前。
+Next encounter with same actor may occur:
+- hours;
+- days;
+- months;
+- occasionally years later in ancient time.
 
-## BENCHMARKS
-- 《没钱修什么仙？》: modern money / school / work / social mobility.
-- 《原来我是仙道天骄》: immediate two-world identity revaluation.
-- 《我有一个修仙世界》: long-run dual-line compounding.
-- 《苟在初圣魔门当人材》: stateful iteration and consequence.
-- 《九种魔药》: open-slot repeat desire.
-- 《我的学习群里全是真大佬》: reciprocal value with remote powerful actors.
+Ancient actors continue to grow independently.
 
-## HARD NEXT TESTS
-1. freeze exact modern Ch1 position / pressure;
-2. define first ancient actor and first exchange;
-3. design 5 distinct investment → return cases;
-4. test first major current-lineage recognition scene;
-5. red-team historical causality and descendant obligation;
-6. anonymous package comparison against current benchmark.
+## MATTER
+No direct cross-era matter transfer early.
 
-## HARD
-Do not claim superiority over 《原来我是仙道天骄》 until anonymous package / early-engine tests actually support it.
+Return through:
+> natural historical preservation / reverse inheritance.
+
+## HARD NEXT
+1. Author accepts / rejects the source-travel logic.
+2. If accepted, freeze exact Ch1 modern social position.
+3. Design first source anchor + first ancient actor.
+4. Design 5 investment → return arcs under these restrictions.
+5. Red-team history causality.
