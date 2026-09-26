@@ -5,51 +5,78 @@ branch: reboot-v4-fanqie-market-entry
 
 # READY
 
-## reboot_v4_pool01_concept04_revision
+## reboot_v4_pool01_package_forge
 - status: READY
 - current:
-  > `handoffs/reboot_v4_pool01_concept04_revision/CURRENT.md`
-- target:
-  > Pool 1 方案四定向返修
+  > `handoffs/reboot_v4_pool01_package_forge/CURRENT.md`
 - output:
-  > `experiments/reboot_v4/concepts/revisions/2026-09-26_pool01_concept04_revision.md`
+  > `experiments/reboot_v4/packages/2026-09-26_pool01_package_set.md`
 
-# ELIGIBLE AFTER STRUCTURAL REVIEW
+## reboot_v4_pool02_package_forge
+- status: READY
+- current:
+  > `handoffs/reboot_v4_pool02_package_forge/CURRENT.md`
+- output:
+  > `experiments/reboot_v4/packages/2026-09-26_pool02_package_set.md`
 
-Direct PASS concepts:
-- Pool 1: 方案一 / 二 / 三
-- Pool 2: 方案一 / 二 / 三 / 四
-- Pool 3: 方案一 / 二 / 三
+## reboot_v4_pool03_package_forge
+- status: READY
+- current:
+  > `handoffs/reboot_v4_pool03_package_forge/CURRENT.md`
+- output:
+  > `experiments/reboot_v4/packages/2026-09-26_pool03_package_set.md`
 
-Total direct PASS:
-> 10
+# BLOCKED / NEXT
 
-Pending:
-- Pool 1 方案四 — REVISE
+## reboot_v4_package_editor
+- status: BLOCKED / WAITING FOR THREE PACKAGE SETS
+- current:
+  > `handoffs/reboot_v4_package_editor/CURRENT.md`
+
+# STRUCTURALLY ELIGIBLE CONCEPTS
+
+Pool 1:
+- 方案一
+- 方案二
+- 方案三
+- 方案四（PASS AFTER REVISION）
+
+Pool 2:
+- 方案一
+- 方案二
+- 方案三
+- 方案四
+
+Pool 3:
+- 方案一
+- 方案二
+- 方案三
+
+Total:
+> 11
 
 Dropped:
-- Pool 3 方案四 — DROP FOR STRUCTURAL FAILURE
+- Pool 3 方案四
 
 # COMPLETED / FROZEN
-- reboot_v4_pool01_minsu_concept_forge
-- reboot_v4_pool02_yiwu_concept_forge
-- reboot_v4_pool03_weiyi_concept_forge
+- reboot_v4_pool01_concept04_revision
 - reboot_v4_three_pool_concept_editor
-- all prior market-entry and evidence workers
+- all concept forges
+- all prior market/evidence workers
 
 # CONTROL
 
 ## editor_in_chief
-- status: WAITING FOR ONE TARGETED REVISION
+- status: PACKAGE STAGE ORCHESTRATION
 
 # HARD BLOCKED
-Until Pool 1 concept04 revision is rechecked:
-- package / title / blurb testing
-- shelf click-desire testing
+Until package sets + package review complete:
+- anonymous shelf test
+- first-screen writing
 - prose
 - final winner
 - ranking / scoring
 - old candidate revival
 
 # NEXT
-> Run the single targeted Pool 1 concept04 revision.
+> Run three isolated package forge windows in parallel.
