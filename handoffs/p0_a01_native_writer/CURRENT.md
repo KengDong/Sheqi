@@ -2,7 +2,7 @@
 
 ## ROLE
 - role: p0_a01_native_writer
-- status: READY
+- status: BLOCKED / P0 BENCHMARK REOPEN
 - decision: REBOOT-V3
 - condition: NATIVE
 - candidate: A01
