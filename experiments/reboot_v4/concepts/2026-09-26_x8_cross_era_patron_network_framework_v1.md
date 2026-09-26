@@ -661,3 +661,258 @@ Hard next tests:
 4. test first major current-lineage recognition scene for plausibility;
 5. red-team historical causality / descendant obligation;
 6. package against 《原来我是仙道天骄》 anonymously.
+
+
+# 19. Five concrete investment → return modules
+
+## Module 1｜未来剑祖：知识投资 → 实战 + 源流身份
+
+Ancient:
+- young swordsman is building a rough method;
+- modern protagonist knows the later standardized descendant form + recorded failure cases;
+- source swordsman knows the original killing context / bodily logic.
+
+Exchange:
+- protagonist gives downstream result and known long-run failure;
+- swordsman gives original context and an unpublished branch.
+
+Ancient compounding:
+- swordsman later becomes founder-level figure;
+- preserves one private branch and a note for the future visitor.
+
+Modern return:
+- protagonist gains a branch optimized for nonstandard combat;
+- later receives source-lineage archive access.
+
+Pleasure:
+> classmates learn the famous descendant version;
+> protagonist knows the founder personally disliked one part of it.
+
+---
+
+## Module 2｜未来丹道改革者：方法投资 → centuries-mature resource
+
+Ancient:
+- low-status alchemy apprentice has an idea modern history later proves important,
+  but current process is unsafe / unstable.
+
+Protagonist value:
+- later industrial standard;
+- long-run side-effect records;
+- knowledge that one discarded ingredient becomes critical.
+
+Ancient actor value:
+- real herbs;
+- original furnace conditions;
+- tacit craft knowledge.
+
+Return:
+- he plants / preserves a rare spirit species or seed line specifically for future retrieval;
+- descendants maintain it as a founder instruction.
+
+Modern:
+> protagonist cannot afford a mature resource on the market,
+> but a three-hundred-year-old reserve exists because he helped create it.
+
+---
+
+## Module 3｜未来医脉：risk investment → hidden treatment access
+
+Ancient:
+- healer is experimenting with a dangerous body-repair route.
+
+Modern protagonist knows:
+- later medicine still uses descendants of it;
+- early catastrophic failures;
+- which patient types were incompatible.
+
+He prevents one avoidable disaster,
+but cannot solve the whole method.
+
+The healer develops a safer branch.
+
+Return:
+- private diagnostic / treatment method;
+- founder instruction:
+  > if the future visitor returns with token X, treat him once.
+
+Modern payoff:
+- protagonist later suffers an injury / body bottleneck that ordinary treatment would cost too much / take too long;
+- current medical lineage verifies the old instruction and gives one high-level consultation / treatment slot.
+
+Not free immortality.
+It opens access.
+
+---
+
+## Module 4｜future institutional founder：relationship investment → social access
+
+Ancient:
+- one actor is not the strongest cultivator;
+- he is good at organizing people / teaching / distribution.
+
+Protagonist sees:
+> his obscure little group becomes a major modern institution only if several key people meet / stay.
+
+He invests by:
+- making introductions;
+- warning about one structural failure;
+- backing him when stronger people dismiss him.
+
+Return:
+- founder charter / sealed personal letter / reserved archive right.
+
+Modern payoff:
+> protagonist later applies to / deals with this institution from a low social position.
+> current staff judge him normally.
+> after verification, founder-level instruction forces them to grant:
+> an audience / archive visit / one special examination.
+
+No kneeling.
+But the door that should be closed opens.
+
+---
+
+## Module 5｜failed bet：wrong history → rival / loss / usable information
+
+Protagonist chooses a historical person because old records say:
+> this person later becomes important.
+
+But prior interventions changed the future.
+
+The person:
+- takes a different route;
+- rejects protagonist;
+- steals / weaponizes part of his advice;
+- or becomes a rival to another ancient friend.
+
+Modern result:
+- an expected inheritance disappears;
+- one current technique / institution changes against protagonist;
+- protagonist loses an anticipated advantage.
+
+What remains:
+- knowledge that future records are no longer reliable;
+- a new enemy / competing lineage;
+- relationship history.
+
+Function:
+> investment is judgment under uncertainty,
+not picking guaranteed future winners.
+
+# 20. First major present-lineage recognition scene
+
+Setup:
+- modern protagonist reaches a city / provincial training opportunity.
+- he needs access to a restricted technique archive / treatment / special venue.
+- ordinary route requires credentials or money he does not have.
+
+He does NOT walk in saying:
+> "your founder owes me."
+
+He first tries the normal route and is rejected / waitlisted.
+
+Then he presents:
+- a token / phrase / source manuscript left by the ancient founder.
+
+Current staff do not believe it.
+
+Verification is concrete:
+- founder-exclusive Dao mark;
+- hidden archive cross-check;
+- sealed text that cannot be known publicly.
+
+The institution's senior person arrives.
+
+Important reaction:
+> not kneeling,
+> but the room's social logic changes immediately.
+
+Before verification:
+> ordinary student / low priority.
+
+After verification:
+> unresolved founder-level obligation / historical anomaly.
+
+Outcome:
+- private audience;
+- limited archive access;
+- one favor / test;
+- serious curiosity / caution.
+
+Reader pleasure:
+> protagonist's visible background is still ordinary,
+> but his hidden relationship capital has just overridden a gate that money / ordinary credentials could not.
+
+# 21. Historical-causality rules
+
+Keep only five early rules:
+
+1. protagonist can connect to a limited upstream era / network;
+2. he remembers the prior downstream version;
+3. upstream choices rewrite only causal chains they actually touch;
+4. matter does not jump directly across time — it must survive normally;
+5. source-era people own their choices; protagonist cannot command history.
+
+Additional scaling constraint:
+> large historical institutions have inertia.
+Small interventions first change:
+- individuals;
+- branches;
+- relationships;
+- local records.
+
+Only accumulated changes later alter:
+- organizations;
+- widespread techniques;
+- major modern institutions.
+
+# 22. Modern climb should alternate reward types
+
+Avoid:
+> ancient help → fight → face-slap → repeat.
+
+Recommended rhythm:
+
+1. strength payoff;
+2. money / resource payoff;
+3. credential / opportunity payoff;
+4. relationship / mentor payoff;
+5. hidden-background access payoff;
+6. current-world independent win with NO ancient rescue.
+
+This ensures:
+> protagonist himself becomes stronger,
+not merely better connected.
+
+# 23. Modern recurring cast requirement
+
+At least:
+- one teacher / coach who revalues protagonist based on measurable results;
+- one peer who grows with him rather than resetting as disbelief NPC;
+- one stronger current-world rival with legitimate advantages;
+- one work / money relationship;
+- one current institution contact earned without ancient lineage favors.
+
+Hard test:
+> if ancient connection is unavailable for 10 chapters,
+> modern line must still produce story through money, training, competition, work and relationships.
+
+# 24. Strongest X8 contrast
+
+Ancient side:
+> people who will become founders increasingly treat protagonist as a valuable collaborator / backer.
+
+Modern side:
+> descendants / institutions do not know his present identity and initially judge him as ordinary.
+
+Reader sees both.
+
+This produces:
+> **the same person is low-access in the mature world,
+> but high-relationship-capital in the world's source era.**
+
+Unlike 《原来我是仙道天骄》:
+> contrast is not aptitude.
+It is:
+> historical relationship capital + source authority.
