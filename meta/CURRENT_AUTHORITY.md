@@ -4,22 +4,25 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Current Status
-> **AUTHOR DECISION REQUIRED**
+> **AUTHOR QUICK BENCHMARK GATE**
 
-Diagnostic complete:
-> `reviews/2026-09-26_reboot_v4_no_strong_hit_diagnostic.md`
+Authorized:
+- generate short raw premises only;
+- compare each against 1–3 real strong references;
+- show AUTHOR immediately.
 
-No new concept generation is currently authorized.
+Not authorized before AUTHOR says 推进:
+- Ch20 design;
+- Ch100 design;
+- relationship engine;
+- anti-treadmill architecture;
+- prose;
+- first-screen writing.
 
-# Proposed next authorization
-If AUTHOR agrees:
-> run a hook-first second concept round inside Pool 2 / Pool 3 only.
+# Market correction
+Cultivation / xuanhuan / high martial / urban ability are not excluded.
 
-# Not authorized
-- prose
-- first-screen writing
-- AI winner selection
-- second-round concept generation before AUTHOR approval
+They are reopened because broad mother-market evidence was already validated; earlier exclusion reflected stricter Fanqie newcomer causal-evidence requirements, not lack of demand.
 
 # One Sentence
-> **等待作者决定是否按“先钩子、后结构”的新流程重开第二轮。**
+> **先同屏对标热门，再由作者一眼决定值不值得推进。**
