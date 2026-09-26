@@ -4,35 +4,27 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Current Status
-> **PACKAGE / CLICK-DESIRE PREP AUTHORIZED**
+> **PACKAGE QA AUTHORIZED**
 
-Structurally eligible:
-> 11 concepts
+Package sets complete:
+- Pool 1: 4
+- Pool 2: 4
+- Pool 3: 3
 
-Pool 1:
-> 4
+Total:
+> 11
 
-Pool 2:
-> 4
-
-Pool 3:
-> 3
-
-Dropped:
-> Pool 3 concept04
-
-# Current Authorized Workers
-- `reboot_v4_pool01_package_forge`
-- `reboot_v4_pool02_package_forge`
-- `reboot_v4_pool03_package_forge`
-
-Shared protocol:
-> `research/briefs/2026-09-26_reboot_v4_package_test_protocol.md`
-
-# Next Gated Worker
+# Current Authorized Worker
 > `reboot_v4_package_editor`
 
-Blocked until three package sets exist.
+Current:
+> `handoffs/reboot_v4_package_editor/CURRENT.md`
+
+# Purpose
+Packaging quality/fairness only.
+
+# Next gate after QA
+Anonymous mixed-shelf click-desire test.
 
 # Still prohibited
 - prose
@@ -42,4 +34,4 @@ Blocked until three package sets exist.
 - old candidate revival
 
 # One Sentence
-> **当前授权只到11个方案的番茄包装与包装质检，书架点击测试在质检通过后再开。**
+> **当前只授权包装质检，匿名书架测试在质检结束后再解锁。**
