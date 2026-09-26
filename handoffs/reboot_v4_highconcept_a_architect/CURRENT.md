@@ -1,7 +1,7 @@
 # reboot_v4_highconcept_a_architect｜CURRENT
 
 ## STATUS
-> **COMPLETE / LANE A ARCHITECTURE FROZEN**
+> **AUTHOR REVIEW / MECHANICS REVISION V2 COMPLETE**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
@@ -9,22 +9,31 @@
 ## ROLE
 > `reboot_v4_highconcept_a_architect`
 
-## OUTPUT
+## BASE ARCHITECTURE
 > `experiments/reboot_v4/concepts/highconcept/2026-09-26_lane_a_architecture.md`
 
-## RESULTS
-- A1 — STRUCTURALLY VIABLE
-- A2 — STRUCTURALLY VIABLE
-- A3 — STRUCTURALLY VIABLE
+## AUTHOR-DRIVEN MECHANICS REVISION
+> `experiments/reboot_v4/concepts/highconcept/2026-09-26_lane_a_mechanics_revision_v2.md`
 
-## HIGHEST CHECK
-All three retain:
-- frozen title;
-- original hook;
-- concrete long magnet;
-- high-concept intensity.
+## REVISION FOCUS
+A1:
+- reader should fear / resist each death;
+- death itself only creates a seed;
+- full divine power requires returning to conquer the killing cause;
+- 99 deaths must not become 99 skill slots.
 
-No concept was sanitized into generic cultivation.
+A2:
+- visible collection;
+- tiny accumulation;
+- slow completion;
+- building-level and sect-level synergies.
 
-## STOP
-Do not continue this lane unless AUTHOR requests revision or next-stage comparison.
+A3:
+- daily pleasure through dying treasures / proper funerals / inherited residue;
+- small funerals must feed the Heaven-funeral mainline.
+
+## NEXT
+Wait for AUTHOR reaction on the V2 mechanics before further revision or moving on.
+
+## HARD
+Do not proceed to prose.
