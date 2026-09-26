@@ -4,7 +4,7 @@
 > BLOCKED / WAIT FOR PHASE 1A–1D
 
 ## BRANCH
-> `reboot-v4-fanqie-market-entry`
+> `reboot-v4-living-dao-seed-framework`
 
 ## ROLE
 > benchmark synthesis only
