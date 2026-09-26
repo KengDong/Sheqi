@@ -1,59 +1,94 @@
 # reboot_v4_dualworld_breakout_architect｜CURRENT
 
 ## STATUS
-> X7 CH1–20 PLEASURE STRESS TEST COMPLETE / TARGETED GAP FOUND
+> X8 CROSS-ERA PATRON NETWORK / AUTHOR REVIEW
 
 ## BRANCH
 > `reboot-v4-dualworld-breakout-framework`
 
-## TEST FILE
-> `experiments/reboot_v4/framework_tests/2026-09-26_x7_ch01_ch20_pleasure_stress_test_v1.md`
+## CURRENT FRAMEWORK
+> `experiments/reboot_v4/concepts/2026-09-26_x8_cross_era_patron_network_framework_v1.md`
 
-## RESULT
-X7 survives the first Ch1–20 stress test.
+## AUTHOR DIRECTION
+Ancient side:
+> from disbelief → exchange → teaching / collaboration → investing in people / routes → future masters / lineages preserve favors, resources and access.
 
-Proved conditionally:
-- Ch2 identity contrast;
-- Ch3 concrete modern gain;
-- Ch10 public modern revaluation;
-- Ch20 hidden-history identity payoff;
-- stateful repeat engine;
-- self-refreshing information gap.
+Modern side:
+> independent bottom-up climb;
+> school / training / competition / work / institutions;
+> ancient source knowledge, resources, lineage favors and hidden relationships help protagonist repeatedly turn adverse situations around.
 
-## MODERN-WORLD CORRECTION
-Do not use:
-> poor student only gets half a technique / DLC-style paid full skill.
+## CORE DUAL LOOP
+Ancient:
+> protagonist supplies downstream results / mature methods / failure history;
+> source-era actors supply source logic / local resources / introductions / future promises.
 
+Modern:
+> ancient relationships / inheritances / hidden source status mature into current leverage;
+> protagonist converts that leverage into measurable ability and social access.
+
+Compressed:
+> 古界押未来，现界吃兑现.
+
+## MODERN CLIMB
+Four capitals:
+1. strength;
+2. money / cultivation resources;
+3. credentials / access;
+4. current relationships + hidden ancient backing.
+
+Important:
+> ancient assets open doors;
+> protagonist must personally cultivate / perform / fight / choose to stay inside.
+
+## HIDDEN-BACKGROUND PLEASURE
+Visible:
+> ordinary family / ordinary student / limited resources.
+
+Hidden:
+> source-level techniques;
+> original founder relationships;
+> founder instructions;
+> sealed resources;
+> old lineage favors.
+
+Do not write intentional stupidity.
 Use:
-> standard technique is public;
-> expensive layers are teacher correction, personal adaptation, advanced training, competition modules, data, recovery and access.
+> low visible status × high hidden capital.
 
-Protagonist's opening:
-> cannot afford / access individualized upward-mobility training,
-> so he self-studies old editions / founder material.
+## ANCIENT STATUS
+Not talent inversion.
 
-## CORE CH1–20
-Ch1 current bottleneck + source contact.
-Ch2 future mature move shocks the not-yet-famous founder.
-Ch3 jointly create a source branch; modern technique reality updates; protagonist gains directly usable improvement.
-Ch4–5 cash out in modern life.
-Ch6 agency flip: protagonist actively returns.
-Ch7–8 source-era social consequences.
-Ch9–10 first public modern revaluation / resource reallocation.
-Ch11–12 premium experts know less source context than protagonist.
-Ch13 second future-famous actor enters through same network.
-Ch14–16 first rational historical conflict; source person can hurt protagonist's interests.
-Ch17–18 first reverse inheritance.
-Ch19–20 modern records authenticate an unidentified collaborator whose words are protagonist's.
+Progress:
+stranger
+→ impossible future-proof
+→ private collaborator
+→ referral
+→ small-circle high-value adviser
+→ future founders actively seek judgment
+→ hidden patron / co-founder across a generation.
 
-## TARGETED GAP
-Compared with 《原来我是仙道天骄》:
-> ancient-side immediate PUBLIC status pleasure remains weaker.
+## CURRENT SHELF FANTASY
+Strongest working line:
+> 别人修仙拼家世、名师和资源。
+> 我没有背景。
+> 我的背景，都在三百年前。
 
-Do NOT solve by copying:
-- heavenly genius;
-- hidden spiritual root;
-- instant sect worship.
+## BENCHMARKS
+- 《没钱修什么仙？》: modern money / school / work / social mobility.
+- 《原来我是仙道天骄》: immediate two-world identity revaluation.
+- 《我有一个修仙世界》: long-run dual-line compounding.
+- 《苟在初圣魔门当人材》: stateful iteration and consequence.
+- 《九种魔药》: open-slot repeat desire.
+- 《我的学习群里全是真大佬》: reciprocal value with remote powerful actors.
 
-## NEXT
-Generate 3–4 ways for source-era society to assign protagonist immediate high value because he knows mature future forms / downstream consequences, while remaining logically distinct from talent-inversion.
+## HARD NEXT TESTS
+1. freeze exact modern Ch1 position / pressure;
+2. define first ancient actor and first exchange;
+3. design 5 distinct investment → return cases;
+4. test first major current-lineage recognition scene;
+5. red-team historical causality and descendant obligation;
+6. anonymous package comparison against current benchmark.
+
+## HARD
+Do not claim superiority over 《原来我是仙道天骄》 until anonymous package / early-engine tests actually support it.
