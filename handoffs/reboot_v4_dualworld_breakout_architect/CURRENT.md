@@ -1,74 +1,71 @@
 # reboot_v4_dualworld_breakout_architect｜CURRENT
 
 ## STATUS
-> X4 MODERN TRAINING ARCHIVE / AUTHOR DISCUSSION
+> X5 GROUNDED MODERN INTERFACE / AUTHOR DISCUSSION
 
 ## BRANCH
 > `reboot-v4-dualworld-breakout-framework`
 
 ## AUTHOR CORRECTION
-- “仙史” is too distant / game-like.
-- S/A/B/C/D/E ranking is too RPG-like and not cultivation-native.
-- modern side should follow the grounded social logic learned from 《没钱修什么仙？》.
-
-## CURRENT FILE
-> `experiments/reboot_v4/quick_ideation/2026-09-26_dualworld_x4_modern_training_archive.md`
-
-## CURRENT RECOMMENDED TERMINOLOGY
-Formal institution:
+Modern society would not naturally call the institution:
 > 修炼实训库
 
-Technical content:
-> 道痕回放 / 修行案例
+Reader-facing modern terminology must feel like ordinary education / infrastructure.
 
-Student slang:
-> 刷案例 / 刷回放
+## CURRENT FILE
+> `experiments/reboot_v4/quick_ideation/2026-09-26_dualworld_x5_grounded_modern_interface.md`
+
+## RECOMMENDED NAMING STACK
+Underlying tech:
+> 道痕复现技术 / 道痕复现系统
+
+School course:
+> 实境课 / 实境训练课
+
+Facility:
+> 实境中心 / 实训中心 / 训练舱
+
+Content:
+> 案例 / 道痕档案
+Student speech:
+> 回放
+
+Archive:
+> 道痕档案库 / 案例库
 
 Low-value content:
-> 残档 / 低复原案例
+> 旧档 / 残档 / 低复原案例
 
 ## NO LETTER GRADES
-Use:
-- 复原度;
-- 认证用途;
-- 可计实训学时;
-- 使用成本 / 额度;
-- 稳定性 / 风险;
-- 训练项目.
+Use practical metadata:
+- 复原率;
+- 认证学时;
+- 适用方向;
+- 名额;
+- 费用;
+- 稳定性;
+- 风险;
+- 档案权限.
 
-Famous-master cases are valuable because:
-> high reconstruction + stable outcomes + official certification + expensive / scarce access.
+## CORE INVERSION
+Normal students value:
+> stable certified replay.
 
-Broken cases are low-value because:
-> low reconstruction + no reliable training + no credit.
+Protagonist values:
+> missing sections.
 
-## PROTAGONIST INVERSION
-Public system values:
-> reliable learning output.
-
-Protagonist hidden value:
-> causal access through missing sections.
-
-Working hook:
-> 别人花钱刷名师回放，我专挑没人要的残档。
-> 因为他们刷到的是前人留下的经验，我刷到的那个人还没死。
-
-## CURRENT MODERN PRESSURE OPTIONS
-- limited practical-training quota;
-- money;
-- certification requirement;
-- weak school archive resources;
-- specific practical deficit.
-
-Do not copy 《没钱修什么仙？》 exact poverty/debt package.
-
-## CURRENT OPEN QUESTIONS
-1. Is ancient side literal causal past, causally upstream source-world, or parallel source-world?
-2. How bounded are downstream record changes?
-3. Which modern practical pressure opens Ch1?
-4. How many recurring ancient anchors?
+Working line:
+> 别人抢名家回放，因为学得稳。
+> 我专翻没人看的残档，因为缺掉的那一段，是真的。
 
 ## HARD
-Do not return to S/A/B/C grading.
-Do not use "E级刷成S级" reader-facing progression.
-Do not build full framework until author confirms the modern anchor and causal-world relation.
+Avoid reader-facing:
+- 仙史实境;
+- 修炼实训库;
+- S/A/B/C/D/E;
+- 史缺池;
+- 史证积分;
+- E升S.
+
+## NEXT
+Discuss whether `实境课 + 回放 + 残档` feels grounded enough before rebuilding the full X2/X3 causal-history framework around it.
