@@ -4,7 +4,7 @@
 > **BLOCKED UNTIL FRAMEWORK DRAFT COMPLETE**
 
 ## BRANCH
-> `reboot-v4-fanqie-market-entry`
+> `reboot-v4-living-dao-seed-framework`
 
 ## ROLE
 > `living_dao_seed_framework_redteam`
