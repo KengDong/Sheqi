@@ -6,16 +6,11 @@ branch: reboot-v4-fanqie-market-entry
 # CURRENT CONTROL
 
 ## editor_in_chief
-- status: FINAL SYNTHESIS COMPLETE / RETURN TO AUTHOR
-- final synthesis:
-  > `reviews/2026-09-26_reboot_v4_retained_pool_editor_synthesis.md`
-- red-team:
-  > `reviews/2026-09-26_reboot_v4_retained_pool_synthesis_redteam.md`
-- normalized evidence:
-  > `research/synthesis_inputs/2026-09-26_reboot_v4_retained_pool_normalized_evidence.md`
+- status: AUTHOR SHRINK GATE / WAITING FOR AUTHOR
+- decision sheet:
+  > `experiments/reboot_v4/author_choice/2026-09-26_retained_pool_author_decision_sheet.md`
 
-# COMPLETED SUPPORT
-
+# COMPLETED / FROZEN
 - retained_pool_evidence_normalizer — COMPLETE / FROZEN
 - retained_pool_synthesis_redteam — COMPLETE / FROZEN
 - fanqie_market_entry_scout — COMPLETE / ARCHIVED
@@ -26,20 +21,17 @@ branch: reboot-v4-fanqie-market-entry
 - fanqie_pool06_historical_status_scout — COMPLETE / FROZEN
 
 # HUMAN GATE
+AUTHOR now reduces five retained directions to 2–3.
 
-AUTHOR now receives the corrected synthesis.
-
-No worker is READY for the next creative stage.
+No new worker is READY.
 
 # HARD BLOCKED
-
 - Concept Forge
 - prose
-- final winner
-- AI ranking / scoring
+- final topic selection by AI
+- ranking / scoring
 - old candidate revival
-- Reservoir / Character / Horizon
-- creative downstream dispatch
+- downstream creative dispatch
 
 # NEXT
-> AUTHOR decision only.
+> AUTHOR shrink decision only.
