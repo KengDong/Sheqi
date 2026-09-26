@@ -9,44 +9,46 @@ Primary:
 > NONE.
 
 # Completed
-- Market Dossier: PASS
-- AI-native suitability: PASS
-- Lane A/B Concept Forge: DONE
-- Desire Cut: DONE
-- Packaging Micro-Gate: PASS
-- Dual clean-room Shelf Readers: DONE
-- Shelf Cut: DONE
-- Story Reservoir: PASS
-- Character Engine Benchmark: PASS
-- Character Collision: PASS
-- Character Cut: COMPLETE
-- Minimal Horizon: PASS
-- Horizon Cut: COMPLETE
-- P0 V2 A02 Native: COMPLETE
-- P0 V2 A02 Mirror: COMPLETE
+- upstream gates through Horizon Cut
+- P0 physical-isolation correction
+- A02 P0 V2 Native + Mirror generation
 
-# P0 V1
-Invalid for formal Native-vs-Mirror A/B inference.
-Archive only.
+# Author Behavioral Evidence
+A02 P0 V2 anonymous read:
+> author: “太难看了”
+
+Verdict:
+> P0 ROOT REOPEN.
+
+Reason:
+1. A02 Mirror had no named Primary Benchmark;
+2. Mirror Function Card was a generic commercial checklist;
+3. Base Card over-constrained both conditions into the same procedural scene.
+
+Review:
+> `reviews/2026-09-26_a02_p0_author_read_failure_and_benchmark_gap.md`
+
+# Evidence Consequence
+- A02 pair readers: CANCELLED
+- A02 current V2 drafts: diagnostic evidence only, not a winner test
+- A01 current V2 writers: PAUSED before execution
+- A04/B10 reruns: remain blocked
 
 # Current Gate
-> **P0 V2 / A02 PAIR READER + A01 RERUN**
+> **P0 DIRECT OPENING BENCHMARK DEEP READ**
 
-## A02
-Anonymous X/Y pair prepared.
-Clean readers READY:
-- `handoffs/p0_a02_pair_reader_a/CURRENT.md`
-- `handoffs/p0_a02_pair_reader_b/CURRENT.md`
+Next:
+> `handoffs/p0_opening_benchmark_scout/CURRENT.md`
 
-## A01
-Physically isolated writers READY:
-- `handoffs/p0_a01_native_writer/CURRENT.md`
-- `handoffs/p0_a01_mirror_writer/CURRENT.md`
+Brief:
+> `research/briefs/2026-09-26_reboot_v3_p0_direct_opening_benchmark_brief.md`
 
-## Queue
-After A01:
-- A04 V2 rerun
-- B10 V2 rerun
+# Required Result
+For each ACTIVE candidate:
+- 3–5 direct/near-direct opening benchmarks;
+- ONE named Primary Opening Benchmark;
+- actual First Screen / Ch1 causal deep read;
+- candidate-specific function card with scene freedom preserved.
 
 # Current Portfolio
 ACTIVE:
@@ -61,9 +63,11 @@ RESERVE:
 
 No Primary.
 
-# Hard Isolation Rule
-Information-asymmetric conditions require:
-> separate files + separate clean windows.
+# Hard
+- no more P0 Mirror prose until direct benchmark cards are frozen;
+- no A02 polishing;
+- no P1;
+- no long architecture.
 
 # One Sentence
-> **A02 V2已干净完成并进入盲测；A01开始重跑V2。**
+> **“商业镜像”必须真的镜像一部已验证热门开篇的因果功能，不能再把Checklist写成小说。**
