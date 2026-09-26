@@ -1,25 +1,33 @@
-# ACTIVE WORKSTREAMS｜POSTMORTEM REVIEW FREEZE
+# ACTIVE WORKSTREAMS｜REBOOT-V4 FANQIE MARKET ENTRY
 
 updated: 2026-09-26
-branch: reboot-v4-fanqie-root-audit
+branch: reboot-v4-fanqie-market-entry
 
-# ACTIVE WORKERS
-> NONE.
+# ACTIVE / READY
+
+## fanqie_market_entry_scout
+- status: READY
+- current:
+  > `handoffs/fanqie_market_entry_scout/CURRENT.md`
+- brief:
+  > `research/briefs/2026-09-26_reboot_v4_fanqie_market_entry_v2_brief.md`
 
 # editor_in_chief
-- status: PAUSED / AWAITING AUTHOR REVIEW
-- master audit complete
+- status: PAUSED / WAITING FOR SCOUT OUTPUT
+- no parallel creative work
 
-# Globally blocked
-- all market scouts
+# BLOCKED
 - all concept forges
-- all benchmark scouts
-- all writers
-- all readers
-- all architecture/reservoir/character workers
+- all benchmark writers/scouts beyond this market task
+- all prose writers
+- all reader windows
+- all Reservoir / Character / Horizon workers
 
-# Next authorization
-Only after author reviews:
-> `reviews/2026-09-26_master_failure_postmortem_and_repo_reset.md`
+# WIP
+Core execution WIP:
+> 1.
 
-No task is queued as READY.
+# Next Human Gate
+> AUTHOR reviews Fanqie market-entry board.
+
+No downstream worker may become READY automatically.
