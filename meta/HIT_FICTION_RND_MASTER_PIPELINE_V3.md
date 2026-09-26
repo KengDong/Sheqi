@@ -1,6 +1,6 @@
 ---
 status: active-authority
-version: 3.3
+version: 3.4
 date: 2026-09-25
 decision: REBOOT-V3
 goal: unknown-author-breakout-and-sustained-income
@@ -222,6 +222,15 @@ Hard:
 - click兑现；
 - voice/personality；
 - first-screen continuation。
+
+For Native-vs-Mirror experiments:
+> privileged instructions MUST be physically separated into different files and executed in different clean writer windows.
+
+Hard:
+- same-file section boundaries are INVALID isolation;
+- Native writer must never receive Mirror Function Card;
+- Mirror writer must never receive Native prose;
+- any cross-condition exposure invalidates causal A/B evidence.
 
 匿名clean-room Reader：
 > 想停立即停。
