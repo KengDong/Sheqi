@@ -3,7 +3,7 @@
 updated: 2026-09-26
 
 # Status
-> **ROOT RESTART AT MARKET DESIRE RESEARCH**
+> **AWAITING AUTHOR MARKET ENTRY CHOICE**
 
 Primary:
 > NONE.
@@ -11,82 +11,71 @@ Primary:
 Active novel candidates:
 > NONE.
 
-# Root Cause
+# Completed
+- Market Desire Map: COMPLETE
+- Primary Reader Fantasy vs Delivery Vehicle separation: COMPLETE
+- Market-Validated Chassis Gate: FROZEN
+- Validated mother-chassis whitelist: FROZEN
+- Author Market Entry Board V2: READY
 
-The REBOOT-V3 funnel over-optimized:
-- repeatable engine;
-- state compounding;
-- recurring social arena;
-- newcomer/AI production stability;
-- long serialization supply.
+# Current hard rule
 
-It under-optimized:
-> **what current readers actually want to fantasize about repeatedly.**
+Future concepts MUST be:
 
-This bias begins in the original Market Dossier question and propagates through:
-> Concept Forge -> Desire Cut -> Shelf -> Reservoir -> Character -> Horizon -> P0.
+> **CURRENT-HIT-VALIDATED MOTHER CHASSIS**
+> ×
+> **VALIDATED PRIMARY READER FANTASY**
+> ×
+> **ORIGINAL DISTINCTIVE PREMIUM**
 
-Review:
-> `reviews/2026-09-26_reboot_v4_root_cause_and_restart_point.md`
+No concept may advance because:
+- it is structurally clever;
+- AI can write it;
+- it compounds well;
+- it has a popular genre merely as background skin.
 
-# Evidence Status
+# Validated entry pools
+Default whitelist:
+- 东方玄幻 / 修仙 / 高武成长
+- 都市超凡 / 诡异 / 民俗怪谈 / 规则生存
+- 历史穿越 / 历史高武 / 皇权乱世
+- 领主 / 家族 / 势力建设 / 种族成长
+- 西幻 / 巫师 / 地下城 / 非人进化
+- 男频关系 / 校园恋爱 / 多女主关系爽
+- 都市财富 / 重生商战 / 圈层身份逆转
+- 末日 / 生存 / 逃亡 / 安全据点
 
-Old market factual sources:
-> reusable as raw evidence if still current.
+Conditional:
+- 年代美食 / 烟火日常 needs second direct current strong comp.
 
-Old synthesis / candidate-selection conclusions:
-> NOT authority.
-
-Old Lane A/B concepts:
-> archive only.
-
-A01 / A02 / A04 / A10 / B04 / B10 and all other old nuclei:
-> no active / reserve privilege.
-
-Old Reservoir / Character / Horizon:
-> structural archive evidence only.
-
-Old P0:
-> diagnostic archive only.
+# Explicitly not eligible as primary topic without new hit proof
+- water/electric utilities repair
+- property management
+- insurance claims
+- generic maintenance
+- logistics operations
+- factory operations
+- generic shopkeeping
+- brokerage
+- civic/community administration
 
 # Current Gate
 
-> **REBOOT-V4 MARKET DESIRE MAP**
+AUTHOR reads:
+> `experiments/reboot_v4/author_choice/market_entry_board_v2.md`
 
-Owner:
-> `handoffs/market_desire_scout/CURRENT.md`
+AUTHOR marks:
+> WANT / MAYBE / NO.
 
-Brief:
-> `research/briefs/2026-09-26_reboot_v4_market_desire_map_brief.md`
+Only WANT / MAYBE rows proceed.
 
-# Current Question
-
-Not:
-> what commercial structure is easiest to sustain?
-
-Instead:
-> **what PRIMARY READER FANTASIES / emotional experiences are current readers repeatedly consuming, and why?**
-
-# Next Human Gate
-
-After Market Desire Map:
-> AUTHOR personally marks fantasy families WANT / MAYBE / NO.
-
-AI does not rank.
-
-Only author-selected fantasy families unlock:
-> direct hit deep-read -> small concept forge -> author concept ranking -> micro-prose.
-
-# Hard
-
-Until author fantasy selection:
-- no new Sheqi concepts;
-- no candidate resurrection;
-- no P0;
-- no AI candidate ranking;
-- no Reservoir / Character / Horizon work;
-- no long architecture.
+# Downstream
+After author choice:
+> direct hit + matched-control deep read
+> -> small concept forge inside selected hot chassis
+> -> AUTHOR concept ranking
+> -> micro-prose.
 
 # One Sentence
 
-> **这次从市场研究第一问重开：先弄清读者真正想爽什么，再生成任何小说。**
+> **以后只能从已经被当前热门验证过的母题材进场，新鲜只新在Premium，不再发明“修水电型需求”。**
