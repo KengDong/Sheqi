@@ -1,33 +1,63 @@
 # living_dao_seed_modern_cultivation_scout｜CURRENT
 
 ## STATUS
-> READY / PHASE 1A
+> COMPLETE / PHASE 1A / STOPPED
 
 ## BRANCH
-> `reboot-v4-living-dao-seed-framework`
+> reboot-v4-living-dao-seed-framework
 
-## FIRST READ
-1. `research/briefs/2026-09-26_living_dao_seed_framework_benchmark_protocol.md`
-2. `research/briefs/2026-09-26_living_dao_seed_framework_task_plan_v2.md`
+## OUTPUT
 
-## TASK
-Evidence-only study of modern cultivation civilization.
+1. research/benchmarks/2026-09-26_living_dao_seed_modern_cultivation_scout_report.md
+2. handoffs/living_dao_seed_modern_cultivation_scout/SELFCHECK.md
+3. handoffs/living_dao_seed_modern_cultivation_scout/history/2026-09-26_phase1a_modern_cultivation_benchmark.md
 
-Mandatory:
-- 《没钱修什么仙？》
-- 《让仙门再次伟大》
-- modern-line portions of 《我有一个修仙世界》
-- actively search current/recent qualified comps.
+## BENCHMARK STACK FROZEN
 
-Focus:
-- school / work / money / credentials / status;
-- opening pressure;
-- Ch1–20 world reveal;
-- repeated social revaluation;
-- long-run usefulness.
+- DIRECT / CURRENT HOT: 《没钱修什么仙？》
+- LONG-RUN CONTROL: 《我有一个修仙世界》
+- CURRENT NEAR: 《让仙门再次伟大》
+- CURRENT NEAR: 《请勿高考时渡劫》
+- EMERGING DIRECT / WATCHLIST: 《苟在两界修地仙》
+- MATCHED LOW-TRACTION CONTROL: 《仙道社会正盛，你说我在末法？》
 
-## HARD
+## KEY HANDOFF
+
+Modern cultivation civilization works when cultivation is embedded in a conversion chain:
+
+> ability
+> → recognized metric
+> → credential / rank
+> → money / resource / access
+> → social revaluation
+> → larger opportunity / obligation.
+
+World rules are strongest when revealed through ordinary friction:
+- school;
+- food;
+- jobs;
+- hospitals;
+- tests;
+- contracts;
+- licensing;
+- taxes;
+- queues;
+- courses;
+- media / organizational costs.
+
+Important correction:
+> 《让仙门再次伟大》 is CURRENT HOT but only NEAR for this specific modern-cultivation study. It must not be used as evidence that school / work / modern credential systems themselves are proven there.
+
+## HARD BOUNDARY
+
 NO A3 design.
 NO Dao-seed invention.
+NO dual-protagonist design.
 NO chapter outline.
-Commit report + CURRENT/history, then stop.
+NO provisional architecture read.
+
+## NEXT
+
+Wait for Phase 2 benchmark synthesis after all four Phase 1 scouts complete.
+
+Do not continue into logic / character / early-engine design from this window.
