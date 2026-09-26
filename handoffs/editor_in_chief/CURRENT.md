@@ -1,32 +1,35 @@
 # Editor in Chief｜CURRENT
 
 ## STATUS
-> PAUSED / WAITING FOR FANQIE MARKET ENTRY RESEARCH
+> PAUSED / WAITING FOR FANQIE V2.1 COVERAGE PATCH
 
-## BRANCH
-> `reboot-v4-fanqie-market-entry`
+## V2 VERDICT
+> REVISION REQUIRED / COVERAGE GAP
+
+Review:
+> `reviews/2026-09-26_fanqie_market_entry_v2_editor_gate.md`
+
+## WHY
+The six current pools are useful evidence,
+but V2 did not demonstrate systematic coverage of all relevant current Fanqie male categories.
 
 ## ACTIVE WORKER
 > `fanqie_market_entry_scout`
 
-## CURRENT TASK
-None for editor.
+Patch brief:
+> `research/briefs/2026-09-26_reboot_v4_fanqie_market_entry_v2_1_coverage_patch_brief.md`
 
-Wait for:
-1. `research/2026-09-26_reboot_v4_fanqie_market_entry_v2.md`
-2. `experiments/reboot_v4/author_choice/fanqie_market_entry_board_v2.md`
+## AFTER V2.1
+Review only:
+- coverage completeness;
+- DIRECT vs NEAR comp integrity;
+- evidence freeze;
+- evidence strength visibility;
+- old-bias regression.
 
-## AFTER
-Editor may check:
-- evidence quality;
-- matched-control integrity;
-- old-bias regression;
-- whether board actually represents Fanqie newcomer entry.
-
-Then AUTHOR chooses:
-> WANT / MAYBE / NO.
+If PASS:
+> AUTHOR market-pool choice unlocks.
 
 ## HARD
-Do not dispatch Concept Forge automatically.
-
+No Concept Forge.
 STOP.
