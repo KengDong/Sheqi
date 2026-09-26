@@ -1,7 +1,7 @@
 # Editor in Chief｜CURRENT
 
 ## STATUS
-> **DIAGNOSTIC COMPLETE / AUTHOR GATE**
+> **BENCHMARK-FIRST PROCESS ACTIVE**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
@@ -9,31 +9,47 @@
 ## ROLE
 > `editor_in_chief`
 
-# DIAGNOSTIC
-Read:
-> `reviews/2026-09-26_reboot_v4_no_strong_hit_diagnostic.md`
+# CURRENT AUTHORITY
+Do not generate full Concepts.
 
-# ROOT CAUSE
-The previous concept protocol converted long-form durability checks into the dominant design objective.
+Any next raw idea must use:
+> `research/briefs/2026-09-26_reboot_v4_benchmark_first_author_gate.md`
 
-Result:
-> concepts became structurally safe but insufficiently magnetic.
+and compare against:
+> `research/2026-09-26_reboot_v4_reference_benchmark_shelf.md`
 
-# PROCESS CORRECTION
-Next concept round, if AUTHOR starts it:
+# AUTHOR FIRST
+For each idea show only:
+- nearest real hit references;
+- why references are clickable;
+- candidate title;
+- hook;
+- short premise;
+- concrete long-range magnet;
+- why it is not a weaker sanitized copy.
 
-1. Only Pool 2 / Pool 3 initially.
-2. Hook-first, not 14-item concept-first.
-3. Each raw idea only:
-   - one-sentence premise;
-   - first payoff;
-   - one concrete long-range magnet.
-4. AUTHOR fast-filters.
-5. Only surviving ideas receive Ch20 / Ch100 structural work.
+AUTHOR decides:
+- 推进
+- 可能
+- 砍
+
+Only 推进 can receive structural design.
+
+# REOPENED
+- cultivation / eastern fantasy / high martial
+- urban supernatural / ability
+- urban medical / martial
+- weird counter-hunt
+- survival owned-asset
+- historical agency
+
+# HOLD
+- modern folk occult, unless AUTHOR explicitly reopens.
 
 # HARD
-Do not write prose.
-Do not start second round until AUTHOR authorizes.
+- no Ch20 / Ch100 before AUTHOR click interest
+- no prose
+- no AI winner
 
 # ONE SENTENCE
-> **下一轮先测试“想不想看”，再测试“能不能写长”。**
+> **真实热门是最低比较基线，不再让AI自己跟自己比。**
