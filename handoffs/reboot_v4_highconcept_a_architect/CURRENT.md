@@ -1,35 +1,29 @@
 # reboot_v4_highconcept_a_architect｜CURRENT
 
 ## STATUS
-> **A2 CONTINUE / A3 BENCHMARK-DRIVEN PIVOT READY FOR AUTHOR REVIEW**
+> **A3 WORLD MODEL FEEL TEST V2 / BENCHMARK-GROUNDED**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
 
-## ROLE
-> `reboot_v4_highconcept_a_architect`
+## AUTHOR PRIORITY
+> A3 remains current priority concept.
 
-## AUTHORITATIVE NEW DEVELOPMENT
-> `experiments/reboot_v4/concepts/highconcept/2026-09-26_lane_a_a2_a3_benchmark_development.md`
+## HOT-WORK BENCHMARK
+> `research/2026-09-26_A3_world_model_hotwork_benchmark.md`
 
-## A2
-Continue:
-> one persistent inner sect, visible slow accumulation, old assets repeatedly gain new uses, eventual real disciples / legitimacy conflict.
+## CURRENT A/D FEEL TEST
+> `experiments/reboot_v4/concepts/highconcept/2026-09-26_A3_world_feeltest_A_D_v2_benchmark_grounded.md`
 
-## A3
-Proposed pivot:
-> transmigration + 万物送终 system + universal-cultivation ecological debt + traveling professional access + eventual Heaven funeral.
+## SUPERSEDED
+> `experiments/reboot_v4/concepts/highconcept/2026-09-26_A3_world_feeltest_A_D.md`
 
-Primary test title:
-> 《全民修仙把天道吸干了，我来给它办丧事》
+Previous A/D draft is provisional and not authoritative because it was generated before explicit hot-work benchmark.
 
-## HIGHEST RULE
-Any next mechanism must name its strong-work benchmark before design.
-
-## NEXT
-Wait for AUTHOR reaction on A3 pivot and A2 continuation.
+## CURRENT QUESTION
+AUTHOR compares:
+- A: single modern mass-cultivation world — everyone cultivates by taking; protagonist cultivates by returning.
+- D: dual worlds — protagonist undervalued in modern extraction world and professionally valued in ancient return world; crossings must create immediate status/resource/method asymmetry.
 
 ## HARD
-No prose.
-No long outline.
-No ranking.
+No final world choice until AUTHOR reacts.
