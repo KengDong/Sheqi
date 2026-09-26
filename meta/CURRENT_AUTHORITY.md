@@ -4,34 +4,41 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Current Status
-> **ANONYMOUS SHELF CONSTRUCTION AUTHORIZED**
+> **CLEAN-ROOM PACKAGE CLICK TEST AUTHORIZED**
 
-Final packages:
-> 11 / 11 QA-complete
-
-# Authorized Worker
-> `reboot_v4_anonymous_shelf_forge`
-
-# Next Gated Workers
+Authorized workers:
 - `reboot_v4_cleanroom_shelf_reader_a`
 - `reboot_v4_cleanroom_shelf_reader_b`
 
-Readers remain BLOCKED until shelves exist.
+# Isolation
+Reader A:
+> Shelf A only.
 
-# Test Policy
-- package-only;
-- two shelf orderings;
-- private mapping hidden;
-- no ranking;
-- no scoring;
-- no top-3;
-- no final topic recommendation.
+Reader B:
+> Shelf B only.
+
+Private mapping:
+> forbidden to both Readers.
+
+# Output policy
+Per-book absolute reaction only:
+- click;
+- maybe;
+- skip.
+
+No ranking.
+No scoring.
+No top-3.
+No final-topic recommendation.
+
+# After both reports freeze
+Editor may map anonymous positions back to concepts and synthesize signals.
 
 # Still prohibited
 - prose
 - first-screen writing
-- AI winner
+- AI final winner
 - old candidate revival
 
 # One Sentence
-> **当前授权到匿名书架制作；Reader测试在书架完成后解锁。**
+> **当前授权到两份独立匿名包装点击测试；任何映射分析必须等两份Reader报告冻结后。**
