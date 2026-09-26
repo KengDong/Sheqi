@@ -3,66 +3,69 @@
 ## ROLE
 - role: editor_in_chief
 - status: ACTIVE / ORCHESTRATION ONLY
-- current_issue: REBOOT-V3
+- current_issue: REBOOT-V3 / P0 V2
 
 ## HIGHEST GOAL
 > unknown-author breakout + sustained long-run income.
 
 ## CURRENT AUTHORITY
 1. `meta/CURRENT_AUTHORITY.md`
-2. `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md` v2.1
-3. `meta/HIT_FICTION_RND_MASTER_PIPELINE_V3.md` v3.3
+2. `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
+3. `meta/HIT_FICTION_RND_MASTER_PIPELINE_V3.md` v3.4
 4. `meta/CANDIDATE_SELECTION_AND_FALSE_NEGATIVE_POLICY_V1.md`
 5. `meta/BENCHMARK_CAUSALITY_STANDARD.md`
 6. `meta/READER_EVIDENCE_HIERARCHY.md`
 
-## COMPLETED THROUGH
-- Market Dossier
-- AI-native suitability
-- Lane A/B Concept Forge
-- Desire Cut
-- Packaging + clean-room Shelf Test
-- Shelf Cut
-- Story Reservoir
-- Character Engine Benchmark
-- Character Engine Editor Synthesis
+## CURRENT ISSUE
+P0 V1 Native-vs-Mirror paired-writer experiment was invalidated because:
+> Native and Mirror instructions were stored in the same Git file.
 
-## CURRENT PORTFOLIO
-ACTIVE:
-- A01
-- A02
-- A04
-- B10
+Audit:
+> `reviews/2026-09-26_reboot_v3_p0_input_boundary_contamination_audit.md`
 
-RESERVE:
-- B04
-- A10
+## EVIDENCE CONSEQUENCE
+- A01 old paired P0: archive only
+- A04 old paired P0: archive only
+- B10 old paired P0: archive only
+- A02: aborted before prose, clean
+- old P0 pair readers: cancelled before report
 
-No Primary.
+Do not infer Mirror-vs-Native performance from V1.
+
+## CURRENT GATE
+> P0 V2 / PHYSICALLY ISOLATED NATIVE VS COMMERCIAL MIRROR
+
+Protocol:
+> `research/briefs/2026-09-26_reboot_v3_p0_isolated_ab_protocol_v2.md`
 
 ## CURRENT SINGLE NEXT ACTION
-> run `character_collision_forge`
+Run A02 two clean conditions in parallel:
 
-Current:
-> `handoffs/character_collision_forge/CURRENT.md`
+1. `handoffs/p0_a02_native_writer/CURRENT.md`
+2. `handoffs/p0_a02_mirror_writer/CURRENT.md`
 
-Brief:
-> `research/briefs/2026-09-25_reboot_v3_character_collision_brief.md`
+## HARD ISOLATION
+Native writer:
+- Base Card only;
+- zero Mirror instructions;
+- zero prior P0 prose.
+
+Mirror writer:
+- same Base Card + Mirror Function Card;
+- zero Native prose;
+- zero prior P0 prose.
+
+Same-file section isolation is prohibited.
+
+## AFTER A02
+Editor builds anonymous A02 X/Y pair and validates V2 process before releasing A01/A04/B10 reruns.
 
 ## HARD
-- editor does not write candidate prose;
-- no forced candidate quota;
-- no Reserve resurrection without trigger;
-- no Minimal Horizon before Character Cut;
-- no P0 before Character + Minimal Horizon gates;
+- no V1 pair reader;
+- no full Ch1;
+- no Primary;
 - no long architecture;
-- no Primary.
-
-## NEXT EXPECTED ACTION
-1. Character Collision Forge completes 4 ACTIVE candidates.
-2. Editor performs Character Cut.
-3. Justified survivors proceed to Minimal Horizon.
-4. Then P0 short prose begins.
+- no Reserve resurrection.
 
 ## ONE SENTENCE
-> **现在让四本候选证明：旧人能不能自己制造下一章。**
+> **先把实验做干净，再谈哪个版本更商业。**
