@@ -1,6 +1,6 @@
 ---
 status: active-authority
-version: 3.4
+version: 3.5
 date: 2026-09-25
 decision: REBOOT-V3
 goal: unknown-author-breakout-and-sustained-income
@@ -226,10 +226,17 @@ Hard:
 For Native-vs-Mirror experiments:
 > privileged instructions MUST be physically separated into different files and executed in different clean writer windows.
 
+Mirror prerequisite:
+> each candidate must have ONE NAMED Primary Opening Benchmark selected by a direct First Screen / Ch1 deep read.
+
+The Mirror Function Card must derive from that named benchmark's causal opening functions and must NOT be a generic checklist.
+
 Hard:
 - same-file section boundaries are INVALID isolation;
+- generic “fast commercial opening” advice is insufficient for Mirror condition;
 - Native writer must never receive Mirror Function Card;
 - Mirror writer must never receive Native prose;
+- Mirror writer must never receive benchmark prose itself;
 - any cross-condition exposure invalidates causal A/B evidence.
 
 匿名clean-room Reader：
