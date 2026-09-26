@@ -2,7 +2,7 @@
 
 ## ROLE
 - role: p0_a01_mirror_writer
-- status: READY
+- status: BLOCKED / P0 BENCHMARK REOPEN
 - decision: REBOOT-V3
 - condition: COMMERCIAL_MIRROR
 - candidate: A01
