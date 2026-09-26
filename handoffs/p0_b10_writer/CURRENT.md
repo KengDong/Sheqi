@@ -2,7 +2,7 @@
 
 ## ROLE
 - role: p0_b10_writer
-- status: READY
+- status: DONE
 - decision: REBOOT-V3
 - stage: P0 First Screen / Native vs Commercial Mirror
 - candidate: B10 《灵气复苏，我开二手装备店》
@@ -25,20 +25,29 @@ Do NOT read:
 - clean-reader results;
 - old Sheqi prose.
 
-## PHASE ORDER
-1. Native section only -> write/freeze Variant N.
-2. Then read Mirror Function Card -> write Variant M.
-3. Never revise Native after Mirror exposure.
+## COMPLETION
+- Variant N written and frozen before Mirror exposure.
+- Native freeze commit: `0b1891cdb9298e55234475a990717cd4e12455c4`
+- Variant M written after Mirror Function Card exposure.
+- Native was not revised after Mirror exposure.
+- Writer Selfcheck completed.
+- History recorded.
 
 ## OUTPUT
 > `experiments/reboot_v3/p0/b10/2026-09-26_b10_p0_native_mirror.md`
 
-Then selfcheck / CURRENT / history / commit / STOP.
+## HISTORY
+> `handoffs/p0_b10_writer/history/2026-09-26_p0_first_screen_done.md`
 
-## HARD
+## FINAL CONSTRAINT CHECK
 - no Ch1 completion;
 - no new mechanic;
 - no winner;
 - no Primary;
 - no benchmark prose copying;
-- no living-author voice imitation.
+- no living-author voice imitation;
+- no bizarre new equipment used to rescue the scene;
+- recurring people + same-item history carry continuation beyond the sale.
+
+## NEXT
+STOP. Await controller/editor next step.
