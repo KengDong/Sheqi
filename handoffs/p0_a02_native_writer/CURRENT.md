@@ -2,7 +2,7 @@
 
 ## ROLE
 - role: p0_a02_native_writer
-- status: READY
+- status: COMPLETE
 - decision: REBOOT-V3
 - condition: NATIVE
 - candidate: A02
@@ -20,6 +20,11 @@ Forbidden:
 - reader/editor results.
 
 ## OUTPUT
-> `experiments/reboot_v3/p0_v2/a02/native.md`
+- completed: `experiments/reboot_v3/p0_v2/a02/native.md`
+- first-screen body: ~1018 Chinese characters
+- selfcheck: included in output
+- boundary: COMPLIANT
 
-Then selfcheck / CURRENT / history / commit / STOP.
+## HANDOFF
+Native-only task complete. STOP.
+Do not read Mirror or revise this Native in this window.
