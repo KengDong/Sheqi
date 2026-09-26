@@ -6,16 +6,20 @@ branch: reboot-v4-fanqie-market-entry
 # CONTROL
 
 ## editor_in_chief
-- status: PACKAGE TEST COMPLETE / DIAGNOSTIC NEXT
+- status: DIAGNOSTIC COMPLETE / WAITING FOR AUTHOR
 
-# CANCELLED
-- AI shelf Reader A
-- AI shelf Reader B
+# HOLD
+- Pool 1 concept generation
+
+# POSSIBLE NEXT
+- Pool 2 hook-first concept seeds
+- Pool 3 hook-first concept seeds
 
 # BLOCKED
 - first-screen writing
 - prose
+- second concept round until AUTHOR approval
 - automatic winner selection
 
-# NEXT
-> Diagnose why the current concept set failed to produce strong interest before generating another round.
+# DIAGNOSTIC
+> `reviews/2026-09-26_reboot_v4_no_strong_hit_diagnostic.md`
