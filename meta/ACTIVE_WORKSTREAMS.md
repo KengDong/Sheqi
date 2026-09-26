@@ -4,25 +4,36 @@ updated: 2026-09-26
 
 # editor_in_chief
 - status: ACTIVE / ORCHESTRATION ONLY
-- current_stage: Character Cut complete; Minimal Horizon released
+- current_stage: Horizon Cut complete; paired P0 Batch 1 released
 
 # completed
 - Market Scout
 - Lane A Native Forge
 - Lane B Commercial Mirror Forge
 - Packaging Forge
-- Fresh Shelf Reader A
-- Fresh Shelf Reader B
+- Fresh Shelf Readers
 - Story Reservoir Forge
 - Character Engine Benchmark Scout
 - Character Collision Forge
+- Minimal Horizon Forge
 
-# minimal_horizon_forge
-- status: READY / RUN NOW
+# P0 Batch 1｜RUN NOW
+## p0_a01_writer
+- status: READY
 - current:
-  > `handoffs/minimal_horizon_forge/CURRENT.md`
-- brief:
-  > `research/briefs/2026-09-26_reboot_v3_minimal_horizon_brief.md`
+  > `handoffs/p0_a01_writer/CURRENT.md`
+
+## p0_a04_writer
+- status: READY
+- current:
+  > `handoffs/p0_a04_writer/CURRENT.md`
+
+# P0 Batch 2｜BLOCKED
+## p0_a02_writer
+- status: BLOCKED / BATCH 2
+
+## p0_b10_writer
+- status: BLOCKED / BATCH 2
 
 # ACTIVE candidates
 - A01
@@ -35,12 +46,13 @@ updated: 2026-09-26
 - A10
 
 # downstream
-- P0 writers: BLOCKED
-- prose readers: BLOCKED
-
-# Current Single Next Action
-> Run minimal_horizon_forge.
+- P0 pairwise clean reader: BLOCKED
+- P0 cross-candidate reader: BLOCKED
+- P1 writers: BLOCKED
 
 # WIP
-Core worker:
-> 1 design worker.
+Core creative workers:
+> 2 max.
+
+# Current Single Next Action
+Run A01 + A04 paired P0 writers in parallel.
