@@ -2,7 +2,7 @@
 
 ## ROLE
 - role: p0_b10_writer
-- status: BLOCKED / BATCH 2
+- status: READY
 - decision: REBOOT-V3
 - stage: P0 First Screen / Native vs Commercial Mirror
 - candidate: B10 《灵气复苏，我开二手装备店》
