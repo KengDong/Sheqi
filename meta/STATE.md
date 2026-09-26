@@ -4,33 +4,49 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Status
-> **NO-STRONG-HIT DIAGNOSTIC COMPLETE / WAITING FOR AUTHOR**
+> **BENCHMARK-FIRST RESET / AUTHOR GATE**
 
-Diagnostic:
-> `reviews/2026-09-26_reboot_v4_no_strong_hit_diagnostic.md`
+# Process correction
+The previous workflow is superseded.
 
-# Core finding
-The current round over-optimized:
-- continuity;
-- anti-reset;
-- anti-treadmill;
-- Ch20 / Ch100 durability.
+New rule:
+> **Every new idea must be shown side-by-side with real strong reference works before any Ch20 / Ch100 / structural work.**
 
-It under-optimized:
-> immediate desire to know what happens next.
+Protocol:
+> `research/briefs/2026-09-26_reboot_v4_benchmark_first_author_gate.md`
 
-# Pool handling
-- Pool 1: HOLD for this author after 0/4 first-glance interest.
-- Pool 2: KEEP as a mother genre; redesign the long-range magnet.
-- Pool 3: KEEP as a mother genre; redesign the long-range magnet.
+Reference shelf:
+> `research/2026-09-26_reboot_v4_reference_benchmark_shelf.md`
 
-# Current gate
-> WAIT FOR AUTHOR before starting a second concept round.
+# Mother-market correction
+Reopened for ideation:
+- 东方玄幻 / 修仙 / 高武成长
+- 都市超凡 / 异能 / 高武
+- Pool 2 都市医武
+- Pool 3 诡异反猎杀
+- Pool 4 求生资产
+- Pool 6 古代身份
 
-# Still blocked
-- first-screen writing
+Pool 1 民俗 remains HOLD after AUTHOR 0/4 first-glance interest.
+
+# Important evidence correction
+Cultivation / xuanhuan / high-martial had already been WHITELISTED at broad mother-market level.
+
+Their absence from the Fanqie Author Board came from stricter requirements for:
+- exact same-fantasy current new-book cluster;
+- low-Fanqie-credit proof;
+- matched weak controls.
+
+This was a research-confidence gate, not evidence that the market lacked demand.
+
+Going forward:
+> **insufficient causal controls may lower confidence, but cannot silently hide a validated mother market from AUTHOR.**
+
+# Blocked
+- long-form architecture before AUTHOR package-level interest
 - prose
-- automatic winner selection
+- first screen
+- automatic AI winner
 
 # One Sentence
-> **先修构思流程：先让人想看，再证明能写长。**
+> **以后先拿真实热门作参照，一眼打不过就砍，不再先做结构再让作者看。**
