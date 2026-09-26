@@ -4,17 +4,33 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Status
-> **AUTHOR PACKAGE TEST COMPLETE / NO STRONG HIT**
+> **NO-STRONG-HIT DIAGNOSTIC COMPLETE / WAITING FOR AUTHOR**
 
-The anonymous package test is complete.
+Diagnostic:
+> `reviews/2026-09-26_reboot_v4_no_strong_hit_diagnostic.md`
 
-Result:
-> No current concept generated strong enough interest after the full blurb review.
+# Core finding
+The current round over-optimized:
+- continuity;
+- anti-reset;
+- anti-treadmill;
+- Ch20 / Ch100 durability.
+
+It under-optimized:
+> immediate desire to know what happens next.
+
+# Pool handling
+- Pool 1: HOLD for this author after 0/4 first-glance interest.
+- Pool 2: KEEP as a mother genre; redesign the long-range magnet.
+- Pool 3: KEEP as a mother genre; redesign the long-range magnet.
 
 # Current gate
-> **STOP BEFORE PROSE**
+> WAIT FOR AUTHOR before starting a second concept round.
 
-Do not start first-screen writing or prose.
+# Still blocked
+- first-screen writing
+- prose
+- automatic winner selection
 
-# Next
-Diagnose why the current concepts feel insufficiently compelling, then redesign the next concept round while staying inside proven market families.
+# One Sentence
+> **先修构思流程：先让人想看，再证明能写长。**
