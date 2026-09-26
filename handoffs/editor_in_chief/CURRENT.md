@@ -1,7 +1,7 @@
 # Editor in Chief｜CURRENT
 
 ## STATUS
-> **11 PACKAGES COMPLETE / PACKAGE QA READY**
+> **WAITING FOR TWO TARGETED PACKAGE REVISIONS**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
@@ -9,34 +9,45 @@
 ## ROLE
 > `editor_in_chief`
 
-# VERIFIED
-- Pool 1 package set exists with 4 official packages;
-- Pool 2 package set exists with 4 official packages;
-- Pool 3 package set exists with 3 official packages;
-- Pool 1 concept04 uses targeted revision;
-- Pool 3 concept04 remains dropped;
-- one official package per eligible concept.
+# PACKAGE QA RESULT
 
-# NEXT
+PASS:
+- 9 packages
+
+REVISE packaging only:
+- Pool 1 方案四
+- Pool 2 方案一
+
+# CURRENT ACTION
 Run:
-> `reboot_v4_package_editor`
+> `reboot_v4_package_targeted_revision`
 
 Current:
-> `handoffs/reboot_v4_package_editor/CURRENT.md`
+> `handoffs/reboot_v4_package_targeted_revision/CURRENT.md`
 
-Purpose:
-> equalize package quality and detect misleading or concept-changing packaging before any Reader sees the shelf.
+# FIX A
+Pool 1 方案四:
+- shorten;
+- make hidden-causality judgment clearer;
+- avoid implying ongoing public-case / investigator task flow.
 
-# AFTER QA
-Only after package QA:
-> create anonymous mixed shelf and run click-desire testing.
+# FIX B
+Pool 2 方案一:
+- remove over-absolute “全城看病先问我在不在” promise;
+- retain low-status → indispensable → rising social weight.
+
+# AFTER
+Recheck those two packages only.
+
+Then, if PASS:
+> anonymous mixed-shelf click-desire test.
 
 # HARD BLOCKS
-- no Reader shelf test yet;
+- no Concept rewrite;
 - no prose;
-- no first screen;
-- no ranking / winner;
+- no ranking;
+- no final winner;
 - no old candidate revival.
 
 # ONE SENTENCE
-> **11套书架包装已经齐，现在先审包装公平性，再让陌生Reader看。**
+> **当前只有两套包装小修，Concept阶段已经结束；修完就进入匿名书架。**
