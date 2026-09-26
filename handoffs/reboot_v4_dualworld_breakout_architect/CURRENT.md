@@ -1,71 +1,45 @@
 # reboot_v4_dualworld_breakout_architect｜CURRENT
 
 ## STATUS
-> X5 GROUNDED MODERN INTERFACE / AUTHOR DISCUSSION
+> X6 VIDEO / COURSE INTERFACE / AUTHOR DISCUSSION
 
 ## BRANCH
 > `reboot-v4-dualworld-breakout-framework`
 
 ## AUTHOR CORRECTION
-Modern society would not naturally call the institution:
-> 修炼实训库
+Even “实境课 / 实训中心 / 复原率 / 认证学时” still feels constructed.
 
-Reader-facing modern terminology must feel like ordinary education / infrastructure.
+Modern society should start from familiar actions:
+> 看课 / 看录像 / 刷复盘.
 
 ## CURRENT FILE
-> `experiments/reboot_v4/quick_ideation/2026-09-26_dualworld_x5_grounded_modern_interface.md`
+> `experiments/reboot_v4/quick_ideation/2026-09-26_dualworld_x6_video_course_interface.md`
 
-## RECOMMENDED NAMING STACK
-Underlying tech:
-> 道痕复现技术 / 道痕复现系统
+## CURRENT PREFERRED SURFACE
+Discovery:
+> old cultivation footage / digitized historical recording.
 
-School course:
-> 实境课 / 实境训练课
+Economic / school layer:
+> paid courses / school licensing / public free archives.
 
-Facility:
-> 实境中心 / 实训中心 / 训练舱
+Everyday language:
+> 买课 / 看课 / 看录像 / 看回放 / 找复盘.
 
-Content:
-> 案例 / 道痕档案
-Student speech:
-> 回放
+No new fantasy-flavored administrative noun needed.
 
-Archive:
-> 道痕档案库 / 案例库
-
-Low-value content:
-> 旧档 / 残档 / 低复原案例
-
-## NO LETTER GRADES
-Use practical metadata:
-- 复原率;
-- 认证学时;
-- 适用方向;
-- 名额;
-- 费用;
-- 稳定性;
-- 风险;
-- 档案权限.
-
-## CORE INVERSION
-Normal students value:
-> stable certified replay.
-
-Protagonist values:
-> missing sections.
-
-Working line:
-> 别人抢名家回放，因为学得稳。
-> 我专翻没人看的残档，因为缺掉的那一段，是真的。
+## CORE HOOK
+> 别人花钱看名师课，我穷得只能翻公开区的老录像。
+> 然后一个三百年前的无名修士，在视频里抬头问我：你能看见我？
 
 ## HARD
-Avoid reader-facing:
+Avoid returning to:
 - 仙史实境;
 - 修炼实训库;
+- 实境课 as the central premise noun;
 - S/A/B/C/D/E;
-- 史缺池;
-- 史证积分;
-- E升S.
+- abstract archive grading systems.
 
 ## NEXT
-Discuss whether `实境课 + 回放 + 残档` feels grounded enough before rebuilding the full X2/X3 causal-history framework around it.
+Author decides whether ordinary video / course behavior finally feels natural enough.
+If not:
+> redesign the modern anchor again before touching historical causality.
