@@ -1,37 +1,38 @@
-# CURRENT AUTHORITY｜AUDIT FREEZE
+# CURRENT AUTHORITY｜POSTMORTEM REVIEW FREEZE
 
 updated: 2026-09-26
 branch: reboot-v4-fanqie-root-audit
 
-# Temporary Highest Authority
-> **NO EXECUTION UNTIL FULL HISTORICAL AUDIT IS COMPLETE AND AUTHOR-REVIEWED.**
+# Highest Authority
 
-# Preserved intent
-- commercial objective: breakout + long follow + sustained income;
+1. `meta/AUDIT_AUTHORITY_REGISTRY.md`
+2. `reviews/2026-09-26_master_failure_postmortem_and_repo_reset.md`
+3. `meta/BRANCH_PURPOSE.md`
+
+# Current Status
+> **MASTER AUDIT COMPLETE / AWAITING AUTHOR REVIEW**
+
+No worker execution is authorized.
+
+# Preserved Strategic Intent
+- goal: breakout + long follow + sustained income;
 - intended launch platform: Fanqie;
-- final candidate preference/ranking belongs to author;
-- real reading behavior outranks AI theory.
+- unknown-author standard;
+- author ranks final candidate choices;
+- real voluntary reading behavior outranks AI theory.
 
-# Suspended Pending Audit
-All current process documents are:
-> evidence / hypotheses, not active dispatch authority.
+# Suspended
+All pre-audit process documents, gates, candidate statuses and READY tasks are:
+> evidence only
 
-Including:
-- Fanqie platform lock;
-- validated chassis gate;
-- market-entry gate;
-- Prose Desire First;
-- old pipeline versions;
-- old candidate statuses.
+until explicitly re-promoted after author review.
 
-They may be retained, revised, demoted, or replaced by the master audit.
-
-# Current task
-Editor only:
-> complete full historical postmortem and repository reset proposal.
+# Recommended Restart Point
+The master audit recommends, but does NOT dispatch:
+> Fanqie-specific market-entry mapping for unknown male authors.
 
 # Hard
-No worker may treat historical READY/NEXT fields as active.
+No new brief may become READY until author accepts or revises the master audit.
 
 # One Sentence
-> **当前唯一权威动作是复盘，不是继续生产。**
+> **复盘已经完成，现在先让作者审复盘，不自动进入下一轮。**
