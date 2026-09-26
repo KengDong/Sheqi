@@ -14,12 +14,13 @@ Future concept formula:
 
 # Authority Order
 1. `meta/MARKET_VALIDATED_CHASSIS_GATE_V1.md`
-2. `reviews/2026-09-26_reboot_v4_root_cause_and_restart_point.md`
-3. `meta/AUTHOR_RANKING_AND_READER_FANTASY_POLICY_V1.md`
-4. `meta/PROSE_DESIRE_FIRST_OVERRIDE.md`
-5. `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
-6. `meta/BENCHMARK_CAUSALITY_STANDARD.md`
-7. `meta/READER_EVIDENCE_HIERARCHY.md`
+2. `meta/MARKET_ENTRY_QUALIFICATION_GATE_V1.md`
+3. `reviews/2026-09-26_reboot_v4_root_cause_and_restart_point.md`
+4. `meta/AUTHOR_RANKING_AND_READER_FANTASY_POLICY_V1.md`
+5. `meta/PROSE_DESIRE_FIRST_OVERRIDE.md`
+6. `meta/FIRST_PRINCIPLES_FICTION_RND_OS.md`
+7. `meta/BENCHMARK_CAUSALITY_STANDARD.md`
+8. `meta/READER_EVIDENCE_HIERARCHY.md`
 
 # Market evidence
 Desire map:
@@ -75,3 +76,27 @@ AI does NOT:
 
 # One Sentence
 > **母盘必须先被市场证明；我们只创新Premium，不再创新“有没有人想看”。**
+
+
+## Post-author market-entry qualification
+
+After AUTHOR marks a chassis WANT/MAYBE,
+the lane must pass:
+> `meta/MARKET_ENTRY_QUALIFICATION_GATE_V1.md`
+
+before any Concept Forge.
+
+This gate checks:
+- exact reader pool;
+- competition density;
+- trend lifecycle;
+- newcomer access;
+- platform route;
+- monetization;
+- matched failures;
+- substitution breaker;
+- protagonist fantasy;
+- package truth;
+- compliance risk.
+
+Hot chassis alone is not enough.
