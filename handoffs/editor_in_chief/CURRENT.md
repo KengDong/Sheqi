@@ -1,7 +1,7 @@
 # Editor in Chief｜CURRENT
 
 ## STATUS
-> **FINAL SYNTHESIS COMPLETE / RETURN TO AUTHOR**
+> **AUTHOR SHRINK GATE / DECISION SHEET READY**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
@@ -9,38 +9,41 @@
 ## ROLE
 > `editor_in_chief`
 
-## COMPLETED CHAIN
-- five retained-pool deep reads complete;
-- normalized evidence table complete;
-- editor synthesis draft complete;
-- independent red-team audit complete;
-- red-team verdict: PASS WITH CORRECTIONS;
-- required corrections applied.
+## COMPLETED
+- market-entry research chain;
+- five retained-pool deep reads;
+- normalized evidence;
+- editor synthesis;
+- independent red-team audit;
+- red-team correction pass;
+- author-facing five-direction decision sheet.
 
-## FINAL SYNTHESIS
-> `reviews/2026-09-26_reboot_v4_retained_pool_editor_synthesis.md`
+## AUTHOR DECISION SHEET
+> `experiments/reboot_v4/author_choice/2026-09-26_retained_pool_author_decision_sheet.md`
 
-## RED-TEAM AUDIT
-> `reviews/2026-09-26_reboot_v4_retained_pool_synthesis_redteam.md`
+## CURRENT TASK
+AUTHOR reduces:
+> Pool 1 / 2 / 3 / 4 / 6
 
-## CURRENT HUMAN GATE
+to:
+> **2–3 retained directions**
 
-Return the corrected five-direction synthesis to AUTHOR.
+using:
+- what the author actually wants to write for hundreds of chapters;
+- what daily maintenance burden the author is willing to carry;
+- what long-run story expansion feels interesting rather than exhausting.
 
-AUTHOR decides what happens next.
-
-No automatic next-stage dispatch.
+No AI ranking.
 
 ## STILL BLOCKED
-- final pool selection by AI;
-- ranking / scoring;
 - Concept generation;
+- final topic selection by AI;
 - prose;
-- old candidate revival;
-- Reservoir / Character / Horizon;
-- downstream creative workers.
+- candidate revival;
+- downstream creative dispatch.
 
-Pool 6 remains MAYBE.
+## NEXT
+Wait for AUTHOR shrink decision.
 
 ## ONE SENTENCE
-> **五方向总编综合已经过统一证据表和独立红队审查并修正，现在回到作者决策，不自动进入小说构思。**
+> **市场研究已收口，现在只等作者把五个方向缩到2–3个，再进入下一轮构思实验。**
