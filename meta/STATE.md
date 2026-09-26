@@ -4,7 +4,7 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Status
-> **EDITOR SYNTHESIS DRAFT COMPLETE / EVIDENCE CHECK + RED-TEAM REVIEW OPEN**
+> **EDITOR SYNTHESIS DRAFT COMPLETE / RED-TEAM AUDIT ACTIVE**
 
 Primary:
 > NONE.
@@ -24,7 +24,7 @@ Draft:
 
 # Open checks
 - retained_pool_evidence_normalizer — READY
-- retained_pool_synthesis_redteam — READY / UNLOCKED
+- retained_pool_synthesis_redteam — ACTIVE / AUDITING EDITOR SYNTHESIS
 
 # Recorded author choice
 - 1 WANT
