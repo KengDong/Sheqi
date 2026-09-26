@@ -4,7 +4,7 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Status
-> **AWAITING AUTHOR MARKET-POOL CHOICE**
+> **AWAITING AUTHOR NUMBERED MARKET-POOL CHOICE**
 
 Primary:
 > NONE.
@@ -16,31 +16,26 @@ Active novel candidates:
 Fanqie Market Entry V2.1:
 > PASS
 
-Editor review:
-> `reviews/2026-09-26_fanqie_market_entry_v2_1_editor_pass.md`
-
-# Author Board
-> `experiments/reboot_v4/author_choice/fanqie_market_entry_board_v2.md`
-
-Seven evidence-qualified, non-ranked Reader Pools.
-
 # Current Human Gate
-AUTHOR marks each:
+AUTHOR classifies 7 numbered Reader Pools:
 > WANT / MAYBE / NO
 
+Author-choice authority:
+> `handoffs/editor_in_chief/CURRENT.md`
+
 # Downstream
-Still BLOCKED:
+BLOCKED:
 - direct benchmark;
 - concept forge;
 - prose;
 - readers;
 - Reservoir / Character / Horizon.
 
-# Next Possible Stage
-Only after author choice:
-> direct hit + matched-failure deep read for author-selected WANT/MAYBE pools.
+# Next
+After author choices:
+> record exact selection, then review selected pools before proposing direct-comp deep read.
 
 No automatic dispatch.
 
 # One Sentence
-> **现在轮到作者选“我愿意进入哪个番茄Reader池”，不是选具体小说。**
+> **下一步不是选小说，而是作者亲自筛掉不想进入的番茄市场池。**
