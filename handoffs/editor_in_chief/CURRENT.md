@@ -1,30 +1,32 @@
 # Editor in Chief｜CURRENT
 
 ## STATUS
-> PAUSED / AWAITING AUTHOR REVIEW
+> PAUSED / WAITING FOR FANQIE MARKET ENTRY RESEARCH
 
-## COMPLETED
-Full historical postmortem:
-> `reviews/2026-09-26_master_failure_postmortem_and_repo_reset.md`
+## BRANCH
+> `reboot-v4-fanqie-market-entry`
 
-Authority registry:
-> `meta/AUDIT_AUTHORITY_REGISTRY.md`
+## ACTIVE WORKER
+> `fanqie_market_entry_scout`
 
 ## CURRENT TASK
-None.
+None for editor.
 
-## RECOMMENDATION ONLY
-Potential restart point:
-> Fanqie-specific market-entry mapping for unknown male authors.
+Wait for:
+1. `research/2026-09-26_reboot_v4_fanqie_market_entry_v2.md`
+2. `experiments/reboot_v4/author_choice/fanqie_market_entry_board_v2.md`
 
-This is NOT dispatched.
+## AFTER
+Editor may check:
+- evidence quality;
+- matched-control integrity;
+- old-bias regression;
+- whether board actually represents Fanqie newcomer entry.
+
+Then AUTHOR chooses:
+> WANT / MAYBE / NO.
 
 ## HARD
-Wait for author to:
-- accept;
-- reject;
-- or modify
-
-the master audit and restart point.
+Do not dispatch Concept Forge automatically.
 
 STOP.
