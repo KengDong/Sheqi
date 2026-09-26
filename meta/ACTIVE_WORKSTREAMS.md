@@ -4,32 +4,27 @@ updated: 2026-09-26
 
 # editor_in_chief
 - status: ACTIVE / ORCHESTRATION ONLY
-- current_stage: A02 author-read P0 failure; benchmark layer reopened
+- current_stage: genre / reader-fantasy root reopen
 
-# PAUSED / CANCELLED
-- p0_a02_pair_reader_a: CANCELLED
-- p0_a02_pair_reader_b: CANCELLED
-- p0_a01_native_writer: BLOCKED
-- p0_a01_mirror_writer: BLOCKED
-- A04 P0 rerun: BLOCKED
-- B10 P0 rerun: BLOCKED
+# SINGLE CORE WORKER
 
-# CORE WIP
-
-## p0_opening_benchmark_scout
+## genre_demand_scout
 - status: READY / RUN NOW
 - current:
-  > `handoffs/p0_opening_benchmark_scout/CURRENT.md`
+  > `handoffs/genre_demand_scout/CURRENT.md`
 
-# Purpose
-Select one named Primary Opening Benchmark per ACTIVE candidate and deep-read actual First Screen / Ch1 causal structure.
+# BLOCKED
+- p0_opening_benchmark_scout
+- all P0 Native/Mirror writers
+- all P0 AI comparison readers
+- P1 / P3
+- new Reservoir / Character / Horizon work
 
-# downstream
-- rebuilt Base Cards: BLOCKED
-- rebuilt Mirror Function Cards: BLOCKED
-- P0 rerun: BLOCKED
-- clean readers: BLOCKED
-- P1: BLOCKED
+# Author authority
+After genre-demand audit:
+> AUTHOR receives evidence-qualified comparison board and personally ranks it.
+
+No AI final candidate ranking.
 
 # Current Single Next Action
-> Run p0_opening_benchmark_scout.
+> Run genre_demand_scout.
