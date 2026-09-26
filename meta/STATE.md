@@ -24,6 +24,7 @@ Primary:
 - Character Cut: COMPLETE
 - Minimal Horizon: PASS
 - Horizon Cut: COMPLETE
+- P0 Batch 1 Writers A01/A04: COMPLETE
 
 # Current Portfolio
 
@@ -40,31 +41,32 @@ RESERVE:
 No Primary.
 
 # Current Gate
-> **P0 FIRST SCREEN / NATIVE VS COMMERCIAL MIRROR**
+> **P0 FIRST SCREEN / PAIRED EXPERIMENT**
 
-Batch 1 READY:
-- A01
-- A04
+## Batch 1
+A01/A04:
+> writer complete; pairwise clean readers READY.
 
-Batch 2 BLOCKED:
-- A02
-- B10
+## Batch 2
+A02/B10:
+> paired writers READY.
 
-# Current Single Next Action
-Run in parallel:
-- `handoffs/p0_a01_writer/CURRENT.md`
-- `handoffs/p0_a04_writer/CURRENT.md`
+# Current Actions
+
+Core creative workers:
+- `handoffs/p0_a02_writer/CURRENT.md`
+- `handoffs/p0_b10_writer/CURRENT.md`
+
+Reader side-lane:
+- `handoffs/p0_pair_reader_a/CURRENT.md`
+- `handoffs/p0_pair_reader_b/CURRENT.md`
 
 # Experimental Rule
 For each candidate:
-1. write/freeze Native before benchmark function exposure;
-2. then write Commercial-Mirror;
-3. blind reader chooses N / M / neither.
-
-# Selection Rule
-> early high recall / later high precision.
-
-No forced cut.
+1. Native freezes before Mirror exposure.
+2. Mirror may learn commercial cold-start functions only.
+3. Blind readers choose Native / Mirror / both / neither.
+4. No scores-first evaluation.
 
 # Hard
 - no full Ch1 yet;
@@ -73,4 +75,4 @@ No forced cut.
 - no Reserve resurrection.
 
 # One Sentence
-> **纯设计阶段结束；现在开始用真实P0正文检验“本书原生写法”与“热门商业功能镜像写法”谁更能让Reader继续。**
+> **A01/A04已进入盲测；A02/B10开始写第二批P0。**
