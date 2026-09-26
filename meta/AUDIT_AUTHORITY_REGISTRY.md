@@ -1,60 +1,14 @@
-# AUDIT AUTHORITY REGISTRY
+# AUDIT AUTHORITY REGISTRY｜SUPERSEDED ON EXECUTION BRANCH
 
 updated: 2026-09-26
-branch: reboot-v4-fanqie-root-audit
+branch: reboot-v4-fanqie-market-entry
 
-# ACTIVE DURING AUDIT
+The original audit registry remains authoritative on:
+> `reboot-v4-fanqie-root-audit`
 
-Only these documents have current operational authority:
+On THIS execution branch it is superseded by:
+> `meta/RESTART_AUTHORITY_V1.md`
 
-1. `meta/BRANCH_PURPOSE.md`
-2. `meta/CURRENT_AUTHORITY.md`
-3. `meta/STATE.md`
-4. `meta/ACTIVE_WORKSTREAMS.md`
-5. `handoffs/editor_in_chief/CURRENT.md`
-6. `reviews/2026-09-26_master_failure_postmortem_and_repo_reset.md`
+Historical PASS / READY / NEXT fields remain non-authoritative unless explicitly re-promoted by the current restart authority.
 
-# SUSPENDED / EVIDENCE ONLY
-
-All other `meta/` process documents are:
-> evidence / reusable methods / historical proposals
-
-until explicitly promoted after author review.
-
-This includes documents whose frontmatter still says:
-- active-authority;
-- approved-process;
-- READY;
-- PASS.
-
-Their internal status strings do NOT override this registry.
-
-# OLD HANDOFFS
-
-Every handoff other than:
-> editor_in_chief
-
-is globally BLOCKED by this audit registry,
-even if its own historical CURRENT contains READY / NEXT.
-
-# OLD REVIEWS
-
-Historical PASS means:
-> passed under the evidence and objective of that time.
-
-It does NOT mean:
-> current authority.
-
-# Raw Research
-
-May be reused only after:
-- relevance check;
-- freshness check;
-- platform match check.
-
-# Exit
-
-After author accepts the master audit,
-create a new small authority set explicitly.
-
-Do not simply reactivate all pre-audit documents.
+No old candidate or worker is implicitly reactivated.
