@@ -4,7 +4,7 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Status
-> **ACTIVE / RETAINED-POOL NON-RANKED EDITOR SYNTHESIS**
+> **EDITOR SYNTHESIS DRAFT COMPLETE / EVIDENCE CHECK + RED-TEAM REVIEW OPEN**
 
 Primary:
 > NONE.
@@ -12,41 +12,31 @@ Primary:
 Active novel candidates:
 > NONE.
 
-# Current Control
-Role:
-> `editor_in_chief`
-
-Brief:
-> `research/briefs/2026-09-26_reboot_v4_retained_pool_editor_synthesis_brief.md`
-
-# Recorded Author Market Choice
-
-1. 现代民俗玄学：本土术法专业权威 — WANT
-2. 都市医武神医：低位身份强势翻身 — WANT
-3. 诡异降临反猎杀：收容 / 吞噬 / 驾驭异常 — WANT
-4. 全民 / 末日求生 + 私有安全资产复利 — WANT
-5. 西幻边疆领主 — NO
-6. 古代身份困局：地位与自主权上升 — MAYBE
-7. 年代赶山赶海 — NO
-
-No repeat confirmation required unless AUTHOR changes it.
-
-# Completed Inputs
-- Fanqie Market Entry V2 / V2.1
-- author market-pool selection
-- Pool 1 / 2 / 3 / 4 / 6 deep reads
+# Completed
+- Market Entry V2 / V2.1
+- author pool selection
+- five retained pool deep reads
 - successor content-level receive
+- first editor synthesis draft
 
-# Current Deliverable
+Draft:
 > `reviews/2026-09-26_reboot_v4_retained_pool_editor_synthesis.md`
 
+# Open checks
+- retained_pool_evidence_normalizer — READY
+- retained_pool_synthesis_redteam — READY / UNLOCKED
+
+# Recorded author choice
+- 1 WANT
+- 2 WANT
+- 3 WANT
+- 4 WANT
+- 5 NO
+- 6 MAYBE
+- 7 NO
+
 # BLOCKED
-- Concept Forge
-- prose
-- final pool winner
-- ranking / scoring
-- old candidate revival
-- downstream creative dispatch
+No Concept generation or prose until editor review closes and AUTHOR explicitly authorizes the next stage.
 
 # One Sentence
-> **项目已进入五池非排行总编综合阶段。**
+> **五方向总编综合第一版已完成，当前只允许核证据和挑错。**
