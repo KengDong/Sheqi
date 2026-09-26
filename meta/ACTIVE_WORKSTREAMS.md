@@ -3,58 +3,49 @@
 updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
-# READY
-
-## reboot_v4_anonymous_shelf_forge
-- status: READY
-- current:
-  > `handoffs/reboot_v4_anonymous_shelf_forge/CURRENT.md`
-- outputs:
-  - `experiments/reboot_v4/shelf/2026-09-26_anonymous_mixed_shelf_a.md`
-  - `experiments/reboot_v4/shelf/2026-09-26_anonymous_mixed_shelf_b.md`
-  - PRIVATE mapping:
-    `experiments/reboot_v4/shelf/private/2026-09-26_anonymous_shelf_mapping.md`
-
-# BLOCKED READERS
+# READY READERS
 
 ## reboot_v4_cleanroom_shelf_reader_a
-- status: BLOCKED / WAITING FOR SHELF A
+- status: READY
 - current:
   > `handoffs/reboot_v4_cleanroom_shelf_reader_a/CURRENT.md`
+- input:
+  > Shelf A only
+- output:
+  > `experiments/reboot_v4/readers/2026-09-26_cleanroom_shelf_reader_a.md`
 
 ## reboot_v4_cleanroom_shelf_reader_b
-- status: BLOCKED / WAITING FOR SHELF B
+- status: READY
 - current:
   > `handoffs/reboot_v4_cleanroom_shelf_reader_b/CURRENT.md`
-
-# PACKAGE STATUS
-
-Final package QA:
-> **11 / 11 READY**
-
-- 9 direct PASS
-- 2 PASS after targeted package revision
+- input:
+  > Shelf B only
+- output:
+  > `experiments/reboot_v4/readers/2026-09-26_cleanroom_shelf_reader_b.md`
 
 # COMPLETED / FROZEN
-- reboot_v4_package_targeted_revision
-- reboot_v4_package_editor
-- all package forges
+- reboot_v4_anonymous_shelf_forge
+- package QA / revision workers
 - all concept workers
 - all prior market/evidence workers
+
+# PRIVATE
+Reader A/B MUST NOT access:
+> `experiments/reboot_v4/shelf/private/2026-09-26_anonymous_shelf_mapping.md`
 
 # CONTROL
 
 ## editor_in_chief
-- status: ANONYMOUS SHELF PREP
+- status: WAITING FOR TWO CLEAN-ROOM READER REPORTS
 
 # HARD BLOCKED
-Until anonymous shelf forge completes:
-- clean-room Reader A / B
-- any click-signal synthesis
+Until both Reader reports complete:
+- mapping-based synthesis
 - first-screen writing
 - prose
-- ranking / winner
+- final winner
+- ranking / scoring
 - old candidate revival
 
 # NEXT
-> Run anonymous shelf forge. Then unlock two clean-room package-only Readers.
+> Run Reader A and Reader B independently.
