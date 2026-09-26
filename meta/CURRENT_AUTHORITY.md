@@ -4,25 +4,28 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Current Status
-> **AUTHOR QUICK BENCHMARK GATE**
+> **FULL ARCHITECTURE AUTHORIZED FOR ALL 12 AUTHOR-APPROVED IDEAS**
 
-Authorized:
-- generate short raw premises only;
-- compare each against 1–3 real strong references;
-- show AUTHOR immediately.
+Authorized workers:
+- reboot_v4_highconcept_a_architect
+- reboot_v4_highconcept_b_architect
+- reboot_v4_highconcept_c_architect
+- reboot_v4_highconcept_d_architect
 
-Not authorized before AUTHOR says 推进:
-- Ch20 design;
-- Ch100 design;
-- relationship engine;
-- anti-treadmill architecture;
-- prose;
-- first-screen writing.
+# Locked
+For all 12:
+- working title;
+- one-line hook;
+- central premise;
+- long-range magnet.
 
-# Market correction
-Cultivation / xuanhuan / high martial / urban ability are not excluded.
+Structure may strengthen clarity but may not weaken commercial intensity.
 
-They are reopened because broad mother-market evidence was already validated; earlier exclusion reflected stricter Fanqie newcomer causal-evidence requirements, not lack of demand.
+# Not authorized
+- prose
+- first-screen writing
+- cross-lane ranking
+- final winner
 
 # One Sentence
-> **先同屏对标热门，再由作者一眼决定值不值得推进。**
+> **作者已经说12本都想看；现在只验证它们能不能在不降火力的情况下支撑长篇。**
