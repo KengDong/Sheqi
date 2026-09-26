@@ -2,43 +2,27 @@
 
 ## ROLE
 - role: p0_a04_writer
-- status: READY
+- status: DONE
 - decision: REBOOT-V3
 - stage: P0 First Screen / Native vs Commercial Mirror
 - candidate: A04 《冒险者公会救援队》
 
-## SHARED BRIEF
-> `research/briefs/2026-09-26_reboot_v3_p0_paired_writer_brief.md`
+## COMPLETED
+- Variant N: written and frozen before Mirror exposure
+- Variant M: written only after Native freeze
+- Writer Selfcheck: complete
+- output: `experiments/reboot_v3/p0/a04/2026-09-26_a04_p0_native_mirror.md`
 
-## CANDIDATE INPUT
-> `research/briefs/p0_cards/2026-09-26_a04_p0_native_mirror_input.md`
+## FREEZE EVIDENCE
+- Native freeze commit: `480b86730c8cabbb477fc037aa07ea8263c9b665`
+- Mirror + selfcheck commit: `2bd596cc6100544337d080d2aff39732cfcd3ff0`
 
-## HARD INPUT BOUNDARY
+## HARD INPUT BOUNDARY OBSERVED
 Read only:
 1. shared P0 paired writer brief;
-2. own candidate input card.
+2. own A04 candidate input card, with Native section read before Mirror section.
 
-Do NOT read:
-- competitor P0 input cards;
-- competitor prose;
-- editor rankings;
-- clean-reader results;
-- old Sheqi prose.
+No competitor prose/cards, editor rankings, clean-reader results, old Sheqi prose, or web benchmark prose were read.
 
-## PHASE ORDER
-1. Native section only -> write/freeze Variant N.
-2. Then read Mirror Function Card -> write Variant M.
-3. Never revise Native after Mirror exposure.
-
-## OUTPUT
-> `experiments/reboot_v3/p0/a04/2026-09-26_a04_p0_native_mirror.md`
-
-Then selfcheck / CURRENT / history / commit / STOP.
-
-## HARD
-- no Ch1 completion;
-- no new mechanic;
-- no winner;
-- no Primary;
-- no benchmark prose copying;
-- no living-author voice imitation.
+## STOP
+Task complete. Do not continue into Ch1, Mid Horizon, winner selection, or competitor comparison.
