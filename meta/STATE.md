@@ -4,47 +4,47 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Status
-> **11 PACKAGES QA-COMPLETE / ANONYMOUS SHELF PREP READY**
+> **ANONYMOUS SHELF QA PASS / TWO CLEAN-ROOM READERS READY**
 
-# Final package set
-> **11 packages**
+# Shelf QA
+- Shelf A: 11
+- Shelf B: 11
+- same books: YES
+- different order: YES
+- metadata leak: NONE
 
-All packaging fidelity / fairness issues resolved.
+QA:
+> `reviews/2026-09-26_reboot_v4_anonymous_shelf_qa.md`
 
 # Current Stage
-Build two anonymous mixed shelves with:
-- exact same 11 books;
-- different order;
-- no Pool / Concept / review metadata;
-- Reader-visible title + hook + blurb only.
+Run independently:
+- `reboot_v4_cleanroom_shelf_reader_a`
+- `reboot_v4_cleanroom_shelf_reader_b`
 
-Worker:
-> `reboot_v4_anonymous_shelf_forge`
+Each Reader sees only one anonymous shelf.
 
-# Reader Design
-Two clean-room Readers are prepared but BLOCKED:
-- Reader A sees Shelf A only;
-- Reader B sees Shelf B only.
-
-They will record for each book:
-- title-only click / maybe / skip;
-- after blurb click / maybe / skip;
+# Reader outputs
+Per book:
+- title-only click reaction;
+- after blurb click reaction;
 - perceived promise;
 - strongest pull;
 - biggest friction.
 
-They will NOT:
-- rank 1–11;
-- score;
-- choose top 3;
-- recommend final topic.
+# Important
+No Reader ranking.
+No scoring.
+No top-3.
+No final topic recommendation.
+
+# After both complete
+Editor may use PRIVATE mapping only after Reader reports are frozen to compare click signals with actual concepts.
 
 # BLOCKED
 - first screen
 - prose
 - final winner
-- ranking / scoring
 - old candidate revival
 
 # One Sentence
-> **包装阶段已经公平收口，下一步制作匿名双顺序书架，再收集两份独立点击反应。**
+> **匿名书架已经通过泄露检查，现在开始两份独立、只看包装的点击反应测试。**
