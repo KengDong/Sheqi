@@ -3,28 +3,31 @@
 updated: 2026-09-26
 
 # editor_in_chief
-- status: ACTIVE / ORCHESTRATION ONLY
-- current_stage: root restart at Market Desire Map
+- status: ACTIVE / AWAITING AUTHOR
+- current_stage: Market Desire Map complete; hot-chassis whitelist frozen
 
-# SINGLE CORE WORKER
+# COMPLETED
+- market_desire_scout
 
-## market_desire_scout
-- status: READY / RUN NOW
-- current:
-  > `handoffs/market_desire_scout/CURRENT.md`
+# CURRENT HUMAN GATE
+AUTHOR reads:
+> `experiments/reboot_v4/author_choice/market_entry_board_v2.md`
 
-# RETIRED / BLOCKED
-- genre_demand_scout: RETIRED
-- p0_opening_benchmark_scout: BLOCKED
-- all P0 writers/readers: BLOCKED
-- all old candidate workers: ARCHIVE
-- Reservoir / Character / Horizon workers: BLOCKED
+and marks:
+> WANT / MAYBE / NO.
 
-# Author Gate
-After Market Desire Map:
-> AUTHOR chooses WANT / MAYBE / NO fantasy families.
+# BLOCKED
+Until author chooses:
+- direct benchmark scouts
+- concept forge
+- prose
+- P0
+- Reservoir / Character / Horizon
+- AI comparison readers
 
+# Hard
+No concept outside the current-hit-validated chassis whitelist.
 No AI final ranking.
 
 # Current Single Next Action
-> Run market_desire_scout.
+> AUTHOR market-entry choice.
