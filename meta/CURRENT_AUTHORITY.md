@@ -1,38 +1,56 @@
-# CURRENT AUTHORITY｜POSTMORTEM REVIEW FREEZE
+# CURRENT AUTHORITY｜REBOOT-V4 FANQIE MARKET ENTRY
 
 updated: 2026-09-26
-branch: reboot-v4-fanqie-root-audit
+branch: reboot-v4-fanqie-market-entry
 
 # Highest Authority
 
-1. `meta/AUDIT_AUTHORITY_REGISTRY.md`
+1. `meta/RESTART_AUTHORITY_V1.md`
 2. `reviews/2026-09-26_master_failure_postmortem_and_repo_reset.md`
 3. `meta/BRANCH_PURPOSE.md`
 
 # Current Status
-> **MASTER AUDIT COMPLETE / AWAITING AUTHOR REVIEW**
+> **CONTROLLED RESTART / ONE ACTIVE RESEARCH WORKER**
 
-No worker execution is authorized.
+# Platform
+> **Fanqie first launch**
 
-# Preserved Strategic Intent
-- goal: breakout + long follow + sustained income;
-- intended launch platform: Fanqie;
-- unknown-author standard;
-- author ranks final candidate choices;
-- real voluntary reading behavior outranks AI theory.
+# Current Single Task
+Role:
+> `fanqie_market_entry_scout`
 
-# Suspended
-All pre-audit process documents, gates, candidate statuses and READY tasks are:
-> evidence only
+CURRENT:
+> `handoffs/fanqie_market_entry_scout/CURRENT.md`
 
-until explicitly re-promoted after author review.
+Brief:
+> `research/briefs/2026-09-26_reboot_v4_fanqie_market_entry_v2_brief.md`
 
-# Recommended Restart Point
-The master audit recommends, but does NOT dispatch:
-> Fanqie-specific market-entry mapping for unknown male authors.
+# Candidate State
+Primary:
+> NONE.
+
+ACTIVE:
+> NONE.
+
+RESERVE:
+> NONE.
+
+All old concepts:
+> historical evidence only.
 
 # Hard
-No new brief may become READY until author accepts or revises the master audit.
+This stage may research market pools only.
+
+It may NOT:
+- generate concepts;
+- rank final directions;
+- write prose;
+- resurrect old candidates;
+- dispatch downstream tasks.
+
+# Next Human Gate
+After scout completes:
+> AUTHOR marks Fanqie reader pools WANT / MAYBE / NO.
 
 # One Sentence
-> **复盘已经完成，现在先让作者审复盘，不自动进入下一轮。**
+> **现在只研究“番茄新人值得进哪个池”，不研究“我们具体写什么书”。**
