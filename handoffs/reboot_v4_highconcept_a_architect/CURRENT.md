@@ -1,52 +1,56 @@
 # reboot_v4_highconcept_a_architect｜CURRENT
 
 ## STATUS
-> **A3 FIXED-WORLD PLEASURE ENGINE ROUND 05 / AUTHOR FIRST-LOOK TEST**
+> **TWO SELECTED ENGINES REFINED V2 / AUTHOR REVIEW**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
 
-## AUTHOR CORRECTION
-The world background is considered fixed.
-Do not force the concept to remain about death / funeral.
-The task is now:
-> make this already-selected modern mass-cultivation world FUN.
+## AUTHOR SELECTED
+1. future-self route
+2. living Dao-seed / cross-world living counterpart route
 
-## CURRENT ROUND
-> `experiments/reboot_v4/quick_ideation/2026-09-26_A3_fixed_world_pleasure_engine_round05.md`
+## CURRENT FILE
+> `experiments/reboot_v4/concepts/highconcept/2026-09-26_two_selected_engines_refined_v2.md`
 
-Single-world engines:
-- failure / deviation becomes a new path;
-- cultivation routes can be refunded / replayed;
-- mass-standardized technique crowdsources its own evolution;
-- learning a path summons a future self;
-- cultivation major evolves from actual life choices;
-- discarded failed techniques reveal missing prerequisites.
+## FUTURE-SELF CORRECTION
+Do not trigger on every minor technique.
+Trigger on:
+> genuine primary route / life-path commitment.
 
-Dual-world engines:
-- change the source in ancient world → modern textbook/history updates;
-- bind a cross-world living cultivator and co-develop one Dao;
-- small ancient relationship → huge modern historical trace;
-- meet technique creators while techniques are still being invented;
-- modern aptitude vs ancient self-written identity;
-- modern safe descendant + ancient forbidden original → third path.
+Future selves:
+- know only their own branch;
+- advice expires when present changes;
+- have independent self-interest;
+- can lend brief embodied mastery at the cost of anchoring present toward that branch.
+
+Core payoff:
+> protagonist combines mutually exclusive futures into a present route none of them lived.
+
+## LIVING DAO-SEED CORRECTION
+Do not share raw cultivation.
+
+The two living cultivators share:
+> verified Dao understanding / jointly created Dao patterns.
+
+Both must execute and cultivate separately.
+
+Connection grows:
+> voice → senses → shared vision → Dao imprint → projection → later physical crossing.
+
+Core payoff:
+> two different cultivation civilizations jointly create a third path neither world possessed.
 
 ## BENCHMARK FUNCTIONS
-- 《我正经学生，每天只吃九种魔药》: repeatable input → immediate inverted useful gain.
-- 《没钱修什么仙？》: mechanic embedded in ordinary society / status / work / school.
-- 《原来我是仙道天骄》: each crossing changes current options immediately.
-- 《我的化身正在成为最终BOSS》: one mechanic creates power + identity + public reaction.
-- 《我能活化技能》: abstract ability becomes persistent growable asset.
+- 《我正经学生，每天只吃九种魔药》: repeatable input → immediate distinctive payoff → next desire.
+- 《苟在初圣魔门当人材》: branch information accumulates but cannot be consequence-free omniscience.
+- 《我的化身正在成为最终BOSS》: persistent identities have independent agendas / social consequence.
+- 《没钱修什么仙？》: cultivation choice tied to education / work / social future.
+- 《原来我是仙道天骄》: every cross-world interaction changes current options.
 
 ## HARD
-Do not regress to:
-- maintenance;
-- appraisal;
-- recycling;
-- weird profession;
-- Heaven / ascension opening;
-- death as mandatory core.
-
-## NEXT
-AUTHOR first-look reaction to A1–A6 / D1–D6.
-No architecture expansion before that.
+- no repair / recycling regression;
+- no future-self strategy NPC;
+- no raw shared-level freeloading;
+- no Heaven / ascension early expansion;
+- no architecture beyond Ch20 before AUTHOR reaction.
