@@ -1,23 +1,15 @@
 # P0 Pair Reader B｜CURRENT
 
-## ROLE
-- role: p0_pair_reader_b
-- status: READY
-- decision: REBOOT-V3
-- clean_room: HARD
+## STATUS
+> CANCELLED / INPUT INVALIDATED
 
-## CURRENT TASK
-Execute:
-> `research/briefs/2026-09-26_reboot_v3_p0_pair_reader_b_brief.md`
+The anonymous pair packages were built from P0 V1 outputs whose Native condition was not physically isolated from Mirror instructions.
 
-## HARD INPUT BOUNDARY
-Read only:
-- own brief;
-- two anonymous P0 pair files named by the brief.
+Do not read or evaluate those packages.
 
-Do NOT read mapping, writer outputs, project research, other reader report, or web.
+See:
+> `reviews/2026-09-26_reboot_v3_p0_input_boundary_contamination_audit.md`
 
-## OUTPUT
-> `reviews/2026-09-26_reboot_v3_p0_pair_reader_b.md`
+Wait for new P0 V2 anonymous pairs.
 
-Then CURRENT/history/commit/STOP.
+STOP.
