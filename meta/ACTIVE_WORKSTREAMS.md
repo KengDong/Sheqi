@@ -7,21 +7,39 @@ branch: reboot-v4-fanqie-market-entry
 > NONE.
 
 # editor_in_chief
-- status: ACTIVE HUMAN GATE
+- status: ACTIVE CONTROL / AWAITING HUMAN AUTHORIZATION
 - current:
   > `handoffs/editor_in_chief/CURRENT.md`
 
-# CURRENT HUMAN ACTION
-AUTHOR replies to numbered Reader Pools with:
-> WANT / MAYBE / NO
+# AUTHOR CHOICE
+> RECORDED
+
+Exact:
+> `1想要2想要3想要4想要5不要6可能7不要`
+
+Retained for possible next evidence stage:
+- WANT: 1 / 2 / 3 / 4
+- MAYBE: 6
+
+Excluded by author:
+- NO: 5 / 7
+
+# PENDING NEXT STAGE
+> **selected-pool direct hit + matched-failure deep read**
+
+Status:
+> PROPOSED / NOT DISPATCHED
+
+Scope:
+> 1 / 2 / 3 / 4 / 6 only
 
 # BLOCKED
-- all research workers
-- direct benchmark
 - concept forge
 - prose
+- old-candidate revival
+- final novel selection
 - readers
 - Reservoir / Character / Horizon
 
 # Hard
-No downstream task becomes READY until author choice is recorded and reviewed.
+No research worker becomes ACTIVE until the author explicitly confirms the next evidence stage.
