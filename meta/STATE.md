@@ -4,47 +4,36 @@ updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
 # Status
-> **ANONYMOUS SHELF QA PASS / TWO CLEAN-ROOM READERS READY**
+> **AUTHOR DIRECT ANONYMOUS SHELF REVIEW**
 
-# Shelf QA
-- Shelf A: 11
-- Shelf B: 11
-- same books: YES
-- different order: YES
-- metadata leak: NONE
+# Process correction
+The planned AI clean-room Readers A/B are cancelled.
 
-QA:
-> `reviews/2026-09-26_reboot_v4_anonymous_shelf_qa.md`
+AUTHOR reason:
+> AI Reader tends to say too many packages are good, and waiting for separate AI Reader windows wastes time.
 
-# Current Stage
-Run independently:
-- `reboot_v4_cleanroom_shelf_reader_a`
-- `reboot_v4_cleanroom_shelf_reader_b`
+Therefore current package click test is now:
+> **AUTHOR judges the anonymous shelf directly.**
 
-Each Reader sees only one anonymous shelf.
+# Review sequence
+First pass:
+- title + one-line hook only;
+- mark 点 / 可能 / 不点.
 
-# Reader outputs
-Per book:
-- title-only click reaction;
-- after blurb click reaction;
-- perceived promise;
-- strongest pull;
-- biggest friction.
+Second pass:
+- read blurbs only after the first reaction is recorded;
+- note whether blurb raises, holds, or lowers click desire.
 
-# Important
-No Reader ranking.
-No scoring.
-No top-3.
-No final topic recommendation.
+# Source
+> `experiments/reboot_v4/shelf/2026-09-26_anonymous_mixed_shelf_a.md`
 
-# After both complete
-Editor may use PRIVATE mapping only after Reader reports are frozen to compare click signals with actual concepts.
+Private mapping remains hidden until AUTHOR reactions are frozen.
 
 # BLOCKED
-- first screen
+- AI Reader simulation
 - prose
-- final winner
-- old candidate revival
+- first screen
+- automatic winner selection
 
 # One Sentence
-> **匿名书架已经通过泄露检查，现在开始两份独立、只看包装的点击反应测试。**
+> **包装点击测试改由作者本人直接完成，AI只负责匿名化、记录和后续映射。**
