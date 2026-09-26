@@ -1,173 +1,162 @@
 # Editor in Chief｜CURRENT
 
 ## STATUS
-> **READY / NEW WINDOW SUCCESSOR**
+> **RECEIVED / READY FOR NON-RANKED EDITOR SYNTHESIS**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
 
-## AUDITED HEAD
-> `65d13ce3e6cd6e8be511febecf60c07cce257dfc`
-
 ## PLATFORM
 > Fanqie / 番茄小说
 
-# WHY THIS WINDOW EXISTS
+# SUCCESSOR RECEIVE STATE
 
-The previous control conversation is long.
+The fresh control window has now **received the actual current project state at content level**, not only by file existence.
 
-Git is the sole project memory.
+Do NOT ask the AUTHOR to repeat the already-recorded market-pool choice unless the AUTHOR voluntarily changes it.
 
-This fresh editor window must inherit the CURRENT BRANCH state from Git,
-not from old chat memory and not from stale worker-local status files.
-
-# RECEIVE AUDIT｜WHAT IS ALREADY DONE
-
-The branch is **66 commits ahead of main** and the following upstream stages are COMPLETE.
-
-## A. Root reset / restart authority
-Completed:
-- REBOOT-V4 root restart;
-- master failure postmortem;
-- Fanqie-first platform lock;
-- market-entry qualification gate.
-
-Key references:
-- `meta/RESTART_AUTHORITY_V1.md`
-- `reviews/2026-09-26_master_failure_postmortem_and_repo_reset.md`
-- `meta/BRANCH_PURPOSE.md`
-
-## B. Fanqie market-entry V2 + V2.1 coverage patch
-Completed:
-- Fanqie Market Entry V2;
-- V2.1 coverage patch;
-- 19-category Fanqie male Coverage Matrix;
-- explicit scan of previously omitted major categories;
-- DIRECT / NEAR / CONTROL evidence-role labeling;
-- dynamic rank + author evidence freeze;
-- Evidence Strength labels on the author-facing board;
-- new qualified Pool 7: 年代赶山赶海 / 家庭生活重建 + 实物丰裕复利.
-
-Key references:
-- `research/2026-09-26_reboot_v4_fanqie_market_entry_v2.md`
-- `reviews/2026-09-26_fanqie_market_entry_v2_1_editor_pass.md`
-- `experiments/reboot_v4/author_choice/fanqie_market_entry_board_v2.md`
-- `research/evidence/fanqie_market_entry_2026-09-26/INDEX.md`
-
-V2.1 editor result:
-> **PASS TO AUTHOR MARKET-POOL CHOICE**
-
-Do NOT rerun V2 / V2.1 unless the author explicitly reopens market coverage.
-
-## C. Author market-pool choice
-Recorded exact author response:
-> `1想要2想要3想要4想要5不要6可能7不要`
-
-Normalized:
-- 1 WANT
-- 2 WANT
-- 3 WANT
-- 4 WANT
-- 5 NO
-- 6 MAYBE
-- 7 NO
+Current AUTHOR choice remains:
+- Pool 1 — WANT
+- Pool 2 — WANT
+- Pool 3 — WANT
+- Pool 4 — WANT
+- Pool 5 — NO
+- Pool 6 — MAYBE
+- Pool 7 — NO
 
 Source:
 > `experiments/reboot_v4/author_choice/author_market_pool_selection.md`
 
-This is a human market-pool preference filter,
-not a final novel choice.
+# RECEIVED UPSTREAM WORK
 
-## D. Selected-pool direct-hit + matched-failure deep reads
-All five authorized isolated workers are COMPLETE:
-- Pool 1 / WANT
-- Pool 2 / WANT
-- Pool 3 / WANT
-- Pool 4 / WANT
-- Pool 6 / MAYBE
+## Market-entry chain
+Received and treated as complete:
+- REBOOT-V4 restart + master failure postmortem;
+- Fanqie-first platform lock;
+- Fanqie Market Entry V2;
+- V2.1 19-category coverage patch;
+- V2.1 editor PASS;
+- author-facing market-pool board;
+- author WANT / MAYBE / NO selection.
 
-Each completed:
-- deep-read report;
-- frozen evidence;
-- selfcheck/history;
-- no Concept generation.
+Do NOT rerun these unless AUTHOR explicitly reopens them.
 
-Reports:
-1. `research/deepreads/2026-09-26_reboot_v4_fanqie_pool01_minsu_deepread.md`
-2. `research/deepreads/2026-09-26_reboot_v4_fanqie_pool02_yiwu_deepread.md`
-3. `research/deepreads/2026-09-26_reboot_v4_fanqie_pool03_weiyi_deepread.md`
-4. `research/deepreads/2026-09-26_reboot_v4_fanqie_pool04_survival_asset_deepread.md`
-5. `research/deepreads/2026-09-26_reboot_v4_fanqie_pool06_historical_status_deepread.md`
+## Five selected-pool deep reads
+All five reports have now been read by the successor editor.
 
-Important evidence limits:
-- Pool 1: NO CLEAN 2025–2026 MATCHED WEAK CONTROL FOUND.
-- Pool 6: NO TWO CLEAN CONTEMPORANEOUS MATCHED WEAK CONTROLS FOUND.
+### Pool 1｜现代民俗玄学：本土术法专业权威｜WANT
+Report:
+> `research/deepreads/2026-09-26_reboot_v4_fanqie_pool01_minsu_deepread.md`
 
-Do not inflate those gaps into causal certainty.
+Received core:
+> 隐藏因果可验证 → 主角程序性判断 / 处理 → 现实关系与社会位置重估 → 结果留在后续状态。
 
-# FIRST ACTION｜AUTHOR CHOICE RECONFIRMATION
+Critical evidence limit:
+> NO CLEAN 2025–2026 SAME-POOL MATCHED WEAK CONTROL.
 
-Before reading or synthesizing the five deep-read reports,
-show the author this numbered list:
+Interpret as:
+> strong mechanism evidence + limited market-causal evidence.
 
-1. **现代民俗玄学：本土术法专业权威**
-2. **都市医武神医：低位身份强势翻身**
-3. **诡异降临反猎杀：收容 / 吞噬 / 驾驭异常**
-4. **全民 / 末日求生 + 私有安全资产复利**
-5. **西幻边疆领主：领地 / 人口 / 资源 / 秩序可见扩张**
-6. **古代身份困局：高压等级社会中的地位与自主权上升**
-7. **年代赶山赶海：家庭生活重建 + 实物丰裕复利**
+### Pool 2｜都市医武神医：低位身份强势翻身｜WANT
+Report:
+> `research/deepreads/2026-09-26_reboot_v4_fanqie_pool02_yiwu_deepread.md`
 
-Show the current recorded choice:
-> 1/2/3/4 WANT, 6 MAYBE, 5/7 NO.
+Received core:
+> 错误社会定价被现实强制纠正；真正复利单位不是震惊，而是 social memory + reusable relationships + public identity + jurisdiction escalation。
 
-Ask the author to confirm or modify it.
+Important correction:
+> “第一次打脸更早”不是 HIT / WEAK 的充分分界；weak controls 也能很早付款。
 
-If author says unchanged:
-> preserve current record.
+### Pool 3｜诡异降临反猎杀：收容 / 吞噬 / 驾驭异常｜WANT
+Report:
+> `research/deepreads/2026-09-26_reboot_v4_fanqie_pool03_weiyi_deepread.md`
 
-If author changes any choice:
-> update `experiments/reboot_v4/author_choice/author_market_pool_selection.md` before synthesis.
+Received core:
+> prey pressure → abnormal ownership reversal → dangerous identity → old anomaly / old ability / old relationship compound state.
 
-# SECOND ACTION｜ONLY AFTER AUTHOR CONFIRMS CHOICES
+Critical long-run tension:
+> 主角越来越支配异常，但世界仍必须保留更高 Fear line。
 
-Read only the retained WANT / MAYBE pool deep-read reports.
+Important correction:
+> 规则怪谈热 ≠ 反猎杀成立；快反杀也不是充分条件。
 
-Then create a **NON-RANKED editor synthesis** answering:
-- what is strongly evidenced;
-- what remains uncertain;
+### Pool 4｜全民 / 末日求生 + 私有安全资产复利｜WANT
+Report:
+> `research/deepreads/2026-09-26_reboot_v4_fanqie_pool04_survival_asset_deepread.md`
+
+Received core:
+> 外部秩序恶化时，同一私有空间持续留下永久生活 / 人物 / 责任 / 选择痕迹。
+
+Critical distinction:
+> 真复利单位不是“新模块 / 数值”，而是 future-persistent state。
+
+Important correction:
+> 把安全屋、房车、冰箱、床、火力、升级全写齐，仍然可能因为资产内部生活、关系、责任不复合而变弱。
+
+### Pool 6｜古代身份困局：地位与自主权上升｜MAYBE
+Report:
+> `research/deepreads/2026-09-26_reboot_v4_fanqie_pool06_historical_status_deepread.md`
+
+Received core:
+> 身份不是奖杯，而是一套改变“别人能不能对我做某件事”的社会 API；核心资产是 rights-bundle compounding。
+
+Critical distinction:
+> 历史 / 科举是 Vehicle；“在压迫性制度中一点点拿回自己人生的决定权”才是 Reader Fantasy。
+
+Critical evidence limit:
+> no two clean contemporaneous matched weak controls.
+
+MAYBE remains MAYBE.
+
+# SHARED CROSS-REPORT OBSERVATION｜NOT A RANKING
+
+The successor has received one recurring mechanism across all retained reports:
+
+> **一次爽点如果不能改变下一轮的默认起点，就不是复利资产。**
+
+Different pools instantiate that differently:
+- Pool 1: 专业判断与社会信任留下来；
+- Pool 2: 社会定价 / 人脉 / 公开身份留下来；
+- Pool 3: 异常能力 / 危险身份 / 关系变化留下来；
+- Pool 4: 空间 / 设施 / 岗位 / 责任留下来；
+- Pool 6: 身份权利 / 程序保护 / 自主权留下来。
+
+This is an editor receive note, NOT a cross-pool score or winner claim.
+
+# CURRENT NEXT ACTION
+
+The old “ask AUTHOR to repeat 1–7 choices” gate is satisfied by the already-recorded author choice and the AUTHOR's instruction to receive later project work.
+
+Next allowed action:
+> **NON-RANKED editor synthesis of Pool 1 / 2 / 3 / 4 / 6.**
+
+That synthesis may compare:
 - exact Reader Fantasy loop;
+- strongly evidenced mechanisms;
+- uncertainty / evidence weakness;
 - hit-vs-weak deltas;
 - newcomer execution burden;
 - false imitation traps;
-- what direct market function remains open.
+- open market functions.
 
-Return synthesis to AUTHOR.
+It must NOT:
+- rank pools;
+- choose final pool;
+- generate Concepts;
+- write prose;
+- revive old Sheqi candidates;
+- auto-dispatch downstream work.
 
 # HARD BLOCKS
 
-Do NOT:
-- rank pools;
-- choose a winner;
-- create novel Concepts;
-- write prose;
-- revive old Sheqi candidates;
-- dispatch Concept Forge automatically;
-- reopen Reservoir / Character / Horizon.
-
-MAYBE stays MAYBE unless AUTHOR changes it.
-NO stays NO unless AUTHOR changes it.
-
-# DO-NOT-REPEAT LIST
-
-Do not rerun:
-- Market Desire Map;
-- Fanqie Market Entry V2;
-- V2.1 Coverage Patch;
-- author pool selection;
-- the five completed selected-pool deep reads.
-
-Only reopen any of these if the AUTHOR explicitly asks for a new audit.
+Still blocked:
+- Concept Forge
+- prose
+- final winner
+- AI cross-pool ranking / scoring
+- old candidate revival
+- Reservoir / Character / Horizon
+- automatic downstream dispatch
 
 # ONE SENTENCE
-> **真实进度已经到“五份选中池深读全部完成”；新窗口先承接作者选择权，再承接非排行总编综合，绝不能被旧状态文件拉回 V2/V2.1。**
+> **新总控已把V2.1、作者选择和五份深读实际内容全部接收完；现在从“等待承接”前进到“可做非排行总编综合”，不再要求作者重复旧选择。**
