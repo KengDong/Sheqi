@@ -1,41 +1,41 @@
-# BRANCH PURPOSE｜reboot-v4-fanqie-root-audit
+# BRANCH PURPOSE｜reboot-v4-fanqie-market-entry
 
 created: 2026-09-26
-base_main_sha: aa63fdde6cf53a07b0a7335eb528a41db1e66efc
+parent_branch: reboot-v4-fanqie-root-audit
+parent_head_at_fork: 33a29b24d2920d8fb6bbbf3ba17c5aace40b4fae
 
 # Purpose
 
-This branch exists only to:
+This branch is the controlled first execution branch after the full Sheqi root audit.
 
-1. freeze execution;
-2. audit the entire Sheqi R&D history;
-3. separate durable lessons from failed process habits;
-4. rebuild a clean Fanqie-first operating system;
-5. decide the next task only AFTER the audit is accepted.
+Single purpose:
+> **map exact Fanqie reader pools worth entering for an unknown first-time male author.**
 
-# Hard Freeze
+# Scope
+Allowed:
+- current Fanqie market research;
+- official-platform rule research;
+- hit vs weak matched controls;
+- newcomer-access analysis;
+- author-facing market-pool board.
 
-Until the root audit is completed and author-approved:
+Forbidden:
+- novel concept generation;
+- prose;
+- candidate revival;
+- AI winner ranking;
+- Reservoir / Character / Horizon;
+- downstream auto-dispatch.
 
-- no market scout runs;
-- no concept forge;
-- no benchmark scout;
-- no prose;
-- no reader test;
-- no candidate promotion;
-- no old task resurrection.
+# Parent audit
+Immutable reference:
+> `reboot-v4-fanqie-root-audit`
 
-# Main
+Master audit:
+> `reviews/2026-09-26_master_failure_postmortem_and_repo_reset.md`
 
-`main` is treated as:
-> frozen historical baseline at branch creation.
+# Exit
+This branch stops after:
+> AUTHOR receives and reviews the Fanqie market-entry board.
 
-All audit changes go only to this branch.
-
-# Exit Condition
-
-This branch may dispatch work only after:
-- master failure audit is frozen;
-- current authority is rewritten;
-- stale task graph is cleaned;
-- author explicitly agrees with the restart point.
+No automatic Concept Forge.
