@@ -3,41 +3,24 @@
 updated: 2026-09-26
 branch: reboot-v4-fanqie-market-entry
 
-# AUTHOR DIRECT REVIEW
-
-## anonymous shelf
-- status: READY / AUTHOR REVIEWING DIRECTLY
-- shelf:
-  > `experiments/reboot_v4/shelf/2026-09-26_anonymous_mixed_shelf_a.md`
-
-# CANCELLED
-
-## reboot_v4_cleanroom_shelf_reader_a
-- status: CANCELLED BY AUTHOR
-
-## reboot_v4_cleanroom_shelf_reader_b
-- status: CANCELLED BY AUTHOR
-
-Reason:
-> AI package Readers are not used for the current decision because the AUTHOR wants direct click judgment and considers AI Reader approval too generous / slow.
-
-# COMPLETED / FROZEN
-- reboot_v4_anonymous_shelf_forge
-- package QA / revision workers
-- all concept workers
-- all prior market/evidence workers
-
 # CONTROL
 
 ## editor_in_chief
-- status: WAITING FOR AUTHOR DIRECT SHELF REACTION
+- status: AUTHOR PACKAGE TEST COMPLETE / DIAGNOSTIC NEXT
 
-# HARD BLOCKED
-Until AUTHOR gives shelf reactions:
-- package signal synthesis
+# AUTHOR RESULT
+- 11 packages tested directly by AUTHOR.
+- 7 survived first glance.
+- After blurbs, AUTHOR reported low interest across all 7.
+
+# CANCELLED
+- AI Reader A
+- AI Reader B
+
+# BLOCKED
 - first-screen writing
 - prose
-- final topic decision
+- final winner selection
 
 # NEXT
-> AUTHOR marks anonymous books by real first-glance reaction.
+> Diagnose the 11 concepts/packages before any second concept round.
