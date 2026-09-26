@@ -6,9 +6,13 @@ branch: reboot-v4-fanqie-market-entry
 # CURRENT CONTROL
 
 ## editor_in_chief
-- status: AUTHOR SHRINK GATE / WAITING FOR AUTHOR
-- decision sheet:
-  > `experiments/reboot_v4/author_choice/2026-09-26_retained_pool_author_decision_sheet.md`
+- status: AUTHOR SHRINK COMPLETE / WAITING FOR NEXT-STAGE START
+- retained:
+  - Pool 1 民俗玄学
+  - Pool 2 都市医武
+  - Pool 3 诡异反猎杀
+- decision:
+  > `experiments/reboot_v4/author_choice/2026-09-26_retained_pool_shrink_decision.md`
 
 # COMPLETED / FROZEN
 - retained_pool_evidence_normalizer — COMPLETE / FROZEN
@@ -20,18 +24,19 @@ branch: reboot-v4-fanqie-market-entry
 - fanqie_pool04_survival_asset_scout — COMPLETE / FROZEN
 - fanqie_pool06_historical_status_scout — COMPLETE / FROZEN
 
-# HUMAN GATE
-AUTHOR now reduces five retained directions to 2–3.
-
-No new worker is READY.
+# HELD OUT
+- Pool 4 — not entering next concept experiment
+- Pool 6 — not entering next concept experiment
 
 # HARD BLOCKED
-- Concept Forge
+No new worker is READY yet.
+
+Blocked until explicit AUTHOR start:
+- concept generation
 - prose
-- final topic selection by AI
-- ranking / scoring
+- final winner
+- AI ranking / scoring
 - old candidate revival
-- downstream creative dispatch
 
 # NEXT
-> AUTHOR shrink decision only.
+> AUTHOR starts next-stage design for three retained pools.
