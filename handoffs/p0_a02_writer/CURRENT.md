@@ -2,7 +2,7 @@
 
 ## ROLE
 - role: p0_a02_writer
-- status: BLOCKED / BATCH 2
+- status: READY
 - decision: REBOOT-V3
 - stage: P0 First Screen / Native vs Commercial Mirror
 - candidate: A02 《末日先修水电》
