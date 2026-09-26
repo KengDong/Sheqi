@@ -1,40 +1,46 @@
 # reboot_v4_highconcept_a_architect｜CURRENT
 
 ## STATUS
-> **A3 TITLE-FIRST REBOOT ROUND 03 / AUTHOR FIRST-LOOK TEST**
+> **A3 EXPANSION GRADIENT CORRECTED / EARLY-LOOP RESEARCH NEXT**
 
 ## BRANCH
 > `reboot-v4-fanqie-market-entry`
 
-## AUTHOR FEEDBACK
-Round 02:
-> R4 only barely acceptable; R1/R2/R3 fail first-look compared with current hot titles such as 《我正经学生，每天只吃九种魔药》.
+## AUTHOR CORRECTION
+A3 had drifted into endgame-first design:
+- fly-ascension corpses;
+- Heaven death;
+- previous-era mysteries too early.
 
-## DIAGNOSIS
-Previous titles were macro-setting statements:
-- too abstract;
-- protagonist passive;
-- weak visual action;
-- weak repeatability in title.
+This fails the gradual expansion pattern the AUTHOR wants from:
+- 《没钱修什么仙？》
+- 《原来我是仙道天骄》
+- 《我正经学生，每天只吃九种魔药》
 
-## CURRENT BENCHMARK
-Hot-title functions:
-- normal identity + absurd recurring behavior;
-- direct colloquial contradiction;
-- concrete object / place;
-- repeated action implied;
-- title reads like an opening scene.
+## CURRENT CORRECTION
+Read:
+> `reviews/2026-09-26_A3_expansion_gradient_correction.md`
 
-## CURRENT ROUND
-> `experiments/reboot_v4/quick_ideation/2026-09-26_A3_title_first_reboot_round03.md`
+## HIGHEST RULE
+Shelf fantasy can be huge.
+Early daily engine must be small, concrete and repeatable.
 
-Key example:
-> 《别人飞升，我在天门后面捡尸体》
+First 20–50 chapters should establish:
+> one useful strange advantage → current-life gain → repeat → social revaluation.
 
-This converts passive “见过尸体” into an active, repeatable, visual engine.
+Do NOT burn:
+- Heaven;
+- ascension;
+- prior-era truth;
+- world funeral
+in the opening engine.
+
+## NEXT QUESTION
+Find A3's equivalent of:
+- “吃一颗药 → 副作用反转 → 马上有用”
+- “穿一次界 → 拿到一个实际差价 / 修炼优势”
+
+The early loop must later scale naturally into send-off / return / Heaven crisis.
 
 ## HARD
-- do not architecture-expand before AUTHOR first-look reaction;
-- do not explain macro world lore in title;
-- no AI ranking;
-- benchmark first.
+No new endgame-first title or architecture until early loop passes AUTHOR.
