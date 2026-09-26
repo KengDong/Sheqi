@@ -1,30 +1,30 @@
-# ACTIVE WORKSTREAMS｜REBOOT-V3
+# ACTIVE WORKSTREAMS｜REBOOT-V4
 
 updated: 2026-09-26
 
 # editor_in_chief
 - status: ACTIVE / ORCHESTRATION ONLY
-- current_stage: genre / reader-fantasy root reopen
+- current_stage: root restart at Market Desire Map
 
 # SINGLE CORE WORKER
 
-## genre_demand_scout
+## market_desire_scout
 - status: READY / RUN NOW
 - current:
-  > `handoffs/genre_demand_scout/CURRENT.md`
+  > `handoffs/market_desire_scout/CURRENT.md`
 
-# BLOCKED
-- p0_opening_benchmark_scout
-- all P0 Native/Mirror writers
-- all P0 AI comparison readers
-- P1 / P3
-- new Reservoir / Character / Horizon work
+# RETIRED / BLOCKED
+- genre_demand_scout: RETIRED
+- p0_opening_benchmark_scout: BLOCKED
+- all P0 writers/readers: BLOCKED
+- all old candidate workers: ARCHIVE
+- Reservoir / Character / Horizon workers: BLOCKED
 
-# Author authority
-After genre-demand audit:
-> AUTHOR receives evidence-qualified comparison board and personally ranks it.
+# Author Gate
+After Market Desire Map:
+> AUTHOR chooses WANT / MAYBE / NO fantasy families.
 
-No AI final candidate ranking.
+No AI final ranking.
 
 # Current Single Next Action
-> Run genre_demand_scout.
+> Run market_desire_scout.
