@@ -225,3 +225,36 @@ but NOT LOCKED.
 Hard:
 > do not choose causality based on lore elegance.
 > compare by Ch1–20 reader payoff / modern growth / crisis weight.
+
+
+## X12｜FANQIE EXPLOSIVE OPENING
+New file:
+> `experiments/reboot_v4/framework_tests/2026-09-27_x12_fanqie_explosive_opening_packages_v1.md`
+
+Retain:
+> causality Package E.
+
+Opening correction:
+> Ch1 must already contain action + current pressure + ancient anomaly + immediate modern reversal.
+
+Current strongest opening package:
+> F1｜陪练反客为主.
+
+F1 rhythm:
+- Ch1 paid sparring / modern low position is shown in action;
+- ancient source shadow overlaps during fight;
+- protagonist copies one step and reverses the exchange;
+- historical figure looks back at him;
+- Ch2 establishes two-way contact / future-version identity inversion;
+- Ch3 formal modern retest creates real resource / status uplift;
+- Ch3 hidden-source note suggests protagonist may already have been part of history.
+
+Alternative packages preserved:
+- F2｜兼职救场;
+- F3｜公开测评爆表;
+- F4｜公开擂台补贴战.
+
+Hard:
+> do not full-map-cut to ancient world in Ch1.
+> do not delay first payoff until ancient-world explanation.
+> first 3 chapters must prove mechanism + reciprocity + modern social payoff.
