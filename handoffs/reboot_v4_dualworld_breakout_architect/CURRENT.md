@@ -6,6 +6,34 @@
 ## BRANCH
 > `reboot-v4-dualworld-breakout-framework`
 
+## CANONICAL SHARED WRITER MEMORY
+For ANY future formal prose writer window, the architect must explicitly authorize:
+> `handoffs/shared/WRITER_MEMORY_INDEX.md`
+
+Then the writer reads the stable shared files listed by that index.
+
+Single operational entrypoints:
+- prose standard: `style/CURRENT_PROSE_STANDARD.md`
+- common failures: `style/COMMON_PROSE_FAILURES.md`
+- character registry: `characters/CHARACTER_REGISTRY.md`
+- Cheng Ye core: `characters/CHENG_YE_CHARACTER_BIBLE.md`
+- Cheng Ye mutable state: `characters/CHENG_YE_CURRENT_STATE.md`
+- author learning ledger: `collaboration/AUTHOR_FEEDBACK_LEDGER.md`
+- writer protocol: `handoffs/shared/FORMAL_PROSE_WRITER_PROTOCOL.md`
+- formal-writer CURRENT template: `handoffs/shared/NEW_FORMAL_WRITER_CURRENT_TEMPLATE.md`
+
+IMPORTANT:
+> Earlier dated prose-style / voice sections later in this CURRENT are historical audit notes.
+> They are NOT the operational entrypoint once a stable shared file exists.
+
+HARD INPUT BOUNDARY rule:
+> A new isolated writer window may read shared writer memory ONLY when its own CURRENT explicitly includes/authorizes the shared index.
+> Do not silently widen old benchmark boundaries.
+
+Collaboration objective:
+> separate windows should behave like one author with accumulating memory, not independent assistants rediscovering tone.
+
+
 ## PRESERVED OPTION STACK
 Do not delete:
 - P/Q/R protagonist-origin options;
