@@ -1,22 +1,7 @@
-# ch01_prose_synthesis_editor｜CURRENT
+# NOTE
+status: SUPERSEDED
 
-## STATUS
-> WAITING
+The previously prepared multi-scout Chapter 1 review plan is superseded by:
+> handoffs/ch01_v16_holistic_benchmark_editor/CURRENT.md
 
-## BRANCH
-> reboot-v4-dualworld-breakout-framework
-
-## FIRST READ
-> research/briefs/2026-09-27_ch01_prose_synthesis_editor_brief.md
-
-## START CONDITION
-Only start after all four scout reports exist.
-
-## TASK
-Synthesize independent findings into one whole-chapter rewrite blueprint.
-
-## HARD BOUNDARY
-No prose writing.
-
-## STOP CONDITION
-Write synthesis blueprint, update CURRENT/history, commit, then stop.
+Do not start this scout unless explicitly reactivated by the author.

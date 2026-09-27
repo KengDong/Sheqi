@@ -1,22 +1,7 @@
-# ch01_rhythm_camera_scout｜CURRENT
+# NOTE
+status: SUPERSEDED
 
-## STATUS
-> READY / ISOLATED BENCHMARK
+The previously prepared multi-scout Chapter 1 review plan is superseded by:
+> handoffs/ch01_v16_holistic_benchmark_editor/CURRENT.md
 
-## BRANCH
-> reboot-v4-dualworld-breakout-framework
-
-## FIRST READ
-> research/briefs/2026-09-27_ch01_rhythm_camera_benchmark_brief.md
-
-Then obey the brief's HARD INPUT BOUNDARY.
-
-## ALLOWED PROJECT INPUTS
-- experiments/reboot_v4/formal_drafts/2026-09-27_ch01_formal_v16_full_rebuild.md
-- style/CURRENT_PROSE_STANDARD.md
-
-## TASK
-Benchmark Ch1 rhythm/camera duration against mature/current successful cultivation novels.
-
-## STOP CONDITION
-Write the required report, update this CURRENT/history, commit to Git, then stop.
+Do not start this scout unless explicitly reactivated by the author.
