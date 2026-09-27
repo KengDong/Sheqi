@@ -348,3 +348,25 @@ Opening function:
 Hard:
 > Earth is backstory, current world is lived home.
 > protagonist should think like a native about current institutions.
+
+
+## X16｜MODERN COMPLETE != SOURCE TOTALITY
+New clarification:
+> `experiments/reboot_v4/rules/2026-09-27_x16_standardized_complete_vs_source_branches_clarification_v1.md`
+
+Core:
+> modern "complete" technique means mature / standardized / safe / mass-teachable,
+> not that every source-era experimental branch survived.
+
+Opening correction:
+- MC uses a mature modern standard form;
+- source-era actor uses an experimental transition branch from the SAME technique family;
+- platform should identify the parent lineage but flag the transition as unregistered / archival-source-like;
+- ancient actor is shocked by MC's mature FUTURE standardized form;
+- MC values ancient actor's source logic / experimental branch.
+
+Hard:
+> no "ancient source is universally superior" trope.
+> value comes from asymmetric knowledge:
+> modern = accumulated optimization / safety / data;
+> source = creation logic / lost context / niche branches.
