@@ -188,3 +188,77 @@ Detailed failure examples:
 
 Mechanical checker:
 > tools/prose_lint.py
+
+
+# 14. High-density narrative unit｜approved benchmark learning
+New approved principle:
+> 快，不是句子短；快是更少的叙事单位里装更多有效内容。
+
+A strong paragraph / dialogue turn should often complete 2+ functions:
+- action;
+- character judgment;
+- relationship;
+- world information;
+- consequence;
+- next decision.
+
+Before breaking a paragraph ask:
+> 这一段除了“发生一件事”，还完成了什么？
+
+If the answer is only one tiny fact:
+> consider merging it with the causal unit around it.
+
+Preferred micro-causality:
+> stimulus / rule
+> -> Cheng Ye interpretation
+> -> choice / reply
+> -> external consequence.
+
+# 15. Character humor through action
+For Cheng Ye and similar light characters:
+> do not make humor mainly a sentence-level decoration.
+
+Best sequence:
+> slightly crooked but valid interpretation
+> -> character ACTS on it
+> -> reality / other character reacts.
+
+The decision is more important than the punch line.
+
+Do NOT turn every NPC into a perfect setup partner.
+
+# 16. Worldbuilding through stakes
+Modern-cultivation exposition should preferably attach to:
+- money;
+- scores;
+- training;
+- jobs;
+- school access;
+- platform review;
+- qualifications;
+- resource allocation.
+
+If information has no immediate stake:
+> delay or compress it.
+
+# 17. Reader-facing technique terminology
+Technique structure must use immediately legible reader terms.
+
+Default:
+> 第X式 / 第X式接第Y式 / 第X式收尾 / 第Y式起手.
+
+Avoid ambiguous internal shorthand such as:
+> 第三转 / 第四转
+when Reader cannot tell whether "转" means turn count, movement phase or named move.
+
+Precision belongs in the physical description:
+> 换向 / 内扣 / 压身 / 回撤.
+
+Rule:
+> first tell Reader which move; then show how the body moves.
+
+# 18. Approved craft benchmark
+Detailed learning report:
+> research/benchmarks/2026-09-27_prose_craft_multichapter_benchmark_v1.md
+
+This benchmark has been approved by author as a meaningful improvement input.
