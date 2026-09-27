@@ -70,7 +70,7 @@ Problem:
 - reads more observant / gentle than active / playful.
 
 Current working:
-> 贺川
+> 程野
 
 Why:
 - easy pronunciation;
@@ -120,7 +120,7 @@ Why:
 ## 5. Voice test lines
 
 Useful:
-- "两辈子高考后都靠抢单挣钱，贺川对此已经没什么意见。至少这辈子不用爬六楼送奶茶。坏处是客户会还手。"
+- "两辈子高考后都靠抢单挣钱，程野对此已经没什么意见。至少这辈子不用爬六楼送奶茶。坏处是客户会还手。"
 - "明白，甲方要数据，不要我的尊严。"
 - "保险都买了，再打得太保守，多少有点不尊重保费。"
 - "我现在也在查。"
@@ -147,5 +147,5 @@ When stakes rise:
 not "suddenly cold second personality" unless later earned.
 
 ## Verdict
-> 贺川 + light/practical/rule-bending voice is the current best fit.
+> 程野 + light/practical/rule-bending voice is the current best fit.
 > Main remaining task is not "more jokes"; it is maintaining this behavior engine through Ch2–10.
