@@ -167,3 +167,32 @@ Current strongest broad candidates:
 - 《修仙大学：别人拼家底，我回过去自己攒》
 
 No winner locked.
+
+
+## CAUSALITY CORRECTION｜X10
+New file:
+> `experiments/reboot_v4/rules/2026-09-27_x10_causality_trunk_branch_model_v1.md`
+
+Core:
+> modern growth is the main axis;
+> ancient/source interaction is unlocked by growth and creates layout / leverage.
+
+Recommended causality:
+> 主干锁定 + 支线可变 + 隐史最自由 + 大事件有因果吸引子.
+
+Early:
+- no public-history rewrite every trip;
+- interventions mostly become hidden history / private branches / preserved resources.
+
+Mid:
+- first attempt to change a major event should prove:
+  > route can change while result still converges.
+
+This preserves:
+> fate pressure / current-crisis weight.
+
+Long:
+> only multi-era structural layout can truly break a major causal attractor.
+
+Do not return to:
+> modern problem → change past → present automatically fixed.
