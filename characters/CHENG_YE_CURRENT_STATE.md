@@ -16,7 +16,7 @@ Baseline:
 - admitted to 临江修真大学, summer before freshman enrollment;
 - limited discretionary training budget;
 - has done real-combat data crowdwork;
-- 《流云步》 third-to-fourth transition has a recurring pressure flaw.
+- 《流云步》第三式接第四式时有一个长期存在的高压衔接问题。
 
 # Current relationships
 周航:
