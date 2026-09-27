@@ -435,3 +435,36 @@ Hard after Ch1:
 
 Working names remain unlocked:
 许舟 / 临江修真大学 / 流云步 / 季观衡.
+
+
+## X18 V4｜VOICE / NAME / FLOW POLISH
+Current chapter candidate:
+> experiments/reboot_v4/prose_tests/2026-09-27_x18_fanqie_ch01_crowdwork_source_overlap_v4.md
+
+Current protagonist working name:
+> 贺川
+
+Voice target:
+> light / practical / quick-thinking / rule-bending;
+> humor grows from action logic;
+> when real anomaly appears, humor drops immediately.
+
+Reference function:
+> 《谁让他修仙的！》陆阳-type character energy,
+without copying jokes / wording / specific scenes.
+
+Key flow fixes:
+- replaced design-jargon terms with familiar modern terms:
+  > 意外险 / 一对一动作分析 / 动作识别 / 历史版本比对;
+- protagonist ACTIVELY chooses to push into his weak pressure line because the gig buys extreme data and insurance is active;
+- source resonance therefore follows character choice, not random rescue;
+- removed POV leakage about 韩骁's internal revaluation;
+- reduced pure joke density;
+- anomaly section uses tighter sensory continuity;
+- source actor working name simplified:
+  > 季观衡 → 季衡.
+
+Name pass:
+> experiments/reboot_v4/characters/2026-09-27_x18_protagonist_voice_and_name_pass_v1.md
+
+Names remain AUTHOR REVIEW, not locked.
