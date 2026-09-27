@@ -321,3 +321,30 @@ Current opening:
 Hard:
 > do not let the book become “meet technique founder every arc.”
 > modern growth must unlock new anchor categories / deeper historical access.
+
+
+## X15｜FRESHMAN POOR-STUDENT CROWDWORK OPENING
+New file:
+> `experiments/reboot_v4/framework_tests/2026-09-27_x15_freshman_poor_student_crowdwork_opening_v1.md`
+
+Identity:
+- Earth-origin;
+- crossed years ago, already adapted to current world;
+- just admitted to cultivation university;
+- summer-before-freshman stage;
+- poor / limited upward-mobility resources;
+- takes combat-data crowdsourcing gigs.
+
+Earth-origin reveal principle:
+> no biography dump.
+> reveal through one self-mocking comparison:
+> Earth Gaokao summer = Meituan crowdsourcing;
+> current cultivation-university summer = combat-data crowdsourcing.
+
+Opening function:
+> order screen + money calculation + one joke
+> should expose Earth origin, poverty, admission status, and cyber-cultivation society in the same action.
+
+Hard:
+> Earth is backstory, current world is lived home.
+> protagonist should think like a native about current institutions.
