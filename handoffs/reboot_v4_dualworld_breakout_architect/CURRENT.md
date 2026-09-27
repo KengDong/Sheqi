@@ -564,3 +564,24 @@ Pacing:
 Hard next-chapter guard:
 > Ch2 must use review / payout / curiosity to make Cheng Ye deliberately recreate the exact condition.
 > Do not full-cross immediately.
+
+
+## CHAPTER 1｜FORMAL V3
+Current first-chapter baseline:
+> experiments/reboot_v4/formal_drafts/2026-09-27_ch01_formal_v3.md
+
+Targeted fixes from author review:
+- opening single "接" -> "接接接" with抢好单 action;
+- weak joke "稳定地有问题" -> "挺守时的，每次第三转都来";
+- footwork reversal now flows continuously into back-sensor hit;
+- reward label now explicitly says high-value abnormal footwork sample;
+- coach no longer says abstract "把退路全吃掉";
+  instead explains in normal speech why standardized version retreats;
+- Cheng Ye summarizes:
+  > 不是学校没教，是学校不敢拿这招教一屋子人.
+- "现学的" exchange strengthened to show Cheng Ye's light, quick dialogue:
+  > 刚才 / 我也没答错 / 老师下课有点快 / 这次真没贫.
+- comedy stays light but the anomaly remains genuinely unsettling.
+
+Status:
+> current strongest formal Ch1 baseline.
