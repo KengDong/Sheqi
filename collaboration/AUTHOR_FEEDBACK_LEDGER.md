@@ -156,3 +156,42 @@ Do NOT:
 Future windows should inherit:
 > not only what was chosen,
 > but what the author repeatedly dislikes and why.
+
+
+## 2026-09-27｜热门笔法多章取样后，作者确认“这次进步了很多”
+Author feedback:
+> 认可“完整语义单元 / 高密度段落 / 人物行为制造幽默 / 世界信息附着现实利益”这轮学习方向，
+> 要求把方法和学习结论正式更新进 Git，再交给新窗口继续打磨。
+
+Classification:
+> STYLE_CORE + WORKFLOW
+
+Derived rules:
+- 快来自“少而密”的叙事单位，不来自碎句；
+- 一个重要段落/对话回合尽量承担两个以上功能；
+- 程野的轻松感优先通过“歪但自洽的判断 -> 真去做 -> 外界反馈”体现；
+- 世界观信息优先附着钱、训练、学校、平台、资格等现实利益；
+- Benchmark 结论只有在作者确认有效后才进入稳定写作标准。
+
+Applied:
+- research/benchmarks/2026-09-27_prose_craft_multichapter_benchmark_v1.md
+- style/CURRENT_PROSE_STANDARD.md
+- style/COMMON_PROSE_FAILURES.md
+
+## 2026-09-27｜武技术语“第三转/第四转”不够直观
+Author feedback:
+> “第三转第四转有点看不懂，应该是第三式招之类的才对。”
+
+Classification:
+> STYLE_CORE + WORLD PRESENTATION
+
+Derived rule:
+> reader-facing martial/technique structure uses immediately legible units:
+> 第X式 / 第X式接第Y式。
+> 精确身体动作再用换向、内扣、回撤等词说明。
+> 不把作者内部动作节点术语直接扔给Reader。
+
+Applied:
+- style/CURRENT_PROSE_STANDARD.md
+- style/COMMON_PROSE_FAILURES.md
+- next Ch1 baseline terminology pass.
