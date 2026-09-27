@@ -370,3 +370,40 @@ Hard:
 > value comes from asymmetric knowledge:
 > modern = accumulated optimization / safety / data;
 > source = creation logic / lost context / niche branches.
+
+
+## X17｜CAUSAL-RESONANCE TRAVEL ENGINE
+New file:
+> `experiments/reboot_v4/rules/2026-09-27_x17_causal_resonance_travel_engine_v1.md`
+
+Upgrade over old "touch source object → travel":
+> surviving causal carrier + protagonist's real participation + matching source-era problem
+> → causal resonance.
+
+Entry ladder:
+> overlap / 叠影
+> → reciprocal response / 应答
+> → deep source-body entry / 投身.
+
+Long-form anchor growth:
+> object/event
+> → person
+> → deliberate promise/mark
+> → network
+> → ancient-side summon
+> → chained multi-era layout.
+
+Key:
+> the protagonist does NOT choose a year.
+> the active modern problem selects a strong matching causal node on the surviving chain.
+
+Opening:
+> combat-data gig + standardized movement bottleneck
+> resonates with source-era high-pressure experiment.
+
+Ch11–20:
+> medicine/body anchor proves power is not technique-only.
+
+Hard:
+> later layout means deliberately building causal chains that survive across eras,
+> not touching random relics or editing history from a menu.
