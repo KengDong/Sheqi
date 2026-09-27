@@ -667,3 +667,37 @@ New hard rules:
 - compression means fewer richer units, not shorter sentences.
 
 Author review should focus on story and taste, not baseline prose cleanup.
+
+
+## 2026-09-27｜APPROVED PROSE CRAFT LEARNING + SUCCESSOR HANDOFF
+
+Author confirmed:
+> this prose-learning direction is a meaningful improvement.
+
+Approved benchmark:
+> `research/benchmarks/2026-09-27_prose_craft_multichapter_benchmark_v1.md`
+
+Stable prose standard has been updated with:
+- high-density narrative units;
+- character humor through action;
+- worldbuilding through stakes;
+- reader-facing technique terminology.
+
+Current Chapter 1 baseline for successor:
+> `experiments/reboot_v4/formal_drafts/2026-09-27_ch01_formal_v5_terminology_baseline.md`
+
+Terminology correction:
+> 第三转 / 第四转
+> -> 第三式 / 第四式 / 第三式接第四式.
+
+Successor handoff:
+> `handoffs/reboot_v4_ch01_final_prose_editor/CURRENT.md`
+
+Immediate next sequence:
+1. successor performs one true full-prose Ch1 pass;
+2. author reviews;
+3. only approved new craft learning enters stable shared memory;
+4. after Ch1 approval, create Ji Changgeng Character Bible;
+5. only then enter Ch2 reciprocal-response prose.
+
+Do NOT skip directly to Ch2.
