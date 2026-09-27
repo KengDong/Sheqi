@@ -88,7 +88,7 @@ No lock until author confirms.
 
 ### Modern peer
 Current:
-> 韩骁
+> 周航
 
 Verdict:
 > usable.
@@ -109,7 +109,7 @@ Old:
 > 季观衡
 
 Current working:
-> 季衡
+> 季长庚
 
 Why:
 - cleaner;
@@ -149,3 +149,15 @@ not "suddenly cold second personality" unless later earned.
 ## Verdict
 > 程野 + light/practical/rule-bending voice is the current best fit.
 > Main remaining task is not "more jokes"; it is maintaining this behavior engine through Ch2–10.
+
+
+## Naming split update
+Modern line:
+> 程野 / 周航 / 邵教练
+
+Ancient line:
+> 季长庚
+
+Rule:
+> modern names should read like current students / workers;
+> ancient names should carry unmistakably older naming texture.
