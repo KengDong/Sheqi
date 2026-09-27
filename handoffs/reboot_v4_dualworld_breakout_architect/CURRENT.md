@@ -196,3 +196,32 @@ Long:
 
 Do not return to:
 > modern problem → change past → present automatically fixed.
+
+
+## FIRST-PRINCIPLES RESET｜X11
+New file:
+> `experiments/reboot_v4/options/2026-09-27_x11_first_principles_causality_packages_v1.md`
+
+Primary reader fantasy:
+> bottom-up mastery / visible growth / social revaluation / access.
+
+Secondary:
+> historical agency / fate resistance / hidden relationship capital / mystery.
+
+Delivery vehicle:
+> world-scar + source-era interaction.
+
+Preserved causality packages:
+- A｜闭环隐史型;
+- B｜支线改写 + 主干惯性型;
+- C｜可改史但改史有价格;
+- D｜双世界源头映射型;
+- E｜前期闭环宿命 → 中期支线可改 → 后期主干可破.
+
+Current structural tendency:
+> E best aligns with current primary fantasy,
+but NOT LOCKED.
+
+Hard:
+> do not choose causality based on lore elegance.
+> compare by Ch1–20 reader payoff / modern growth / crisis weight.
