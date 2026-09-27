@@ -263,3 +263,47 @@ Fix:
 
 Rule:
 > reader-facing clarity beats internally elegant jargon.
+
+
+# F30｜Author-intent exposure
+Symptom:
+> sentence exists mainly to tell Reader what the writer is trying to hide/prove/set up.
+
+Example pattern:
+> “先看的其实是三百二。”
+
+Why it fails:
+> Reader sees design scaffolding instead of story.
+
+Fix:
+> restructure information release so the character does not need to think the writer's intention.
+
+# F31｜Pre-spent surprise
+Symptom:
+> future reward/payoff is introduced, mentally budgeted, or strategically planned before it occurs.
+
+Why it fails:
+> turns surprise into delayed expected income.
+
+Fix:
+> keep the payoff structurally unavailable until earned.
+
+# F32｜Sentence comedy without event consequence
+Symptom:
+> witty line can be removed with zero change to action or relationships.
+
+Why it fails:
+> humor decorates prose but does not create fiction.
+
+Fix:
+> convert humor into setup -> action -> consequence -> callback when appropriate.
+
+# F33｜Camera overstay
+Symptom:
+> action/function is already understood, but prose continues recording intermediate movements/details.
+
+Why it fails:
+> scene feels like a shot held too long.
+
+Fix:
+> leave once causal understanding is complete; spend detail on decisions, collisions, consequences.
