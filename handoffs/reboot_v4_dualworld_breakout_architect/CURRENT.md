@@ -498,3 +498,33 @@ Key refinements:
 
 Status:
 > current strongest Ch1 candidate, still AUTHOR REVIEW rather than final canon.
+
+
+## X19 / X18 V7｜NAMING SPLIT + DIALOGUE VOICE
+Current naming split:
+- modern protagonist: 程野
+- modern peer: 周航
+- modern coach: 邵教练
+- ancient/source actor: 季长庚
+
+Naming rule:
+> modern line uses ordinary contemporary names;
+> ancient line uses older classical names that instantly signal source-era identity.
+
+Current prose:
+> experiments/reboot_v4/prose_tests/2026-09-27_x18_fanqie_ch01_crowdwork_source_overlap_v7.md
+
+Dialogue correction:
+- Cheng Ye now shows humor in actual interaction, not mainly internal narration.
+- humor remains scene-logic based:
+  > asks whether winning affects payout;
+  > says he is paid to create problems;
+  > calls his flaw "稳定地有问题";
+  > dry response when asked where the move came from.
+- comedy stops immediately once source actor looks back.
+
+Name convention file:
+> experiments/reboot_v4/characters/2026-09-27_x19_modern_ancient_naming_convention_v1.md
+
+Status:
+> V7 is current strongest Ch1 candidate; names still working rather than permanent canon.
