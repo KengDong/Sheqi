@@ -442,7 +442,7 @@ Current chapter candidate:
 > experiments/reboot_v4/prose_tests/2026-09-27_x18_fanqie_ch01_crowdwork_source_overlap_v4.md
 
 Current protagonist working name:
-> 贺川
+> 程野
 
 Voice target:
 > light / practical / quick-thinking / rule-bending;
@@ -468,3 +468,11 @@ Name pass:
 > experiments/reboot_v4/characters/2026-09-27_x18_protagonist_voice_and_name_pass_v1.md
 
 Names remain AUTHOR REVIEW, not locked.
+
+
+## WORKING NAME UPDATE
+Current protagonist working name:
+> 程野
+
+Status:
+> provisional working name; use consistently in current drafts, not permanently locked.
