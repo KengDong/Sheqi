@@ -407,3 +407,31 @@ Ch11–20:
 Hard:
 > later layout means deliberately building causal chains that survive across eras,
 > not touching random relics or editing history from a menu.
+
+
+## X18｜FANQIE CH1 PROSE CANDIDATE V2
+Current prose:
+> experiments/reboot_v4/prose_tests/2026-09-27_x18_fanqie_ch01_crowdwork_source_overlap_v2.md
+
+Red team:
+> reviews/2026-09-27_x18_fanqie_ch01_v2_redteam.md
+
+Opening spine:
+- just-admitted poor freshman;
+- Earth Gaokao summer Meituan crowdwork callback;
+- current-world combat-data crowdwork;
+- rational same-level opponent, no cartoon villain;
+- source overlap occurs during current combat bottleneck;
+- source-era route is an unregistered branch of the same mature technique family, not proof modern civilization is stupid;
+- immediate combat reversal + 800-yuan pending bonus;
+- historical actor looks back;
+- end hook verifies same historical face.
+
+Hard after Ch1:
+- Ch2 agency flip: protagonist deliberately recreates resonance for review / payout;
+- reciprocal answer before full source-body crossing;
+- Ch3 must convert anomaly into actual economic / training access uplift;
+- do not reveal world-scar / E causality ontology early.
+
+Working names remain unlocked:
+许舟 / 临江修真大学 / 流云步 / 季观衡.
