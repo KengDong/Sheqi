@@ -476,3 +476,25 @@ Current protagonist working name:
 
 Status:
 > provisional working name; use consistently in current drafts, not permanently locked.
+
+
+## X18 V6｜CURRENT CH1 POLISHED CANDIDATE
+Current prose:
+> experiments/reboot_v4/prose_tests/2026-09-27_x18_fanqie_ch01_crowdwork_source_overlap_v6.md
+
+Working protagonist:
+> 程野
+
+Key refinements:
+- Earth-origin reveal compressed into one crowdwork callback; current world remains lived home.
+- Cheng Ye voice = light / practical / rule-bending; humor changes decisions instead of decorating dialogue.
+- protagonist actively pushes into his weak line because order incentive + insurance make it rational; first resonance follows character choice.
+- source-era branch is explicitly riskier / narrower, not globally superior to modern standardized version.
+- platform / coach use familiar modern language, not design-jargon.
+- POV remains close to Cheng Ye.
+- source actor eyebrow scar is planted before archive callback.
+- no ontology explanation in Ch1.
+- Ch1 payoff stack: money incentive → combat reversal → pending 800 bonus → reciprocal gaze → historical identity verification.
+
+Status:
+> current strongest Ch1 candidate, still AUTHOR REVIEW rather than final canon.
