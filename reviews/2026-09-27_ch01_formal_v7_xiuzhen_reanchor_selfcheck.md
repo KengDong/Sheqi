@@ -63,6 +63,7 @@ Research note:
 
 ## Mechanical checks
 - no 第三转 / 第四转;
+- no standalone 1-3 word subtitle-card units in the final patch;
 - no 1-3 word dialogue-card sequence;
 - no generic “愣了一下 / 眼神一变 / 心里一动” reactions;
 - no claim that source-era branch is universally superior;
