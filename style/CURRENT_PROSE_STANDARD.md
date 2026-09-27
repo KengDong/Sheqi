@@ -76,6 +76,21 @@ Integrate or expand unless the character intentionally shuts the exchange down.
 
 Use action beats when they add subtext, not every line.
 
+## 4.1 ZERO-REGRESSION dialogue gate
+This is a hard gate, not a preference.
+
+Before showing ANY prose sample or formal chapter to the author:
+- run the short-dialogue check;
+- ordinary standalone replies of 1-4 Chinese characters must be merged into a fuller turn or attached to meaningful action;
+- no ordinary conversation may contain 3 consecutive short standalone turns;
+- exceptions are only pressure beats where brevity itself is the event, e.g. “跑！” / “停手！”;
+- “嗯。” / “行。” / “说。” / “对。” / “谁？” may not appear as isolated normal-conversation beats.
+
+If this rule was already violated once in the project:
+> recurrence is a process failure, not a stylistic choice.
+
+A draft that violates this gate is not ready to show.
+
 # 5. Cheng Ye voice application
 His humor comes from how he thinks, not joke density.
 
