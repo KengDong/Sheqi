@@ -1,29 +1,44 @@
 # ch01_v17_event_engine_editor｜CURRENT
 
 ## STATUS
-> REOPENED / FIRST-CHAPTER ENGINE RETHINK
+> V3 POLISHED / AUTHOR REVIEW / WRITER NOT OPEN
 
 ## BRANCH
 > reboot-v4-dualworld-breakout-framework
 
-## NEW BENCHMARK
-> research/benchmarks/2026-09-27_who_ch1_engine_rethink.md
+## ACTIVE ENGINE
+> research/briefs/2026-09-27_ch01_v17_engine_rethink_v3_polished.md
 
-## ACTIVE PROPOSAL
+## SUPERSEDES
 > research/briefs/2026-09-27_ch01_v17_engine_rethink_v2.md
 
-## IMPORTANT
-The prior frozen Writer brief is SUPERSEDED.
-Do not open V17 Writer yet.
+## CORE CHANGE
+Reader now shares Zhou Hang's initial misclassification of Cheng Ye.
 
-## NEW HIGHEST QUESTION
-> Can Chapter 1 contain a complete entertaining modern social mini-story, driven by incomplete information and actor misread, before the dual-world reversal?
+Modern mini-story:
+> Cheng Ye deliberately chooses a visibly well-trained peer;
+> Reader/Zhou infer competition or confidence;
+> Zhou responds with genuine pressure;
+> Cheng Ye welcomes it;
+> safety interruption stops both;
+> reveal: Cheng Ye chose the strong partner to expose his own recurring transition failure;
+> the first segment is incomplete for both, so one supervised repeat serves both goals.
 
-## CURRENT DIRECTION
-- freshman test may remain as container;
-- “safety system vs Cheng Ye” is only a character beat, not whole engine;
-- proposed whole engine is modern social misread -> reveal, then dual-world reciprocal-sight reversal;
-- no old element is protected by default.
+Dual-world second reversal:
+> during the repeat, Ji Changgeng appears at the same movement bottleneck;
+> Cheng Ye copies one dangerous route;
+> Ji later turns and sees Cheng Ye;
+> anomaly is reclassified from possible echo/replay to reciprocal contact.
+
+## OLD ELEMENTS
+- paid sparring: DROP
+- 800 reward: DROP
+- 11.5-order anecdote: DROP
+- exact 1200 price: DROP by default
+- 0.11s: KEEP, reveal after first interruption
+- Zhou Hang: provisional, justified by independent goal and consequence
+- freshman screening: provisional container
 
 ## NEXT
-Red-team the V2 engine before freezing any Writer brief.
+Author reviews V3 engine.
+Do not open Writer until this engine is approved or revised.
