@@ -289,3 +289,35 @@ Alternative mechanisms preserved:
 Naming discipline:
 > use familiar modern words: order / rating / insurance / data / credits / retest.
 > avoid heavy cyber jargon.
+
+
+## X14｜INTEGRATED MODERN GROWTH × MULTI-ANCHOR SOURCE ENGINE
+New synthesis:
+> `experiments/reboot_v4/synthesis/2026-09-27_x14_modern_growth_source_anchor_integrated_engine_v1.md`
+
+Recovered / integrated prior travel logic:
+- modern world already has source-lineage / Dao-trace authentication as normal infrastructure;
+- protagonist's Earth-origin world-scar can follow a genuinely touched surviving cause upstream;
+- no menu-selecting historical celebrities;
+- early travel uses source bleed / overlap first, then deeper source-body projection;
+- eras are anchor-determined, not fixed to 300 years;
+- no direct nonliving matter transfer;
+- deeper intervention destabilizes the current anchor;
+- relation anchor → network anchor → ancient active-summon anchor → institutional source are later progression layers.
+
+Anchor classes:
+1. technique;
+2. artifact / equipment;
+3. medicine / body;
+4. institution / lineage;
+5. location / event;
+6. relationship;
+7. network;
+8. ancient active summon.
+
+Current opening:
+> combat-data gig is ONLY the first technique-anchor demonstration.
+
+Hard:
+> do not let the book become “meet technique founder every arc.”
+> modern growth must unlock new anchor categories / deeper historical access.
