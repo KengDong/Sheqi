@@ -617,3 +617,25 @@ V4 specifically removes several artificial micro-fragments still present in V3.
 
 Responsibility:
 > prose QA belongs to the writer before author review.
+
+
+## PROSE HOUSE STYLE V2｜SEMANTIC-BEAT GUARD
+Supersedes V1 for formal prose delivery QA:
+> style/2026-09-27_sheqi_prose_house_style_v2.md
+
+Core correction:
+> fast prose != fragmented prose.
+
+New hard rules:
+- paragraph breaks must mark completed semantic beats;
+- ordinary dialogue cannot ping-pong in 1-3 word fragments;
+- drafting shorthand like "刚才。/少贫。/查。/对。/行。" must be integrated or expanded unless brevity is emotionally necessary;
+- no more than 2 standalone short lines under 8 Chinese characters in any 300 characters;
+- no 3 consecutive short turns under 8 characters in ordinary conversation;
+- most paragraphs should contain 1-3 linked sentences;
+- sentence length must vary; medium sentences are default;
+- action continuity should stay in one causal unit;
+- read-aloud pass is mandatory before author review;
+- compression means fewer richer units, not shorter sentences.
+
+Author review should focus on story and taste, not baseline prose cleanup.
