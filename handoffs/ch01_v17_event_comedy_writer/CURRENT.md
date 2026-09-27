@@ -1,7 +1,7 @@
 # ch01_v17_event_comedy_writer｜CURRENT
 
 ## STATUS
-> READY / ISOLATED WRITER
+> COMPLETE / COMMITTED
 
 ## BRANCH
 > reboot-v4-dualworld-breakout-framework
@@ -9,65 +9,41 @@
 ## IDENTITY
 > ch01_v17_event_comedy_writer
 
-## FIRST READ
-> research/briefs/2026-09-27_ch01_v17_frozen_writer_brief.md
-
-Then read ONLY:
+## INPUT BOUNDARY USED
+Read only the writer inputs authorized by the READY handoff:
+- research/briefs/2026-09-27_ch01_v17_frozen_writer_brief.md
 - characters/CHENG_YE_CHARACTER_BIBLE.md
 - style/CURRENT_PROSE_STANDARD.md
 
-Then write the draft.
+Operationally used after drafting:
+- tools/prose_lint.py
+- Git branch/ref metadata required to commit
 
-## HARD INPUT BOUNDARY
-
-Do NOT read:
-- V10–V16 prose;
-- old Chapter 1 reviews;
-- old V17 proposals;
-- full-book 《谁让他修仙的！》 benchmark files;
-- uploaded benchmark novel;
-- prior Writer outputs;
-- Reader feedback;
-- editor discussion.
-
-Reason:
-> this Writer should receive distilled craft functions, not imitate source prose or repair old sentences.
-
-## TASK
-
-Write ONE complete Chapter 1 using the frozen V17 brief.
-
-Highest goal:
-> The modern half must already be genuinely fun before the rain arrives.
-
-The event should grow because:
-- Cheng Ye wants the fault fully reproduced;
-- Zhou Hang catches Cheng Ye's logic and extends it;
-- the tester keeps the process valid and safe;
-- all three are reasonable.
-
-Do not add jokes to satisfy a quota.
-Use the six-reward / three-event-laugh gates from the frozen brief.
+Did NOT read V10–V16 prose, old Chapter 1 reviews, old V17 proposals, benchmark novel/full-book benchmark files, prior Writer outputs, Reader feedback, or editor discussion.
 
 ## OUTPUT
-
-Write:
 > experiments/reboot_v4/formal_drafts/2026-09-27_ch01_formal_v17_event_comedy.md
 
-Include:
-- fiction body;
-- SELF-CHECK required by the frozen brief.
+## RESULT
+- one complete Chapter 1 V17 draft written from zero;
+- fiction body about 3.5k Chinese characters;
+- six-plus pre-rain Reader rewards present;
+- Zhou Hang independently inherits and extends the fault-reproduction logic;
+- tester becomes the third active force through escalating safety behavior;
+- early yellow-line boundary returns as a real intervention consequence;
+- comedy drops immediately once the rain/pursuit becomes real;
+- Ji Changgeng enters as an injured living person making his own survival choice;
+- Cheng Ye only recognizes “he did not wait,” copies once, and pays a physical cost;
+- chapter ends on Ji Changgeng seeing Cheng Ye back;
+- project prose lint final result: 0 warning;
+- short-dialogue gate passed.
 
-Then:
-- run the required prose passes;
-- update this CURRENT to COMPLETE;
-- add history;
-- Git commit;
-- STOP.
+## HISTORY
+> handoffs/ch01_v17_event_comedy_writer/history/2026-09-27_COMPLETE.md
 
-## ABSOLUTE STOP
+## STOP
+Writer task complete in the same Git commit that writes this CURRENT, the history record, and the formal draft.
 
-Do not write Chapter 2.
-Do not revise canon state files.
-Do not open an Editor stage.
-Do not continue after commit.
+Do not write Chapter 2 from this window.
+Do not revise canon state files from this window.
+Do not open an Editor stage from this window.
