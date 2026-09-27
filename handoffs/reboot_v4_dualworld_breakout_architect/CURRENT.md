@@ -258,3 +258,34 @@ Hard:
 > do not full-map-cut to ancient world in Ch1.
 > do not delay first payoff until ancient-world explanation.
 > first 3 chapters must prove mechanism + reciprocity + modern social payoff.
+
+
+## X13｜CYBER MODERN OPENING VEHICLE
+New file:
+> `experiments/reboot_v4/framework_tests/2026-09-27_x13_cyber_modern_combat_entry_mechanisms_v1.md`
+
+Correction:
+> replace generic public subsidy arena with a modern cultivation infrastructure.
+
+Current strongest:
+> M-A + M-E hybrid:
+> real-combat data gig platform + training-credit / personalized-analysis settlement.
+
+Opening:
+- protagonist accepts a paid high-pressure combat-data order;
+- fight data is officially recorded;
+- ancient/source anomaly creates an unmatched movement;
+- platform flags source-lineage mismatch;
+- ancient figure looks back;
+- Ch2 two-way contact;
+- Ch3 formal retest unlocks payout + higher platform tier + school training access.
+
+Alternative mechanisms preserved:
+- M-B 功法适配公测;
+- M-C 灵网天梯悬赏;
+- M-D 企业功法压力测试;
+- M-E 校内训练算力兑换.
+
+Naming discipline:
+> use familiar modern words: order / rating / insurance / data / credits / retest.
+> avoid heavy cyber jargon.
