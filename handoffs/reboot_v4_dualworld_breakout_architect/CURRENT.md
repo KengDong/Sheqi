@@ -528,3 +528,39 @@ Name convention file:
 
 Status:
 > V7 is current strongest Ch1 candidate; names still working rather than permanent canon.
+
+
+## CHAPTER 1｜FORMAL V1
+Formal first version:
+> experiments/reboot_v4/formal_drafts/2026-09-27_ch01_formal_v1.md
+
+Status:
+> FIRST FORMAL DRAFT / AUTHOR-APPROVED DIRECTION
+> replaces V7 as current prose baseline; not immutable canon.
+
+Working cast:
+- modern protagonist: 程野
+- modern peer / future classmate: 周航
+- modern coach: 邵教练
+- source-era actor: 季长庚
+
+Formal-V1 fixes:
+- keeps modern/ancient naming split;
+- Cheng Ye humor now appears in reciprocal dialogue, not only internal jokes;
+- first resonance is caused by his active rule-reading decision to push into his weak line;
+- explains the ancient transition through physical risk and coach feedback rather than authorial lore;
+- removes coincidence concern by establishing the gym is near the university;
+- fixes first-hit dialogue logic ("有点慢" rather than claiming "每次" after one sample);
+- historical matching returns three early records before selecting Ji Changgeng, making archive lookup less magical;
+- source overlap remains a Ch1 partial overlap, not full ancient-world crossing;
+- final hook remains reciprocal gaze + verified historical identity.
+
+Pacing:
+- about 3205 chars including headings;
+- first anomaly ~49%;
+- 800-yuan payoff ~65%;
+- final historical verification in closing section.
+
+Hard next-chapter guard:
+> Ch2 must use review / payout / curiosity to make Cheng Ye deliberately recreate the exact condition.
+> Do not full-cross immediately.
