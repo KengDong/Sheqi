@@ -585,3 +585,35 @@ Targeted fixes from author review:
 
 Status:
 > current strongest formal Ch1 baseline.
+
+
+## PROSE HOUSE STYLE｜MANDATORY
+Before any future formal prose chapter is drafted or revised, read:
+> style/2026-09-27_sheqi_prose_house_style_v1.md
+
+This is a HARD delivery gate, not optional advice.
+
+Future formal prose workflow:
+1. draft scene for story function;
+2. character-voice pass;
+3. anti-AI fragmentation pass;
+4. physical-action continuity pass;
+5. modern/ancient diction pass;
+6. final hook/payoff pass;
+7. only then show author.
+
+Author must NOT be used as the first-line detector for:
+- one-character narrative paragraphs;
+- artificial short-line chains;
+- repeated "不是/是" emphasis;
+- body-part teleporting in action;
+- design-jargon exposition;
+- generic AI reaction phrases.
+
+Current formal Ch1 baseline after applying this house style:
+> experiments/reboot_v4/formal_drafts/2026-09-27_ch01_formal_v4.md
+
+V4 specifically removes several artificial micro-fragments still present in V3.
+
+Responsibility:
+> prose QA belongs to the writer before author review.
