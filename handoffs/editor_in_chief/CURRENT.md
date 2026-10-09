@@ -1,35 +1,35 @@
-# Editor in Chief｜CURRENT
+# editor_in_chief｜CURRENT
+updated: 2026-10-09
+branch: reboot-v6-verified-scene-lab
+
+## ROLE
+Editor-in-chief / coordination and evidence review ONLY
 
 ## STATUS
-> **A3 AUTHOR PRIORITY / BENCHMARK STRESS TEST NEXT**
+**PAUSED / AWAITING B01 VERIFIED SCENE EVIDENCE**
 
-## BRANCH
-> `reboot-v4-fanqie-market-entry`
+## LAST AUTHOR DECISION
+2026-10-09: Author explicitly chose METHOD B (真实热门作品驱动的原创改编).
+Authority:
+decisions/2026-10-09_reboot_v6_method_b_scene_evidence_first.md
 
-# AUTHOR PRIORITY
-> A3 is currently the concept AUTHOR most wants to push.
+## CURRENT ACTIVE WORKER
+verified_scene_scout:
+handoffs/verified_scene_scout/CURRENT.md
 
-This does NOT authorize AI to declare a final winner.
+## REQUIRED READS
+- AGENTS.md
+- meta/STATE.md
+- meta/CURRENT_AUTHORITY.md
+- decisions/2026-10-09_reboot_v6_method_b_scene_evidence_first.md
+- meta/ACTIVE_WORKSTREAMS.md
+- handoffs/verified_scene_scout/CURRENT.md
 
-# PRIMARY SOURCE
-> `experiments/reboot_v4/concepts/highconcept/2026-09-26_A3_full_benchmark_architecture_v1.md`
+## DO NOT CONTINUE
+- Do not restart V5 campus Dao Seed draft, V17.x or previous P0 cycles.
+- Do not declare older candidate primary, or order writing from the new research before author tastes are captured.
+- Do not conduct same-model 'independent AI reader' votes as substitute for real readers.
+- Do not silently promote any B01 evidence into approved story concept.
 
-# NEXT EDITOR TASK
-Stress-test A3 against real strong references.
-
-Questions:
-1. Is title / hook at least shelf-competitive?
-2. Does Ch1–3 pay as fast as strong references?
-3. Does daily send-off loop produce immediate practical pleasure?
-4. Do old send-offs return and change future options?
-5. Is personal growth satisfying enough without becoming a skill-drop system?
-6. Does world-scale crisis emerge from physical events rather than exposition?
-7. Does the story avoid weekly-case reset?
-8. Does protagonist gain real handling authority / social position?
-9. Does the ascension / Heaven reveal remain concrete and emotional?
-10. Did any structure make the original “葬天” promise weaker?
-
-# HARD
-No prose yet.
-No final winner.
-No generic “结构PASS” without comparing reference functions.
+## NEXT EXPECTED ACTION
+After B01 complete, check verifiable links, direct text coverage, specific scenes, contrast evidence and originality boundaries. Present author shortlist WITHOUT AI final ranking; await author WANT / MAYBE / NO before dispatching B02.

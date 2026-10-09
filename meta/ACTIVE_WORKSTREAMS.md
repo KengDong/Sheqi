@@ -1,20 +1,26 @@
-# ACTIVE WORKSTREAMS｜REBOOT-V4 FANQIE MARKET ENTRY
+# ACTIVE WORKSTREAMS｜REBOOT-V6
+updated: 2026-10-09
+branch: reboot-v6-verified-scene-lab
 
-updated: 2026-09-26
-branch: reboot-v4-fanqie-market-entry
+## ACTIVE / SINGLE WORKER
+- role: **verified_scene_scout**
+- current: handoffs/verified_scene_scout/CURRENT.md
+- brief: research/briefs/2026-10-09_b01_fanqie_comedy_scene_evidence_scout.md
+- task: B01 real Fanqie male-fiction comedy/scene evidence, positive and matched controls
+- blocked_by: NONE
+- stop_gate: AUTHOR reads evidence and picks event/reader-fantasy families
 
-# PRIMARY ACTIVE
-## A3｜《全民修仙把天道吸干了，我来给它办丧事》
-Status:
-> AUTHOR PRIORITY / FULL BENCHMARK ARCHITECTURE COMPLETE / STRESS TEST NEXT
+## PAUSED / REVIEW ONLY
+- editor_in_chief: no independent creative decisions; review B01 after scout reports DONE.
 
-Source:
-> `experiments/reboot_v4/concepts/highconcept/2026-09-26_A3_full_benchmark_architecture_v1.md`
+## BLOCKED
+- all writers / Ch01 revisers / concept forges / blind prose readers / worldbuilders
+- B02 original scenario variants (until AUTHOR chooses scenes)
+- B03 sample prose, B04 real readers, B05 longform planning (until earlier gates)
 
-# SECONDARY / PRESERVED
-- A1 high-concept preserved
-- A2 continue benchmark-driven asset-compounding design
-- B / C / D 9 concepts remain author-approved and preserved
+## HISTORY, NOT CURRENT DISPATCH
+- reboot-v5-campus-living-daoseed and V17.x first chapter
+- A3 / Rule Reality / previous candidates
+- all earlier open handoffs on ancestor branches
 
-# HOLD
-No prose until A3 benchmark stress-test and author review.
+No task may inherit ACTIVE just because its old CURRENT says READY.

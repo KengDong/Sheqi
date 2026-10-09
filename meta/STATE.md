@@ -1,57 +1,30 @@
-# SHEQI STATE｜REBOOT-V4 FANQIE MARKET ENTRY
+# SHEQI STATE｜REBOOT-V6 / METHOD B
 
-updated: 2026-09-26
-branch: reboot-v4-fanqie-market-entry
+updated: 2026-10-09
+branch: reboot-v6-verified-scene-lab
+decision: decisions/2026-10-09_reboot_v6_method_b_scene_evidence_first.md
 
-# Status
-> **A3 AUTHOR-PRIORITY FULL DEVELOPMENT**
+## Status
+**B01 ACTIVE｜VERIFIED SCENE / COMEDY EVIDENCE DISCOVERY**
 
-AUTHOR:
-> A3 全力推，我现在最看好它，一定要结合热门小说来展开。
+Author selected METHOD B:
+> 成熟热门作品驱动的原创改编。
 
-This is AUTHOR preference / priority, not AI winner selection.
+Primary novel: NONE.
+Approved concept: NONE.
+Approved writing task: NONE.
+Old V5 campus / living Dao Seed concept: PRESERVED AS HISTORICAL CANDIDATE, NOT LOCKED.
 
-# A3
-Working title:
-> 《全民修仙把天道吸干了，我来给它办丧事》
+## Single active worker
+verified_scene_scout:
+> handoffs/verified_scene_scout/CURRENT.md
 
-Full benchmark-driven architecture:
-> `experiments/reboot_v4/concepts/highconcept/2026-09-26_A3_full_benchmark_architecture_v1.md`
+Brief:
+> research/briefs/2026-10-09_b01_fanqie_comedy_scene_evidence_scout.md
 
-Core benchmark functions integrated from:
-- 《捞尸人》
-- 《1984：从川菜馆开始》
-- 《没钱修什么仙？》
-- 《全民大航海，我开局一条幽灵船》
-- 《末日逃亡：开局苍穹列车车长》
-- 《剑烛大荒》
-- 《夜无疆》
+## Next Gate
+B01 evidence package → **AUTHOR chooses concrete scene functions / reader fantasies** → B02 may be dispatched separately.
 
-# Current A3 core
-Universal cultivation prosperity is consuming Heaven-and-Earth lifespan.
-
-Protagonist:
-> transmigrator + 万物送终 system
-
-System:
-> diagnose true death / unresolved causal knot / correct return direction.
-
-Daily:
-> usable-but-dead thing → people rationally keep exploiting it → protagonist handles its ending correctly → immediate visible local change → persistent return.
-
-Long:
-> dead tool → dead land → dead spirit vein → dead lineage → dying region → ascension truth → Heaven obituary → Heaven funeral.
-
-# Next
-A3 benchmark stress-test:
-- package vs real references;
-- Ch1–20 reward density;
-- personal growth pleasure;
-- recurring opposition;
-- anti-case-of-week check.
-
-# Hard
-- no premise weakening;
-- no preachy environmental essay;
-- no disposable case treadmill;
-- no AI final winner.
+## HARD
+No prose, no story pitch, no old-candidate repair, no AI final ranking, no unverified hit claims, no copyrighted source-prose transplant.
+Do not restart tasks from historical CURRENT/brief documents.

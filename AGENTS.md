@@ -123,3 +123,16 @@ Bible V1.0 已冻结。AI 不得静默修改 Canon。
 
 Git 是长期记忆。
 聊天窗口不是长期权威。
+
+
+---
+
+## 2026-10-09｜REBOOT-V6 方法 B 最高阶段提示
+
+本文件之前关于《舍弃》Bible 冻结、第一卷研发的措辞属于旧项目治理历史，不可据此恢复旧书方向。
+**当前授权与单一执行阶段**见：
+- meta/CURRENT_AUTHORITY.md
+- meta/STATE.md
+- decisions/2026-10-09_reboot_v6_method_b_scene_evidence_first.md
+
+当前仅允许 B01 真实作品场景研究。B01 scout 只需读它的 CURRENT/brief 所列最小相关输入，无须因本文件的旧通用启动顺序强行遍历过时 Canon、章节卡、正文或历史任务。不得以旧作者批准的题材为本阶段强制创作框架。
