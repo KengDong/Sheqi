@@ -1,21 +1,21 @@
-# SHEQI STATE｜REBOOT-V6 METHOD B / B01-V4 PARALLEL
+# SHEQI STATE｜REBOOT-V6 / B01 FIRST BATCH INTEGRATED
 updated: 2026-10-09
 branch: reboot-v6-verified-scene-lab
-authority: decisions/2026-10-09_reboot_v6_b01_broad_search_correction.md
 
-## LIVE
-**B01-V4 3-WINDOW PARALLEL SEARCH ACTIVE / EDITOR INTEGRATION PAUSED**
+## CURRENT
+**B01 Batch1 CURATED / AUTHOR CHOICE OPEN / B01 LIBRARY NOT SATURATED**
+3 PRs (#41 #39 #40) integrated as provenance-aware research archive.
+54 raw leads -> 44 event/engine/discussion clusters; only subset checked on original official chapter pages, crossplatform largely single mirror chapters, reader novels zero direct.
 
-Three role/branch/task definitions:
-`meta/ACTIVE_WORKSTREAMS.md`
+## READ
+- `research/verified_scene_lab/MASTER_INDEX.md`: full crosswalk and evidence labels
+- `research/verified_scene_lab/2026-10-09_EDITORIAL_SOURCE_AUDIT.md`: independent QA/caveats
+- `experiments/verified_scene_lab/2026-10-09_B01_AUTHOR_SELECTION_BOARD.md`: 17 author choices
+- `research/verified_scene_lab/COVERAGE.md`: unsaturated gaps
+- `handoffs/verified_scene_scout/CURRENT.md`: curator handoff
 
-Launch instructions:
-`ops/2026-10-09_B01_MULTI_WINDOW_START.md`
+## CURRENT AUTHOR GATE
+Await WANT/MAYBE/NO or instruction to expand evidence, perhaps simultaneously. No concept, historical V5 choice or literary manuscript authorized.
 
-User wants broad search for exceptional high-imagination, high-efficiency story engines, scenes and meaningful reader response. Broad lead coverage, not 8–12-book quota, not 5–7 scenes cap.
-
-## NEXT
-Scouts independently gather/verify/search in own branches -> PRs -> curator on base reviews/deduplicates/merges -> author makes creative selections -> only then B02 proposals.
-
-## NOT AUTHORIZED
-New story prose, automatic concept winner, old V5 rewrite, near-copy of protected source material.
+## HARD
+Do not revive old drafts; do not present readers' fan speculation as book scenes; do not claim full market validation or multiple real-user controlled reading tests.

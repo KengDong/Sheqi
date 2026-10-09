@@ -1,29 +1,25 @@
-# ACTIVE WORKSTREAMS｜REBOOT-V6 B01-V4 PARALLEL LANES
+# ACTIVE WORKSTREAMS｜REBOOT-V6 B01 AFTER BATCH1 INTEGRATION
 updated: 2026-10-09
-branch: reboot-v6-verified-scene-lab
 
-## ACTIVE / 3 INDEPENDENT RESEARCH ROLES
-1. b01_fanqie_scout | branch `b01-fanqie-scene-scout` | handoffs/b01_fanqie_scout/CURRENT.md
-   Focus: real Fanqie male-fiction scenes and narrative efficiency
-2. b01_crossplatform_scout | branch `b01-crossplatform-idea-scout` | handoffs/b01_crossplatform_scout/CURRENT.md
-   Focus: cross-platform original premise/scene/durable plot engine
-3. b01_reader_reaction_scout | branch `b01-reader-reaction-scout` | handoffs/b01_reader_reaction_scout/CURRENT.md
-   Focus: reader-remembered moments and original chapter traceability
+## PAUSED / AWAITING AUTHOR
+verified_scene_scout curator, `handoffs/verified_scene_scout/CURRENT.md`
+- Three PRs merged (#41, #39, #40).
+- Source-annotated 54→44 dedup and 17-option choice board available.
+- B01 BATCH1 COMPLETE; FULL B01 RESEARCH UNSATURATED.
+- Next: author selects appealing scene families or orders another broad scout batch; do not equate presentation with B02 approval.
 
-Branches each start from the same base and own different output directories/handoffs. Each worker may search simultaneously, must commit actual findings and create PR against `reboot-v6-verified-scene-lab`, not directly merge.
+## PAUSED / FIRST BATCH DELIVERED
+1. b01_fanqie_scout / branch b01-fanqie-scene-scout / source handoff in `handoffs/b01_fanqie_scout/CURRENT.md`
+2. b01_crossplatform_scout / branch b01-crossplatform-idea-scout / source handoff in `handoffs/b01_crossplatform_scout/CURRENT.md`
+3. b01_reader_reaction_scout / branch b01-reader-reaction-scout / source handoff in `handoffs/b01_reader_reaction_scout/CURRENT.md`
+No scout is currently running automatically. Each next batch requires a new conversation continuation / task dispatch and refreshed branch from base where needed.
 
-## PAUSED / INTEGRATION ROLE
-verified_scene_scout | base `reboot-v6-verified-scene-lab`
-handoffs/verified_scene_scout/CURRENT.md
-Role now **CURATOR**, to merge/dedup/critically review after lane results/PRs. Do not compete with other workers before their first results.
+## BLOCKED
+- B02 original scenario proposal (waiting AUTHOR choice and approval)
+- B03 prose, B04 reader blind test, B05 long-form chapter work
+- all historic V5/V17 revisions
 
-## B01 AUTHOR GATE
-Author receives rolling verified highlights and full source library, then decides favorite concrete scenes/reader fantasies.
-No B02/novel writing until explicit author selection.
-
-## STOP / WRITE COLLISION SAFETY
-- Never ask 3 GPT chats to write the same branch/file.
-- Each role only modifies its `lanes/<id>` and `handoffs/<role>` directory; no shared meta edits.
-- Old B01 V1/V2 sample caps withdrawn; B01 V3 broad discovery remains valid.
-- No fake comments/heat, no copied original expression or near-copy publishable rewrite.
-- Start guide: `ops/2026-10-09_B01_MULTI_WINDOW_START.md`.
+## AUTHORITY
+- `decisions/2026-10-09_reboot_v6_b01_broad_search_correction.md` broad search not capped
+- `decisions/2026-10-09_reboot_v6_b01_event_density_correction.md` unusual+efficient actual scenes
+- `decisions/2026-10-09_reboot_v6_method_b_scene_evidence_first.md` author choice before original transformation
