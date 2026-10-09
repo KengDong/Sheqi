@@ -1,39 +1,42 @@
 # verified_scene_scout｜CURRENT
-updated: 2026-10-09 / B01-V2 author correction
+updated: 2026-10-09 / B01-V3 latest author correction
 branch: reboot-v6-verified-scene-lab
 role: verified_scene_scout
-status: **ACTIVE / READY / NEW B01 V2 ONLY**
+status: **ACTIVE / BROAD SEARCH MULTI-BATCH**
 
-## AUTHOR CORRECTION / READ FIRST
-“热门的并不是每一步都很搞笑，或者脑洞大开，我要脑洞大开和高效的。”
+## READ LATEST AUTHORITY FIRST
+decision: decisions/2026-10-09_reboot_v6_b01_broad_search_correction.md
+Author: “多搜索点不好吗？”
 
-The earlier 8–12 book census and fixed scene/contrast quotas are **WITHDRAWN**. No automatic full-book reading.
-Author wants extremely inventive, high-impact, efficient **specific events**; not book-list completeness or forced jokes each chapter.
-
-Latest authority:
-decisions/2026-10-09_reboot_v6_b01_event_density_correction.md
+Previous “first batch at most 5–7 scenes” and “find a few then stop” limitations are WITHDRAWN.
+Goal is broad discovery, accumulating a large evidence-tagged library, not only a small shortlist.
 
 ## CURRENT TASK
-B01-V2: Targeted discovery and verification of the highest-imagination, high-payoff-density real scenes/mini-arcs. Get only a small set of exceptional, source-checkable cases, plus a compact author choice board.
-
-BRIEF:
-research/briefs/2026-10-09_b01_fanqie_comedy_scene_evidence_scout.md
+B01-V3: comprehensive and expansive search for real high-imagination, high-narrative-efficiency story engines / specific events, with tiered validation and rolling author boards.
+BRIEF: research/briefs/2026-10-09_b01_fanqie_comedy_scene_evidence_scout.md
 
 ## REQUIRED READS
 1. AGENTS.md
 2. meta/STATE.md
 3. meta/CURRENT_AUTHORITY.md
 4. meta/HANDOFF_PROTOCOL.md
-5. decisions/2026-10-09_reboot_v6_b01_event_density_correction.md
-6. decisions/2026-10-09_reboot_v6_method_b_scene_evidence_first.md
+5. decisions/2026-10-09_reboot_v6_b01_broad_search_correction.md
+6. decisions/2026-10-09_reboot_v6_b01_event_density_correction.md
 7. research/briefs/2026-10-09_b01_fanqie_comedy_scene_evidence_scout.md
-8. reviews/2026-09-27_ch01_writing_process_retrospective.md (only if diagnosing efficiency pitfalls)
+
+## PRIORITY
+Search widely rather than restricting works; every lead must be a specific scene/premise/engine with cited origin, not book title. Persist full corpus and evidence statuses.
+Broad target e.g. 100–200 leads and 30–50 verified over multiple batches, not artificial hard quotas or caps.
+Publish digestible rolling author board (can contain 10–20 per batch, cumulative more) and full linked evidence registry.
 
 ## DO NOT CONTINUE
-- old B01 V1 quotas and mandatory long reports
-- shelf-ranking-focused research as primary method
-- V17/V5 prose repair, AI concept forge, any first chapter writing
-- long copyrighted verbatim excerpts, near-copy publishable adaptations
+- first B01-V1 8–12 novels quota
+- B01-V2 max 5–7 card cap / search stopping after a few
+- claiming partial search saturated or books' popularity guarantees good scenes
+- any V5/V17 prose task, unlicensed near-copy, AI-selected creative winner
 
 ## NEXT
-Execute B01-V2 → verify specific scenes + selective context → compact selection board → update this CURRENT/history → Git commit → STOP for AUTHOR choice.
+Run broad scene scout batches with citations and dedup, commit progress + COVERAGE and CURRENT/history. Show author progressive shortlist. **Do not proceed to B02 until explicit author decision.**
+
+## DONE STATUS
+Not done merely by emitting the first batch; use PAUSED / AWAITING AUTHOR when a substantial searchable corpus and selection board are delivered, plus remaining coverage gaps. Avoid indefinite empty search.
