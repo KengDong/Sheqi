@@ -116,7 +116,7 @@ version: integrated-three-PR-batch1
 - **作者选择**：〔 WANT / MAYBE / NO / 深读 〕
 
 ### S14｜小孩乱续成语逗笑客人，却让远方亲人立刻察觉家里出事 〔C26〕
-- **原作/讨论**：《大王饶命》；[研究员单章指针](https://loying.org/book/dawangraoming/59756.html)、[起点书单资料](https://book.qidian.com/booklist/detail/646704/)
+- **原作/讨论**：《大王饶命》；[研究员单章指针](https://loying.org/book/dawangraoming/59756.html)、[起点书单资料](https://book.qidian.com/booklist/detail/571052/)
 - **场面或线索**：小女孩一本正经把来客成语续成危险的词，现场高手动怒产生系统负面情绪；远处主角通过系统收益知道家中异常。
 - **引人想看的功能**：一句好笑误答不是终点，还变成资源回报和远程危险通知，角色关系得到回应。
 - **真实性**：研究员第三方第84章单章；curator未独立核对官方原文/前后章节。
