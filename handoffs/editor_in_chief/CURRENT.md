@@ -1,27 +1,19 @@
 # editor_in_chief｜CURRENT
-updated: 2026-10-09 / B01-V3 broad search correction
-status: PAUSED / AWAITING B01-V3 BROAD CORPUS
+updated: 2026-10-09 / parallel launch setup
 branch: reboot-v6-verified-scene-lab
+status: PAUSED / B01 PARALLEL RESEARCH RUNNING
 
-## NEWEST AUTHOR FEEDBACK
-“多搜索点不好吗？” means the few-scene B01-V2 cap was too restrictive.
-decision: decisions/2026-10-09_reboot_v6_b01_broad_search_correction.md
+## CURRENT DECISION
+Author wants wide search of high-imagination, high-payoff scenes and asked how to launch other GPT windows. 3 isolated research lanes are configured.
 
-## ACTIVE ROLE
-verified_scene_scout → handoffs/verified_scene_scout/CURRENT.md
+## ENTRY
+ops/2026-10-09_B01_MULTI_WINDOW_START.md
+meta/ACTIVE_WORKSTREAMS.md
+handoffs/verified_scene_scout/CURRENT.md (curator)
 
-## REQUIRED READS
-- AGENTS.md
-- meta/STATE.md
-- meta/CURRENT_AUTHORITY.md
-- decisions/2026-10-09_reboot_v6_b01_broad_search_correction.md
-- meta/ACTIVE_WORKSTREAMS.md
-- handoffs/verified_scene_scout/CURRENT.md
-
-## DO NOT CONTINUE
-No previous 8–12 novels quota, 5–7 cards cap or artificial project termination after one short shortlist.
-No AI final creative winner and no story manuscript.
-Do not equate large unsupported brainstorm output with source-verified material.
+## HARD
+Workers only write their lane branches/paths. The curator collects/merges after PRs.
+No early B02, no author selection by AI, no novel writing or local V5 edits.
 
 ## NEXT
-Review high-volume corpus's dedup/status/source evidence and absence of category gaps. Have scout show rolling author choice board and complete searchable index. Only after author selects creative functions can B02 be drafted separately.
+When each lane PR arrives, review source quality, coverage and duplicates. Only present an author-facing selection panel when source labels and original chapter references are clear.
