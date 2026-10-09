@@ -1,43 +1,43 @@
 # b01_crossplatform_scout｜CURRENT
-status: ACTIVE / FIRST BATCH READY
-updated: 2026-10-09
-repository: KengDong/Sheqi
-branch: b01-crossplatform-idea-scout
 role: b01_crossplatform_scout
+status: BATCH_1_DELIVERED / AWAITING_CURATOR_REVIEW
+updated: 2026-10-09
+branch: b01-crossplatform-idea-scout
+base: reboot-v6-verified-scene-lab
 
-## START HERE
-这是三位并行研究员之一。直接执行本角色研究；不用询问作者是否执行；不要只复述计划。
+## LAST COMPLETED TASK
+B01-V4 crossplatform first research batch, pursuant to `research/briefs/2026-10-09_b01_crossplatform_scout_brief.md`.
 
-## EXACT BRIEF
-`research/briefs/2026-10-09_b01_crossplatform_scout_brief.md`
+## WHAT ACTUALLY HAPPENED
+- 首批去重线索22条，涉及10部起点/阅文生态男频作品；四份研究文件落库。
+- 12条标为 SCENE_VERIFIED，意为检索公开章节中的具体行动/结局；只读单章或局部，完整上下文 CONTEXT_READ=0。另10条 SOURCE_LOCATED，需继续核查章节。
+- 本批无真实读者评论原文链接、无完整章节长链精读证据，不能声称“获得读者一致好评”。
+- 跨平台覆盖仍不充分：尚需非阅文平台及冷门精品、章评、失败对照。
+
+## AUTHOR FEEDBACK
+- 广搜，不限8—12部、5—7桥段；以高脑洞和高情节效率的具体桥段为核心。
+- 不写小说、不默认任何最终选题、必须留真实来源。
+
+## AUTHORITY / OUTPUTS
+- `research/verified_scene_lab/lanes/crossplatform/LEADS.md`
+- `research/verified_scene_lab/lanes/crossplatform/VERIFIED_EVENTS.md`
+- `research/verified_scene_lab/lanes/crossplatform/COVERAGE.md`
+- `research/verified_scene_lab/lanes/crossplatform/HIGHLIGHTS.md`
+- `handoffs/b01_crossplatform_scout/history/2026-10-09_batch1.md`
+- commits: cbb59056, 8ebe7c39, 62a05382, ac82b8c5
+
+## DO NOT CONTINUE
+不得创作/修改正文，不得把非授权转载误当可用原作授权，不得将SOURCE_LOCATED升级为读过正文；不要合并自己的PR。
+
+## OPEN QUESTIONS
+官方正版章节和上下文读取能否取得？非阅文生态中有哪些更独特长线玩法？读者是否主动反复提及？
+
+## NEXT EXPECTED ACTION
+等待curator审校当前PR；若获授权第二批，扩充非阅文平台、冷门案例并验证三章以上因果链与独立真实评论链接。
 
 ## REQUIRED READS
 1. AGENTS.md
-2. meta/STATE.md
-3. meta/CURRENT_AUTHORITY.md
-4. decisions/2026-10-09_reboot_v6_b01_broad_search_correction.md
-5. meta/HANDOFF_PROTOCOL.md
-6. research/briefs/2026-10-09_b01_crossplatform_scout_brief.md
-
-## SCOPE
-起点等跨平台高脑洞/持续玩法。
-重点覆盖起点及其他男频平台、过去与现在的高脑洞长篇、强设定、奇妙做法、能延展几十上百章的新鲜玩法，挖掘冷门但出色的例子。所有样本标清平台，不把起点成绩等同番茄可复制。可收经典，但必须研究具体发生的事件而非只是著作简介。
-
-## BRANCH / WRITE RULES
-仅在 **b01-crossplatform-idea-scout** 提交。
-自己的输出目录：`research/verified_scene_lab/lanes/crossplatform/`
-自己的 handoff：`handoffs/b01_crossplatform_scout/`
-不要写共享meta、其他lane或base branch。
-
-## WORK MODE
-搜索 -> 真素材去重入库 -> 选择性核验真实章节 -> 更新COVERAGE/亮点 -> CURRENT和history -> Git提交 -> 向base创建PR -> 汇报。
-若内容很多，分几轮commit，不能用研究计划冒充研究成果。
-
-## DO NOT
-- 写小说，不通过B02 AUTHOR GATE。
-- 撤回B01“大量广搜”修正，或只搜5–7条。
-- 伪称读过无法访问的章节。
-- 私自合并PR。
-
-## NEXT
-立即开始本lane第一批真实搜证，然后按上述输出与hand-off闭环。
+2. handoffs/b01_crossplatform_scout/CURRENT.md
+3. research/briefs/2026-10-09_b01_crossplatform_scout_brief.md
+4. research/verified_scene_lab/lanes/crossplatform/COVERAGE.md
+5. research/verified_scene_lab/lanes/crossplatform/LEADS.md
