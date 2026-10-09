@@ -1,47 +1,39 @@
 # verified_scene_scout｜CURRENT
-updated: 2026-10-09
+updated: 2026-10-09 / B01-V2 author correction
 branch: reboot-v6-verified-scene-lab
+role: verified_scene_scout
+status: **ACTIVE / READY / NEW B01 V2 ONLY**
 
-## ROLE
-verified_scene_scout / B01 Actual Fanqie Scene Evidence
+## AUTHOR CORRECTION / READ FIRST
+“热门的并不是每一步都很搞笑，或者脑洞大开，我要脑洞大开和高效的。”
 
-## STATUS
-**ACTIVE / READY TO RUN**
+The earlier 8–12 book census and fixed scene/contrast quotas are **WITHDRAWN**. No automatic full-book reading.
+Author wants extremely inventive, high-impact, efficient **specific events**; not book-list completeness or forced jokes each chapter.
+
+Latest authority:
+decisions/2026-10-09_reboot_v6_b01_event_density_correction.md
 
 ## CURRENT TASK
-B01: 验证真实热门小说的具体好笑/好看事件，做连续章节研究、强弱对照与作者选择板。
-Brief:
+B01-V2: Targeted discovery and verification of the highest-imagination, high-payoff-density real scenes/mini-arcs. Get only a small set of exceptional, source-checkable cases, plus a compact author choice board.
+
+BRIEF:
 research/briefs/2026-10-09_b01_fanqie_comedy_scene_evidence_scout.md
 
-## AUTHORITY
-Author selected METHOD B on 2026-10-09:
-decisions/2026-10-09_reboot_v6_method_b_scene_evidence_first.md
-
-## REQUIRED READS（按顺序）
-1. AGENTS.md（早期旧题材段落须服从最新 method decision）
+## REQUIRED READS
+1. AGENTS.md
 2. meta/STATE.md
 3. meta/CURRENT_AUTHORITY.md
 4. meta/HANDOFF_PROTOCOL.md
-5. decisions/2026-10-09_reboot_v6_method_b_scene_evidence_first.md
-6. meta/READER_EVIDENCE_HIERARCHY.md
-7. reviews/2026-09-26_master_failure_postmortem_and_repo_reset.md
-8. reviews/2026-09-27_ch01_writing_process_retrospective.md
-9. research/briefs/2026-10-09_b01_fanqie_comedy_scene_evidence_scout.md
-
-## WHAT TO DO NOW
-执行 B01 搜证：先查真实性、再读章节、再提场景卡、再做对照、最后交作者选择板。
+5. decisions/2026-10-09_reboot_v6_b01_event_density_correction.md
+6. decisions/2026-10-09_reboot_v6_method_b_scene_evidence_first.md
+7. research/briefs/2026-10-09_b01_fanqie_comedy_scene_evidence_scout.md
+8. reviews/2026-09-27_ch01_writing_process_retrospective.md (only if diagnosing efficiency pitfalls)
 
 ## DO NOT CONTINUE
-- 不继续 V17.1/V5 的开头修稿或剑团购延展。
-- 不恢复早期当前窗口、旧 CURRENT 的任务。
-- 不生成独立小说、人物设定、第一章或未授权的换皮情节。
-- 不让 AI 代替作者最终选择；不要把现存旧概念作为先验获胜者。
+- old B01 V1 quotas and mandatory long reports
+- shelf-ranking-focused research as primary method
+- V17/V5 prose repair, AI concept forge, any first chapter writing
+- long copyrighted verbatim excerpts, near-copy publishable adaptations
 
-## BLOCKED BY
-None for B01 research. B02 is blocked by AUTHOR selection.
-
-## NEXT EXPECTED ACTION
-完成 Brief 输出全部可核查文件，更新自身 CURRENT / history 并提交 Git。然后状态 PAUSED，等待作者选 WON'T / MAYBE / WANT。
-
-## STOP
-AUTHOR choice gate. No onward dispatch by this role.
+## NEXT
+Execute B01-V2 → verify specific scenes + selective context → compact selection board → update this CURRENT/history → Git commit → STOP for AUTHOR choice.

@@ -1,26 +1,18 @@
-# ACTIVE WORKSTREAMS｜REBOOT-V6
+# ACTIVE WORKSTREAMS｜REBOOT-V6 B01-V2
 updated: 2026-10-09
-branch: reboot-v6-verified-scene-lab
 
-## ACTIVE / SINGLE WORKER
-- role: **verified_scene_scout**
-- current: handoffs/verified_scene_scout/CURRENT.md
-- brief: research/briefs/2026-10-09_b01_fanqie_comedy_scene_evidence_scout.md
-- task: B01 real Fanqie male-fiction comedy/scene evidence, positive and matched controls
-- blocked_by: NONE
-- stop_gate: AUTHOR reads evidence and picks event/reader-fantasy families
+## ACTIVE: ONE SCOUT ONLY
+verified_scene_scout
+- CURRENT: handoffs/verified_scene_scout/CURRENT.md
+- BRIEF: research/briefs/2026-10-09_b01_fanqie_comedy_scene_evidence_scout.md
+- TASK: directly find high-imagination, high-narrative-efficiency specific novel events; selective verification and compact author board
+- author amendment: decisions/2026-10-09_reboot_v6_b01_event_density_correction.md
+- B01 V1 fixed sample and mandatory control/deepread quotas: CANCELLED
+- STOP: author's specific-event selection
 
-## PAUSED / REVIEW ONLY
-- editor_in_chief: no independent creative decisions; review B01 after scout reports DONE.
+## PAUSED / BLOCKED
+- editor_in_chief: wait for evidence and author choice
+- all writers, concept forges, AI readers, chapter revisions, old V5/Rule Reality/other candidates
+- B02/B03/B04/B05 remain blocked on preceding author gates
 
-## BLOCKED
-- all writers / Ch01 revisers / concept forges / blind prose readers / worldbuilders
-- B02 original scenario variants (until AUTHOR chooses scenes)
-- B03 sample prose, B04 real readers, B05 longform planning (until earlier gates)
-
-## HISTORY, NOT CURRENT DISPATCH
-- reboot-v5-campus-living-daoseed and V17.x first chapter
-- A3 / Rule Reality / previous candidates
-- all earlier open handoffs on ancestor branches
-
-No task may inherit ACTIVE just because its old CURRENT says READY.
+No historical CURRENT can reactivate old work.

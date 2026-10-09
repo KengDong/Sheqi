@@ -1,35 +1,28 @@
 # editor_in_chief｜CURRENT
-updated: 2026-10-09
+updated: 2026-10-09 / B01-V2 correction
+status: PAUSED / B01-V2 FIELD EVIDENCE WAIT
 branch: reboot-v6-verified-scene-lab
 
-## ROLE
-Editor-in-chief / coordination and evidence review ONLY
-
-## STATUS
-**PAUSED / AWAITING B01 VERIFIED SCENE EVIDENCE**
-
-## LAST AUTHOR DECISION
-2026-10-09: Author explicitly chose METHOD B (真实热门作品驱动的原创改编).
+## Highest latest author instruction
+“热门的并不是每一步都很搞笑，或者脑洞大开，我要脑洞大开和高效的。”
 Authority:
-decisions/2026-10-09_reboot_v6_method_b_scene_evidence_first.md
+decisions/2026-10-09_reboot_v6_b01_event_density_correction.md
 
-## CURRENT ACTIVE WORKER
-verified_scene_scout:
-handoffs/verified_scene_scout/CURRENT.md
+## ACTIVE WORKER
+verified_scene_scout → handoffs/verified_scene_scout/CURRENT.md
 
 ## REQUIRED READS
 - AGENTS.md
 - meta/STATE.md
 - meta/CURRENT_AUTHORITY.md
-- decisions/2026-10-09_reboot_v6_method_b_scene_evidence_first.md
+- decisions/2026-10-09_reboot_v6_b01_event_density_correction.md
 - meta/ACTIVE_WORKSTREAMS.md
 - handoffs/verified_scene_scout/CURRENT.md
 
 ## DO NOT CONTINUE
-- Do not restart V5 campus Dao Seed draft, V17.x or previous P0 cycles.
-- Do not declare older candidate primary, or order writing from the new research before author tastes are captured.
-- Do not conduct same-model 'independent AI reader' votes as substitute for real readers.
-- Do not silently promote any B01 evidence into approved story concept.
+- B01-V1 “8–12 books” target, bulk-catalog research, fixed weak-control corpus, average “is this book funny” ratings.
+- No AI final winners; no B02 creative/story prose until author chooses from real specific scenes.
+- No old V5/V17 repair.
 
-## NEXT EXPECTED ACTION
-After B01 complete, check verifiable links, direct text coverage, specific scenes, contrast evidence and originality boundaries. Present author shortlist WITHOUT AI final ranking; await author WANT / MAYBE / NO before dispatching B02.
+## NEXT
+Review the small scene-level evidence package for concrete originality, action/consequence, narrative efficiency, genuine original chapter verification and real feedback; show author a compact shortlist. Wait for author selection.
